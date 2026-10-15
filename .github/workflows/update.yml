@@ -1,0 +1,47 @@
+# Refreshes this repository with the shared apple-top workflow.
+# Runs on the first day of each month and every Monday at 04:23 UTC.
+name: Update data
+
+on:
+  schedule:
+    - cron: '23 4 1 * 1'
+  workflow_dispatch:
+    inputs:
+      skip_existing:
+        description: 'Reuse files already committed by an earlier run'
+        required: false
+        type: boolean
+        default: false
+      generate_markdown:
+        description: 'Generate Markdown summaries alongside ranking files'
+        required: false
+        type: boolean
+        default: false
+      limit:
+        description: 'Maximum results requested from each RSS feed'
+        required: false
+        type: number
+        default: 100
+      countries:
+        description: 'Country codes separated by commas or spaces; leave empty for all'
+        required: false
+        type: string
+        default: ''
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    uses: rss2401/apple-top/.github/workflows/update-data.yml@main
+    with:
+      media: music
+      countries: ${{ inputs.countries || '' }}
+      limit: ${{ inputs.limit || 100 }}
+      skip_existing: ${{ inputs.skip_existing || false }}
+      generate_markdown: ${{ inputs.generate_markdown || false }}
