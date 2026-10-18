@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 6,
   "results": [
     {
       "month": "202607",
@@ -37,6 +37,45 @@
       "name": "Afrobeats Hits",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/38/f2/09/38f2096a-a7ec-e786-b1e8-c8bbfe246d85/cc30a01e-4394-44ea-a1a2-890310efe13d.png/100x100SC.DN01.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/afrobeats-hits/pl.dc349df19c6f410d874c197db63ecfed"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 87,
+      "id": "pl.dc349df19c6f410d874c197db63ecfed",
+      "name": "Afrobeats Hits",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/5f/93/65/5f93658c-fdf1-47f4-544c-d07332f75011/9a4d8099-4594-4bc3-9d25-540f17c70566.png/100x100SC.DN01.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/afrobeats-hits/pl.dc349df19c6f410d874c197db63ecfed"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 92,
+      "id": "pl.dc349df19c6f410d874c197db63ecfed",
+      "name": "Hits afrobeats",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/5f/93/65/5f93658c-fdf1-47f4-544c-d07332f75011/9a4d8099-4594-4bc3-9d25-540f17c70566.png/100x100SC.DN01.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/hits-afrobeats/pl.dc349df19c6f410d874c197db63ecfed"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 56,
+      "id": "pl.dc349df19c6f410d874c197db63ecfed",
+      "name": "Afrobeats Hits",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/5f/93/65/5f93658c-fdf1-47f4-544c-d07332f75011/9a4d8099-4594-4bc3-9d25-540f17c70566.png/100x100SC.DN01.jpg?l=en-US",
       "genres": [],
       "url": "https://music.apple.com/us/playlist/afrobeats-hits/pl.dc349df19c6f410d874c197db63ecfed"
     }

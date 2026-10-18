@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 71,
+      "artistName": "Taylor Swift",
+      "id": "6814997428",
+      "name": "Pink Clouding",
+      "releaseDate": "2026-09-24",
+      "kind": "songs",
+      "artistId": "159260351",
+      "artistUrl": "https://music.apple.com/de/artist/taylor-swift/159260351",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/pink-clouding/6814997249?i=6814997428"
+    }
+  ]
+}

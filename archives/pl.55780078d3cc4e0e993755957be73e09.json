@@ -1,0 +1,31 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 57,
+      "id": "pl.55780078d3cc4e0e993755957be73e09",
+      "name": "fall songs 2026 🍂 chill autumn vibes",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/ExmWTVFgg0lLMnaqkIe39Q/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/fall-songs-2026-chill-autumn-vibes/pl.55780078d3cc4e0e993755957be73e09"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 42,
+      "id": "pl.55780078d3cc4e0e993755957be73e09",
+      "name": "fall songs 2026 🍂 chill autumn vibes",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/ExmWTVFgg0lLMnaqkIe39Q/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/fall-songs-2026-chill-autumn-vibes/pl.55780078d3cc4e0e993755957be73e09"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 65,
+      "artistName": "Greta Van Fleet",
+      "id": "6793709908",
+      "name": "Palace for the People",
+      "releaseDate": "2026-10-09",
+      "kind": "albums",
+      "artistId": "646178956",
+      "artistUrl": "https://music.apple.com/de/artist/greta-van-fleet/646178956",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/08/0b/8f080b50-287e-1ba1-0172-aed2f41e73b3/26UMGIM96740.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/de/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/palace-for-the-people/6793709908"
+    }
+  ]
+}

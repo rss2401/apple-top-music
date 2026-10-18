@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 91,
+      "artistName": "Olivia Rodrigo & Chappell Roan",
+      "id": "6823002197",
+      "name": "expectations (Lyric Video)",
+      "releaseDate": "2026-10-16",
+      "kind": "music-videos",
+      "artistId": "979458609",
+      "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a4/65/66/a46566a7-de15-27ae-c55e-cde741acfcbb/26UM1IM33233.crop.jpg/100x75mv.jpg",
+      "genres": [
+        {
+          "name": "Pop"
+        }
+      ],
+      "url": "https://music.apple.com/gb/music-video/expectations-lyric-video/6823002197"
+    }
+  ]
+}

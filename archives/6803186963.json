@@ -1,0 +1,49 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 84,
+      "artistName": "Dolly Babe",
+      "id": "6803186963",
+      "name": "Pink Blush",
+      "releaseDate": "2026-08-18",
+      "kind": "music-videos",
+      "artistId": "1680440209",
+      "artistUrl": "https://music.apple.com/gb/artist/dolly-babe/1680440209",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d6/a1/1c/d6a11cf1-5dd9-bc3f-2a70-25a30b8b4248/USATV2607503.sca1.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Hip-Hop/Rap"
+        }
+      ],
+      "url": "https://music.apple.com/gb/music-video/pink-blush/6803186963"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 34,
+      "artistName": "Dolly Babe",
+      "id": "6803186963",
+      "name": "Pink Blush",
+      "releaseDate": "2026-08-18",
+      "kind": "music-videos",
+      "artistId": "1680440209",
+      "artistUrl": "https://music.apple.com/us/artist/dolly-babe/1680440209",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d6/a1/1c/d6a11cf1-5dd9-bc3f-2a70-25a30b8b4248/USATV2607503.sca1.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Hip-Hop/Rap"
+        }
+      ],
+      "url": "https://music.apple.com/us/music-video/pink-blush/6803186963"
+    }
+  ]
+}

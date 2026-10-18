@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -11,6 +11,19 @@
       "name": "¡Dale Play!",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/cb/65/7a/cb657a83-0e99-281d-6f7f-58d242433fe4/bc38bc77-d19f-43e7-b698-efaafd1d6201.png/100x100SC.DN01.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/dale-play/pl.4b364b8b182f4115acbf6deb83bd5222"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 15,
+      "id": "pl.4b364b8b182f4115acbf6deb83bd5222",
+      "name": "¡Dale Play!",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/1f/d2/0c/1fd20ca0-c75d-80c4-f367-78e3e04a07d8/63ad7dfc-e79d-49af-bde9-a90cc82b9f1b.png/100x100SC.DN01.jpg?l=en-US",
       "genres": [],
       "url": "https://music.apple.com/us/playlist/dale-play/pl.4b364b8b182f4115acbf6deb83bd5222"
     }

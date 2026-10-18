@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 88,
+      "id": "pl.87c7af5767764860a0e3368d0bef9a6f",
+      "name": "Hip-Hop Hits",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0c/e5/a4/0ce5a440-9031-8bab-c549-1cb517684561/U0MtTVMtV1ctSGlwLUhvcF9IaXRzLUFEQU1fSUQ9MTMxMTAyNjczMi5wbmc.png/100x100SC.DN01.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/hip-hop-hits/pl.87c7af5767764860a0e3368d0bef9a6f"
+    }
+  ]
+}

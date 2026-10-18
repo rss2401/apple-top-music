@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 99,
+      "artistName": "U2",
+      "id": "6812412381",
+      "name": "Carnaval De Luz",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "78500",
+      "artistUrl": "https://music.apple.com/de/artist/u2/78500",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/6b/ac/196bac72-8c20-98c9-7fb4-5c66619cc0c3/26UMGIM93067.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/de/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/carnaval-de-luz/6812412381"
+    }
+  ]
+}

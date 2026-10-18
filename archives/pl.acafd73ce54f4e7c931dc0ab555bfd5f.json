@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -11,6 +11,19 @@
       "name": "Deutschpop (Deluxe)",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/ea/13/7c/ea137cf4-61db-ebf1-0990-60bd595a47a6/5022669e-cc1c-4f2b-aeff-34e10a75c714.png/100x100SC.DN01.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/deutschpop-deluxe/pl.acafd73ce54f4e7c931dc0ab555bfd5f"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 23,
+      "id": "pl.acafd73ce54f4e7c931dc0ab555bfd5f",
+      "name": "Deutschpop (Deluxe)",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f3/c9/4d/f3c94d66-426f-2736-2ace-0e7331a933b0/2f162aa6-dc75-409f-973e-28d124fe44f7.png/100x100SC.DN01.jpg?l=de-DE",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/deutschpop-deluxe/pl.acafd73ce54f4e7c931dc0ab555bfd5f"
     }

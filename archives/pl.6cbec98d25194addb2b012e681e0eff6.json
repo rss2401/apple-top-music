@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 5,
   "results": [
     {
       "month": "202607",
@@ -39,6 +39,32 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/c1/96/91c196b3-876d-35a0-80fb-1b559ecbd9a6/U0MtTVMtV1ctU3VtbWVyX1ZpYmVzLWR5bmFtaWNzLUFkYW1fSUQ9IDk3NjQ0OTIwMy5wbmc.png/100x100SC.DN01.jpg?l=en-US",
       "genres": [],
       "url": "https://music.apple.com/us/playlist/summer-vibes/pl.6cbec98d25194addb2b012e681e0eff6"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 82,
+      "id": "pl.6cbec98d25194addb2b012e681e0eff6",
+      "name": "Summer Vibes",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/c1/96/91c196b3-876d-35a0-80fb-1b559ecbd9a6/U0MtTVMtV1ctU3VtbWVyX1ZpYmVzLWR5bmFtaWNzLUFkYW1fSUQ9IDk3NjQ0OTIwMy5wbmc.png/100x100SC.DN01.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/summer-vibes/pl.6cbec98d25194addb2b012e681e0eff6"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 87,
+      "id": "pl.6cbec98d25194addb2b012e681e0eff6",
+      "name": "Summer Dance Party",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/c1/96/91c196b3-876d-35a0-80fb-1b559ecbd9a6/U0MtTVMtV1ctU3VtbWVyX1ZpYmVzLWR5bmFtaWNzLUFkYW1fSUQ9IDk3NjQ0OTIwMy5wbmc.png/100x100SC.DN01.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/summer-dance-party/pl.6cbec98d25194addb2b012e681e0eff6"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 37,
+      "id": "pl.82cecabb374e47998c2c577a89062beb",
+      "name": "VERZUZ Cheat Sheet: Carl Thomas x Case",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/59/be/d4/59bed455-578d-b3aa-d53a-a3818615c872/bebfd38e-3871-48d9-80e5-e363c67dcbb0.png/100x25cc.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/verzuz-cheat-sheet-carl-thomas-x-case/pl.82cecabb374e47998c2c577a89062beb"
+    }
+  ]
+}

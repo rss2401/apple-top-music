@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -7,6 +7,19 @@
       "mediaType": "music",
       "feed": "top-playlists",
       "rank": 47,
+      "id": "pl.d69197f8058943f8a3bc0a96cca4cb72",
+      "name": "House Music 2025",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/iNAfY4Ea00YzWOF9lfbBlA/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/house-music-2025/pl.d69197f8058943f8a3bc0a96cca4cb72"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 63,
       "id": "pl.d69197f8058943f8a3bc0a96cca4cb72",
       "name": "House Music 2025",
       "kind": "playlists",

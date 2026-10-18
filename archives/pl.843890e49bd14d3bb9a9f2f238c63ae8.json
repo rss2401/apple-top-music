@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 98,
+      "id": "pl.843890e49bd14d3bb9a9f2f238c63ae8",
+      "name": "Justice : les indispensables",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/91/74/ad/9174ad0f-8616-58cd-21ea-d0eee3148b5b/ami_U003aidentity_U003ae07ccbf37d9839f9c8ef3f50960374da-2026-10-16T11-20-48.700Z_cropped.png/100x100SC.FPESS04.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/justice-les-indispensables/pl.843890e49bd14d3bb9a9f2f238c63ae8"
+    }
+  ]
+}

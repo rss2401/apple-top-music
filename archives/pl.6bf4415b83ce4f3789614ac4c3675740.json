@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 6,
   "results": [
     {
       "month": "202607",
@@ -37,6 +37,45 @@
       "name": "danceXL",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/39/f1/95/39f19558-c783-9a92-5ba5-44d81cd1acc5/4ef799ad-2b6b-4f96-8bd4-ff4f04271298.png/100x100SC.DN01.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/dancexl/pl.6bf4415b83ce4f3789614ac4c3675740"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 20,
+      "id": "pl.6bf4415b83ce4f3789614ac4c3675740",
+      "name": "danceXL",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c7/19/dd/c719ddb7-3fde-21fc-3f06-d88c6bb84ef6/2eb6961c-6bf3-456b-825c-9417fac5821d.png/100x100SC.DN01.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/dancexl/pl.6bf4415b83ce4f3789614ac4c3675740"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 36,
+      "id": "pl.6bf4415b83ce4f3789614ac4c3675740",
+      "name": "danceXL",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c7/19/dd/c719ddb7-3fde-21fc-3f06-d88c6bb84ef6/2eb6961c-6bf3-456b-825c-9417fac5821d.png/100x100SC.DN01.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/dancexl/pl.6bf4415b83ce4f3789614ac4c3675740"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 40,
+      "id": "pl.6bf4415b83ce4f3789614ac4c3675740",
+      "name": "danceXL",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c7/19/dd/c719ddb7-3fde-21fc-3f06-d88c6bb84ef6/2eb6961c-6bf3-456b-825c-9417fac5821d.png/100x100SC.DN01.jpg?l=en-US",
       "genres": [],
       "url": "https://music.apple.com/us/playlist/dancexl/pl.6bf4415b83ce4f3789614ac4c3675740"
     }

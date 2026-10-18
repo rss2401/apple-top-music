@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 99,
+      "artistName": "Young Thug",
+      "id": "1095065281",
+      "name": "Digits",
+      "releaseDate": "2016-03-25",
+      "kind": "songs",
+      "artistId": "81886939",
+      "artistUrl": "https://music.apple.com/us/artist/young-thug/81886939",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/b6/cb/f5b6cb03-8f8a-0529-16a6-b8cf3ace5555/dj.vftjpvpa.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/digits/1095065232?i=1095065281"
+    }
+  ]
+}

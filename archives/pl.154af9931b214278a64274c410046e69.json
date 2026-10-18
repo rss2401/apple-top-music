@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 100,
+      "id": "pl.154af9931b214278a64274c410046e69",
+      "name": "为空间音频特别制作",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/67/e3/98/67e3987f-f2fb-7e08-9471-b0575086a8da/16c8b090-d03e-40f2-85ca-46dda36b6406.png/100x25cc.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/cn/playlist/%E4%B8%BA%E7%A9%BA%E9%97%B4%E9%9F%B3%E9%A2%91%E7%89%B9%E5%88%AB%E5%88%B6%E4%BD%9C/pl.154af9931b214278a64274c410046e69"
+    }
+  ]
+}

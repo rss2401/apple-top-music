@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 9,
   "results": [
     {
       "month": "202607",
@@ -50,6 +50,71 @@
       "name": "R&B Now",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/01/11/2b/01112b74-558f-39f1-e0a4-295b3afc33d8/05cde98b-cf41-4ac7-9573-57f24d179192.png/100x100SC.DN01.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/r-b-now/pl.b7ae3e0a28e84c5c96c4284b6a6c70af"
+    },
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 11,
+      "id": "pl.b7ae3e0a28e84c5c96c4284b6a6c70af",
+      "name": "R&B 进行时",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d7/3b/19/d73b1980-be3f-63fc-2c7c-9913218fdd62/680586f5-24bf-46b6-8523-897ebe968486.png/100x100SC.DN01.jpg?l=zh-Hans",
+      "genres": [],
+      "url": "https://music.apple.com/cn/playlist/r-b-%E8%BF%9B%E8%A1%8C%E6%97%B6/pl.b7ae3e0a28e84c5c96c4284b6a6c70af"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 84,
+      "id": "pl.b7ae3e0a28e84c5c96c4284b6a6c70af",
+      "name": "R&B Now",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d7/3b/19/d73b1980-be3f-63fc-2c7c-9913218fdd62/680586f5-24bf-46b6-8523-897ebe968486.png/100x100SC.DN01.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/r-b-now/pl.b7ae3e0a28e84c5c96c4284b6a6c70af"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 61,
+      "id": "pl.b7ae3e0a28e84c5c96c4284b6a6c70af",
+      "name": "R&B Now",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d7/3b/19/d73b1980-be3f-63fc-2c7c-9913218fdd62/680586f5-24bf-46b6-8523-897ebe968486.png/100x100SC.DN01.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/r-b-now/pl.b7ae3e0a28e84c5c96c4284b6a6c70af"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 33,
+      "id": "pl.b7ae3e0a28e84c5c96c4284b6a6c70af",
+      "name": "R&Bナウ",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d7/3b/19/d73b1980-be3f-63fc-2c7c-9913218fdd62/680586f5-24bf-46b6-8523-897ebe968486.png/100x100SC.DN01.jpg?l=ja-JP",
+      "genres": [],
+      "url": "https://music.apple.com/jp/playlist/r-b%E3%83%8A%E3%82%A6/pl.b7ae3e0a28e84c5c96c4284b6a6c70af"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 6,
+      "id": "pl.b7ae3e0a28e84c5c96c4284b6a6c70af",
+      "name": "R&B Now",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d7/3b/19/d73b1980-be3f-63fc-2c7c-9913218fdd62/680586f5-24bf-46b6-8523-897ebe968486.png/100x100SC.DN01.jpg?l=en-US",
       "genres": [],
       "url": "https://music.apple.com/us/playlist/r-b-now/pl.b7ae3e0a28e84c5c96c4284b6a6c70af"
     }

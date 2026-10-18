@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 92,
+      "artistName": "Tombochio",
+      "id": "1891845604",
+      "name": "STAR",
+      "releaseDate": "2026-04-30",
+      "kind": "albums",
+      "artistId": "1570164065",
+      "artistUrl": "https://music.apple.com/us/artist/tombochio/1570164065",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/9e/1a/f49e1a9f-422b-c3df-c7d9-3a8436dc2b05/196874281321.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "12",
+          "name": "Latin",
+          "url": "https://itunes.apple.com/us/genre/id12"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/star/1891845604"
+    }
+  ]
+}

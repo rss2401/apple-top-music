@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 99,
+      "artistName": "Grimes & VADAKIN",
+      "id": "6820798095",
+      "name": "ACCELERANDO",
+      "releaseDate": "2026-10-09",
+      "kind": "music-videos",
+      "artistId": "2756920",
+      "artistUrl": "https://music.apple.com/gb/artist/grimes/2756920",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/09/28/fb/0928fb40-9960-5b73-053e-b2ace4639b08/ZZA0Z2674367.sca1.jpg/100x75mv.jpg",
+      "genres": [
+        {
+          "name": "Electronica"
+        }
+      ],
+      "url": "https://music.apple.com/gb/music-video/accelerando/6820798095"
+    }
+  ]
+}

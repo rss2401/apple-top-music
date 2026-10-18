@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 3,
   "results": [
     {
       "month": "202607",
@@ -13,6 +13,32 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/92/ad/88/92ad88c4-2eb0-e069-5a5a-bea5894e1d00/51244f45-a663-46a2-9416-2139cba9a3c7.png/100x100SC.DNC01.jpg?l=zh-Hans",
       "genres": [],
       "url": "https://music.apple.com/cn/playlist/%E5%8F%A4%E5%85%B8%E4%B9%90%E6%BD%AE/pl.66c17ed5cc754856b944a9150483e375"
+    },
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 26,
+      "id": "pl.66c17ed5cc754856b944a9150483e375",
+      "name": "古典乐潮",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/8c/fd/78/8cfd7804-0dc7-71aa-703b-93d8a89c71fb/28801edd-6c37-42bb-a47d-b6c577e1e20f.png/100x100SC.DNC01.jpg?l=zh-Hans",
+      "genres": [],
+      "url": "https://music.apple.com/cn/playlist/%E5%8F%A4%E5%85%B8%E4%B9%90%E6%BD%AE/pl.66c17ed5cc754856b944a9150483e375"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 69,
+      "id": "pl.66c17ed5cc754856b944a9150483e375",
+      "name": "Klassik heute",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/70/0a/9c/700a9ca4-9745-f7d1-dfbe-b93e813f95b4/17a96aba-1cd3-48c2-aa24-59b3ff0253c2.png/100x100SC.DNC01.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/klassik-heute/pl.66c17ed5cc754856b944a9150483e375"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 88,
+      "artistName": "Noizy, Azet & Dardan",
+      "id": "6816171114",
+      "name": "On Top",
+      "releaseDate": "2026-10-16",
+      "kind": "songs",
+      "artistId": "467490110",
+      "artistUrl": "https://music.apple.com/de/artist/noizy/467490110",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/1c/7d/791c7d91-9ac2-f0c1-0a33-70d278f52a83/26UM1IM21171.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "15",
+          "name": "R&B/Soul",
+          "url": "https://itunes.apple.com/de/genre/id15"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/on-top/6816171111?i=6816171114"
+    }
+  ]
+}

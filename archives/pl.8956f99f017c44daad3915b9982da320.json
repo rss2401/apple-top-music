@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 96,
+      "id": "pl.8956f99f017c44daad3915b9982da320",
+      "name": "Bachata Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/ec/f8/12/ecf8123b-3d5a-1ae1-38f9-82ae4e8dc058/3b594659-8de3-4941-ad7d-40f763a165d7.png/100x100SC.DN01.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/bachata-essentials/pl.8956f99f017c44daad3915b9982da320"
+    }
+  ]
+}

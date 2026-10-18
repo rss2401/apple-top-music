@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -11,6 +11,19 @@
       "name": "HYPED",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/8e/d1/cb/8ed1cba9-3ff6-85ef-750d-0b142386fff8/69a34970-a773-49fe-b00f-aeaa9444203a.png/100x100SC.DN01.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/hyped/pl.914196c8783d46a5ba46f38eda448a43"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 7,
+      "id": "pl.914196c8783d46a5ba46f38eda448a43",
+      "name": "HYPED",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d3/17/b7/d317b7bd-8e1d-9946-6aea-af7e09a5fcd8/833c59ef-1024-4930-8194-9e71d2a713cf.png/100x100SC.DN01.jpg?l=de-DE",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/hyped/pl.914196c8783d46a5ba46f38eda448a43"
     }
