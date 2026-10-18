@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 467490110,
+      "collectionId": 6816171111,
+      "trackId": 6816171114,
+      "artistName": "Noizy, Azet & Dardan",
+      "collectionName": "On Top - Single",
+      "trackName": "On Top",
+      "collectionCensoredName": "On Top - Single",
+      "trackCensoredName": "On Top",
+      "artistViewUrl": "https://music.apple.com/de/artist/noizy/467490110?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/on-top/6816171111?i=6816171114&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/on-top/6816171111?i=6816171114&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/3f/ff/fc3fff42-3735-8754-6af5-f99d70e9b867/mzaf_14464223644888751313.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/1c/7d/791c7d91-9ac2-f0c1-0a33-70d278f52a83/26UM1IM21171.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/1c/7d/791c7d91-9ac2-f0c1-0a33-70d278f52a83/26UM1IM21171.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/1c/7d/791c7d91-9ac2-f0c1-0a33-70d278f52a83/26UM1IM21171.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-10-16T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 166000,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    }
+  ]
+}

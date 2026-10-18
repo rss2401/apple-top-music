@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 368183298,
+      "collectionId": 1440860389,
+      "trackId": 1440860400,
+      "artistName": "Kendrick Lamar",
+      "collectionName": "good kid, m.A.A.d city (Deluxe Version)",
+      "trackName": "Money Trees (feat. Jay Rock)",
+      "collectionCensoredName": "good kid, m.A.A.d city (Deluxe Version)",
+      "trackCensoredName": "Money Trees (feat. Jay Rock)",
+      "artistViewUrl": "https://music.apple.com/us/artist/kendrick-lamar/368183298?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/money-trees-feat-jay-rock/1440860389?i=1440860400&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/money-trees-feat-jay-rock/1440860389?i=1440860400&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/be/7f/2f/be7f2fe2-41dd-6b9a-4957-a10ac5c62989/mzaf_17460900856492630846.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2012-10-22T12:00:00Z",
+      "collectionExplicitness": "cleaned",
+      "trackExplicitness": "cleaned",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 5,
+      "trackTimeMillis": 386968,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Hip-Hop/Rap",
+      "contentAdvisoryRating": "Clean",
+      "isStreamable": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 156488786,
+      "collectionId": 6807687715,
+      "trackId": 6807688225,
+      "artistName": "Sam Smith",
+      "collectionName": "Sam Smith: Music Room",
+      "trackName": "Sam Smith: Music Room",
+      "collectionCensoredName": "Sam Smith: Music Room",
+      "trackCensoredName": "Sam Smith: Music Room (Live from Apple Music Studios)",
+      "artistViewUrl": "https://music.apple.com/cn/artist/sam-smith/156488786?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/music-video/sam-smith-music-room-live-from-apple-music-studios/6807688225?uo=4",
+      "trackViewUrl": "https://music.apple.com/cn/music-video/sam-smith-music-room-live-from-apple-music-studios/6807688225?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/db/65/51/db6551df-c51a-bfd0-f0bc-7ca91f919a72/26UM1IM08474.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/db/65/51/db6551df-c51a-bfd0-f0bc-7ca91f919a72/26UM1IM08474.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/db/65/51/db6551df-c51a-bfd0-f0bc-7ca91f919a72/26UM1IM08474.crop.jpg/100x100bb.jpg",
+      "releaseDate": "2026-09-16T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 14,
+      "trackNumber": 14,
+      "country": "CHN",
+      "currency": "CNY",
+      "primaryGenreName": "国际流行"
+    }
+  ]
+}

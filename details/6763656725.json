@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "wrapperType": "track",
@@ -30,6 +30,39 @@
       "country": "CHN",
       "currency": "CNY",
       "primaryGenreName": "国际流行",
+      "isStreamable": true
+    },
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 412778295,
+      "collectionId": 1895420874,
+      "trackId": 6763656725,
+      "artistName": "Ariana Grande",
+      "collectionName": "petal",
+      "trackName": "hate that i made you love me",
+      "collectionCensoredName": "petal",
+      "trackCensoredName": "hate that i made you love me",
+      "artistViewUrl": "https://music.apple.com/us/artist/ariana-grande/412778295?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/hate-that-i-made-you-love-me/1895420874?i=6763656725&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/hate-that-i-made-you-love-me/1895420874?i=6763656725&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/fb/65/cdfb65fe-7d80-abde-0153-d698d1e7bde1/mzaf_14991009929085569283.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-05-28T07:00:00Z",
+      "collectionExplicitness": "cleaned",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 12,
+      "trackNumber": 2,
+      "trackTimeMillis": 197950,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Pop",
       "isStreamable": true
     }
   ]

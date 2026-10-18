@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1570164065,
+      "collectionId": 1891845604,
+      "artistName": "Tombochio",
+      "collectionName": "STAR",
+      "collectionCensoredName": "STAR",
+      "artistViewUrl": "https://music.apple.com/us/artist/tombochio/1570164065?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/star/1891845604?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/9e/1a/f49e1a9f-422b-c3df-c7d9-3a8436dc2b05/196874281321.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/9e/1a/f49e1a9f-422b-c3df-c7d9-3a8436dc2b05/196874281321.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 14,
+      "copyright": "℗ 2026 DKid Records. Distributed and Marketed by Sony Music Entertainment US Latin LLC",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-04-30T07:00:00Z",
+      "primaryGenreName": "Música Mexicana"
+    }
+  ]
+}

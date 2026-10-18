@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 81886939,
+      "collectionId": 1095065232,
+      "trackId": 1095065281,
+      "artistName": "Young Thug",
+      "collectionName": "Slime Season 3",
+      "trackName": "Digits",
+      "collectionCensoredName": "Slime Season 3",
+      "trackCensoredName": "Digits",
+      "artistViewUrl": "https://music.apple.com/us/artist/young-thug/81886939?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/digits/1095065232?i=1095065281&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/digits/1095065232?i=1095065281&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/92/f1/3b92f18a-213c-2a8d-0bfa-93cda72be429/mzaf_6411871949721455217.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/b6/cb/f5b6cb03-8f8a-0529-16a6-b8cf3ace5555/dj.vftjpvpa.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/b6/cb/f5b6cb03-8f8a-0529-16a6-b8cf3ace5555/dj.vftjpvpa.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/b6/cb/f5b6cb03-8f8a-0529-16a6-b8cf3ace5555/dj.vftjpvpa.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2016-03-25T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 8,
+      "trackNumber": 5,
+      "trackTimeMillis": 176387,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Hip-Hop",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}

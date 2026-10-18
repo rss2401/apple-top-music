@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "wrapperType": "track",
@@ -28,6 +28,38 @@
       "country": "CHN",
       "currency": "CNY",
       "primaryGenreName": "嘻哈/说唱"
+    },
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 2715720,
+      "collectionId": 6782267796,
+      "trackId": 6782267827,
+      "artistName": "Kanye West",
+      "collectionName": "BULLY - DELUXE",
+      "trackName": "PUNCH DRUNK (SoFi Visualizer)",
+      "collectionCensoredName": "BULLY - DELUXE",
+      "trackCensoredName": "PUNCH DRUNK (SoFi Visualizer)",
+      "artistViewUrl": "https://music.apple.com/us/artist/kanye-west/2715720?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/music-video/punch-drunk-sofi-visualizer/6782267827?uo=4",
+      "trackViewUrl": "https://music.apple.com/us/music-video/punch-drunk-sofi-visualizer/6782267827?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/c4/09/5f/c4095f41-a6a4-d1e4-4c87-4a5d88cbbcaf/mzvf_12304848149635916548.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/57/f2/8a/57f28a5d-c119-ae40-3f4a-c4228eea3fa6/712132042055_27_thumbnail.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/57/f2/8a/57f28a5d-c119-ae40-3f4a-c4228eea3fa6/712132042055_27_thumbnail.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/57/f2/8a/57f28a5d-c119-ae40-3f4a-c4228eea3fa6/712132042055_27_thumbnail.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.99,
+      "releaseDate": "2026-06-19T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 32,
+      "trackNumber": 27,
+      "trackTimeMillis": 108758,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Hip-Hop/Rap"
     }
   ]
 }
