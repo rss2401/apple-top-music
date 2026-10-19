@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "cn",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Sun, 18 Oct 2026 12:12:14 +0000",
+    "updated": "Mon, 19 Oct 2026 10:03:35 +0000",
     "results": [
       {
         "artistName": "Taylor Swift",
@@ -87,6 +87,30 @@
         "url": "https://music.apple.com/cn/album/11%E6%9C%88%E7%9A%84%E8%95%AD%E9%82%A6/536009641"
       },
       {
+        "artistName": "ADÉLA",
+        "id": "6792883860",
+        "name": "PRIMA",
+        "releaseDate": "2026-09-04",
+        "kind": "albums",
+        "artistId": "1765924916",
+        "artistUrl": "https://music.apple.com/cn/artist/ad%C3%A9la/1765924916",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/prima/6792883860"
+      },
+      {
         "artistName": "Tinashe",
         "id": "6789739137",
         "name": "Popstar",
@@ -116,30 +140,6 @@
         "url": "https://music.apple.com/cn/album/popstar/6789739137"
       },
       {
-        "artistName": "ADÉLA",
-        "id": "6792883860",
-        "name": "PRIMA",
-        "releaseDate": "2026-09-04",
-        "kind": "albums",
-        "artistId": "1765924916",
-        "artistUrl": "https://music.apple.com/cn/artist/ad%C3%A9la/1765924916",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/prima/6792883860"
-      },
-      {
         "artistName": "周杰伦",
         "id": "535739206",
         "name": "范特西",
@@ -161,6 +161,30 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/%E8%8C%83%E7%89%B9%E8%A5%BF/535739206"
+      },
+      {
+        "artistName": "Ariana Grande",
+        "id": "1895420989",
+        "name": "petal",
+        "releaseDate": "2026-07-31",
+        "kind": "albums",
+        "artistId": "412778295",
+        "artistUrl": "https://music.apple.com/cn/artist/ariana-grande/412778295",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/petal/1895420989"
       },
       {
         "artistName": "Olivia Rodrigo",
@@ -208,54 +232,6 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/%E4%B8%83%E9%87%8C%E9%A6%99/536114662"
-      },
-      {
-        "artistName": "Ariana Grande",
-        "id": "1895420989",
-        "name": "petal",
-        "releaseDate": "2026-07-31",
-        "kind": "albums",
-        "artistId": "412778295",
-        "artistUrl": "https://music.apple.com/cn/artist/ariana-grande/412778295",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/petal/1895420989"
-      },
-      {
-        "artistName": "儿歌多多",
-        "id": "1737737079",
-        "name": "儿歌多多经典儿歌大全1",
-        "releaseDate": "2019",
-        "kind": "albums",
-        "artistId": "1717540826",
-        "artistUrl": "https://music.apple.com/cn/artist/%E5%84%BF%E6%AD%8C%E5%A4%9A%E5%A4%9A/1717540826",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/ae/50/e2ae508c-78a4-1045-d232-2a31204267f7/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "4",
-            "name": "儿童音乐",
-            "url": "https://itunes.apple.com/cn/genre/id4"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E5%84%BF%E6%AD%8C%E5%A4%9A%E5%A4%9A%E7%BB%8F%E5%85%B8%E5%84%BF%E6%AD%8C%E5%A4%A7%E5%85%A81/1737737079"
       },
       {
         "artistName": "田馥甄",
@@ -325,6 +301,30 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/%E8%91%89%E6%83%A0%E7%BE%8E/535824731"
+      },
+      {
+        "artistName": "儿歌多多",
+        "id": "1737737079",
+        "name": "儿歌多多经典儿歌大全1",
+        "releaseDate": "2019",
+        "kind": "albums",
+        "artistId": "1717540826",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%84%BF%E6%AD%8C%E5%A4%9A%E5%A4%9A/1717540826",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/ae/50/e2ae508c-78a4-1045-d232-2a31204267f7/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "4",
+            "name": "儿童音乐",
+            "url": "https://itunes.apple.com/cn/genre/id4"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E5%84%BF%E6%AD%8C%E5%A4%9A%E5%A4%9A%E7%BB%8F%E5%85%B8%E5%84%BF%E6%AD%8C%E5%A4%A7%E5%85%A81/1737737079"
       },
       {
         "artistName": "周杰伦",
@@ -616,30 +616,6 @@
         "url": "https://music.apple.com/cn/album/%E8%AA%8D%E4%BA%86%E5%90%A7-%E5%8F%B0%E7%81%A3%E7%89%88/1443352354"
       },
       {
-        "artistName": "Abel Tesfaye",
-        "id": "1603171516",
-        "name": "Dawn FM",
-        "releaseDate": "2022-01-07",
-        "kind": "albums",
-        "artistId": "479756766",
-        "artistUrl": "https://music.apple.com/cn/artist/abel-tesfaye/479756766",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/22/a9/2f22a9a6-5af1-5846-a44e-ba016724ed69/21UM1IM58860.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/灵魂乐",
-            "url": "https://itunes.apple.com/cn/genre/id15"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/dawn-fm/1603171516"
-      },
-      {
         "artistName": "周杰伦",
         "id": "1118757859",
         "name": "周杰伦的床边故事",
@@ -668,27 +644,28 @@
         "url": "https://music.apple.com/cn/album/%E5%91%A8%E6%9D%B0%E5%80%AB%E7%9A%84%E5%BA%8A%E9%82%8A%E6%95%85%E4%BA%8B/1118757859"
       },
       {
-        "artistName": "陶喆",
-        "id": "1416149926",
-        "name": "陶喆同名专辑",
-        "releaseDate": "1997-12-06",
+        "artistName": "Abel Tesfaye",
+        "id": "1603171516",
+        "name": "Dawn FM",
+        "releaseDate": "2022-01-07",
         "kind": "albums",
-        "artistId": "16789930",
-        "artistUrl": "https://music.apple.com/cn/artist/%E9%99%B6%E5%96%86/16789930",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/100x100bb.jpg",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/cn/artist/abel-tesfaye/479756766",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/22/a9/2f22a9a6-5af1-5846-a44e-ba016724ed69/21UM1IM58860.rgb.jpg/100x100bb.jpg",
         "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/灵魂乐",
+            "url": "https://itunes.apple.com/cn/genre/id15"
+          },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/%E9%99%B6%E5%96%86%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/1416149926"
+        "url": "https://music.apple.com/cn/album/dawn-fm/1603171516"
       },
       {
         "artistName": "陶喆",
@@ -714,6 +691,29 @@
         "url": "https://music.apple.com/cn/album/%E9%BB%91%E8%89%B2%E6%9F%B3%E4%B8%81/914664926"
       },
       {
+        "artistName": "陶喆",
+        "id": "1416149926",
+        "name": "陶喆同名专辑",
+        "releaseDate": "1997-12-06",
+        "kind": "albums",
+        "artistId": "16789930",
+        "artistUrl": "https://music.apple.com/cn/artist/%E9%99%B6%E5%96%86/16789930",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E9%99%B6%E5%96%86%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/1416149926"
+      },
+      {
         "artistName": "邓紫棋",
         "id": "1053567923",
         "name": "新的心跳",
@@ -735,6 +735,30 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/%E6%96%B0%E7%9A%84%E5%BF%83%E8%B7%B3/1053567923"
+      },
+      {
+        "artistName": "Taylor Swift",
+        "id": "1742057774",
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "releaseDate": "2024-04-19",
+        "kind": "albums",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/cn/artist/taylor-swift/159260351",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/the-tortured-poets-department-the-anthology/1742057774"
       },
       {
         "artistName": "方大同",
@@ -789,28 +813,27 @@
         "url": "https://music.apple.com/cn/album/hamilton-an-american-musical-original-broadway-cast/1025210938"
       },
       {
-        "artistName": "Taylor Swift",
-        "id": "1742057774",
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "releaseDate": "2024-04-19",
+        "artistName": "王力宏",
+        "id": "1134353291",
+        "name": "盖世英雄",
+        "releaseDate": "2005-12-30",
         "kind": "albums",
-        "artistId": "159260351",
-        "artistUrl": "https://music.apple.com/cn/artist/taylor-swift/159260351",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/100x100bb.jpg",
+        "artistId": "117741179",
+        "artistUrl": "https://music.apple.com/cn/artist/%E7%8E%8B%E5%8A%9B%E5%AE%8F/117741179",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/82/88/f98288eb-ea32-6c8c-7919-357c31a4b437/1400X1400.jpg/100x100bb.jpg",
         "genres": [
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/the-tortured-poets-department-the-anthology/1742057774"
+        "url": "https://music.apple.com/cn/album/%E8%93%8B%E4%B8%96%E8%8B%B1%E9%9B%84/1134353291"
       },
       {
         "artistName": "林俊杰",
@@ -836,28 +859,56 @@
         "url": "https://music.apple.com/cn/album/%E6%96%B0%E5%9C%B0%E7%90%83/1788007687"
       },
       {
-        "artistName": "Abel Tesfaye",
-        "id": "1795692220",
-        "name": "Hurry Up Tomorrow (Video Album)",
-        "releaseDate": "2025-02-11",
+        "artistName": "防弹少年团",
+        "id": "1868862375",
+        "name": "ARIRANG",
+        "releaseDate": "2026-03-20",
         "kind": "albums",
-        "artistId": "479756766",
-        "artistUrl": "https://music.apple.com/cn/artist/abel-tesfaye/479756766",
+        "artistId": "883131348",
+        "artistUrl": "https://music.apple.com/cn/artist/%E9%98%B2%E5%BC%B9%E5%B0%91%E5%B9%B4%E5%9B%A2/883131348",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/f2/54/25f254a4-fb47-4149-0410-75ed463a77d1/ticket.qbamtedn.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "15",
-            "name": "R&B/灵魂乐",
-            "url": "https://itunes.apple.com/cn/genre/id15"
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
           },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/cn/genre/id51"
           }
         ],
-        "url": "https://music.apple.com/cn/album/hurry-up-tomorrow-video-album/1795692220"
+        "url": "https://music.apple.com/cn/album/arirang/1868862375"
+      },
+      {
+        "artistName": "王力宏",
+        "id": "1134344345",
+        "name": "心中的日月",
+        "releaseDate": "2004-12-31",
+        "kind": "albums",
+        "artistId": "117741179",
+        "artistUrl": "https://music.apple.com/cn/artist/%E7%8E%8B%E5%8A%9B%E5%AE%8F/117741179",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E5%BF%83%E4%B8%AD%E7%9A%84%E6%97%A5%E6%9C%88/1134344345"
       },
       {
         "artistName": "周杰伦",
@@ -883,27 +934,28 @@
         "url": "https://music.apple.com/cn/album/%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81/1633408719"
       },
       {
-        "artistName": "王力宏",
-        "id": "1134344345",
-        "name": "心中的日月",
-        "releaseDate": "2004-12-31",
+        "artistName": "Abel Tesfaye",
+        "id": "1795692220",
+        "name": "Hurry Up Tomorrow (Video Album)",
+        "releaseDate": "2025-02-11",
         "kind": "albums",
-        "artistId": "117741179",
-        "artistUrl": "https://music.apple.com/cn/artist/%E7%8E%8B%E5%8A%9B%E5%AE%8F/117741179",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/100x100bb.jpg",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/cn/artist/abel-tesfaye/479756766",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/f2/54/25f254a4-fb47-4149-0410-75ed463a77d1/ticket.qbamtedn.jpg/100x100bb.jpg",
         "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/灵魂乐",
+            "url": "https://itunes.apple.com/cn/genre/id15"
+          },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/%E5%BF%83%E4%B8%AD%E7%9A%84%E6%97%A5%E6%9C%88/1134344345"
+        "url": "https://music.apple.com/cn/album/hurry-up-tomorrow-video-album/1795692220"
       },
       {
         "artistName": "孙燕姿",
@@ -952,38 +1004,15 @@
         "url": "https://music.apple.com/cn/album/im-o-k/905206471"
       },
       {
-        "artistName": "Taylor Swift",
-        "id": "1468058165",
-        "name": "Lover",
-        "releaseDate": "2019-08-23",
+        "artistName": "Ariana Grande",
+        "id": "1800579610",
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "releaseDate": "2025-03-28",
         "kind": "albums",
-        "artistId": "159260351",
-        "artistUrl": "https://music.apple.com/cn/artist/taylor-swift/159260351",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/lover/1468058165"
-      },
-      {
-        "artistName": "防弹少年团",
-        "id": "1868862375",
-        "name": "ARIRANG",
-        "releaseDate": "2026-03-20",
-        "kind": "albums",
-        "artistId": "883131348",
-        "artistUrl": "https://music.apple.com/cn/artist/%E9%98%B2%E5%BC%B9%E5%B0%91%E5%B9%B4%E5%9B%A2/883131348",
+        "artistId": "412778295",
+        "artistUrl": "https://music.apple.com/cn/artist/ariana-grande/412778295",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/2a/2d/142a2d3e-fb3a-e818-8c7b-6eeb92990084/25UMGIM42095.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -994,37 +1023,9 @@
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "51",
-            "name": "K-Pop",
-            "url": "https://itunes.apple.com/cn/genre/id51"
           }
         ],
-        "url": "https://music.apple.com/cn/album/arirang/1868862375"
-      },
-      {
-        "artistName": "王力宏",
-        "id": "1134353291",
-        "name": "盖世英雄",
-        "releaseDate": "2005-12-30",
-        "kind": "albums",
-        "artistId": "117741179",
-        "artistUrl": "https://music.apple.com/cn/artist/%E7%8E%8B%E5%8A%9B%E5%AE%8F/117741179",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/82/88/f98288eb-ea32-6c8c-7919-357c31a4b437/1400X1400.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E8%93%8B%E4%B8%96%E8%8B%B1%E9%9B%84/1134353291"
+        "url": "https://music.apple.com/cn/album/eternal-sunshine-deluxe-brighter-days-ahead/1800579610"
       },
       {
         "artistName": "Taylor Swift",
@@ -1075,14 +1076,13 @@
       },
       {
         "artistName": "Taylor Swift",
-        "id": "1689131527",
-        "name": "Midnights (The Til Dawn Edition)",
-        "releaseDate": "2022-10-21",
+        "id": "1468058165",
+        "name": "Lover",
+        "releaseDate": "2019-08-23",
         "kind": "albums",
         "artistId": "159260351",
         "artistUrl": "https://music.apple.com/cn/artist/taylor-swift/159260351",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/85/b9/a685b9f8-dad3-2ed7-58b2-ab7f64304505/23UMGIM58157.rgb.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -1095,54 +1095,7 @@
             "url": "https://itunes.apple.com/cn/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/cn/album/midnights-the-til-dawn-edition/1689131527"
-      },
-      {
-        "artistName": "Ariana Grande",
-        "id": "1800579610",
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "releaseDate": "2025-03-28",
-        "kind": "albums",
-        "artistId": "412778295",
-        "artistUrl": "https://music.apple.com/cn/artist/ariana-grande/412778295",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/2a/2d/142a2d3e-fb3a-e818-8c7b-6eeb92990084/25UMGIM42095.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/eternal-sunshine-deluxe-brighter-days-ahead/1800579610"
-      },
-      {
-        "artistName": "周杰伦",
-        "id": "944321428",
-        "name": "哎呦, 不错哦",
-        "releaseDate": "2014-12-26",
-        "kind": "albums",
-        "artistId": "300117743",
-        "artistUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/db/ff/16dbff09-0750-29b0-07b7-3fa44f8a556e/dj.nzqvfsza.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E5%93%8E%E5%91%A6-%E4%B8%8D%E9%8C%AF%E5%93%A6/944321428"
+        "url": "https://music.apple.com/cn/album/lover/1468058165"
       },
       {
         "artistName": "薛之谦",
@@ -1168,14 +1121,38 @@
         "url": "https://music.apple.com/cn/album/%E6%84%8F%E5%A4%96/1788255148"
       },
       {
-        "artistName": "方大同",
-        "id": "1579903639",
-        "name": "危險世界",
-        "releaseDate": "2014-04-11",
+        "artistName": "Taylor Swift",
+        "id": "1689131527",
+        "name": "Midnights (The Til Dawn Edition)",
+        "releaseDate": "2022-10-21",
         "kind": "albums",
-        "artistId": "201549024",
-        "artistUrl": "https://music.apple.com/cn/artist/%E6%96%B9%E5%A4%A7%E5%90%8C/201549024",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/d7/2a/35d72a0a-7e0c-fc2d-b2da-4bd030219997/190296501159.jpg/100x100bb.jpg",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/cn/artist/taylor-swift/159260351",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/85/b9/a685b9f8-dad3-2ed7-58b2-ab7f64304505/23UMGIM58157.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/midnights-the-til-dawn-edition/1689131527"
+      },
+      {
+        "artistName": "周杰伦",
+        "id": "944321428",
+        "name": "哎呦, 不错哦",
+        "releaseDate": "2014-12-26",
+        "kind": "albums",
+        "artistId": "300117743",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/db/ff/16dbff09-0750-29b0-07b7-3fa44f8a556e/dj.nzqvfsza.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "34",
@@ -1188,7 +1165,7 @@
             "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/%E5%8D%B1%E9%9A%AA%E4%B8%96%E7%95%8C/1579903639"
+        "url": "https://music.apple.com/cn/album/%E5%93%8E%E5%91%A6-%E4%B8%8D%E9%8C%AF%E5%93%A6/944321428"
       },
       {
         "artistName": "陶喆",
@@ -1212,6 +1189,29 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/%E5%A4%AA%E5%B9%B3%E7%9B%9B%E4%B8%96/905206649"
+      },
+      {
+        "artistName": "方大同",
+        "id": "1579903639",
+        "name": "危險世界",
+        "releaseDate": "2014-04-11",
+        "kind": "albums",
+        "artistId": "201549024",
+        "artistUrl": "https://music.apple.com/cn/artist/%E6%96%B9%E5%A4%A7%E5%90%8C/201549024",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/d7/2a/35d72a0a-7e0c-fc2d-b2da-4bd030219997/190296501159.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E5%8D%B1%E9%9A%AA%E4%B8%96%E7%95%8C/1579903639"
       },
       {
         "artistName": "赵雷",
@@ -1259,6 +1259,30 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/ruby/1795979743"
+      },
+      {
+        "artistName": "Daniel Caesar",
+        "id": "1839352404",
+        "name": "Son Of Spergy",
+        "releaseDate": "2025-10-24",
+        "kind": "albums",
+        "artistId": "1019899019",
+        "artistUrl": "https://music.apple.com/cn/artist/daniel-caesar/1019899019",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/c0/c5/3bc0c51d-33f2-ee19-e148-6d8f2c50df24/25UMGIM90843.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/灵魂乐",
+            "url": "https://itunes.apple.com/cn/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/son-of-spergy/1839352404"
       },
       {
         "artistName": "aespa",
@@ -1317,34 +1341,6 @@
         "url": "https://music.apple.com/cn/album/1989/1445888258"
       },
       {
-        "artistName": "TWICE",
-        "id": "6822425926",
-        "name": "<THIS IS FOR> WORLD TOUR FINALE in SEOUL (LIVE)",
-        "releaseDate": "2026-10-16",
-        "kind": "albums",
-        "artistId": "1203816887",
-        "artistUrl": "https://music.apple.com/cn/artist/twice/1203816887",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/13/76/fb1376fe-8832-699b-80e7-bd9eb0a6bf73/8809928956671.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "51",
-            "name": "K-Pop",
-            "url": "https://itunes.apple.com/cn/genre/id51"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/this-is-for-world-tour-finale-in-seoul-live/6822425926"
-      },
-      {
         "artistName": "薛之谦",
         "id": "1787929894",
         "name": "初学者",
@@ -1391,28 +1387,27 @@
         "url": "https://music.apple.com/cn/album/%E5%88%AB%E5%86%8D%E4%B8%BA%E4%BB%96%E6%B5%81%E6%B3%AA/1095630068"
       },
       {
-        "artistName": "Daniel Caesar",
-        "id": "1839352404",
-        "name": "Son Of Spergy",
-        "releaseDate": "2025-10-24",
+        "artistName": "林俊杰",
+        "id": "1871400633",
+        "name": "和自己对话",
+        "releaseDate": "2015-12-25",
         "kind": "albums",
-        "artistId": "1019899019",
-        "artistUrl": "https://music.apple.com/cn/artist/daniel-caesar/1019899019",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/c0/c5/3bc0c51d-33f2-ee19-e148-6d8f2c50df24/25UMGIM90843.rgb.jpg/100x100bb.jpg",
+        "artistId": "216635866",
+        "artistUrl": "https://music.apple.com/cn/artist/%E6%9E%97%E4%BF%8A%E6%9D%B0/216635866",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/71/3dd8711e-41ec-29ee-72b6-0a2a480031d0/4711720281483.jpg/100x100bb.jpg",
         "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/灵魂乐",
-            "url": "https://itunes.apple.com/cn/genre/id15"
-          },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/son-of-spergy/1839352404"
+        "url": "https://music.apple.com/cn/album/%E5%92%8C%E8%87%AA%E5%B7%B1%E5%B0%8D%E8%A9%B1/1871400633"
       },
       {
         "artistName": "杨丞琳",
@@ -1436,29 +1431,6 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/%E9%9B%A8%E6%84%9B-%E7%B9%BD%E7%B4%9B%E6%85%B6%E5%8A%9F%E7%89%88/352569300"
-      },
-      {
-        "artistName": "林俊杰",
-        "id": "1871400633",
-        "name": "和自己对话",
-        "releaseDate": "2015-12-25",
-        "kind": "albums",
-        "artistId": "216635866",
-        "artistUrl": "https://music.apple.com/cn/artist/%E6%9E%97%E4%BF%8A%E6%9D%B0/216635866",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/71/3dd8711e-41ec-29ee-72b6-0a2a480031d0/4711720281483.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E5%92%8C%E8%87%AA%E5%B7%B1%E5%B0%8D%E8%A9%B1/1871400633"
       },
       {
         "artistName": "林俊杰",
@@ -1507,28 +1479,27 @@
         "url": "https://music.apple.com/cn/album/1989-taylors-version-deluxe/1713845538"
       },
       {
-        "artistName": "Drake",
-        "id": "6818209777",
-        "name": "HABIBTI (FOMO)",
-        "releaseDate": "2026-10-02",
+        "artistName": "孙燕姿",
+        "id": "541856819",
+        "name": "这一刻",
+        "releaseDate": "2003-08-19",
         "kind": "albums",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/cn/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+        "artistId": "83405200",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%AD%99%E7%87%95%E5%A7%BF/83405200",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/91/d7/8a91d731-cdb1-01b5-17a9-c88cf66d6e01/5050466855725.jpg/100x90bb.jpg",
         "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/灵魂乐",
-            "url": "https://itunes.apple.com/cn/genre/id15"
-          },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/habibti-fomo/6818209777"
+        "url": "https://music.apple.com/cn/album/the-moment/541856819"
       },
       {
         "artistName": "陈绮贞",
@@ -1577,50 +1548,28 @@
         "url": "https://music.apple.com/cn/album/%E5%90%AB%E6%83%85%E8%8E%AB%E8%8E%AB-%E8%8E%AB%E6%96%87%E8%94%9A%E5%85%A8%E7%B2%BE%E9%81%B8%E9%9B%86/200469374"
       },
       {
-        "artistName": "孙燕姿",
-        "id": "541856819",
-        "name": "这一刻",
-        "releaseDate": "2003-08-19",
+        "artistName": "Drake",
+        "id": "6818209777",
+        "name": "HABIBTI (FOMO)",
+        "releaseDate": "2026-10-02",
         "kind": "albums",
-        "artistId": "83405200",
-        "artistUrl": "https://music.apple.com/cn/artist/%E5%AD%99%E7%87%95%E5%A7%BF/83405200",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/91/d7/8a91d731-cdb1-01b5-17a9-c88cf66d6e01/5050466855725.jpg/100x90bb.jpg",
+        "artistId": "271256",
+        "artistUrl": "https://music.apple.com/cn/artist/drake/271256",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
         "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/灵魂乐",
+            "url": "https://itunes.apple.com/cn/genre/id15"
+          },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/the-moment/541856819"
-      },
-      {
-        "artistName": "方大同",
-        "id": "577983280",
-        "name": "回到未来",
-        "releaseDate": "2012-12-12",
-        "kind": "albums",
-        "artistId": "201549024",
-        "artistUrl": "https://music.apple.com/cn/artist/%E6%96%B9%E5%A4%A7%E5%90%8C/201549024",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/41/8c/91418cce-4b5b-a7a7-cf54-858af87966e3/dj.munrszcb.jpg/100x93bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E5%9B%9E%E5%88%B0%E6%9C%AA%E4%BE%86/577983280"
+        "url": "https://music.apple.com/cn/album/habibti-fomo/6818209777"
       },
       {
         "artistName": "陈奕迅",
@@ -1667,6 +1616,80 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/%E5%85%8B%E5%8D%9C%E5%8B%92/1443147411"
+      },
+      {
+        "artistName": "方大同",
+        "id": "577983280",
+        "name": "回到未来",
+        "releaseDate": "2012-12-12",
+        "kind": "albums",
+        "artistId": "201549024",
+        "artistUrl": "https://music.apple.com/cn/artist/%E6%96%B9%E5%A4%A7%E5%90%8C/201549024",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/41/8c/91418cce-4b5b-a7a7-cf54-858af87966e3/dj.munrszcb.jpg/100x93bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E5%9B%9E%E5%88%B0%E6%9C%AA%E4%BE%86/577983280"
+      },
+      {
+        "artistName": "TWICE",
+        "id": "6822425926",
+        "name": "<THIS IS FOR> WORLD TOUR FINALE in SEOUL (LIVE)",
+        "releaseDate": "2026-10-16",
+        "kind": "albums",
+        "artistId": "1203816887",
+        "artistUrl": "https://music.apple.com/cn/artist/twice/1203816887",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/13/76/fb1376fe-8832-699b-80e7-bd9eb0a6bf73/8809928956671.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/cn/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/this-is-for-world-tour-finale-in-seoul-live/6822425926"
+      },
+      {
+        "artistName": "张震岳",
+        "id": "1827445748",
+        "name": "跟着感觉走",
+        "releaseDate": "2025-07-23",
+        "kind": "albums",
+        "artistId": "369289818",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%BC%A0%E9%9C%87%E5%B2%B3/369289818",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/98/2a/96982a65-ad18-8da4-fa87-96d84b168bbc/4710149716781_cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "摇滚",
+            "url": "https://itunes.apple.com/cn/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E8%B7%9F%E8%91%97%E6%84%9F%E8%A6%BA%E8%B5%B0/1827445748"
       },
       {
         "artistName": "方大同",
@@ -1739,6 +1762,53 @@
         "url": "https://music.apple.com/cn/album/justice-triple-chucks-deluxe/1560274125"
       },
       {
+        "artistName": "Ariana Grande",
+        "id": "1544323604",
+        "name": "thank u, next (Bonus Videos)",
+        "releaseDate": "2019-02-08",
+        "kind": "albums",
+        "artistId": "412778295",
+        "artistUrl": "https://music.apple.com/cn/artist/ariana-grande/412778295",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/39/bf/9f39bf60-a01c-39d9-cfa9-95d9b7b7dc0c/19UMGIM03689.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/thank-u-next-bonus-videos/1544323604"
+      },
+      {
+        "artistName": "许嵩",
+        "id": "1071359379",
+        "name": "自定义",
+        "releaseDate": "2009-01-01",
+        "kind": "albums",
+        "artistId": "601736777",
+        "artistUrl": "https://music.apple.com/cn/artist/%E8%AE%B8%E5%B5%A9/601736777",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ae/fe/97/aefe975b-08f9-4bdb-d05a-491ade09a926/dj.emhqpwbp.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E8%87%AA%E5%AE%9A%E7%BE%A9/1071359379"
+      },
+      {
         "artistName": "单依纯",
         "id": "1864543075",
         "name": "纯妹妹",
@@ -1762,52 +1832,27 @@
         "url": "https://music.apple.com/cn/album/%E7%BA%AF%E5%A6%B9%E5%A6%B9/1864543075"
       },
       {
-        "artistName": "Taylor Swift",
-        "id": "1547315522",
-        "name": "evermore (deluxe version)",
-        "releaseDate": "2020-12-11",
+        "artistName": "徐佳莹",
+        "id": "672648486",
+        "name": "LaLa首张创作专辑",
+        "releaseDate": "2009-05-29",
         "kind": "albums",
-        "artistId": "159260351",
-        "artistUrl": "https://music.apple.com/cn/artist/taylor-swift/159260351",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/44/e3/94/44e3945f-d613-09f8-538a-aba063d59358/20UM1IM14847.rgb.jpg/100x100bb.jpg",
+        "artistId": "387317532",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%BE%90%E4%BD%B3%E8%8E%B9/387317532",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/52/5e/43525e86-9c47-cb57-5ca5-a374aa7afa40/LaLa.jpg/100x100bb.jpg",
         "genres": [
-          {
-            "genreId": "20",
-            "name": "另类音乐",
-            "url": "https://itunes.apple.com/cn/genre/id20"
-          },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/evermore-deluxe-version/1547315522"
-      },
-      {
-        "artistName": "Ariana Grande",
-        "id": "1544323604",
-        "name": "thank u, next (Bonus Videos)",
-        "releaseDate": "2019-02-08",
-        "kind": "albums",
-        "artistId": "412778295",
-        "artistUrl": "https://music.apple.com/cn/artist/ariana-grande/412778295",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/39/bf/9f39bf60-a01c-39d9-cfa9-95d9b7b7dc0c/19UMGIM03689.rgb.jpg/100x100bb.jpg",
-        "genres": [
+          },
           {
             "genreId": "14",
             "name": "国际流行",
             "url": "https://itunes.apple.com/cn/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/cn/album/thank-u-next-bonus-videos/1544323604"
+        "url": "https://music.apple.com/cn/album/%E5%BE%90%E4%BD%B3%E7%91%A9lala%E9%A6%96%E5%BC%B5%E5%89%B5%E4%BD%9C%E5%B0%88%E8%BC%AF/672648486"
       },
       {
         "artistName": "NewJeans",
@@ -1861,58 +1906,6 @@
         "url": "https://music.apple.com/cn/album/%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%A0%82-%E6%B1%9F%E5%8D%97/1071753622"
       },
       {
-        "artistName": "Lana Del Rey",
-        "id": "1474669063",
-        "name": "Norman F*****g Rockwell!",
-        "releaseDate": "2019-08-30",
-        "kind": "albums",
-        "artistId": "464296584",
-        "artistUrl": "https://music.apple.com/cn/artist/lana-del-rey/464296584",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "另类音乐",
-            "url": "https://itunes.apple.com/cn/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "摇滚",
-            "url": "https://itunes.apple.com/cn/genre/id21"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/norman-fucking-rockwell/1474669063"
-      },
-      {
-        "artistName": "徐佳莹",
-        "id": "672648486",
-        "name": "LaLa首张创作专辑",
-        "releaseDate": "2009-05-29",
-        "kind": "albums",
-        "artistId": "387317532",
-        "artistUrl": "https://music.apple.com/cn/artist/%E5%BE%90%E4%BD%B3%E8%8E%B9/387317532",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/52/5e/43525e86-9c47-cb57-5ca5-a374aa7afa40/LaLa.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E5%BE%90%E4%BD%B3%E7%91%A9lala%E9%A6%96%E5%BC%B5%E5%89%B5%E4%BD%9C%E5%B0%88%E8%BC%AF/672648486"
-      },
-      {
         "artistName": "Taylor Swift",
         "id": "1440933849",
         "name": "reputation",
@@ -1936,19 +1929,20 @@
         "url": "https://music.apple.com/cn/album/reputation/1440933849"
       },
       {
-        "artistName": "张震岳",
-        "id": "1827445748",
-        "name": "跟着感觉走",
-        "releaseDate": "2025-07-23",
+        "artistName": "Taylor Swift",
+        "id": "1547315522",
+        "name": "evermore (deluxe version)",
+        "releaseDate": "2020-12-11",
         "kind": "albums",
-        "artistId": "369289818",
-        "artistUrl": "https://music.apple.com/cn/artist/%E5%BC%A0%E9%9C%87%E5%B2%B3/369289818",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/98/2a/96982a65-ad18-8da4-fa87-96d84b168bbc/4710149716781_cover.jpg/100x100bb.jpg",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/cn/artist/taylor-swift/159260351",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/44/e3/94/44e3945f-d613-09f8-538a-aba063d59358/20UM1IM14847.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "21",
-            "name": "摇滚",
-            "url": "https://itunes.apple.com/cn/genre/id21"
+            "genreId": "20",
+            "name": "另类音乐",
+            "url": "https://itunes.apple.com/cn/genre/id20"
           },
           {
             "genreId": "34",
@@ -1956,127 +1950,25 @@
             "url": "https://itunes.apple.com/cn/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/cn/album/%E8%B7%9F%E8%91%97%E6%84%9F%E8%A6%BA%E8%B5%B0/1827445748"
+        "url": "https://music.apple.com/cn/album/evermore-deluxe-version/1547315522"
       },
       {
-        "artistName": "许嵩",
-        "id": "1071359379",
-        "name": "自定义",
-        "releaseDate": "2009-01-01",
+        "artistName": "赵雷",
+        "id": "1722409813",
+        "name": "无法长大",
+        "releaseDate": "2016-12-21",
         "kind": "albums",
-        "artistId": "601736777",
-        "artistUrl": "https://music.apple.com/cn/artist/%E8%AE%B8%E5%B5%A9/601736777",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ae/fe/97/aefe975b-08f9-4bdb-d05a-491ade09a926/dj.emhqpwbp.jpg/100x100bb.jpg",
+        "artistId": "937112027",
+        "artistUrl": "https://music.apple.com/cn/artist/%E8%B5%B5%E9%9B%B7/937112027",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/e8/ac/7ee8ac29-c347-71cb-0a8a-6d841ee385b3/6976364784969.jpg/100x100bb.jpg",
         "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E8%87%AA%E5%AE%9A%E7%BE%A9/1071359379"
-      },
-      {
-        "artistName": "Michael Jackson",
-        "id": "215738269",
-        "name": "Invincible",
-        "releaseDate": "2001-10-30",
-        "kind": "albums",
-        "artistId": "32940",
-        "artistUrl": "https://music.apple.com/cn/artist/michael-jackson/32940",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/02/ef/dc02eff2-027c-a468-7d7b-aa9404e74f1a/mzi.mgytcnob.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          },
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/cn/album/invincible/215738269"
-      },
-      {
-        "artistName": "CORTIS",
-        "id": "1832031331",
-        "name": "COLOR OUTSIDE THE LINES - EP",
-        "releaseDate": "2025-09-08",
-        "kind": "albums",
-        "artistId": "1831651635",
-        "artistUrl": "https://music.apple.com/cn/artist/cortis/1831651635",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/b1/d0/07b1d01f-eada-50a5-bdf5-f3f86b1de566/198704622366_Cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "51",
-            "name": "K-Pop",
-            "url": "https://itunes.apple.com/cn/genre/id51"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/color-outside-the-lines-ep/1832031331"
-      },
-      {
-        "artistName": "林俊杰",
-        "id": "1071752047",
-        "name": "JJ陆",
-        "releaseDate": "2008-10-18",
-        "kind": "albums",
-        "artistId": "216635866",
-        "artistUrl": "https://music.apple.com/cn/artist/%E6%9E%97%E4%BF%8A%E6%9D%B0/216635866",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/e8/4f/99e84f72-3c26-0617-86a7-8e3f250f8c98/fengmain.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/jj%E9%99%B8/1071752047"
-      },
-      {
-        "artistName": "贾斯汀 · 赫尔维茨, Benj Pasek, Justin Paul, 艾玛·斯通 & Ryan Gosling",
-        "id": "1440863506",
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "releaseDate": "2016-12-09",
-        "kind": "albums",
-        "artistId": "918231350",
-        "artistUrl": "https://music.apple.com/cn/artist/%E8%B4%BE%E6%96%AF%E6%B1%80-%E8%B5%AB%E5%B0%94%E7%BB%B4%E8%8C%A8/918231350",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/47/a3/bb47a36e-57b8-9260-f9a4-d09851145c45/00602557100556.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "16",
-            "name": "原声音乐",
-            "url": "https://itunes.apple.com/cn/genre/id16"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/la-la-land-original-motion-picture-soundtrack/1440863506"
+        "url": "https://music.apple.com/cn/album/%E6%97%A0%E6%B3%95%E9%95%BF%E5%A4%A7/1722409813"
       },
       {
         "artistName": "Frank Ocean",
@@ -2108,22 +2000,55 @@
         "url": "https://music.apple.com/cn/album/blonde/1146195596"
       },
       {
-        "artistName": "赵雷",
-        "id": "1722409813",
-        "name": "无法长大",
-        "releaseDate": "2016-12-21",
+        "artistName": "林俊杰",
+        "id": "1071752047",
+        "name": "JJ陆",
+        "releaseDate": "2008-10-18",
         "kind": "albums",
-        "artistId": "937112027",
-        "artistUrl": "https://music.apple.com/cn/artist/%E8%B5%B5%E9%9B%B7/937112027",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/e8/ac/7ee8ac29-c347-71cb-0a8a-6d841ee385b3/6976364784969.jpg/100x100bb.jpg",
+        "artistId": "216635866",
+        "artistUrl": "https://music.apple.com/cn/artist/%E6%9E%97%E4%BF%8A%E6%9D%B0/216635866",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/e8/4f/99e84f72-3c26-0617-86a7-8e3f250f8c98/fengmain.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/%E6%97%A0%E6%B3%95%E9%95%BF%E5%A4%A7/1722409813"
+        "url": "https://music.apple.com/cn/album/jj%E9%99%B8/1071752047"
+      },
+      {
+        "artistName": "CORTIS",
+        "id": "1832031331",
+        "name": "COLOR OUTSIDE THE LINES - EP",
+        "releaseDate": "2025-09-08",
+        "kind": "albums",
+        "artistId": "1831651635",
+        "artistUrl": "https://music.apple.com/cn/artist/cortis/1831651635",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/b1/d0/07b1d01f-eada-50a5-bdf5-f3f86b1de566/198704622366_Cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/cn/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/color-outside-the-lines-ep/1832031331"
       },
       {
         "artistName": "李荣浩",
@@ -2195,6 +2120,127 @@
         "url": "https://music.apple.com/cn/album/whats-going-on-2nd-edition/1720091272"
       },
       {
+        "artistName": "卢广仲",
+        "id": "1839368226",
+        "name": "HeartBreakFast 伤心早餐店",
+        "releaseDate": "2025-09-17",
+        "kind": "albums",
+        "artistId": "477669285",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%8D%A2%E5%B9%BF%E4%BB%B2/477669285",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/85/8f/ee858f39-7c88-5390-4061-6f2de8c43279/4711508138732.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/heartbreakfast-%E5%82%B7%E5%BF%83%E6%97%A9%E9%A4%90%E5%BA%97/1839368226"
+      },
+      {
+        "artistName": "Lana Del Rey",
+        "id": "1474669063",
+        "name": "Norman F*****g Rockwell!",
+        "releaseDate": "2019-08-30",
+        "kind": "albums",
+        "artistId": "464296584",
+        "artistUrl": "https://music.apple.com/cn/artist/lana-del-rey/464296584",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "另类音乐",
+            "url": "https://itunes.apple.com/cn/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "摇滚",
+            "url": "https://itunes.apple.com/cn/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/norman-fucking-rockwell/1474669063"
+      },
+      {
+        "artistName": "陈奕迅",
+        "id": "667921627",
+        "name": "2013 陈奕迅 Music Life 精选",
+        "releaseDate": "2013-06-29",
+        "kind": "albums",
+        "artistId": "137938148",
+        "artistUrl": "https://music.apple.com/cn/artist/%E9%99%88%E5%A5%95%E8%BF%85/137938148",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/1b/fd/52/1bfd52f1-8fe8-9407-d459-0ec38092dca8/eason_cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/2013-%E9%99%B3%E5%A5%95%E8%BF%85-music-life-%E7%B2%BE%E9%81%B8/667921627"
+      },
+      {
+        "artistName": "贾斯汀 · 赫尔维茨, Benj Pasek, Justin Paul, 艾玛·斯通 & Ryan Gosling",
+        "id": "1440863506",
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "releaseDate": "2016-12-09",
+        "kind": "albums",
+        "artistId": "918231350",
+        "artistUrl": "https://music.apple.com/cn/artist/%E8%B4%BE%E6%96%AF%E6%B1%80-%E8%B5%AB%E5%B0%94%E7%BB%B4%E8%8C%A8/918231350",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/47/a3/bb47a36e-57b8-9260-f9a4-d09851145c45/00602557100556.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "16",
+            "name": "原声音乐",
+            "url": "https://itunes.apple.com/cn/genre/id16"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/la-la-land-original-motion-picture-soundtrack/1440863506"
+      },
+      {
+        "artistName": "Michael Jackson",
+        "id": "215738269",
+        "name": "Invincible",
+        "releaseDate": "2001-10-30",
+        "kind": "albums",
+        "artistId": "32940",
+        "artistUrl": "https://music.apple.com/cn/artist/michael-jackson/32940",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/02/ef/dc02eff2-027c-a468-7d7b-aa9404e74f1a/mzi.mgytcnob.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/invincible/215738269"
+      },
+      {
         "artistName": "Ariana Grande",
         "id": "1771037153",
         "name": "eternal sunshine (slightly deluxe and also live)",
@@ -2217,6 +2263,29 @@
           }
         ],
         "url": "https://music.apple.com/cn/album/eternal-sunshine-slightly-deluxe-and-also-live/1771037153"
+      },
+      {
+        "artistName": "梁静茹",
+        "id": "1097016060",
+        "name": "崇拜",
+        "releaseDate": "2007-11-09",
+        "kind": "albums",
+        "artistId": "531134701",
+        "artistUrl": "https://music.apple.com/cn/artist/%E6%A2%81%E9%9D%99%E8%8C%B9/531134701",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/6c/9f/c46c9ffa-dffd-37d9-8bd7-129b24f880ba/BD0009-_-_J_ADORE.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E5%B4%87%E6%8B%9C/1097016060"
       },
       {
         "artistName": "Olivia Rodrigo",
@@ -2243,52 +2312,6 @@
         "url": "https://music.apple.com/cn/album/sour-video-version/1582274783"
       },
       {
-        "artistName": "Olivia Dean",
-        "id": "1817609404",
-        "name": "The Art of Loving",
-        "releaseDate": "2025-09-26",
-        "kind": "albums",
-        "artistId": "1487253329",
-        "artistUrl": "https://music.apple.com/cn/artist/olivia-dean/1487253329",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/the-art-of-loving/1817609404"
-      },
-      {
-        "artistName": "梁静茹",
-        "id": "1097016060",
-        "name": "崇拜",
-        "releaseDate": "2007-11-09",
-        "kind": "albums",
-        "artistId": "531134701",
-        "artistUrl": "https://music.apple.com/cn/artist/%E6%A2%81%E9%9D%99%E8%8C%B9/531134701",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/6c/9f/c46c9ffa-dffd-37d9-8bd7-129b24f880ba/BD0009-_-_J_ADORE.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "国际流行",
-            "url": "https://itunes.apple.com/cn/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E5%B4%87%E6%8B%9C/1097016060"
-      },
-      {
         "artistName": "Drake",
         "id": "6769568449",
         "name": "ICEMAN",
@@ -2313,14 +2336,14 @@
         "url": "https://music.apple.com/cn/album/iceman/6769568449"
       },
       {
-        "artistName": "陈奕迅",
-        "id": "667921627",
-        "name": "2013 陈奕迅 Music Life 精选",
-        "releaseDate": "2013-06-29",
+        "artistName": "王力宏",
+        "id": "1528146376",
+        "name": "十八般武艺",
+        "releaseDate": "2010-08-12",
         "kind": "albums",
-        "artistId": "137938148",
-        "artistUrl": "https://music.apple.com/cn/artist/%E9%99%88%E5%A5%95%E8%BF%85/137938148",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/1b/fd/52/1bfd52f1-8fe8-9407-d459-0ec38092dca8/eason_cover.jpg/100x100bb.jpg",
+        "artistId": "117741179",
+        "artistUrl": "https://music.apple.com/cn/artist/%E7%8E%8B%E5%8A%9B%E5%AE%8F/117741179",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/94/01/3e94013b-17f0-09e9-69ce-4ab94e1507da/18_Material_arts.png/100x100bb.jpg",
         "genres": [
           {
             "genreId": "34",
@@ -2333,17 +2356,17 @@
             "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/2013-%E9%99%B3%E5%A5%95%E8%BF%85-music-life-%E7%B2%BE%E9%81%B8/667921627"
+        "url": "https://music.apple.com/cn/album/%E5%8D%81%E5%85%AB%E8%88%AC%E6%AD%A6%E8%97%9D/1528146376"
       },
       {
-        "artistName": "卢广仲",
-        "id": "1839368226",
-        "name": "HeartBreakFast 伤心早餐店",
-        "releaseDate": "2025-09-17",
+        "artistName": "孙燕姿",
+        "id": "297994281",
+        "name": "风箏",
+        "releaseDate": "2001-07-09",
         "kind": "albums",
-        "artistId": "477669285",
-        "artistUrl": "https://music.apple.com/cn/artist/%E5%8D%A2%E5%B9%BF%E4%BB%B2/477669285",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/85/8f/ee858f39-7c88-5390-4061-6f2de8c43279/4711508138732.jpg/100x100bb.jpg",
+        "artistId": "83405200",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%AD%99%E7%87%95%E5%A7%BF/83405200",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/e7/26/7be7268a-8048-fe91-9f70-e6f0ef401372/mzi.uwhxxsbl.jpg/100x114bb.jpg",
         "genres": [
           {
             "genreId": "34",
@@ -2356,41 +2379,17 @@
             "url": "https://itunes.apple.com/cn/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/cn/album/heartbreakfast-%E5%82%B7%E5%BF%83%E6%97%A9%E9%A4%90%E5%BA%97/1839368226"
+        "url": "https://music.apple.com/cn/album/%E9%A2%A8%E7%AE%8F/297994281"
       },
       {
-        "artistName": "家风儿童合唱团",
-        "id": "947213261",
-        "name": "幼儿童谣大全80首",
-        "releaseDate": "2010-02-27",
+        "artistName": "Olivia Dean",
+        "id": "1817609404",
+        "name": "The Art of Loving",
+        "releaseDate": "2025-09-26",
         "kind": "albums",
-        "artistId": "947213267",
-        "artistUrl": "https://music.apple.com/cn/artist/%E5%AE%B6%E9%A3%8E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2/947213267",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/18/02/6f/18026f66-8cc6-4fc5-7d10-ed550252b559/dj.wlfybqhz.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "4",
-            "name": "儿童音乐",
-            "url": "https://itunes.apple.com/cn/genre/id4"
-          },
-          {
-            "genreId": "34",
-            "name": "音乐",
-            "url": "https://itunes.apple.com/cn/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/cn/album/%E5%B9%BC%E5%85%92%E7%AB%A5%E8%AC%A0%E5%A4%A7%E5%85%A880%E9%A6%96/947213261"
-      },
-      {
-        "artistName": "ROSÉ",
-        "id": "1771105914",
-        "name": "rosie",
-        "releaseDate": "2024-12-06",
-        "kind": "albums",
-        "artistId": "1406242696",
-        "artistUrl": "https://music.apple.com/cn/artist/ros%C3%A9/1406242696",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/100x100bb.jpg",
+        "artistId": "1487253329",
+        "artistUrl": "https://music.apple.com/cn/artist/olivia-dean/1487253329",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -2401,14 +2400,9 @@
             "genreId": "34",
             "name": "音乐",
             "url": "https://itunes.apple.com/cn/genre/id34"
-          },
-          {
-            "genreId": "51",
-            "name": "K-Pop",
-            "url": "https://itunes.apple.com/cn/genre/id51"
           }
         ],
-        "url": "https://music.apple.com/cn/album/rosie/1771105914"
+        "url": "https://music.apple.com/cn/album/the-art-of-loving/1817609404"
       }
     ]
   }

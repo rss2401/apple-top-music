@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "jp",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Sun, 18 Oct 2026 12:12:12 +0000",
+    "updated": "Mon, 19 Oct 2026 10:03:05 +0000",
     "results": [
       {
         "artistName": "Ayumu Imazu",
@@ -275,29 +275,6 @@
         "url": "https://music.apple.com/jp/album/lulu/1867354077?i=1867354081"
       },
       {
-        "artistName": "米津玄師",
-        "id": "1837658529",
-        "name": "IRIS OUT",
-        "releaseDate": "2025-09-15",
-        "kind": "songs",
-        "artistId": "530814268",
-        "artistUrl": "https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529"
-      },
-      {
         "artistName": "back number",
         "id": "1451567751",
         "name": "ハッピーエンド",
@@ -319,6 +296,29 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89/1451567750?i=1451567751"
+      },
+      {
+        "artistName": "米津玄師",
+        "id": "1837658529",
+        "name": "IRIS OUT",
+        "releaseDate": "2025-09-15",
+        "kind": "songs",
+        "artistId": "530814268",
+        "artistUrl": "https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529"
       },
       {
         "artistName": "マカロニえんぴつ",
@@ -441,6 +441,34 @@
         "url": "https://music.apple.com/jp/album/happy-birthday/1456062834?i=1456063581"
       },
       {
+        "artistName": "A2O & A2O LITE",
+        "id": "6820428730",
+        "name": "NEON",
+        "releaseDate": "2026-10-13",
+        "kind": "songs",
+        "artistId": "1794043761",
+        "artistUrl": "https://music.apple.com/jp/artist/a2o/1794043761",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/9c/af/479caf36-9941-3b8e-51f5-98e761463502/888272190403_Cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "ポップ",
+            "url": "https://itunes.apple.com/jp/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/neon/6820428726?i=6820428730"
+      },
+      {
         "artistName": "back number",
         "id": "1808852932",
         "name": "ブルーアンバー",
@@ -462,6 +490,29 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC/1808852878?i=1808852932"
+      },
+      {
+        "artistName": "=LOVE",
+        "id": "6792630529",
+        "name": "恋、はじめました。",
+        "releaseDate": "2026-08-04",
+        "kind": "songs",
+        "artistId": "1273762750",
+        "artistUrl": "https://music.apple.com/jp/artist/love/1273762750",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/e8/31/4ce831bc-d6ef-bd1d-ecb4-1768b26bffe3/4547366839838.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E6%81%8B-%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/6792630528?i=6792630529"
       },
       {
         "artistName": "あいみょん",
@@ -487,19 +538,19 @@
         "url": "https://music.apple.com/jp/album/%E3%83%9E%E3%83%AA%E3%83%BC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89/1402042886?i=1402042897"
       },
       {
-        "artistName": "=LOVE",
-        "id": "6792630529",
-        "name": "恋、はじめました。",
-        "releaseDate": "2026-08-04",
+        "artistName": "RADWIMPS",
+        "id": "6815505071",
+        "name": "夕星-ゆうづつ-",
+        "releaseDate": "2026-10-02",
         "kind": "songs",
-        "artistId": "1273762750",
-        "artistUrl": "https://music.apple.com/jp/artist/love/1273762750",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/e8/31/4ce831bc-d6ef-bd1d-ecb4-1768b26bffe3/4547366839838.jpg/100x100bb.jpg",
+        "artistId": "91160335",
+        "artistUrl": "https://music.apple.com/jp/artist/radwimps/91160335",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/fa/c3/23fac397-1a45-9dcc-8459-e1769ede428d/26UM1IM16445.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
           },
           {
             "genreId": "34",
@@ -507,7 +558,7 @@
             "url": "https://itunes.apple.com/jp/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/jp/album/%E6%81%8B-%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/6792630528?i=6792630529"
+        "url": "https://music.apple.com/jp/album/%E5%A4%95%E6%98%9F-%E3%82%86%E3%81%86%E3%81%A5%E3%81%A4/6815505067?i=6815505071"
       },
       {
         "artistName": "M!LK",
@@ -556,19 +607,19 @@
         "url": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC/6785734869?i=6785734870"
       },
       {
-        "artistName": "RADWIMPS",
-        "id": "6815505071",
-        "name": "夕星-ゆうづつ-",
-        "releaseDate": "2026-10-02",
+        "artistName": "back number",
+        "id": "1720021609",
+        "name": "ヒロイン",
+        "releaseDate": "2015-01-21",
         "kind": "songs",
-        "artistId": "91160335",
-        "artistUrl": "https://music.apple.com/jp/artist/radwimps/91160335",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/fa/c3/23fac397-1a45-9dcc-8459-e1769ede428d/26UM1IM16445.rgb.jpg/100x100bb.jpg",
+        "artistId": "302361237",
+        "artistUrl": "https://music.apple.com/jp/artist/back-number/302361237",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/57/01/63570172-7bdb-c12b-188e-d064ed3952ef/23UM1IM63739.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
           },
           {
             "genreId": "34",
@@ -576,7 +627,7 @@
             "url": "https://itunes.apple.com/jp/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/jp/album/%E5%A4%95%E6%98%9F-%E3%82%86%E3%81%86%E3%81%A5%E3%81%A4/6815505067?i=6815505071"
+        "url": "https://music.apple.com/jp/album/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3/1720021197?i=1720021609"
       },
       {
         "artistName": "Mrs. GREEN APPLE",
@@ -602,80 +653,6 @@
         "url": "https://music.apple.com/jp/album/%E7%82%B9%E6%8F%8F%E3%81%AE%E5%94%84-feat-%E4%BA%95%E4%B8%8A%E8%8B%91%E5%AD%90/1408505088?i=1408505419"
       },
       {
-        "artistName": "HANA",
-        "id": "1821849522",
-        "name": "Blue Jeans",
-        "releaseDate": "2025-07-14",
-        "kind": "songs",
-        "artistId": "1792783458",
-        "artistUrl": "https://music.apple.com/jp/artist/hana/1792783458",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/c4/4d/d0c44ddb-0fd9-ef8c-7839-33a103cb08dc/4547366759990.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/blue-jeans/1821849174?i=1821849522"
-      },
-      {
-        "artistName": "back number",
-        "id": "1720021609",
-        "name": "ヒロイン",
-        "releaseDate": "2015-01-21",
-        "kind": "songs",
-        "artistId": "302361237",
-        "artistUrl": "https://music.apple.com/jp/artist/back-number/302361237",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/57/01/63570172-7bdb-c12b-188e-d064ed3952ef/23UM1IM63739.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3/1720021197?i=1720021609"
-      },
-      {
-        "artistName": "A2O & A2O LITE",
-        "id": "6820428730",
-        "name": "NEON",
-        "releaseDate": "2026-10-13",
-        "kind": "songs",
-        "artistId": "1794043761",
-        "artistUrl": "https://music.apple.com/jp/artist/a2o/1794043761",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/9c/af/479caf36-9941-3b8e-51f5-98e761463502/888272190403_Cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "51",
-            "name": "K-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id51"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "ポップ",
-            "url": "https://itunes.apple.com/jp/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/neon/6820428726?i=6820428730"
-      },
-      {
         "artistName": "Mrs. GREEN APPLE",
         "id": "1648865575",
         "name": "Soranji",
@@ -699,19 +676,19 @@
         "url": "https://music.apple.com/jp/album/soranji/1648865573?i=1648865575"
       },
       {
-        "artistName": "Mrs. GREEN APPLE",
-        "id": "6808173143",
-        "name": "ア・ポステリオリ",
-        "releaseDate": "2026-09-30",
+        "artistName": "HANA",
+        "id": "1821849522",
+        "name": "Blue Jeans",
+        "releaseDate": "2025-07-14",
         "kind": "songs",
-        "artistId": "962221033",
-        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg",
+        "artistId": "1792783458",
+        "artistUrl": "https://music.apple.com/jp/artist/hana/1792783458",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/c4/4d/d0c44ddb-0fd9-ef8c-7839-33a103cb08dc/4547366759990.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
           },
           {
             "genreId": "34",
@@ -719,7 +696,7 @@
             "url": "https://itunes.apple.com/jp/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/jp/album/%E3%82%A2-%E3%83%9D%E3%82%B9%E3%83%86%E3%83%AA%E3%82%AA%E3%83%AA/6808172946?i=6808173143"
+        "url": "https://music.apple.com/jp/album/blue-jeans/1821849174?i=1821849522"
       },
       {
         "artistName": "=LOVE",
@@ -745,6 +722,52 @@
         "url": "https://music.apple.com/jp/album/%E3%81%A8%E3%81%8F%E3%81%B9%E3%83%81%E3%83%A5-%E3%81%97%E3%81%A6/1794066812?i=1794066813"
       },
       {
+        "artistName": "back number",
+        "id": "1638978115",
+        "name": "水平線",
+        "releaseDate": "2020-08-18",
+        "kind": "songs",
+        "artistId": "302361237",
+        "artistUrl": "https://music.apple.com/jp/artist/back-number/302361237",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/f4/91/c1f491e6-c2ac-8a88-5d50-8dad4d89f3ac/22UMGIM87627.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E6%B0%B4%E5%B9%B3%E7%B7%9A/1638977725?i=1638978115"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
+        "id": "6808173143",
+        "name": "ア・ポステリオリ",
+        "releaseDate": "2026-09-30",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E3%82%A2-%E3%83%9D%E3%82%B9%E3%83%86%E3%83%AA%E3%82%AA%E3%83%AA/6808172946?i=6808173143"
+      },
+      {
         "artistName": "Mrs. GREEN APPLE",
         "id": "1841344390",
         "name": "GOOD DAY",
@@ -768,14 +791,14 @@
         "url": "https://music.apple.com/jp/album/good-day/1841344389?i=1841344390"
       },
       {
-        "artistName": "back number",
-        "id": "1638978115",
-        "name": "水平線",
-        "releaseDate": "2020-08-18",
+        "artistName": "M!LK",
+        "id": "6762737233",
+        "name": "アイドルパワー",
+        "releaseDate": "2026-09-07",
         "kind": "songs",
-        "artistId": "302361237",
-        "artistUrl": "https://music.apple.com/jp/artist/back-number/302361237",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/f4/91/c1f491e6-c2ac-8a88-5d50-8dad4d89f3ac/22UMGIM87627.rgb.jpg/100x100bb.jpg",
+        "artistId": "1356706755",
+        "artistUrl": "https://music.apple.com/jp/artist/m-lk/1356706755",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/23/e2/6323e2fb-271c-5d6b-5db4-a6eeac25ac19/VEATP-45552.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "27",
@@ -788,7 +811,7 @@
             "url": "https://itunes.apple.com/jp/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/jp/album/%E6%B0%B4%E5%B9%B3%E7%B7%9A/1638977725?i=1638978115"
+        "url": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%91%E3%83%AF%E3%83%BC/1894988524?i=6762737233"
       },
       {
         "artistName": "スピッツ",
@@ -837,29 +860,6 @@
         "url": "https://music.apple.com/jp/album/%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84/1706831732?i=1706832137"
       },
       {
-        "artistName": "M!LK",
-        "id": "6762737233",
-        "name": "アイドルパワー",
-        "releaseDate": "2026-09-07",
-        "kind": "songs",
-        "artistId": "1356706755",
-        "artistUrl": "https://music.apple.com/jp/artist/m-lk/1356706755",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/23/e2/6323e2fb-271c-5d6b-5db4-a6eeac25ac19/VEATP-45552.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%91%E3%83%AF%E3%83%BC/1894988524?i=6762737233"
-      },
-      {
         "artistName": "RADWIMPS",
         "id": "1518845612",
         "name": "スパークル",
@@ -881,121 +881,6 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AB/1518843994?i=1518845612"
-      },
-      {
-        "artistName": "サカナクション",
-        "id": "604748203",
-        "name": "夜の踊り子",
-        "releaseDate": "2013-03-13",
-        "kind": "songs",
-        "artistId": "252312257",
-        "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/252312257",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/9b/bb/609bbb5d-96eb-ae16-f08a-81a3223deb24/VICL-63999.jpg/100x99bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/604748196?i=604748203"
-      },
-      {
-        "artistName": "Mrs. GREEN APPLE",
-        "id": "1408505264",
-        "name": "青と夏",
-        "releaseDate": "2018-07-12",
-        "kind": "songs",
-        "artistId": "962221033",
-        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/27/08/3427087f-2d39-4847-9b19-052dd3589014/18UMGIM36633.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E9%9D%92%E3%81%A8%E5%A4%8F/1408505088?i=1408505264"
-      },
-      {
-        "artistName": "Mrs. GREEN APPLE",
-        "id": "6808173138",
-        "name": "本と彗星",
-        "releaseDate": "2026-09-30",
-        "kind": "songs",
-        "artistId": "962221033",
-        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E6%9C%AC%E3%81%A8%E5%BD%97%E6%98%9F/6808172946?i=6808173138"
-      },
-      {
-        "artistName": "Mrs. GREEN APPLE",
-        "id": "1891943326",
-        "name": "風と町",
-        "releaseDate": "2026-04-13",
-        "kind": "songs",
-        "artistId": "962221033",
-        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/ec/7a/2fec7a5e-7ea1-ebc4-4d41-164790ccbabd/26UMGIM40658.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E9%A2%A8%E3%81%A8%E7%94%BA/1891943324?i=1891943326"
-      },
-      {
-        "artistName": "Official髭男dism",
-        "id": "1394013614",
-        "name": "115万キロのフィルム",
-        "releaseDate": "2018-04-11",
-        "kind": "songs",
-        "artistId": "960568308",
-        "artistUrl": "https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/e8/2d/40e82dfb-55b4-7016-1127-357ab78d3f7f/jk.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/115%E4%B8%87%E3%82%AD%E3%83%AD%E3%81%AE%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0/1394013451?i=1394013614"
       },
       {
         "artistName": "YOASOBI",
@@ -1022,6 +907,121 @@
       },
       {
         "artistName": "Mrs. GREEN APPLE",
+        "id": "6808173138",
+        "name": "本と彗星",
+        "releaseDate": "2026-09-30",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E6%9C%AC%E3%81%A8%E5%BD%97%E6%98%9F/6808172946?i=6808173138"
+      },
+      {
+        "artistName": "Official髭男dism",
+        "id": "1394013614",
+        "name": "115万キロのフィルム",
+        "releaseDate": "2018-04-11",
+        "kind": "songs",
+        "artistId": "960568308",
+        "artistUrl": "https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/e8/2d/40e82dfb-55b4-7016-1127-357ab78d3f7f/jk.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/115%E4%B8%87%E3%82%AD%E3%83%AD%E3%81%AE%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0/1394013451?i=1394013614"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
+        "id": "1408505264",
+        "name": "青と夏",
+        "releaseDate": "2018-07-12",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/27/08/3427087f-2d39-4847-9b19-052dd3589014/18UMGIM36633.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E9%9D%92%E3%81%A8%E5%A4%8F/1408505088?i=1408505264"
+      },
+      {
+        "artistName": "サカナクション",
+        "id": "604748203",
+        "name": "夜の踊り子",
+        "releaseDate": "2013-03-13",
+        "kind": "songs",
+        "artistId": "252312257",
+        "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/252312257",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/9b/bb/609bbb5d-96eb-ae16-f08a-81a3223deb24/VICL-63999.jpg/100x99bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/604748196?i=604748203"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
+        "id": "1891943326",
+        "name": "風と町",
+        "releaseDate": "2026-04-13",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/ec/7a/2fec7a5e-7ea1-ebc4-4d41-164790ccbabd/26UMGIM40658.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E9%A2%A8%E3%81%A8%E7%94%BA/1891943324?i=1891943326"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
         "id": "1691229813",
         "name": "ケセラセラ",
         "releaseDate": "2023-04-25",
@@ -1044,37 +1044,14 @@
         "url": "https://music.apple.com/jp/album/%E3%82%B1%E3%82%BB%E3%83%A9%E3%82%BB%E3%83%A9/1691229798?i=1691229813"
       },
       {
-        "artistName": "HANA",
-        "id": "1803063210",
-        "name": "ROSE",
-        "releaseDate": "2025-04-02",
-        "kind": "songs",
-        "artistId": "1792783458",
-        "artistUrl": "https://music.apple.com/jp/artist/hana/1792783458",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/f9/06/5bf9064c-9e3c-005f-22c8-0ad331a55c84/4547366741339.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/rose/1803063207?i=1803063210"
-      },
-      {
         "artistName": "Official髭男dism",
-        "id": "1459216694",
+        "id": "1479397873",
         "name": "Pretender",
         "releaseDate": "2019-04-17",
         "kind": "songs",
         "artistId": "960568308",
         "artistUrl": "https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/b6/36/1fb6364f-77fc-7653-3750-811631832ee9/PCCA_04785.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "27",
@@ -1087,7 +1064,7 @@
             "url": "https://itunes.apple.com/jp/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/jp/album/pretender/1459216693?i=1459216694"
+        "url": "https://music.apple.com/jp/album/pretender/1479397582?i=1479397873"
       },
       {
         "artistName": "ONE OK ROCK",
@@ -1111,6 +1088,29 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/wherever-you-are/1838917127?i=1838917139"
+      },
+      {
+        "artistName": "HANA",
+        "id": "1803063210",
+        "name": "ROSE",
+        "releaseDate": "2025-04-02",
+        "kind": "songs",
+        "artistId": "1792783458",
+        "artistUrl": "https://music.apple.com/jp/artist/hana/1792783458",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/f9/06/5bf9064c-9e3c-005f-22c8-0ad331a55c84/4547366741339.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/rose/1803063207?i=1803063210"
       },
       {
         "artistName": "Mrs. GREEN APPLE",
@@ -1182,6 +1182,57 @@
         "url": "https://music.apple.com/jp/album/%E3%82%8F%E3%81%9F%E3%81%8C%E3%81%97/1451567083?i=1451567084"
       },
       {
+        "artistName": "ヨルシカ",
+        "id": "6817316271",
+        "name": "雲を抜け風下へ私だけ",
+        "releaseDate": "2026-10-14",
+        "kind": "songs",
+        "artistId": "1250709916",
+        "artistUrl": "https://music.apple.com/jp/artist/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/1250709916",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/1b/25/4b1b2572-0dc9-7c83-1e56-ce3354ead351/26UM1IM20044.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "オルタナティブ",
+            "url": "https://itunes.apple.com/jp/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E9%9B%B2%E3%82%92%E6%8A%9C%E3%81%91%E9%A2%A8%E4%B8%8B%E3%81%B8%E7%A7%81%E3%81%A0%E3%81%91/6817316270?i=6817316271"
+      },
+      {
+        "artistName": "Kvi Baba",
+        "id": "1892738152",
+        "name": "BPM (feat. KREVA)",
+        "releaseDate": "2026-04-22",
+        "kind": "songs",
+        "artistId": "1413556966",
+        "artistUrl": "https://music.apple.com/jp/artist/kvi-baba/1413556966",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/a0/64/42a06443-8d1a-950d-6a98-367771694088/4988061934006_cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "ヒップホップ／ラップ",
+            "url": "https://itunes.apple.com/jp/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          },
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/bpm-feat-kreva/1892738151?i=1892738152"
+      },
+      {
         "artistName": "嵐",
         "id": "1879525016",
         "name": "Five",
@@ -1228,34 +1279,6 @@
         "url": "https://music.apple.com/jp/album/variety/6808172946?i=6808173287"
       },
       {
-        "artistName": "Kvi Baba",
-        "id": "1892738152",
-        "name": "BPM (feat. KREVA)",
-        "releaseDate": "2026-04-22",
-        "kind": "songs",
-        "artistId": "1413556966",
-        "artistUrl": "https://music.apple.com/jp/artist/kvi-baba/1413556966",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/a0/64/42a06443-8d1a-950d-6a98-367771694088/4988061934006_cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "ヒップホップ／ラップ",
-            "url": "https://itunes.apple.com/jp/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          },
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/bpm-feat-kreva/1892738151?i=1892738152"
-      },
-      {
         "artistName": "M!LK",
         "id": "6789046323",
         "name": "You!Joy!Parade!",
@@ -1279,52 +1302,6 @@
         "url": "https://music.apple.com/jp/album/you-joy-parade/6789046108?i=6789046323"
       },
       {
-        "artistName": "Mrs. GREEN APPLE",
-        "id": "1790599512",
-        "name": "ダーリン",
-        "releaseDate": "2025-01-20",
-        "kind": "songs",
-        "artistId": "962221033",
-        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/b9/27/7bb92776-1f4a-06c6-e36e-de889f2b8620/25UMGIM01757.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3/1790599503?i=1790599512"
-      },
-      {
-        "artistName": "ヨルシカ",
-        "id": "6817316271",
-        "name": "雲を抜け風下へ私だけ",
-        "releaseDate": "2026-10-14",
-        "kind": "songs",
-        "artistId": "1250709916",
-        "artistUrl": "https://music.apple.com/jp/artist/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/1250709916",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/1b/25/4b1b2572-0dc9-7c83-1e56-ce3354ead351/26UM1IM20044.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "オルタナティブ",
-            "url": "https://itunes.apple.com/jp/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E9%9B%B2%E3%82%92%E6%8A%9C%E3%81%91%E9%A2%A8%E4%B8%8B%E3%81%B8%E7%A7%81%E3%81%A0%E3%81%91/6817316270?i=6817316271"
-      },
-      {
         "artistName": "宇多田ヒカル",
         "id": "1440763351",
         "name": "Automatic (Remastered 2014)",
@@ -1346,6 +1323,29 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/automatic-remastered-2014/1440763349?i=1440763351"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
+        "id": "1790599512",
+        "name": "ダーリン",
+        "releaseDate": "2025-01-20",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/b9/27/7bb92776-1f4a-06c6-e36e-de889f2b8620/25UMGIM01757.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3/1790599503?i=1790599512"
       },
       {
         "artistName": "YOASOBI",
@@ -1440,52 +1440,6 @@
         "url": "https://music.apple.com/jp/album/magic/1691229798?i=1691229801"
       },
       {
-        "artistName": "スピッツ",
-        "id": "1440747285",
-        "name": "チェリー",
-        "releaseDate": "1996-04-10",
-        "kind": "songs",
-        "artistId": "74456960",
-        "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/c0/30/29c030c7-ae9c-a201-ef47-bf9a8b2ed31a/00600406212191.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC/1440746376?i=1440747285"
-      },
-      {
-        "artistName": "サカナクション",
-        "id": "1795905600",
-        "name": "怪獣",
-        "releaseDate": "2025-02-20",
-        "kind": "songs",
-        "artistId": "252312257",
-        "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/252312257",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/35/c7/4435c703-3647-654b-16a7-ab74885f71da/VEATP-43484.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E6%80%AA%E7%8D%A3/1795905599?i=1795905600"
-      },
-      {
         "artistName": "Mrs. GREEN APPLE",
         "id": "6808173145",
         "name": "エピソード",
@@ -1555,14 +1509,14 @@
         "url": "https://music.apple.com/jp/album/aizo/1860538546?i=1860538548"
       },
       {
-        "artistName": "Mrs. GREEN APPLE",
-        "id": "1623304209",
-        "name": "ダンスホール",
-        "releaseDate": "2022-05-24",
+        "artistName": "サカナクション",
+        "id": "1795905600",
+        "name": "怪獣",
+        "releaseDate": "2025-02-20",
         "kind": "songs",
-        "artistId": "962221033",
-        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b7/20/05/b7200500-e97d-8c79-7cf2-99a6fb1aaf4d/22UMGIM50592.rgb.jpg/100x100bb.jpg",
+        "artistId": "252312257",
+        "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/252312257",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/35/c7/4435c703-3647-654b-16a7-ab74885f71da/VEATP-43484.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "21",
@@ -1575,7 +1529,7 @@
             "url": "https://itunes.apple.com/jp/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/jp/album/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB/1623304208?i=1623304209"
+        "url": "https://music.apple.com/jp/album/%E6%80%AA%E7%8D%A3/1795905599?i=1795905600"
       },
       {
         "artistName": "優里",
@@ -1601,6 +1555,52 @@
         "url": "https://music.apple.com/jp/album/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC/1534620182?i=1534620183"
       },
       {
+        "artistName": "スピッツ",
+        "id": "1612705343",
+        "name": "チェリー",
+        "releaseDate": "1996-01-01",
+        "kind": "songs",
+        "artistId": "74456960",
+        "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/5c/75/745c75db-3b85-5d91-bde4-2492fc7a1eab/22UMGIM21227.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC/1612704963?i=1612705343"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
+        "id": "1623304209",
+        "name": "ダンスホール",
+        "releaseDate": "2022-05-24",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b7/20/05/b7200500-e97d-8c79-7cf2-99a6fb1aaf4d/22UMGIM50592.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB/1623304208?i=1623304209"
+      },
+      {
         "artistName": "Mrs. GREEN APPLE",
         "id": "1627629624",
         "name": "ブルーアンビエンス (feat. asmi)",
@@ -1622,6 +1622,29 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%93%E3%82%A8%E3%83%B3%E3%82%B9-feat-asmi/1627629613?i=1627629624"
+      },
+      {
+        "artistName": "藤井 風",
+        "id": "1733130377",
+        "name": "満ちてゆく",
+        "releaseDate": "2024-03-15",
+        "kind": "songs",
+        "artistId": "1486113150",
+        "artistUrl": "https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/f4/ad/d0f4ad92-2a6c-6a02-34c5-d45b93f767d9/24UMGIM15199.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E6%BA%80%E3%81%A1%E3%81%A6%E3%82%86%E3%81%8F/1733129984?i=1733130377"
       },
       {
         "artistName": "米津玄師",
@@ -1670,121 +1693,6 @@
         "url": "https://music.apple.com/jp/album/%E3%81%8D%E3%82%89%E3%82%8A/1748185853?i=1748185862"
       },
       {
-        "artistName": "米津玄師",
-        "id": "1537460612",
-        "name": "Lemon",
-        "releaseDate": "2018-02-12",
-        "kind": "songs",
-        "artistId": "530814268",
-        "artistUrl": "https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/86/b0/9d/86b09d63-367a-563a-1e24-d5d62c220ac8/jacket_SRCL09749B00Z_550.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/lemon/1537460610?i=1537460612"
-      },
-      {
-        "artistName": "Official髭男dism",
-        "id": "1479397583",
-        "name": "イエスタデイ",
-        "releaseDate": "2019-09-11",
-        "kind": "songs",
-        "artistId": "960568308",
-        "artistUrl": "https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4/1479397582?i=1479397583"
-      },
-      {
-        "artistName": "藤井 風",
-        "id": "1733130377",
-        "name": "満ちてゆく",
-        "releaseDate": "2024-03-15",
-        "kind": "songs",
-        "artistId": "1486113150",
-        "artistUrl": "https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/f4/ad/d0f4ad92-2a6c-6a02-34c5-d45b93f767d9/24UMGIM15199.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E6%BA%80%E3%81%A1%E3%81%A6%E3%82%86%E3%81%8F/1733129984?i=1733130377"
-      },
-      {
-        "artistName": "サザンオールスターズ",
-        "id": "949250892",
-        "name": "TSUNAMI",
-        "releaseDate": "2000-01-26",
-        "kind": "songs",
-        "artistId": "671759255",
-        "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/671759255",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/e7/70/79e7709a-96a4-9029-e22c-f9252575a6ec/VEATP-30872.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/tsunami/949250891?i=949250892"
-      },
-      {
-        "artistName": "あいみょん",
-        "id": "1273710101",
-        "name": "愛を伝えたいだとか",
-        "releaseDate": "2017-04-14",
-        "kind": "songs",
-        "artistId": "1165017710",
-        "artistUrl": "https://music.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/7b/7c/d87b7cfd-c88c-1003-bc5d-883882043e33/190295747138.jpg/100x87bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E6%84%9B%E3%82%92%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84%E3%81%A0%E3%81%A8%E3%81%8B/1273709789?i=1273710101"
-      },
-      {
         "artistName": "BE:FIRST",
         "id": "1807959956",
         "name": "夢中",
@@ -1829,6 +1737,52 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/never-grow-up/1468137281?i=1468137287"
+      },
+      {
+        "artistName": "米津玄師",
+        "id": "1537460612",
+        "name": "Lemon",
+        "releaseDate": "2018-02-12",
+        "kind": "songs",
+        "artistId": "530814268",
+        "artistUrl": "https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/86/b0/9d/86b09d63-367a-563a-1e24-d5d62c220ac8/jacket_SRCL09749B00Z_550.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/lemon/1537460610?i=1537460612"
+      },
+      {
+        "artistName": "Official髭男dism",
+        "id": "1479397583",
+        "name": "イエスタデイ",
+        "releaseDate": "2019-09-11",
+        "kind": "songs",
+        "artistId": "960568308",
+        "artistUrl": "https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4/1479397582?i=1479397583"
       },
       {
         "artistName": "back number",
@@ -1901,6 +1855,75 @@
         "url": "https://music.apple.com/jp/album/%E6%81%8B%E4%BA%BA%E3%81%94%E3%81%A3%E3%81%93/1496731153?i=1496731154"
       },
       {
+        "artistName": "あいみょん",
+        "id": "6798303686",
+        "name": "愛を伝えたいだとか",
+        "releaseDate": "2017-04-12",
+        "kind": "songs",
+        "artistId": "1165017710",
+        "artistUrl": "https://music.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/e8/e4/c4e8e416-edcd-9783-ecba-046d550f454e/1200214726096.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E6%84%9B%E3%82%92%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84%E3%81%A0%E3%81%A8%E3%81%8B/6798303682?i=6798303686"
+      },
+      {
+        "artistName": "サザンオールスターズ",
+        "id": "949250892",
+        "name": "TSUNAMI",
+        "releaseDate": "2000-01-26",
+        "kind": "songs",
+        "artistId": "671759255",
+        "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/671759255",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/e7/70/79e7709a-96a4-9029-e22c-f9252575a6ec/VEATP-30872.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/tsunami/949250891?i=949250892"
+      },
+      {
+        "artistName": "ちゃんみな",
+        "id": "1585848051",
+        "name": "ハレンチ",
+        "releaseDate": "2021-09-24",
+        "kind": "songs",
+        "artistId": "1104839687",
+        "artistUrl": "https://music.apple.com/jp/artist/%E3%81%A1%E3%82%83%E3%82%93%E3%81%BF%E3%81%AA/1104839687",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/c0/80/bdc08023-823d-b74c-0b58-e161fe8ae68b/190296458705.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "ヒップホップ／ラップ",
+            "url": "https://itunes.apple.com/jp/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AC%E3%83%B3%E3%83%81/1585848047?i=1585848051"
+      },
+      {
         "artistName": "アイナ・ジ・エンド",
         "id": "1821087731",
         "name": "革命道中 - On The Way",
@@ -1922,52 +1945,6 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/%E9%9D%A9%E5%91%BD%E9%81%93%E4%B8%AD-on-the-way/1821087726?i=1821087731"
-      },
-      {
-        "artistName": "嵐",
-        "id": "1485857408",
-        "name": "Love so sweet",
-        "releaseDate": "2007-02-21",
-        "kind": "songs",
-        "artistId": "548185047",
-        "artistUrl": "https://music.apple.com/jp/artist/%E5%B5%90/548185047",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8e/10/2a/8e102abd-d981-e370-82db-2ae5c98baac3/194491537920.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/love-so-sweet/1485857244?i=1485857408"
-      },
-      {
-        "artistName": "Mrs. GREEN APPLE",
-        "id": "6808173276",
-        "name": "Really Really",
-        "releaseDate": "2026-09-30",
-        "kind": "songs",
-        "artistId": "962221033",
-        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/really-really/6808172946?i=6808173276"
       },
       {
         "artistName": "あいみょん",
@@ -1993,6 +1970,52 @@
         "url": "https://music.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE/1438144187?i=1438144188"
       },
       {
+        "artistName": "嵐",
+        "id": "1485857408",
+        "name": "Love so sweet",
+        "releaseDate": "2007-02-21",
+        "kind": "songs",
+        "artistId": "548185047",
+        "artistUrl": "https://music.apple.com/jp/artist/%E5%B5%90/548185047",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8e/10/2a/8e102abd-d981-e370-82db-2ae5c98baac3/194491537920.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/love-so-sweet/1485857244?i=1485857408"
+      },
+      {
+        "artistName": "宇多田ヒカル",
+        "id": "1440763358",
+        "name": "First Love (Remastered 2014)",
+        "releaseDate": "1999-01-01",
+        "kind": "songs",
+        "artistId": "18756224",
+        "artistUrl": "https://music.apple.com/jp/artist/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/18756224",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/67/00/77670013-e2ed-437a-dc30-e9cb74056cbe/00600406427052.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/first-love-remastered-2014/1440763349?i=1440763358"
+      },
+      {
         "artistName": "あいみょん",
         "id": "1261937430",
         "name": "君はロックを聴かない",
@@ -2014,6 +2037,52 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84/1261937427?i=1261937430"
+      },
+      {
+        "artistName": "=LOVE",
+        "id": "1874221480",
+        "name": "劇薬中毒",
+        "releaseDate": "2026-02-17",
+        "kind": "songs",
+        "artistId": "1273762750",
+        "artistUrl": "https://music.apple.com/jp/artist/love/1273762750",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/b4/88/c1b4883d-1baa-1954-49f5-0c237b5745e0/4547366803013.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E5%8A%87%E8%96%AC%E4%B8%AD%E6%AF%92/1874221478?i=1874221480"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
+        "id": "6808173276",
+        "name": "Really Really",
+        "releaseDate": "2026-09-30",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/really-really/6808172946?i=6808173276"
       },
       {
         "artistName": "Mrs. GREEN APPLE",
@@ -2039,19 +2108,47 @@
         "url": "https://music.apple.com/jp/album/carrying-happiness/1826924327?i=1826924334"
       },
       {
-        "artistName": "ちゃんみな",
-        "id": "1585848051",
-        "name": "ハレンチ",
-        "releaseDate": "2021-09-24",
+        "artistName": "Mr.Children",
+        "id": "1374993073",
+        "name": "HANABI",
+        "releaseDate": "2008-09-03",
         "kind": "songs",
-        "artistId": "1104839687",
-        "artistUrl": "https://music.apple.com/jp/artist/%E3%81%A1%E3%82%83%E3%82%93%E3%81%BF%E3%81%AA/1104839687",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/c0/80/bdc08023-823d-b74c-0b58-e161fe8ae68b/190296458705.jpg/100x100bb.jpg",
+        "artistId": "428909573",
+        "artistUrl": "https://music.apple.com/jp/artist/mr-children/428909573",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/f5/31/e2f531ef-3d22-44f2-2f3c-7170725eec29/dj.mxqqwpdb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "18",
-            "name": "ヒップホップ／ラップ",
-            "url": "https://itunes.apple.com/jp/genre/id18"
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/hanabi/1374992793?i=1374993073"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
+        "id": "6808173281",
+        "name": "禁じた遊び",
+        "releaseDate": "2026-09-30",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
           },
           {
             "genreId": "34",
@@ -2059,7 +2156,7 @@
             "url": "https://itunes.apple.com/jp/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AC%E3%83%B3%E3%83%81/1585848047?i=1585848051"
+        "url": "https://music.apple.com/jp/album/%E7%A6%81%E3%81%98%E3%81%9F%E9%81%8A%E3%81%B3/6808172946?i=6808173281"
       },
       {
         "artistName": "ILLIT & HANA",
@@ -2090,37 +2187,14 @@
         "url": "https://music.apple.com/jp/album/i-got-your-back/6792947885?i=6792947886"
       },
       {
-        "artistName": "Mrs. GREEN APPLE",
-        "id": "6808173281",
-        "name": "禁じた遊び",
-        "releaseDate": "2026-09-30",
+        "artistName": "米津玄師 & 宇多田ヒカル",
+        "id": "1840081736",
+        "name": "JANE DOE",
+        "releaseDate": "2025-09-22",
         "kind": "songs",
-        "artistId": "962221033",
-        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E7%A6%81%E3%81%98%E3%81%9F%E9%81%8A%E3%81%B3/6808172946?i=6808173281"
-      },
-      {
-        "artistName": "Mr.Children",
-        "id": "1374993073",
-        "name": "HANABI",
-        "releaseDate": "2008-09-03",
-        "kind": "songs",
-        "artistId": "428909573",
-        "artistUrl": "https://music.apple.com/jp/artist/mr-children/428909573",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/f5/31/e2f531ef-3d22-44f2-2f3c-7170725eec29/dj.mxqqwpdb.jpg/100x100bb.jpg",
+        "artistId": "530814268",
+        "artistUrl": "https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/91/aa/7391aabc-81d8-2bcb-3b0f-8e24bc855745/4547366775211.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "27",
@@ -2131,14 +2205,32 @@
             "genreId": "34",
             "name": "ミュージック",
             "url": "https://itunes.apple.com/jp/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "ロック",
-            "url": "https://itunes.apple.com/jp/genre/id21"
           }
         ],
-        "url": "https://music.apple.com/jp/album/hanabi/1374992793?i=1374993073"
+        "url": "https://music.apple.com/jp/album/jane-doe/1840081735?i=1840081736"
+      },
+      {
+        "artistName": "back number",
+        "id": "1639449127",
+        "name": "ベルベットの詩",
+        "releaseDate": "2022-08-26",
+        "kind": "songs",
+        "artistId": "302361237",
+        "artistUrl": "https://music.apple.com/jp/artist/back-number/302361237",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/c8/d6/02c8d65e-8def-94c4-371f-99c7ac99c77d/22UMGIM77641.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%81%AE%E8%A9%A9/1639449124?i=1639449127"
       },
       {
         "artistName": "Mrs. GREEN APPLE",
@@ -2187,75 +2279,6 @@
         "url": "https://music.apple.com/jp/album/bad-girl/1884257488?i=1884257489"
       },
       {
-        "artistName": "=LOVE",
-        "id": "1874221480",
-        "name": "劇薬中毒",
-        "releaseDate": "2026-02-17",
-        "kind": "songs",
-        "artistId": "1273762750",
-        "artistUrl": "https://music.apple.com/jp/artist/love/1273762750",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/b4/88/c1b4883d-1baa-1954-49f5-0c237b5745e0/4547366803013.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E5%8A%87%E8%96%AC%E4%B8%AD%E6%AF%92/1874221478?i=1874221480"
-      },
-      {
-        "artistName": "宇多田ヒカル",
-        "id": "1440763358",
-        "name": "First Love (Remastered 2014)",
-        "releaseDate": "1999-01-01",
-        "kind": "songs",
-        "artistId": "18756224",
-        "artistUrl": "https://music.apple.com/jp/artist/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/18756224",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/67/00/77670013-e2ed-437a-dc30-e9cb74056cbe/00600406427052.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/first-love-remastered-2014/1440763349?i=1440763358"
-      },
-      {
-        "artistName": "米津玄師 & 宇多田ヒカル",
-        "id": "1840081736",
-        "name": "JANE DOE",
-        "releaseDate": "2025-09-22",
-        "kind": "songs",
-        "artistId": "530814268",
-        "artistUrl": "https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/91/aa/7391aabc-81d8-2bcb-3b0f-8e24bc855745/4547366775211.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/jane-doe/1840081735?i=1840081736"
-      },
-      {
         "artistName": "Mrs. GREEN APPLE",
         "id": "1471459432",
         "name": "インフェルノ",
@@ -2277,29 +2300,6 @@
           }
         ],
         "url": "https://music.apple.com/jp/album/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E/1471459431?i=1471459432"
-      },
-      {
-        "artistName": "back number",
-        "id": "1639449127",
-        "name": "ベルベットの詩",
-        "releaseDate": "2022-08-26",
-        "kind": "songs",
-        "artistId": "302361237",
-        "artistUrl": "https://music.apple.com/jp/artist/back-number/302361237",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/c8/d6/02c8d65e-8def-94c4-371f-99c7ac99c77d/22UMGIM77641.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "27",
-            "name": "J-Pop",
-            "url": "https://itunes.apple.com/jp/genre/id27"
-          },
-          {
-            "genreId": "34",
-            "name": "ミュージック",
-            "url": "https://itunes.apple.com/jp/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/jp/album/%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%81%AE%E8%A9%A9/1639449124?i=1639449127"
       },
       {
         "artistName": "HANA",

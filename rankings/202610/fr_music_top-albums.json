@@ -14,32 +14,8 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "fr",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Sun, 18 Oct 2026 12:12:13 +0000",
+    "updated": "Mon, 19 Oct 2026 10:03:05 +0000",
     "results": [
-      {
-        "artistName": "La Fouine",
-        "id": "6817003919",
-        "name": "Silence Radio",
-        "releaseDate": "2026-10-16",
-        "kind": "albums",
-        "artistId": "18280982",
-        "artistUrl": "https://music.apple.com/fr/artist/la-fouine/18280982",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/71/52/7b71520b-43a1-34a1-54e8-b3a0aa3c3d5a/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/silence-radio/6817003919"
-      },
       {
         "artistName": "Tiakola",
         "id": "6809754889",
@@ -63,6 +39,30 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/wpointm/6809754889"
+      },
+      {
+        "artistName": "La Fouine",
+        "id": "6817003919",
+        "name": "Silence Radio",
+        "releaseDate": "2026-10-16",
+        "kind": "albums",
+        "artistId": "18280982",
+        "artistUrl": "https://music.apple.com/fr/artist/la-fouine/18280982",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/71/52/7b71520b-43a1-34a1-54e8-b3a0aa3c3d5a/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/silence-radio/6817003919"
       },
       {
         "artistName": "Booba",
@@ -280,29 +280,6 @@
         "url": "https://music.apple.com/fr/album/en-croix/6791165361"
       },
       {
-        "artistName": "BEN plg",
-        "id": "6795221588",
-        "name": "L'histoire sans fin",
-        "releaseDate": "2026-10-02",
-        "kind": "albums",
-        "artistId": "1468693966",
-        "artistUrl": "https://music.apple.com/fr/artist/ben-plg/1468693966",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/2b/6f/952b6fc0-aa6a-5560-aee5-32122bc93cf5/3663729458469_cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/lhistoire-sans-fin/6795221588"
-      },
-      {
         "artistName": "PNL",
         "id": "1663913990",
         "name": "Deux frères",
@@ -327,15 +304,14 @@
         "url": "https://music.apple.com/fr/album/deux-fr%C3%A8res/1663913990"
       },
       {
-        "artistName": "Werenoi",
-        "id": "1810779084",
-        "name": "Diamant Noir",
-        "releaseDate": "2025-04-11",
+        "artistName": "BEN plg",
+        "id": "6795221588",
+        "name": "L'histoire sans fin",
+        "releaseDate": "2026-10-02",
         "kind": "albums",
-        "artistId": "1551258720",
-        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/53/97/8e5397e2-ddb3-a026-2fdc-227df4ac4fc6/cover.jpg/100x100bb.jpg",
+        "artistId": "1468693966",
+        "artistUrl": "https://music.apple.com/fr/artist/ben-plg/1468693966",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/2b/6f/952b6fc0-aa6a-5560-aee5-32122bc93cf5/3663729458469_cover.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "18",
@@ -348,7 +324,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/diamant-noir/1810779084"
+        "url": "https://music.apple.com/fr/album/lhistoire-sans-fin/6795221588"
       },
       {
         "artistName": "Tiakola",
@@ -375,34 +351,15 @@
         "url": "https://music.apple.com/fr/album/wpointm-93120-ep/6813151942"
       },
       {
-        "artistName": "TRIANGLE DES BERMUDES",
-        "id": "1885120906",
-        "name": "404 (feat. Kokosvoice, MC YOSHI & Mauvais Djo)",
-        "releaseDate": "2026-04-03",
+        "artistName": "Werenoi",
+        "id": "1810779084",
+        "name": "Diamant Noir",
+        "releaseDate": "2025-04-11",
         "kind": "albums",
-        "artistId": "1699016233",
-        "artistUrl": "https://music.apple.com/fr/artist/triangle-des-bermudes/1699016233",
+        "artistId": "1551258720",
+        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/92/3f/ee923fb3-6225-ff37-e01c-24abc403a8f6/artwork.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/404-feat-kokosvoice-mc-yoshi-mauvais-djo/1885120906"
-      },
-      {
-        "artistName": "63OG",
-        "id": "6820586559",
-        "name": "carpaccio",
-        "releaseDate": "2026-10-16",
-        "kind": "albums",
-        "artistId": "1565158410",
-        "artistUrl": "https://music.apple.com/fr/artist/63og/1565158410",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/c3/de/e8c3dec4-24fa-eb8f-d973-262fdf2b1a3f/cover.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/53/97/8e5397e2-ddb3-a026-2fdc-227df4ac4fc6/cover.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "18",
@@ -415,7 +372,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/carpaccio/6820586559"
+        "url": "https://music.apple.com/fr/album/diamant-noir/1810779084"
       },
       {
         "artistName": "Aya Nakamura",
@@ -482,6 +439,49 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/beewaba/6820217676"
+      },
+      {
+        "artistName": "TRIANGLE DES BERMUDES",
+        "id": "1885120906",
+        "name": "404 (feat. Kokosvoice, MC YOSHI & Mauvais Djo)",
+        "releaseDate": "2026-04-03",
+        "kind": "albums",
+        "artistId": "1699016233",
+        "artistUrl": "https://music.apple.com/fr/artist/triangle-des-bermudes/1699016233",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/92/3f/ee923fb3-6225-ff37-e01c-24abc403a8f6/artwork.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/404-feat-kokosvoice-mc-yoshi-mauvais-djo/1885120906"
+      },
+      {
+        "artistName": "63OG",
+        "id": "6820586559",
+        "name": "carpaccio",
+        "releaseDate": "2026-10-16",
+        "kind": "albums",
+        "artistId": "1565158410",
+        "artistUrl": "https://music.apple.com/fr/artist/63og/1565158410",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/c3/de/e8c3dec4-24fa-eb8f-d973-262fdf2b1a3f/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/carpaccio/6820586559"
       },
       {
         "artistName": "La Mano 1.9",
@@ -556,28 +556,32 @@
         "url": "https://music.apple.com/fr/album/jefe/1597121321"
       },
       {
-        "artistName": "Typhee",
-        "id": "6819852038",
-        "name": "Vega",
-        "releaseDate": "2026-10-16",
+        "artistName": "La superstar des comptines rondes et berceuses",
+        "id": "938877772",
+        "name": "Comptines et chansons pour enfants",
+        "releaseDate": "2014-11-07",
         "kind": "albums",
-        "artistId": "1793922541",
-        "artistUrl": "https://music.apple.com/fr/artist/typhee/1793922541",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/fb/ba/0dfbbaf1-b4ff-663c-b625-e5c4d85681ed/885288789836.jpg/100x100bb.jpg",
+        "artistId": "938877810",
+        "artistUrl": "https://music.apple.com/fr/artist/la-superstar-des-comptines-rondes-et-berceuses/938877810",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/59/81/d8598167-b550-a530-f615-9ef4c3fd110d/859713652415_cover.tif/100x100bb.jpg",
         "genres": [
+          {
+            "genreId": "4",
+            "name": "Musique pour enfants",
+            "url": "https://itunes.apple.com/fr/genre/id4"
+          },
           {
             "genreId": "34",
             "name": "Musique",
             "url": "https://itunes.apple.com/fr/genre/id34"
           },
           {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
+            "genreId": "50000064",
+            "name": "Variété française",
+            "url": "https://itunes.apple.com/fr/genre/id50000064"
           }
         ],
-        "url": "https://music.apple.com/fr/album/vega/6819852038"
+        "url": "https://music.apple.com/fr/album/comptines-et-chansons-pour-enfants/938877772"
       },
       {
         "artistName": "SDM",
@@ -602,6 +606,54 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/a-la-vie-a-la-mort/1757802855"
+      },
+      {
+        "artistName": "Werenoi",
+        "id": "1677620113",
+        "name": "Carré",
+        "releaseDate": "2023-03-10",
+        "kind": "albums",
+        "artistId": "1551258720",
+        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/9b/68/119b6873-ea4b-4b0d-29ee-a6451c800da7/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/carr%C3%A9/1677620113"
+      },
+      {
+        "artistName": "Typhee",
+        "id": "6819852038",
+        "name": "Vega",
+        "releaseDate": "2026-10-16",
+        "kind": "albums",
+        "artistId": "1793922541",
+        "artistUrl": "https://music.apple.com/fr/artist/typhee/1793922541",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/fb/ba/0dfbbaf1-b4ff-663c-b625-e5c4d85681ed/885288789836.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          },
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/vega/6819852038"
       },
       {
         "artistName": "Ninho",
@@ -633,15 +685,15 @@
         "url": "https://music.apple.com/fr/album/destin/1453399177"
       },
       {
-        "artistName": "Werenoi",
-        "id": "1677620113",
-        "name": "Carré",
-        "releaseDate": "2023-03-10",
+        "artistName": "PNL",
+        "id": "1455962586",
+        "name": "Le monde chico",
+        "releaseDate": "2015-10-30",
         "kind": "albums",
-        "artistId": "1551258720",
-        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
+        "artistId": "370571621",
+        "artistUrl": "https://music.apple.com/fr/artist/pnl/370571621",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/9b/68/119b6873-ea4b-4b0d-29ee-a6451c800da7/cover.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/22/41/48/224148e9-ce34-a594-aa79-109e9f1f8ed8/cover.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "18",
@@ -654,35 +706,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/carr%C3%A9/1677620113"
-      },
-      {
-        "artistName": "La superstar des comptines rondes et berceuses",
-        "id": "938877772",
-        "name": "Comptines et chansons pour enfants",
-        "releaseDate": "2014-11-07",
-        "kind": "albums",
-        "artistId": "938877810",
-        "artistUrl": "https://music.apple.com/fr/artist/la-superstar-des-comptines-rondes-et-berceuses/938877810",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/59/81/d8598167-b550-a530-f615-9ef4c3fd110d/859713652415_cover.tif/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "4",
-            "name": "Musique pour enfants",
-            "url": "https://itunes.apple.com/fr/genre/id4"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          },
-          {
-            "genreId": "50000064",
-            "name": "Variété française",
-            "url": "https://itunes.apple.com/fr/genre/id50000064"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/comptines-et-chansons-pour-enfants/938877772"
+        "url": "https://music.apple.com/fr/album/le-monde-chico/1455962586"
       },
       {
         "artistName": "La Rvfleuze",
@@ -762,20 +786,20 @@
         "url": "https://music.apple.com/fr/album/m-i-l-s-3-r%C3%A9%C3%A9dition/1536443638"
       },
       {
-        "artistName": "PNL",
-        "id": "1455962586",
-        "name": "Le monde chico",
-        "releaseDate": "2015-10-30",
+        "artistName": "Ariana Grande",
+        "id": "1895420989",
+        "name": "petal",
+        "releaseDate": "2026-07-31",
         "kind": "albums",
-        "artistId": "370571621",
-        "artistUrl": "https://music.apple.com/fr/artist/pnl/370571621",
+        "artistId": "412778295",
+        "artistUrl": "https://music.apple.com/fr/artist/ariana-grande/412778295",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/22/41/48/224148e9-ce34-a594-aa79-109e9f1f8ed8/cover.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/fr/genre/id14"
           },
           {
             "genreId": "34",
@@ -783,7 +807,30 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/le-monde-chico/1455962586"
+        "url": "https://music.apple.com/fr/album/petal/1895420989"
+      },
+      {
+        "artistName": "Sons de la Nature Projet France de TraxLab",
+        "id": "1723912388",
+        "name": "Bruit de la pluie (2024 Remaster)",
+        "releaseDate": "2024-01-22",
+        "kind": "albums",
+        "artistId": "1465675540",
+        "artistUrl": "https://music.apple.com/fr/artist/sons-de-la-nature-projet-france-de-traxlab/1465675540",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/3e/6f/d43e6fdc-4812-22e8-b753-27cd2c975004/1963621861988_cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          },
+          {
+            "genreId": "16",
+            "name": "Bande originale",
+            "url": "https://itunes.apple.com/fr/genre/id16"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/bruit-de-la-pluie-2024-remaster/1723912388"
       },
       {
         "artistName": "Werenoi",
@@ -810,38 +857,15 @@
         "url": "https://music.apple.com/fr/album/pyramide-2/1797709263"
       },
       {
-        "artistName": "Sons de la Nature Projet France de TraxLab",
-        "id": "1723912388",
-        "name": "Bruit de la pluie (2024 Remaster)",
-        "releaseDate": "2024-01-22",
+        "artistName": "Olivia Rodrigo",
+        "id": "1889992111",
+        "name": "you seem pretty sad for a girl so in love",
+        "releaseDate": "2026-06-12",
         "kind": "albums",
-        "artistId": "1465675540",
-        "artistUrl": "https://music.apple.com/fr/artist/sons-de-la-nature-projet-france-de-traxlab/1465675540",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/3e/6f/d43e6fdc-4812-22e8-b753-27cd2c975004/1963621861988_cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          },
-          {
-            "genreId": "16",
-            "name": "Bande originale",
-            "url": "https://itunes.apple.com/fr/genre/id16"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/bruit-de-la-pluie-2024-remaster/1723912388"
-      },
-      {
-        "artistName": "Ariana Grande",
-        "id": "1895420989",
-        "name": "petal",
-        "releaseDate": "2026-07-31",
-        "kind": "albums",
-        "artistId": "412778295",
-        "artistUrl": "https://music.apple.com/fr/artist/ariana-grande/412778295",
+        "artistId": "979458609",
+        "artistUrl": "https://music.apple.com/fr/artist/olivia-rodrigo/979458609",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -854,31 +878,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/petal/1895420989"
-      },
-      {
-        "artistName": "Django",
-        "id": "6817397473",
-        "name": "Lazar",
-        "releaseDate": "2026-10-15",
-        "kind": "albums",
-        "artistId": "7420797",
-        "artistUrl": "https://music.apple.com/fr/artist/django/7420797",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/e4/31/aae43125-3eca-212f-f2f9-b7ecc528d37d/26SYMIM34105.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/lazar/6817397473"
+        "url": "https://music.apple.com/fr/album/you-seem-pretty-sad-for-a-girl-so-in-love/1889992111"
       },
       {
         "artistName": "Ninho",
@@ -934,20 +934,38 @@
         "url": "https://music.apple.com/fr/album/oubliez-moi/1896449871"
       },
       {
-        "artistName": "Olivia Rodrigo",
-        "id": "1889992111",
-        "name": "you seem pretty sad for a girl so in love",
-        "releaseDate": "2026-06-12",
+        "artistName": "Bruit Blanc & Bruit Blanc Calme",
+        "id": "1615425035",
+        "name": "Bruit Blanc",
+        "releaseDate": "2022-04-05",
         "kind": "albums",
-        "artistId": "979458609",
-        "artistUrl": "https://music.apple.com/fr/artist/olivia-rodrigo/979458609",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+        "artistId": "654464861",
+        "artistUrl": "https://music.apple.com/fr/artist/bruit-blanc/654464861",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/f4/3e/acf43eaf-2693-0795-ef7a-308e7ca575b7/cover_10220152.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/fr/genre/id14"
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/bruit-blanc/1615425035"
+      },
+      {
+        "artistName": "Django",
+        "id": "6817397473",
+        "name": "Lazar",
+        "releaseDate": "2026-10-15",
+        "kind": "albums",
+        "artistId": "7420797",
+        "artistUrl": "https://music.apple.com/fr/artist/django/7420797",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/e4/31/aae43125-3eca-212f-f2f9-b7ecc528d37d/26SYMIM34105.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
           },
           {
             "genreId": "34",
@@ -955,7 +973,31 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/you-seem-pretty-sad-for-a-girl-so-in-love/1889992111"
+        "url": "https://music.apple.com/fr/album/lazar/6817397473"
+      },
+      {
+        "artistName": "Damso",
+        "id": "1440888455",
+        "name": "Ipséité",
+        "releaseDate": "2017-04-28",
+        "kind": "albums",
+        "artistId": "628476824",
+        "artistUrl": "https://music.apple.com/fr/artist/damso/628476824",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/8b/e6/2d8be617-440c-5c4f-7a05-b960e880b548/17UMGIM88656.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/ips%C3%A9it%C3%A9/1440888455"
       },
       {
         "artistName": "Taylor Swift",
@@ -980,30 +1022,6 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/the-life-of-a-showgirl-the-encore/6814997249"
-      },
-      {
-        "artistName": "Lagui",
-        "id": "1872733346",
-        "name": "En attendant En Croix",
-        "releaseDate": "2026-02-05",
-        "kind": "albums",
-        "artistId": "1850450570",
-        "artistUrl": "https://music.apple.com/fr/artist/lagui/1850450570",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/80/ab/a580ab10-5ade-3596-526d-50464cd87140/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/en-attendant-en-croix/1872733346"
       },
       {
         "artistName": "Ninho",
@@ -1112,6 +1130,30 @@
         "url": "https://music.apple.com/fr/album/casus-belli/6818124802"
       },
       {
+        "artistName": "Lagui",
+        "id": "1872733346",
+        "name": "En attendant En Croix",
+        "releaseDate": "2026-02-05",
+        "kind": "albums",
+        "artistId": "1850450570",
+        "artistUrl": "https://music.apple.com/fr/artist/lagui/1850450570",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/80/ab/a580ab10-5ade-3596-526d-50464cd87140/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/en-attendant-en-croix/1872733346"
+      },
+      {
         "artistName": "Céline Dion",
         "id": "203133169",
         "name": "D'eux",
@@ -1145,15 +1187,15 @@
         "url": "https://music.apple.com/fr/album/deux/203133169"
       },
       {
-        "artistName": "Damso",
-        "id": "1440888455",
-        "name": "Ipséité",
-        "releaseDate": "2017-04-28",
+        "artistName": "Bouss",
+        "id": "1758767005",
+        "name": "Depuis le temps (Pour la miff)",
+        "releaseDate": "2024-05-01",
         "kind": "albums",
-        "artistId": "628476824",
-        "artistUrl": "https://music.apple.com/fr/artist/damso/628476824",
+        "artistId": "347191506",
+        "artistUrl": "https://music.apple.com/fr/artist/bouss/347191506",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/8b/e6/2d8be617-440c-5c4f-7a05-b960e880b548/17UMGIM88656.rgb.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/e7/c7/b0e7c736-4b9d-8cb3-8953-f2bda64cee4f/cover.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "18",
@@ -1166,25 +1208,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/ips%C3%A9it%C3%A9/1440888455"
-      },
-      {
-        "artistName": "Bruit Blanc & Bruit Blanc Calme",
-        "id": "1615425035",
-        "name": "Bruit Blanc",
-        "releaseDate": "2022-04-05",
-        "kind": "albums",
-        "artistId": "654464861",
-        "artistUrl": "https://music.apple.com/fr/artist/bruit-blanc/654464861",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/f4/3e/acf43eaf-2693-0795-ef7a-308e7ca575b7/cover_10220152.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/bruit-blanc/1615425035"
+        "url": "https://music.apple.com/fr/album/depuis-le-temps-pour-la-miff/1758767005"
       },
       {
         "artistName": "Tiakola",
@@ -1211,54 +1235,6 @@
         "url": "https://music.apple.com/fr/album/m%C3%A9lo/1621517604"
       },
       {
-        "artistName": "Jul",
-        "id": "1854190327",
-        "name": "TP sur TP",
-        "releaseDate": "2025-12-05",
-        "kind": "albums",
-        "artistId": "250647018",
-        "artistUrl": "https://music.apple.com/fr/artist/jul/250647018",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/bb/14/23bb14d4-5498-516d-d332-7967f197a8e5/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/tp-sur-tp/1854190327"
-      },
-      {
-        "artistName": "Multi-interprètes",
-        "id": "6812476961",
-        "name": "Grand Theft Auto VI: The Album",
-        "releaseDate": "2026-11-19",
-        "kind": "albums",
-        "artistId": "36270",
-        "artistUrl": null,
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "16",
-            "name": "Bande originale",
-            "url": "https://itunes.apple.com/fr/genre/id16"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/grand-theft-auto-vi-the-album/6812476961"
-      },
-      {
         "artistName": "RnBoi",
         "id": "1876322308",
         "name": "My Eyes Only - Flashback",
@@ -1281,30 +1257,6 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/my-eyes-only-flashback/1876322308"
-      },
-      {
-        "artistName": "Bouss",
-        "id": "1758767005",
-        "name": "Depuis le temps (Pour la miff)",
-        "releaseDate": "2024-05-01",
-        "kind": "albums",
-        "artistId": "347191506",
-        "artistUrl": "https://music.apple.com/fr/artist/bouss/347191506",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/e7/c7/b0e7c736-4b9d-8cb3-8953-f2bda64cee4f/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/depuis-le-temps-pour-la-miff/1758767005"
       },
       {
         "artistName": "SDM",
@@ -1331,20 +1283,20 @@
         "url": "https://music.apple.com/fr/album/ocho-deluxe/1605596195"
       },
       {
-        "artistName": "Bad Bunny",
-        "id": "1787022393",
-        "name": "DeBÍ TiRAR MáS FOToS",
-        "releaseDate": "2025-01-05",
+        "artistName": "Jul",
+        "id": "1854190327",
+        "name": "TP sur TP",
+        "releaseDate": "2025-12-05",
         "kind": "albums",
-        "artistId": "1126808565",
-        "artistUrl": "https://music.apple.com/fr/artist/bad-bunny/1126808565",
+        "artistId": "250647018",
+        "artistUrl": "https://music.apple.com/fr/artist/jul/250647018",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/bb/14/23bb14d4-5498-516d-d332-7967f197a8e5/cover.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "12",
-            "name": "Musique latine",
-            "url": "https://itunes.apple.com/fr/genre/id12"
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
           },
           {
             "genreId": "34",
@@ -1352,7 +1304,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/deb%C3%AD-tirar-m%C3%A1s-fotos/1787022393"
+        "url": "https://music.apple.com/fr/album/tp-sur-tp/1854190327"
       },
       {
         "artistName": "Ninho",
@@ -1377,6 +1329,54 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/m-i-l-s/1157195356"
+      },
+      {
+        "artistName": "Bad Bunny",
+        "id": "1787022393",
+        "name": "DeBÍ TiRAR MáS FOToS",
+        "releaseDate": "2025-01-05",
+        "kind": "albums",
+        "artistId": "1126808565",
+        "artistUrl": "https://music.apple.com/fr/artist/bad-bunny/1126808565",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "12",
+            "name": "Musique latine",
+            "url": "https://itunes.apple.com/fr/genre/id12"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/deb%C3%AD-tirar-m%C3%A1s-fotos/1787022393"
+      },
+      {
+        "artistName": "Bigflo & Oli",
+        "id": "1879794796",
+        "name": "Karma",
+        "releaseDate": "2026-03-13",
+        "kind": "albums",
+        "artistId": "806433543",
+        "artistUrl": "https://music.apple.com/fr/artist/bigflo-oli/806433543",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/a5/e7/d4a5e7b0-398c-0f43-19a4-4a9d269a0bd7/25UM2IM05033.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/karma/1879794796"
       },
       {
         "artistName": "Werenoi",
@@ -1432,6 +1432,78 @@
         "url": "https://music.apple.com/fr/album/neptune/1548712802"
       },
       {
+        "artistName": "Multi-interprètes",
+        "id": "6812476961",
+        "name": "Grand Theft Auto VI: The Album",
+        "releaseDate": "2026-11-19",
+        "kind": "albums",
+        "artistId": "36270",
+        "artistUrl": null,
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "16",
+            "name": "Bande originale",
+            "url": "https://itunes.apple.com/fr/genre/id16"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/grand-theft-auto-vi-the-album/6812476961"
+      },
+      {
+        "artistName": "ADÉLA",
+        "id": "6792883860",
+        "name": "PRIMA",
+        "releaseDate": "2026-09-04",
+        "kind": "albums",
+        "artistId": "1765924916",
+        "artistUrl": "https://music.apple.com/fr/artist/ad%C3%A9la/1765924916",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/fr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/prima/6792883860"
+      },
+      {
+        "artistName": "Drake",
+        "id": "6818209777",
+        "name": "HABIBTI (FOMO)",
+        "releaseDate": "2026-10-02",
+        "kind": "albums",
+        "artistId": "271256",
+        "artistUrl": "https://music.apple.com/fr/artist/drake/271256",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/fr/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/habibti-fomo/6818209777"
+      },
+      {
         "artistName": "KLZ",
         "id": "6811941838",
         "name": "VIE 2 STAR",
@@ -1480,6 +1552,53 @@
         "url": "https://music.apple.com/fr/album/sarah-b/6771573336"
       },
       {
+        "artistName": "SIENNA SPIRO",
+        "id": "6769552402",
+        "name": "Visitor (Deluxe)",
+        "releaseDate": "2026-07-03",
+        "kind": "albums",
+        "artistId": "1745678083",
+        "artistUrl": "https://music.apple.com/fr/artist/sienna-spiro/1745678083",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/fr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/visitor-deluxe/6769552402"
+      },
+      {
+        "artistName": "Tiakola",
+        "id": "1774059302",
+        "name": "BDLM VOL.1",
+        "releaseDate": "2024-09-20",
+        "kind": "albums",
+        "artistId": "1334731593",
+        "artistUrl": "https://music.apple.com/fr/artist/tiakola/1334731593",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/f4/3a/50f43a8e-7c19-9bb8-6de2-877d6756a8df/5021732479280.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/bdlm-vol-1/1774059302"
+      },
+      {
         "artistName": "Franglish & KeBlack",
         "id": "6778878152",
         "name": "ENERGY",
@@ -1502,6 +1621,83 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/energy/6778878152"
+      },
+      {
+        "artistName": "PNL",
+        "id": "968338156",
+        "name": "Que la famille",
+        "releaseDate": "2015-03-02",
+        "kind": "albums",
+        "artistId": "370571621",
+        "artistUrl": "https://music.apple.com/fr/artist/pnl/370571621",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/74/49/6574495f-1221-98b0-499f-3eb5378b003e/3700735805679.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/fr/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/que-la-famille/968338156"
+      },
+      {
+        "artistName": "Guy2Bezbar",
+        "id": "6773761878",
+        "name": "JEUNESSE DORÉE MUSIC",
+        "releaseDate": "2026-06-12",
+        "kind": "albums",
+        "artistId": "1151818028",
+        "artistUrl": "https://music.apple.com/fr/artist/guy2bezbar/1151818028",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/77/14/2b7714ac-b780-3e56-adde-bffa0f336084/196874450444.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          },
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/jeunesse-dor%C3%A9e-music/6773761878"
+      },
+      {
+        "artistName": "Werenoi",
+        "id": "1771383375",
+        "name": "Pyramide",
+        "releaseDate": "2024-02-16",
+        "kind": "albums",
+        "artistId": "1551258720",
+        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/9b/05/c89b0549-bea5-4c63-6faa-57a6e3fc1f7a/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/pyramide/1771383375"
       },
       {
         "artistName": "Jul",
@@ -1537,131 +1733,6 @@
         "url": "https://music.apple.com/fr/album/dans-ma-parano%C3%AFa/799176203"
       },
       {
-        "artistName": "Tiakola",
-        "id": "1774059302",
-        "name": "BDLM VOL.1",
-        "releaseDate": "2024-09-20",
-        "kind": "albums",
-        "artistId": "1334731593",
-        "artistUrl": "https://music.apple.com/fr/artist/tiakola/1334731593",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/f4/3a/50f43a8e-7c19-9bb8-6de2-877d6756a8df/5021732479280.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/bdlm-vol-1/1774059302"
-      },
-      {
-        "artistName": "Drake",
-        "id": "6818209777",
-        "name": "HABIBTI (FOMO)",
-        "releaseDate": "2026-10-02",
-        "kind": "albums",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/fr/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/fr/genre/id15"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/habibti-fomo/6818209777"
-      },
-      {
-        "artistName": "Guy2Bezbar",
-        "id": "6773761878",
-        "name": "JEUNESSE DORÉE MUSIC",
-        "releaseDate": "2026-06-12",
-        "kind": "albums",
-        "artistId": "1151818028",
-        "artistUrl": "https://music.apple.com/fr/artist/guy2bezbar/1151818028",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/77/14/2b7714ac-b780-3e56-adde-bffa0f336084/196874450444.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          },
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/jeunesse-dor%C3%A9e-music/6773761878"
-      },
-      {
-        "artistName": "ADÉLA",
-        "id": "6792883860",
-        "name": "PRIMA",
-        "releaseDate": "2026-09-04",
-        "kind": "albums",
-        "artistId": "1765924916",
-        "artistUrl": "https://music.apple.com/fr/artist/ad%C3%A9la/1765924916",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/fr/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/prima/6792883860"
-      },
-      {
-        "artistName": "PNL",
-        "id": "968338156",
-        "name": "Que la famille",
-        "releaseDate": "2015-03-02",
-        "kind": "albums",
-        "artistId": "370571621",
-        "artistUrl": "https://music.apple.com/fr/artist/pnl/370571621",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/74/49/6574495f-1221-98b0-499f-3eb5378b003e/3700735805679.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/fr/genre/id21"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/que-la-famille/968338156"
-      },
-      {
         "artistName": "Ziak",
         "id": "6810723829",
         "name": "MONSIEUR LOYAL",
@@ -1686,125 +1757,6 @@
         "url": "https://music.apple.com/fr/album/monsieur-loyal/6810723829"
       },
       {
-        "artistName": "Werenoi",
-        "id": "1771383375",
-        "name": "Pyramide",
-        "releaseDate": "2024-02-16",
-        "kind": "albums",
-        "artistId": "1551258720",
-        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/9b/05/c89b0549-bea5-4c63-6faa-57a6e3fc1f7a/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/pyramide/1771383375"
-      },
-      {
-        "artistName": "Maes",
-        "id": "1549831556",
-        "name": "Les derniers salopards",
-        "releaseDate": "2020-01-17",
-        "kind": "albums",
-        "artistId": "1363899746",
-        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/91/1b/e3/911be332-e34f-f612-b150-6d96c0d1418a/19UM1IM08671.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/les-derniers-salopards/1549831556"
-      },
-      {
-        "artistName": "Maes",
-        "id": "1775197870",
-        "name": "LA VIE CONTINUE (BONUS)",
-        "releaseDate": "2024-07-19",
-        "kind": "albums",
-        "artistId": "1363899746",
-        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/5c/06/c15c0626-38d3-ddf8-4876-ce6db326ebba/24UMGIM67419.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/la-vie-continue-bonus/1775197870"
-      },
-      {
-        "artistName": "Fally Ipupa",
-        "id": "6815296817",
-        "name": "XX : Délirium",
-        "releaseDate": "2026-09-18",
-        "kind": "albums",
-        "artistId": "208298824",
-        "artistUrl": "https://music.apple.com/fr/artist/fally-ipupa/208298824",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/1d/ff/ff1dff8c-435a-5046-c548-727c1704dfad/1200214313500.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          },
-          {
-            "genreId": "19",
-            "name": "Musiques du monde",
-            "url": "https://itunes.apple.com/fr/genre/id19"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/xx-d%C3%A9lirium/6815296817"
-      },
-      {
-        "artistName": "Werenoi",
-        "id": "1707807239",
-        "name": "Telegram 2",
-        "releaseDate": "2023-09-22",
-        "kind": "albums",
-        "artistId": "1551258720",
-        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/08/86/0e0886d9-8d0b-1f89-43c6-3a00f6572d25/dj.qqadwfea.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/telegram-2/1707807239"
-      },
-      {
         "artistName": "Christophe Maé",
         "id": "1871195882",
         "name": "Fête foraine",
@@ -1826,30 +1778,6 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/f%C3%AAte-foraine/1871195882"
-      },
-      {
-        "artistName": "So La Lune",
-        "id": "6819709163",
-        "name": "Offshore Omega",
-        "releaseDate": "2026-10-09",
-        "kind": "albums",
-        "artistId": "1470293125",
-        "artistUrl": "https://music.apple.com/fr/artist/so-la-lune/1470293125",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/16/9e/45169e12-54e4-7e12-5f5d-032e6b76c9aa/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/offshore-omega/6819709163"
       },
       {
         "artistName": "Timar",
@@ -1876,6 +1804,30 @@
         "url": "https://music.apple.com/fr/album/requiem-mieux-quhier/1888137114"
       },
       {
+        "artistName": "Maes",
+        "id": "1549831556",
+        "name": "Les derniers salopards",
+        "releaseDate": "2020-01-17",
+        "kind": "albums",
+        "artistId": "1363899746",
+        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/91/1b/e3/911be332-e34f-f612-b150-6d96c0d1418a/19UM1IM08671.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/les-derniers-salopards/1549831556"
+      },
+      {
         "artistName": "KAROL G",
         "id": "6796864741",
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -1900,6 +1852,101 @@
         "url": "https://music.apple.com/fr/album/no-me-arrepiento-de-sentir-tanto/6796864741"
       },
       {
+        "artistName": "Maes",
+        "id": "1775197870",
+        "name": "LA VIE CONTINUE (BONUS)",
+        "releaseDate": "2024-07-19",
+        "kind": "albums",
+        "artistId": "1363899746",
+        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/5c/06/c15c0626-38d3-ddf8-4876-ce6db326ebba/24UMGIM67419.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/la-vie-continue-bonus/1775197870"
+      },
+      {
+        "artistName": "TIF",
+        "id": "1896439557",
+        "name": "SAVASHUIA",
+        "releaseDate": "2026-05-21",
+        "kind": "albums",
+        "artistId": "1489812168",
+        "artistUrl": "https://music.apple.com/fr/artist/tif/1489812168",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/c1/8d/4dc18d0a-3ab3-108b-99e7-d5cdd427805f/827568017222.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          },
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/savashuia/1896439557"
+      },
+      {
+        "artistName": "Werenoi",
+        "id": "1707807239",
+        "name": "Telegram 2",
+        "releaseDate": "2023-09-22",
+        "kind": "albums",
+        "artistId": "1551258720",
+        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/08/86/0e0886d9-8d0b-1f89-43c6-3a00f6572d25/dj.qqadwfea.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/telegram-2/1707807239"
+      },
+      {
+        "artistName": "Fally Ipupa",
+        "id": "6815296817",
+        "name": "XX : Délirium",
+        "releaseDate": "2026-09-18",
+        "kind": "albums",
+        "artistId": "208298824",
+        "artistUrl": "https://music.apple.com/fr/artist/fally-ipupa/208298824",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/1d/ff/ff1dff8c-435a-5046-c548-727c1704dfad/1200214313500.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          },
+          {
+            "genreId": "19",
+            "name": "Musiques du monde",
+            "url": "https://itunes.apple.com/fr/genre/id19"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/xx-d%C3%A9lirium/6815296817"
+      },
+      {
         "artistName": "SDM",
         "id": "1661142346",
         "name": "Liens du 100",
@@ -1922,6 +1969,123 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/liens-du-100/1661142346"
+      },
+      {
+        "artistName": "Dadju",
+        "id": "1453375792",
+        "name": "Gentleman 2.0 (Réédition)",
+        "releaseDate": "2018-02-20",
+        "kind": "albums",
+        "artistId": "513595194",
+        "artistUrl": "https://music.apple.com/fr/artist/dadju/513595194",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/36/0a/d1/360ad19e-d6b7-3b4a-9ce8-09992da6e73c/00602577541827.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/fr/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/gentleman-2-0-r%C3%A9%C3%A9dition/1453375792"
+      },
+      {
+        "artistName": "Michael Jackson",
+        "id": "269572838",
+        "name": "Thriller",
+        "releaseDate": "1982-11-29",
+        "kind": "albums",
+        "artistId": "32940",
+        "artistUrl": "https://music.apple.com/fr/artist/michael-jackson/32940",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/fr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/thriller/269572838"
+      },
+      {
+        "artistName": "So La Lune",
+        "id": "6819709163",
+        "name": "Offshore Omega",
+        "releaseDate": "2026-10-09",
+        "kind": "albums",
+        "artistId": "1470293125",
+        "artistUrl": "https://music.apple.com/fr/artist/so-la-lune/1470293125",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/16/9e/45169e12-54e4-7e12-5f5d-032e6b76c9aa/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/offshore-omega/6819709163"
+      },
+      {
+        "artistName": "Grand Corps Malade",
+        "id": "6772258762",
+        "name": "Voir la mer",
+        "releaseDate": "2026-09-18",
+        "kind": "albums",
+        "artistId": "137076785",
+        "artistUrl": "https://music.apple.com/fr/artist/grand-corps-malade/137076785",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/75/aa/7075aa0b-9c4d-c2b2-8938-b8adaa35cae2/26UMGIM51734.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/fr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/voir-la-mer/6772258762"
+      },
+      {
+        "artistName": "Olivia Dean",
+        "id": "1817609404",
+        "name": "The Art of Loving",
+        "releaseDate": "2025-09-26",
+        "kind": "albums",
+        "artistId": "1487253329",
+        "artistUrl": "https://music.apple.com/fr/artist/olivia-dean/1487253329",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/fr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/the-art-of-loving/1817609404"
       },
       {
         "artistName": "Djadja & Dinaz",
@@ -1953,125 +2117,6 @@
         "url": "https://music.apple.com/fr/album/on-spromet/1666673611"
       },
       {
-        "artistName": "Bigflo & Oli",
-        "id": "1879794796",
-        "name": "Karma",
-        "releaseDate": "2026-03-13",
-        "kind": "albums",
-        "artistId": "806433543",
-        "artistUrl": "https://music.apple.com/fr/artist/bigflo-oli/806433543",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/a5/e7/d4a5e7b0-398c-0f43-19a4-4a9d269a0bd7/25UM2IM05033.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/karma/1879794796"
-      },
-      {
-        "artistName": "Dadju",
-        "id": "1453375792",
-        "name": "Gentleman 2.0 (Réédition)",
-        "releaseDate": "2018-02-20",
-        "kind": "albums",
-        "artistId": "513595194",
-        "artistUrl": "https://music.apple.com/fr/artist/dadju/513595194",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/36/0a/d1/360ad19e-d6b7-3b4a-9ce8-09992da6e73c/00602577541827.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/fr/genre/id15"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/gentleman-2-0-r%C3%A9%C3%A9dition/1453375792"
-      },
-      {
-        "artistName": "Niska",
-        "id": "1423053456",
-        "name": "Commando (Deluxe)",
-        "releaseDate": "2018-08-10",
-        "kind": "albums",
-        "artistId": "727527367",
-        "artistUrl": "https://music.apple.com/fr/artist/niska/727527367",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/73/3a/46733a73-1bc0-48cc-57b3-707752d5bd8e/00602567976240.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/commando-deluxe/1423053456"
-      },
-      {
-        "artistName": "Zazie",
-        "id": "6789643708",
-        "name": "Volatil",
-        "releaseDate": "2026-10-02",
-        "kind": "albums",
-        "artistId": "13502134",
-        "artistUrl": "https://music.apple.com/fr/artist/zazie/13502134",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/ee/6b/aeee6b25-303a-ed20-8309-a3a5bf745ea5/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "50000064",
-            "name": "Variété française",
-            "url": "https://itunes.apple.com/fr/genre/id50000064"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/volatil/6789643708"
-      },
-      {
-        "artistName": "SIENNA SPIRO",
-        "id": "6769552402",
-        "name": "Visitor (Deluxe)",
-        "releaseDate": "2026-07-03",
-        "kind": "albums",
-        "artistId": "1745678083",
-        "artistUrl": "https://music.apple.com/fr/artist/sienna-spiro/1745678083",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/fr/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/visitor-deluxe/6769552402"
-      },
-      {
         "artistName": "Drake",
         "id": "6769568449",
         "name": "ICEMAN",
@@ -2094,30 +2139,6 @@
           }
         ],
         "url": "https://music.apple.com/fr/album/iceman/6769568449"
-      },
-      {
-        "artistName": "Mous-K",
-        "id": "1893940021",
-        "name": "Insolent",
-        "releaseDate": "2026-05-15",
-        "kind": "albums",
-        "artistId": "1367223441",
-        "artistUrl": "https://music.apple.com/fr/artist/mous-k/1367223441",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/6d/8b/f66d8b97-a33f-3382-8064-4e5c9c621a3b/1b80b804-e0f6-4584-8df8-192192daf68c.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/insolent/1893940021"
       },
       {
         "artistName": "SCH",
@@ -2144,39 +2165,15 @@
         "url": "https://music.apple.com/fr/album/a7/1440845605"
       },
       {
-        "artistName": "TIF",
-        "id": "1896439557",
-        "name": "SAVASHUIA",
-        "releaseDate": "2026-05-21",
+        "artistName": "Niska",
+        "id": "1423053456",
+        "name": "Commando (Deluxe)",
+        "releaseDate": "2018-08-10",
         "kind": "albums",
-        "artistId": "1489812168",
-        "artistUrl": "https://music.apple.com/fr/artist/tif/1489812168",
+        "artistId": "727527367",
+        "artistUrl": "https://music.apple.com/fr/artist/niska/727527367",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/c1/8d/4dc18d0a-3ab3-108b-99e7-d5cdd427805f/827568017222.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          },
-          {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/savashuia/1896439557"
-      },
-      {
-        "artistName": "Nouvelle École",
-        "id": "6812907445",
-        "name": "Nouvelle École | Saison 5 | L'album Intégral (Série Netflix)",
-        "releaseDate": "2026-09-18",
-        "kind": "albums",
-        "artistId": "1793565673",
-        "artistUrl": "https://music.apple.com/fr/artist/nouvelle-%C3%A9cole/1793565673",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/a7/0c/8aa70cff-a2e9-4e30-7041-7c34f9c9973f/810123169627.png/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/73/3a/46733a73-1bc0-48cc-57b3-707752d5bd8e/00602567976240.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "18",
@@ -2189,30 +2186,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/nouvelle-%C3%A9cole-saison-5-lalbum-int%C3%A9gral-s%C3%A9rie-netflix/6812907445"
-      },
-      {
-        "artistName": "Michael Jackson",
-        "id": "269572838",
-        "name": "Thriller",
-        "releaseDate": "1982-11-29",
-        "kind": "albums",
-        "artistId": "32940",
-        "artistUrl": "https://music.apple.com/fr/artist/michael-jackson/32940",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/fr/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/thriller/269572838"
+        "url": "https://music.apple.com/fr/album/commando-deluxe/1423053456"
       },
       {
         "artistName": "Dadju",
@@ -2238,15 +2212,39 @@
         "url": "https://music.apple.com/fr/album/poison-ou-antidote-miel-book-edition/1600704129"
       },
       {
-        "artistName": "Jul",
-        "id": "1666904402",
-        "name": "La zone en personne",
-        "releaseDate": "2018-12-07",
+        "artistName": "Zazie",
+        "id": "6789643708",
+        "name": "Volatil",
+        "releaseDate": "2026-10-02",
         "kind": "albums",
-        "artistId": "250647018",
-        "artistUrl": "https://music.apple.com/fr/artist/jul/250647018",
+        "artistId": "13502134",
+        "artistUrl": "https://music.apple.com/fr/artist/zazie/13502134",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/61/05/87610580-1fb9-6dc9-29a3-0e13a564c2d0/cover.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/ee/6b/aeee6b25-303a-ed20-8309-a3a5bf745ea5/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "50000064",
+            "name": "Variété française",
+            "url": "https://itunes.apple.com/fr/genre/id50000064"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/volatil/6789643708"
+      },
+      {
+        "artistName": "Mous-K",
+        "id": "1893940021",
+        "name": "Insolent",
+        "releaseDate": "2026-05-15",
+        "kind": "albums",
+        "artistId": "1367223441",
+        "artistUrl": "https://music.apple.com/fr/artist/mous-k/1367223441",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/6d/8b/f66d8b97-a33f-3382-8064-4e5c9c621a3b/1b80b804-e0f6-4584-8df8-192192daf68c.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "18",
@@ -2259,30 +2257,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/la-zone-en-personne/1666904402"
-      },
-      {
-        "artistName": "Olivia Dean",
-        "id": "1817609404",
-        "name": "The Art of Loving",
-        "releaseDate": "2025-09-26",
-        "kind": "albums",
-        "artistId": "1487253329",
-        "artistUrl": "https://music.apple.com/fr/artist/olivia-dean/1487253329",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/fr/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/the-art-of-loving/1817609404"
+        "url": "https://music.apple.com/fr/album/insolent/1893940021"
       },
       {
         "artistName": "SCH",
@@ -2314,39 +2289,43 @@
         "url": "https://music.apple.com/fr/album/jvlivs-iii-ad-finem/1775954131"
       },
       {
-        "artistName": "Railfé",
-        "id": "6818516305",
-        "name": "Mèsi",
-        "releaseDate": "2026-10-30",
+        "artistName": "Aya Nakamura",
+        "id": "1269040558",
+        "name": "Journal intime",
+        "releaseDate": "2017-08-25",
         "kind": "albums",
-        "artistId": "583288055",
-        "artistUrl": "https://music.apple.com/fr/artist/railf%C3%A9/583288055",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/27/67/482767b1-0aa5-bb1f-84a6-9feff914b304/859747814285_cover.jpg/100x100bb.jpg",
+        "artistId": "1042004371",
+        "artistUrl": "https://music.apple.com/fr/artist/aya-nakamura/1042004371",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/00/63/f0/0063f095-7db2-0f07-47dc-4c23867532e8/190295988432.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "18",
-            "name": "Hip-hop/Rap",
-            "url": "https://itunes.apple.com/fr/genre/id18"
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/fr/genre/id15"
           },
           {
             "genreId": "34",
             "name": "Musique",
             "url": "https://itunes.apple.com/fr/genre/id34"
+          },
+          {
+            "genreId": "19",
+            "name": "Musiques du monde",
+            "url": "https://itunes.apple.com/fr/genre/id19"
           }
         ],
-        "url": "https://music.apple.com/fr/album/m%C3%A8si/6818516305"
+        "url": "https://music.apple.com/fr/album/journal-intime/1269040558"
       },
       {
-        "artistName": "Joé Dwèt Filé",
-        "id": "6784591752",
-        "name": "HateLove",
-        "releaseDate": "2026-05-23",
+        "artistName": "Nouvelle École",
+        "id": "6812907445",
+        "name": "Nouvelle École | Saison 5 | L'album Intégral (Série Netflix)",
+        "releaseDate": "2026-09-18",
         "kind": "albums",
-        "artistId": "1059364184",
-        "artistUrl": "https://music.apple.com/fr/artist/jo%C3%A9-dw%C3%A8t-fil%C3%A9/1059364184",
+        "artistId": "1793565673",
+        "artistUrl": "https://music.apple.com/fr/artist/nouvelle-%C3%A9cole/1793565673",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/12/68/fc1268f7-c959-b244-c62f-020d91294088/cover.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/a7/0c/8aa70cff-a2e9-4e30-7041-7c34f9c9973f/810123169627.png/100x100bb.jpg",
         "genres": [
           {
             "genreId": "18",
@@ -2359,7 +2338,54 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/hatelove/6784591752"
+        "url": "https://music.apple.com/fr/album/nouvelle-%C3%A9cole-saison-5-lalbum-int%C3%A9gral-s%C3%A9rie-netflix/6812907445"
+      },
+      {
+        "artistName": "Jul",
+        "id": "1666904402",
+        "name": "La zone en personne",
+        "releaseDate": "2018-12-07",
+        "kind": "albums",
+        "artistId": "250647018",
+        "artistUrl": "https://music.apple.com/fr/artist/jul/250647018",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/61/05/87610580-1fb9-6dc9-29a3-0e13a564c2d0/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/la-zone-en-personne/1666904402"
+      },
+      {
+        "artistName": "GIMS",
+        "id": "1784443699",
+        "name": "LE NORD SE SOUVIENT : L'ODYSSÉE",
+        "releaseDate": "2024-12-13",
+        "kind": "albums",
+        "artistId": "458659054",
+        "artistUrl": "https://music.apple.com/fr/artist/gims/458659054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/8f/55/d68f5534-10b3-2cf5-c2f1-2b2fd148041e/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/le-nord-se-souvient-lodyss%C3%A9e/1784443699"
       },
       {
         "artistName": "Ninho",
@@ -2391,14 +2417,38 @@
         "url": "https://music.apple.com/fr/album/ni/1693872024"
       },
       {
-        "artistName": "GIMS",
-        "id": "1784443699",
-        "name": "LE NORD SE SOUVIENT : L'ODYSSÉE",
-        "releaseDate": "2024-12-13",
+        "artistName": "Billie Eilish",
+        "id": "1739659134",
+        "name": "HIT ME HARD AND SOFT",
+        "releaseDate": "2024-05-17",
         "kind": "albums",
-        "artistId": "458659054",
-        "artistUrl": "https://music.apple.com/fr/artist/gims/458659054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/8f/55/d68f5534-10b3-2cf5-c2f1-2b2fd148041e/cover.jpg/100x100bb.jpg",
+        "artistId": "1065981054",
+        "artistUrl": "https://music.apple.com/fr/artist/billie-eilish/1065981054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/fr/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/hit-me-hard-and-soft/1739659134"
+      },
+      {
+        "artistName": "Joé Dwèt Filé",
+        "id": "6784591752",
+        "name": "HateLove",
+        "releaseDate": "2026-05-23",
+        "kind": "albums",
+        "artistId": "1059364184",
+        "artistUrl": "https://music.apple.com/fr/artist/jo%C3%A9-dw%C3%A8t-fil%C3%A9/1059364184",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/12/68/fc1268f7-c959-b244-c62f-020d91294088/cover.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "18",
@@ -2411,68 +2461,7 @@
             "url": "https://itunes.apple.com/fr/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/fr/album/le-nord-se-souvient-lodyss%C3%A9e/1784443699"
-      },
-      {
-        "artistName": "Aya Nakamura",
-        "id": "1269040558",
-        "name": "Journal intime",
-        "releaseDate": "2017-08-25",
-        "kind": "albums",
-        "artistId": "1042004371",
-        "artistUrl": "https://music.apple.com/fr/artist/aya-nakamura/1042004371",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/00/63/f0/0063f095-7db2-0f07-47dc-4c23867532e8/190295988432.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/fr/genre/id15"
-          },
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          },
-          {
-            "genreId": "19",
-            "name": "Musiques du monde",
-            "url": "https://itunes.apple.com/fr/genre/id19"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/journal-intime/1269040558"
-      },
-      {
-        "artistName": "Stevie Wonder",
-        "id": "1440788438",
-        "name": "Songs in the Key of Life",
-        "releaseDate": "1976-09-28",
-        "kind": "albums",
-        "artistId": "46726",
-        "artistUrl": "https://music.apple.com/fr/artist/stevie-wonder/46726",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/1f/12/eb1f12ec-474c-63aa-43af-09282f423b9d/00602537004737.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Musique",
-            "url": "https://itunes.apple.com/fr/genre/id34"
-          },
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/fr/genre/id15"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/fr/genre/id14"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/fr/genre/id21"
-          }
-        ],
-        "url": "https://music.apple.com/fr/album/songs-in-the-key-of-life/1440788438"
+        "url": "https://music.apple.com/fr/album/hatelove/6784591752"
       }
     ]
   }
