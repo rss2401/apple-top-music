@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1044990457,
+      "trackId": 1846094849,
+      "artistName": "DIKKA",
+      "trackName": "Frech",
+      "trackCensoredName": "Frech",
+      "artistViewUrl": "https://music.apple.com/de/artist/dikka/1044990457?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/frech/1846094849?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/03/9c/c8/039cc891-606a-eff5-7ff1-a5603417ee44/mzvf_13795106250807910787.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8a/2e/25/8a2e25af-bcc1-e0e9-209f-974cc784ab00/25UM1IM01897.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8a/2e/25/8a2e25af-bcc1-e0e9-209f-974cc784ab00/25UM1IM01897.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8a/2e/25/8a2e25af-bcc1-e0e9-209f-974cc784ab00/25UM1IM01897.crop.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2025-10-17T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 151595,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder"
+    }
+  ]
+}

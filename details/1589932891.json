@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1502382056,
+      "collectionId": 1589932886,
+      "trackId": 1589932891,
+      "artistName": "HeyKids Comptine Pour Bébé",
+      "collectionName": "Comptines animées pour enfants (French Visual Album)",
+      "trackName": "Tourne, tourne, petit moulin",
+      "collectionCensoredName": "Comptines animées pour enfants (French Visual Album)",
+      "trackCensoredName": "Tourne, tourne, petit moulin",
+      "artistViewUrl": "https://music.apple.com/fr/artist/heykids-comptine-pour-b%C3%A9b%C3%A9/1502382056?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/music-video/tourne-tourne-petit-moulin/1589932891?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/tourne-tourne-petit-moulin/1589932891?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video116/v4/e4/e2/c1/e4e2c1da-c6af-397e-1b03-4045574a77b7/mzvf_17511157595237392149.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/38/88/05/38880529-8f73-8f32-1617-5063b6f092f9/8720205895882_US23A1540459.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/38/88/05/38880529-8f73-8f32-1617-5063b6f092f9/8720205895882_US23A1540459.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/38/88/05/38880529-8f73-8f32-1617-5063b6f092f9/8720205895882_US23A1540459.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "trackPrice": 1.79,
+      "releaseDate": "2021-05-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 20,
+      "trackNumber": 2,
+      "trackTimeMillis": 116222,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Musique pour enfants"
+    }
+  ]
+}
