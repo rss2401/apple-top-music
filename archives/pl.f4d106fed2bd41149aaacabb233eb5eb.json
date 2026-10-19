@@ -1,5 +1,5 @@
 {
-  "resultCount": 10,
+  "resultCount": 11,
   "results": [
     {
       "month": "202607",
@@ -107,10 +107,23 @@
     },
     {
       "month": "202610",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 1,
+      "id": "pl.f4d106fed2bd41149aaacabb233eb5eb",
+      "name": "Today’s Hits",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/a6/0a/1c/a60a1c71-1bd6-4d60-c0a7-709e097f9433/c5c59722-6aa3-4fc1-8776-bea6e7cedb60.png/100x100SC.DN01.jpg?l=en-GB",
+      "genres": [],
+      "url": "https://music.apple.com/gb/playlist/todays-hits/pl.f4d106fed2bd41149aaacabb233eb5eb"
+    },
+    {
+      "month": "202610",
       "country": "jp",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 7,
+      "rank": 8,
       "id": "pl.f4d106fed2bd41149aaacabb233eb5eb",
       "name": "トゥデイズ ヒッツ",
       "kind": "playlists",

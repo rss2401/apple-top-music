@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 98,
+      "artistName": "Hurra Kinderlieder",
+      "id": "1485403863",
+      "name": "Die Maus ist allein zu Haus",
+      "releaseDate": "2018-02-16",
+      "kind": "music-videos",
+      "artistId": "1432797144",
+      "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/ed/a1/f2/eda1f259-0214-77d9-7e3b-a030535f4684/19UMGIM94455.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik für Kinder"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/die-maus-ist-allein-zu-haus/1485403863"
+    }
+  ]
+}

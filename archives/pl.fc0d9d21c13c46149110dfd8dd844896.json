@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "month": "202610",
@@ -19,7 +19,7 @@
       "country": "de",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 90,
+      "rank": 74,
       "id": "pl.fc0d9d21c13c46149110dfd8dd844896",
       "name": "Piano Bar",
       "kind": "playlists",
@@ -29,10 +29,23 @@
     },
     {
       "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 99,
+      "id": "pl.fc0d9d21c13c46149110dfd8dd844896",
+      "name": "Piano-bar",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/70/65/4d/70654d22-afb0-05ab-69bb-d9e7c0176a82/U0MtTVMtV1ctUGlhbm9fQmFyXy1BREFNX0lEPTExMTA1NTQzOTUucG5n.png/100x100SC.DN01.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/piano-bar/pl.fc0d9d21c13c46149110dfd8dd844896"
+    },
+    {
+      "month": "202610",
       "country": "jp",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 52,
+      "rank": 38,
       "id": "pl.fc0d9d21c13c46149110dfd8dd844896",
       "name": "ピアノ・バー",
       "kind": "playlists",

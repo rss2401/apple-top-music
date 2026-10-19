@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "month": "202607",
@@ -39,6 +39,19 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/_hovEsQEEi6Te92mVn-LMg/100x100bb.jpg",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/chill-house-2026/pl.b4e64491abae4afeb3bac7bb16d2da86"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 59,
+      "id": "pl.b4e64491abae4afeb3bac7bb16d2da86",
+      "name": "Chill House 2026",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/_hovEsQEEi6Te92mVn-LMg/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/gb/playlist/chill-house-2026/pl.b4e64491abae4afeb3bac7bb16d2da86"
     }
   ]
 }

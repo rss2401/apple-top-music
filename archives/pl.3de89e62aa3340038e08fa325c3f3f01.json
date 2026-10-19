@@ -1,5 +1,5 @@
 {
-  "resultCount": 8,
+  "resultCount": 7,
   "results": [
     {
       "month": "202607",
@@ -58,7 +58,7 @@
       "country": "cn",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 70,
+      "rank": 66,
       "id": "pl.3de89e62aa3340038e08fa325c3f3f01",
       "name": "网络热播",
       "kind": "playlists",
@@ -71,7 +71,7 @@
       "country": "de",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 17,
+      "rank": 18,
       "id": "pl.3de89e62aa3340038e08fa325c3f3f01",
       "name": "Viral Hits",
       "kind": "playlists",
@@ -84,26 +84,13 @@
       "country": "fr",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 29,
+      "rank": 32,
       "id": "pl.3de89e62aa3340038e08fa325c3f3f01",
       "name": "Viral Hits",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/45/12/7d/45127d0e-165b-0425-b0d6-fcbb31f03a32/543b013d-39f8-41ad-9964-c7fefa8fb53d.png/100x100SC.DN01.jpg?l=fr-FR",
       "genres": [],
       "url": "https://music.apple.com/fr/playlist/viral-hits/pl.3de89e62aa3340038e08fa325c3f3f01"
-    },
-    {
-      "month": "202610",
-      "country": "us",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 97,
-      "id": "pl.3de89e62aa3340038e08fa325c3f3f01",
-      "name": "Viral Hits",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/15/b8/8b/15b88b70-67c0-c09a-e2c8-b9cbca51be35/fc6f282a-86c2-480e-83cc-c254b0231e71.png/100x100SC.DN01.jpg?l=en-US",
-      "genres": [],
-      "url": "https://music.apple.com/us/playlist/viral-hits/pl.3de89e62aa3340038e08fa325c3f3f01"
     }
   ]
 }

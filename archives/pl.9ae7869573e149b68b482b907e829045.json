@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "month": "202607",
@@ -29,10 +29,23 @@
     },
     {
       "month": "202610",
-      "country": "us",
+      "country": "gb",
       "mediaType": "music",
       "feed": "top-playlists",
       "rank": 35,
+      "id": "pl.9ae7869573e149b68b482b907e829045",
+      "name": "Zach Bryan Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/0c/f3/56/0cf356cf-f1b0-4187-fdd4-6b19e1e48f22/mzl.tjnmkrfw.png/100x100SC.FPESS04.jpg?l=en-GB",
+      "genres": [],
+      "url": "https://music.apple.com/gb/playlist/zach-bryan-essentials/pl.9ae7869573e149b68b482b907e829045"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 31,
       "id": "pl.9ae7869573e149b68b482b907e829045",
       "name": "Zach Bryan Essentials",
       "kind": "playlists",

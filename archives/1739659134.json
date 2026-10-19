@@ -1,5 +1,5 @@
 {
-  "resultCount": 13,
+  "resultCount": 15,
   "results": [
     {
       "month": "202604",
@@ -314,7 +314,7 @@
       "country": "de",
       "mediaType": "music",
       "feed": "top-albums",
-      "rank": 50,
+      "rank": 43,
       "artistName": "Billie Eilish",
       "id": "1739659134",
       "name": "HIT ME HARD AND SOFT",
@@ -339,10 +339,38 @@
     },
     {
       "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 99,
+      "artistName": "Billie Eilish",
+      "id": "1739659134",
+      "name": "HIT ME HARD AND SOFT",
+      "releaseDate": "2024-05-17",
+      "kind": "albums",
+      "artistId": "1065981054",
+      "artistUrl": "https://music.apple.com/fr/artist/billie-eilish/1065981054",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "20",
+          "name": "Alternative",
+          "url": "https://itunes.apple.com/fr/genre/id20"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/hit-me-hard-and-soft/1739659134"
+    },
+    {
+      "month": "202610",
       "country": "gb",
       "mediaType": "music",
       "feed": "top-albums",
-      "rank": 76,
+      "rank": 71,
       "artistName": "Billie Eilish",
       "id": "1739659134",
       "name": "HIT ME HARD AND SOFT",
@@ -364,6 +392,34 @@
         }
       ],
       "url": "https://music.apple.com/gb/album/hit-me-hard-and-soft/1739659134"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 94,
+      "artistName": "Billie Eilish",
+      "id": "1739659134",
+      "name": "HIT ME HARD AND SOFT",
+      "releaseDate": "2024-05-17",
+      "kind": "albums",
+      "artistId": "1065981054",
+      "artistUrl": "https://music.apple.com/us/artist/billie-eilish/1065981054",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "20",
+          "name": "Alternative",
+          "url": "https://itunes.apple.com/us/genre/id20"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/hit-me-hard-and-soft/1739659134"
     }
   ]
 }

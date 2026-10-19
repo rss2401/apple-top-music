@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 94,
+      "artistName": "DIKKA",
+      "id": "1846094849",
+      "name": "Frech",
+      "releaseDate": "2025-10-17",
+      "kind": "music-videos",
+      "artistId": "1044990457",
+      "artistUrl": "https://music.apple.com/de/artist/dikka/1044990457",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8a/2e/25/8a2e25af-bcc1-e0e9-209f-974cc784ab00/25UM1IM01897.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik für Kinder"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/frech/1846094849"
+    }
+  ]
+}

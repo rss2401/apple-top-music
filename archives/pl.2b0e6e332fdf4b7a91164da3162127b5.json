@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -19,52 +19,13 @@
       "country": "cn",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 8,
+      "rank": 16,
       "id": "pl.2b0e6e332fdf4b7a91164da3162127b5",
       "name": "今日最佳",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ed/b6/1f/edb61f10-faac-887f-bf83-f3f966ae0d2f/e852f02e-22de-4344-9e9b-81f76a5600c4.png/100x100SC.DN01.jpg?l=zh-Hans",
       "genres": [],
       "url": "https://music.apple.com/cn/playlist/%E4%BB%8A%E6%97%A5%E6%9C%80%E4%BD%B3/pl.2b0e6e332fdf4b7a91164da3162127b5"
-    },
-    {
-      "month": "202610",
-      "country": "de",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 56,
-      "id": "pl.2b0e6e332fdf4b7a91164da3162127b5",
-      "name": "New Music Daily",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/3f/94/09/3f9409c9-0ea3-2aa8-255e-2adb17c766de/99f1b5a0-004b-47d4-94cd-e43e83efffc0.png/100x100SC.DN01.jpg?l=de-DE",
-      "genres": [],
-      "url": "https://music.apple.com/de/playlist/new-music-daily/pl.2b0e6e332fdf4b7a91164da3162127b5"
-    },
-    {
-      "month": "202610",
-      "country": "fr",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 74,
-      "id": "pl.2b0e6e332fdf4b7a91164da3162127b5",
-      "name": "New Music Daily",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/3f/94/09/3f9409c9-0ea3-2aa8-255e-2adb17c766de/99f1b5a0-004b-47d4-94cd-e43e83efffc0.png/100x100SC.DN01.jpg?l=fr-FR",
-      "genres": [],
-      "url": "https://music.apple.com/fr/playlist/new-music-daily/pl.2b0e6e332fdf4b7a91164da3162127b5"
-    },
-    {
-      "month": "202610",
-      "country": "us",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 92,
-      "id": "pl.2b0e6e332fdf4b7a91164da3162127b5",
-      "name": "New Music Daily",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/0e/e3/b2/0ee3b222-14c1-085d-e5b7-eddb5f0c3194/01ca1e59-eb50-4a96-998c-d68f453b3ec8.png/100x100SC.DN01.jpg?l=en-US",
-      "genres": [],
-      "url": "https://music.apple.com/us/playlist/new-music-daily/pl.2b0e6e332fdf4b7a91164da3162127b5"
     }
   ]
 }

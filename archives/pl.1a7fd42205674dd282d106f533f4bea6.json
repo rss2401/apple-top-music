@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 5,
   "results": [
     {
       "month": "202607",
@@ -19,7 +19,7 @@
       "country": "de",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 70,
+      "rank": 66,
       "id": "pl.1a7fd42205674dd282d106f533f4bea6",
       "name": "Rock-Klassiker",
       "kind": "playlists",
@@ -32,7 +32,7 @@
       "country": "fr",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 59,
+      "rank": 64,
       "id": "pl.1a7fd42205674dd282d106f533f4bea6",
       "name": "Classic rock : les indispensables",
       "kind": "playlists",
@@ -42,10 +42,23 @@
     },
     {
       "month": "202610",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 83,
+      "id": "pl.1a7fd42205674dd282d106f533f4bea6",
+      "name": "Classic Rock Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/0b/ca/8a/0bca8aff-bb5a-5845-040b-b274a09e2516/eb19a238-36fe-4f02-bbcb-2652b59e752e.png/100x100SC.DN01.jpg?l=en-GB",
+      "genres": [],
+      "url": "https://music.apple.com/gb/playlist/classic-rock-essentials/pl.1a7fd42205674dd282d106f533f4bea6"
+    },
+    {
+      "month": "202610",
       "country": "us",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 17,
+      "rank": 15,
       "id": "pl.1a7fd42205674dd282d106f533f4bea6",
       "name": "Classic Rock Essentials",
       "kind": "playlists",
