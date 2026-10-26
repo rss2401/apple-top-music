@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 1,
   "results": [
     {
       "month": "202607",
@@ -13,19 +13,6 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/60/bb/46/60bb46ef-4aa2-6703-75c2-0edf93f4e0db/02c0d5ed-08f6-485f-8274-95aff2951a95.png/100x25cc.jpg",
       "genres": [],
       "url": "https://music.apple.com/jp/playlist/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9-%E3%83%92%E3%83%83%E3%83%84/pl.08cd1b3d5a474cefaa7ae76961e36180"
-    },
-    {
-      "month": "202610",
-      "country": "us",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 96,
-      "id": "pl.08cd1b3d5a474cefaa7ae76961e36180",
-      "name": "Disney Princess",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/50/26/fd/5026fd16-a603-22a5-e55a-df3b0b06c61e/e88328c6-d392-4b78-baf7-9db23c6d99cb.png/100x25cc.jpg",
-      "genres": [],
-      "url": "https://music.apple.com/us/playlist/disney-princess/pl.08cd1b3d5a474cefaa7ae76961e36180"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 99,
+      "artistName": "Childish Gambino",
+      "id": "1380876095",
+      "name": "This Is America",
+      "releaseDate": "2018-05-06",
+      "kind": "music-videos",
+      "artistId": "466842536",
+      "artistUrl": "https://music.apple.com/fr/artist/childish-gambino/466842536",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/20/ca/42/20ca4299-67e9-bc41-7ab5-867a848eaa8e/8864470936410101.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Hip-hop/Rap"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/this-is-america/1380876095"
+    }
+  ]
+}

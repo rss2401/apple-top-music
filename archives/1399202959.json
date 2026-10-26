@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 98,
+      "artistName": "Ariana Grande",
+      "id": "1399202959",
+      "name": "no tears left to cry",
+      "releaseDate": "2018-04-20",
+      "kind": "songs",
+      "artistId": "412778295",
+      "artistUrl": "https://music.apple.com/de/artist/ariana-grande/412778295",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/aa/71/7eaa717a-857e-6d7a-c03c-8d67b3719706/18UMGIM36924.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/no-tears-left-to-cry/1399202539?i=1399202959"
+    }
+  ]
+}

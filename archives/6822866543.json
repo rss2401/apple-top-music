@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 99,
+      "artistName": "Neptunica",
+      "id": "6822866543",
+      "name": "Deep House Hits (DJ Mix)",
+      "releaseDate": "2026-10-23",
+      "kind": "albums",
+      "artistId": "1049806286",
+      "artistUrl": "https://music.apple.com/de/artist/neptunica/1049806286",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/58/b9/6f58b970-ab3f-9f7e-2cd8-9efc92398f12/d0e56768-bf85-4ab2-8ca6-044927291e02.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "17",
+          "name": "Dance",
+          "url": "https://itunes.apple.com/de/genre/id17"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/deep-house-hits-dj-mix/6822866543"
+    }
+  ]
+}

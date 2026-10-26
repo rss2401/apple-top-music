@@ -1,0 +1,63 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 52,
+      "artistName": "John Legend",
+      "id": "6808358301",
+      "name": "Muse",
+      "releaseDate": "2026-10-23",
+      "kind": "albums",
+      "artistId": "16586443",
+      "artistUrl": "https://music.apple.com/de/artist/john-legend/16586443",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/1b/c6/df1bc6c4-c2a7-66e9-afc0-46c9ae49516a/26UM1IM12676.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "15",
+          "name": "R&B/Soul",
+          "url": "https://itunes.apple.com/de/genre/id15"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/muse/6808358301"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 88,
+      "artistName": "John Legend",
+      "id": "6808358301",
+      "name": "Muse",
+      "releaseDate": "2026-10-23",
+      "kind": "albums",
+      "artistId": "16586443",
+      "artistUrl": "https://music.apple.com/gb/artist/john-legend/16586443",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/1b/c6/df1bc6c4-c2a7-66e9-afc0-46c9ae49516a/26UM1IM12676.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "15",
+          "name": "R&B/Soul",
+          "url": "https://itunes.apple.com/gb/genre/id15"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/muse/6808358301"
+    }
+  ]
+}

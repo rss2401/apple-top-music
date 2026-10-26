@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 90,
+      "artistName": "Mrs. GREEN APPLE",
+      "id": "1559813560",
+      "name": "インフェルノ",
+      "releaseDate": "2019-07-18",
+      "kind": "songs",
+      "artistId": "962221033",
+      "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/a1/a2/c8a1a225-cd8c-ce16-94d2-6e07b8bc920a/21UMGIM66297.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "ロック",
+          "url": "https://itunes.apple.com/jp/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/jp/album/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E/1559813372?i=1559813560"
+    }
+  ]
+}

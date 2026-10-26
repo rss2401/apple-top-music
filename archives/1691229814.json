@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 26,
+      "artistName": "Mrs. GREEN APPLE",
+      "id": "1691229814",
+      "name": "Soranji",
+      "releaseDate": "2022-10-18",
+      "kind": "songs",
+      "artistId": "962221033",
+      "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/ad/58/a4ad5816-0612-60d0-3ea2-917bea2e9c8e/23UMGIM61979.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "ロック",
+          "url": "https://itunes.apple.com/jp/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/jp/album/soranji/1691229798?i=1691229814"
+    }
+  ]
+}

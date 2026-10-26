@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 98,
+      "id": "pl.d620ca2334ed4f1786f18e6612afd345",
+      "name": "HUGEL : les indispensables",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/18/f0/75/18f075b6-e7a2-4dd3-d3eb-06e70d5f9efa/file_cropped.png/100x100SC.FPESS05.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/hugel-les-indispensables/pl.d620ca2334ed4f1786f18e6612afd345"
+    }
+  ]
+}

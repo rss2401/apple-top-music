@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 100,
+      "artistName": "Doz",
+      "id": "6813787778",
+      "name": "DEUXIÈME DOSE",
+      "releaseDate": "2026-09-25",
+      "kind": "albums",
+      "artistId": "6772973260",
+      "artistUrl": "https://music.apple.com/fr/artist/doz/6772973260",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/de/b6/34deb65e-aacc-b3fe-e965-4e6f5b943865/artwork.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "15",
+          "name": "R&B/Soul",
+          "url": "https://itunes.apple.com/fr/genre/id15"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/deuxi%C3%A8me-dose/6813787778"
+    }
+  ]
+}

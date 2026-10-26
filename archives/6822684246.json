@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 99,
+      "artistName": "Mucco",
+      "id": "6822684246",
+      "name": "Zwei Brücken",
+      "kind": "songs",
+      "artistId": "1693143714",
+      "artistUrl": "https://music.apple.com/de/artist/mucco/1693143714",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/dc/53/16dc5325-6a76-b0c3-7abe-ca0195eade26/26UM1IM33351.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/de/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/zwei-br%C3%BCcken/6822683707?i=6822684246"
+    }
+  ]
+}
