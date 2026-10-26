@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 18756224,
+      "collectionId": 1440758960,
+      "trackId": 1440759359,
+      "artistName": "宇多田ヒカル",
+      "collectionName": "Utada Hikaru Single Collection Vol.1 (2014 Remastered)",
+      "trackName": "First Love (2014 Remastered)",
+      "collectionCensoredName": "Utada Hikaru Single Collection Vol.1 (2014 Remastered)",
+      "trackCensoredName": "First Love (2014 Remastered)",
+      "artistViewUrl": "https://music.apple.com/jp/artist/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/18756224?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/first-love-2014-remastered/1440758960?i=1440759359&uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/album/first-love-2014-remastered/1440758960?i=1440759359&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/cd/9e/52cd9ed0-e6e3-0357-739b-db10f43d02d7/mzaf_15499855216632221204.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1f/86/e6/1f86e623-66fb-f17a-0d64-9ae0528972a4/00600406550644.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1f/86/e6/1f86e623-66fb-f17a-0d64-9ae0528972a4/00600406550644.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1f/86/e6/1f86e623-66fb-f17a-0d64-9ae0528972a4/00600406550644.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 2139,
+      "trackPrice": 255,
+      "releaseDate": "1999-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 15,
+      "trackNumber": 4,
+      "trackTimeMillis": 259153,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "J-Pop",
+      "isStreamable": true
+    }
+  ]
+}

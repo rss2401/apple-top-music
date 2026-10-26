@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1500359586,
+      "collectionId": 6823491795,
+      "artistName": "肖俊",
+      "collectionName": "Hey, Somebody - The 1st Mini Album - EP",
+      "collectionCensoredName": "Hey, Somebody - The 1st Mini Album - EP",
+      "artistViewUrl": "https://music.apple.com/cn/artist/%E8%82%96%E4%BF%8A/1500359586?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/hey-somebody-the-1st-mini-album-ep/6823491795?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/c9/c4/91c9c4a2-75ea-eb60-5899-9ede50ac5e70/888735957390.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/c9/c4/91c9c4a2-75ea-eb60-5899-9ede50ac5e70/888735957390.png/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 5,
+      "copyright": "℗ 2026 SM Entertainment, LABEL V",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-10-26T07:00:00Z",
+      "primaryGenreName": "K-Pop"
+    }
+  ]
+}

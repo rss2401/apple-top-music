@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1165017710,
+      "collectionId": 1446781785,
+      "trackId": 1446781794,
+      "artistName": "あいみょん",
+      "collectionName": "瞬間的シックスセンス",
+      "trackName": "今夜このまま",
+      "collectionCensoredName": "瞬間的シックスセンス",
+      "trackCensoredName": "今夜このまま",
+      "artistViewUrl": "https://music.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE/1446781785?i=1446781794&uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E4%BB%8A%E5%A4%9C%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE/1446781785?i=1446781794&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/c8/55/cbc8559e-6726-0bd8-5b01-c40dc7a1130f/mzaf_4235480532593731909.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3b/f6/3c3bf6e8-1947-347e-f6f0-c857ca4c026f/190295490089.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3b/f6/3c3bf6e8-1947-347e-f6f0-c857ca4c026f/190295490089.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3b/f6/3c3bf6e8-1947-347e-f6f0-c857ca4c026f/190295490089.jpg/100x100bb.jpg",
+      "collectionPrice": 2037,
+      "trackPrice": 255,
+      "releaseDate": "2018-10-25T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 12,
+      "trackNumber": 9,
+      "trackTimeMillis": 238093,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "J-Pop",
+      "isStreamable": true
+    }
+  ]
+}

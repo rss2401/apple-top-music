@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 302361237,
+      "collectionId": 1451577721,
+      "trackId": 1451577753,
+      "artistName": "back number",
+      "collectionName": "アンコール",
+      "trackName": "花束",
+      "collectionCensoredName": "アンコール",
+      "trackCensoredName": "花束",
+      "artistViewUrl": "https://music.apple.com/jp/artist/back-number/302361237?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/%E8%8A%B1%E6%9D%9F/1451577721?i=1451577753&uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%8A%B1%E6%9D%9F/1451577721?i=1451577753&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/5c/18/995c1802-4151-e13c-77d7-8fcc9e91a5f3/mzaf_17254006090346757977.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/4c/e7/f64ce745-cb2a-c64c-2a18-6089665897ac/00602577303777.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/4c/e7/f64ce745-cb2a-c64c-2a18-6089665897ac/00602577303777.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/4c/e7/f64ce745-cb2a-c64c-2a18-6089665897ac/00602577303777.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 2750,
+      "trackPrice": 255,
+      "releaseDate": "2011-06-22T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 2,
+      "discNumber": 1,
+      "trackCount": 16,
+      "trackNumber": 2,
+      "trackTimeMillis": 286253,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "J-Pop",
+      "isStreamable": true
+    }
+  ]
+}

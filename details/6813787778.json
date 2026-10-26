@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 6772973260,
+      "collectionId": 6813787778,
+      "artistName": "Doz",
+      "collectionName": "DEUXIÈME DOSE",
+      "collectionCensoredName": "DEUXIÈME DOSE",
+      "artistViewUrl": "https://music.apple.com/fr/artist/doz/6772973260?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/deuxi%C3%A8me-dose/6813787778?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/de/b6/34deb65e-aacc-b3fe-e965-4e6f5b943865/artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/de/b6/34deb65e-aacc-b3fe-e965-4e6f5b943865/artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 10.32,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 8,
+      "copyright": "℗ 2026 DOZ RECORDS",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-09-25T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    }
+  ]
+}

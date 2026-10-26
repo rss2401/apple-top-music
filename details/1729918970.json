@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 479756766,
+      "collectionId": 1729918970,
+      "amgArtistId": 2377309,
+      "artistName": "Abel Tesfaye",
+      "collectionName": "The Highlights (Deluxe)",
+      "collectionCensoredName": "The Highlights (Deluxe)",
+      "artistViewUrl": "https://music.apple.com/cn/artist/abel-tesfaye/479756766?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/the-highlights-deluxe/1729918970?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/32/7f/3d327fc3-271d-e4a1-a956-52fdb93c2d62/24UMGIM13979.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/32/7f/3d327fc3-271d-e4a1-a956-52fdb93c2d62/24UMGIM13979.rgb.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 36,
+      "copyright": "This Compilation ℗ 2024 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2024-02-09T08:00:00Z",
+      "primaryGenreName": "R&B/灵魂乐"
+    }
+  ]
+}

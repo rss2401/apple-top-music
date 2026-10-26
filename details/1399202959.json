@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 412778295,
+      "collectionId": 1399202539,
+      "trackId": 1399202959,
+      "artistName": "Ariana Grande",
+      "collectionName": "Sweetener",
+      "trackName": "no tears left to cry",
+      "collectionCensoredName": "Sweetener",
+      "trackCensoredName": "no tears left to cry",
+      "artistViewUrl": "https://music.apple.com/de/artist/ariana-grande/412778295?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/no-tears-left-to-cry/1399202539?i=1399202959&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/no-tears-left-to-cry/1399202539?i=1399202959&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/08/c7/f508c718-1958-46de-1092-5ff9dab86bdf/mzaf_2451337165221190709.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/aa/71/7eaa717a-857e-6d7a-c03c-8d67b3719706/18UMGIM36924.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/aa/71/7eaa717a-857e-6d7a-c03c-8d67b3719706/18UMGIM36924.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/aa/71/7eaa717a-857e-6d7a-c03c-8d67b3719706/18UMGIM36924.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 12.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2018-04-20T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 15,
+      "trackNumber": 10,
+      "trackTimeMillis": 205924,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ]
+}

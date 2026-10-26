@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1069739468,
+      "collectionId": 1217977525,
+      "amgArtistId": 3270020,
+      "artistName": "Cigarettes After Sex",
+      "collectionName": "Cigarettes After Sex",
+      "collectionCensoredName": "Cigarettes After Sex",
+      "artistViewUrl": "https://music.apple.com/de/artist/cigarettes-after-sex/1069739468?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/cigarettes-after-sex/1217977525?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 10,
+      "copyright": "℗ 2017 Partisan Records",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2017-06-09T07:00:00Z",
+      "primaryGenreName": "Alternative"
+    }
+  ]
+}

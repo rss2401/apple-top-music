@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 962221033,
+      "collectionId": 1559813372,
+      "trackId": 1559813560,
+      "artistName": "Mrs. GREEN APPLE",
+      "collectionName": "TOKYO - RUNNING -",
+      "trackName": "インフェルノ",
+      "collectionCensoredName": "TOKYO - RUNNING -",
+      "trackCensoredName": "インフェルノ",
+      "collectionArtistId": 36270,
+      "collectionArtistName": "Various Artists",
+      "artistViewUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E/1559813372?i=1559813560&uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E/1559813372?i=1559813560&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/95/27/ac9527be-d3b0-8dfb-0fc2-6f7cbdacc59f/mzaf_3936072242439036959.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/a1/a2/c8a1a225-cd8c-ce16-94d2-6e07b8bc920a/21UMGIM66297.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/a1/a2/c8a1a225-cd8c-ce16-94d2-6e07b8bc920a/21UMGIM66297.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/a1/a2/c8a1a225-cd8c-ce16-94d2-6e07b8bc920a/21UMGIM66297.rgb.jpg/100x100bb.jpg",
+      "releaseDate": "2019-07-18T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 20,
+      "trackNumber": 3,
+      "trackTimeMillis": 212547,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "ロック",
+      "isStreamable": true
+    }
+  ]
+}

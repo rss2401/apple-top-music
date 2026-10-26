@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1579021180,
+      "collectionId": 1842368524,
+      "trackId": 1842368534,
+      "artistName": "BE:FIRST",
+      "collectionName": "BE:ST",
+      "trackName": "夢中",
+      "collectionCensoredName": "BE:ST",
+      "trackCensoredName": "夢中",
+      "artistViewUrl": "https://music.apple.com/jp/artist/be-first/1579021180?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/%E5%A4%A2%E4%B8%AD/1842368524?i=1842368534&uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E5%A4%A2%E4%B8%AD/1842368524?i=1842368534&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/11/c5/e911c5b1-4d1d-51c8-11f8-a27b7689aec6/mzaf_9014300941209484309.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ab/b5/11abb50d-88b9-3478-c04e-64c4a4610dd7/ANTCD-A0000018030.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ab/b5/11abb50d-88b9-3478-c04e-64c4a4610dd7/ANTCD-A0000018030.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ab/b5/11abb50d-88b9-3478-c04e-64c4a4610dd7/ANTCD-A0000018030.jpg/100x100bb.jpg",
+      "collectionPrice": 3056,
+      "trackPrice": 255,
+      "releaseDate": "2025-04-25T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 2,
+      "discNumber": 1,
+      "trackCount": 15,
+      "trackNumber": 10,
+      "trackTimeMillis": 190800,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "J-Pop",
+      "isStreamable": true
+    }
+  ]
+}

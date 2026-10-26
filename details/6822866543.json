@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1049806286,
+      "collectionId": 6822866543,
+      "amgArtistId": 3247074,
+      "artistName": "Neptunica",
+      "collectionName": "Deep House Hits (DJ Mix)",
+      "collectionCensoredName": "Deep House Hits (DJ Mix)",
+      "artistViewUrl": "https://music.apple.com/de/artist/neptunica/1049806286?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/deep-house-hits-dj-mix/6822866543?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/58/b9/6f58b970-ab3f-9f7e-2cd8-9efc92398f12/d0e56768-bf85-4ab2-8ca6-044927291e02.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/58/b9/6f58b970-ab3f-9f7e-2cd8-9efc92398f12/d0e56768-bf85-4ab2-8ca6-044927291e02.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 25,
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-10-23T07:00:00Z",
+      "primaryGenreName": "House"
+    }
+  ]
+}

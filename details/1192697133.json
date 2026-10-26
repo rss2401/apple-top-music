@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 403684473,
+      "collectionId": 1192697125,
+      "trackId": 1192697133,
+      "artistName": "White Noise For Babies",
+      "collectionName": "Best White Noise For Baby Sleep - Loopable With No Fade",
+      "trackName": "Clean White Noise - Loopable with no fade",
+      "collectionCensoredName": "Best White Noise For Baby Sleep - Loopable With No Fade",
+      "trackCensoredName": "Clean White Noise - Loopable with no fade",
+      "artistViewUrl": "https://music.apple.com/gb/artist/white-noise-for-babies/403684473?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/clean-white-noise-loopable-with-no-fade/1192697125?i=1192697133&uo=4",
+      "trackViewUrl": "https://music.apple.com/gb/album/clean-white-noise-loopable-with-no-fade/1192697125?i=1192697133&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/d9/39/fbd9396b-d374-82e4-ab9b-45c87cf447af/mzaf_2819053798570006922.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/cf/ee/54cfee0d-38b5-27ab-920e-9e2cfb681315/7071245346553.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/cf/ee/54cfee0d-38b5-27ab-920e-9e2cfb681315/7071245346553.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/cf/ee/54cfee0d-38b5-27ab-920e-9e2cfb681315/7071245346553.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2017-01-08T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 7,
+      "trackNumber": 1,
+      "trackTimeMillis": 130000,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "New Age",
+      "isStreamable": true
+    }
+  ]
+}

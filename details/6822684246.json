@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1693143714,
+      "collectionId": 6822683707,
+      "trackId": 6822684246,
+      "artistName": "Mucco",
+      "collectionName": "Kaltes Blut",
+      "trackName": "Zwei Brücken",
+      "collectionCensoredName": "Kaltes Blut",
+      "trackCensoredName": "Zwei Brücken",
+      "artistViewUrl": "https://music.apple.com/de/artist/mucco/1693143714?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/zwei-br%C3%BCcken/6822683707?i=6822684246&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/zwei-br%C3%BCcken/6822683707?i=6822684246&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/21/0a/63210a69-c6ac-191f-2d83-e317f065217a/mzaf_8662834822640576547.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/dc/53/16dc5325-6a76-b0c3-7abe-ca0195eade26/26UM1IM33351.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/dc/53/16dc5325-6a76-b0c3-7abe-ca0195eade26/26UM1IM33351.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/dc/53/16dc5325-6a76-b0c3-7abe-ca0195eade26/26UM1IM33351.rgb.jpg/100x100bb.jpg",
+      "trackPrice": 1.29,
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 19,
+      "trackNumber": 7,
+      "trackTimeMillis": 131478,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-Hop",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}
