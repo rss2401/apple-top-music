@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 60,
+      "id": "pl.16800768c8314cc6be589be37aeaa48f",
+      "name": "Sing: Halloween",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/e1/57/6ce15714-ff80-4b70-d172-cebc0b0f4815/d563abec-ab04-4548-a3a0-9e9d52d72626.png/100x25cc.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/sing-halloween/pl.16800768c8314cc6be589be37aeaa48f"
+    }
+  ]
+}

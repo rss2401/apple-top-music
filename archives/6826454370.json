@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 96,
+      "artistName": "bleood",
+      "id": "6826454370",
+      "name": "KILL YOUR IDOLS",
+      "releaseDate": "2026-10-30",
+      "kind": "albums",
+      "artistId": "1744999836",
+      "artistUrl": "https://music.apple.com/us/artist/bleood/1744999836",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/f5/d8/90f5d87c-21ce-b9db-62ba-7ae12c33fe66/840471830139.png/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/kill-your-idols/6826454370"
+    }
+  ]
+}

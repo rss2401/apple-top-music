@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 63,
+      "id": "pl.c52a9153dc8a40e19725380c491a53bb",
+      "name": "playlist boite de nuit 2026 🍾🎉 ambiance soirée club",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/CGfX4zzcSJ28FGYHRjpS2Q/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/playlist-boite-de-nuit-2026-ambiance-soir%C3%A9e-club/pl.c52a9153dc8a40e19725380c491a53bb"
+    }
+  ]
+}

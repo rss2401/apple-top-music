@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 74,
+      "artistName": "Lana Del Rey",
+      "id": "1475249155",
+      "name": "Season of the Witch (From the Motion Picture \"Scary Stories to Tell in the Dark\")",
+      "releaseDate": "2019-08-09",
+      "kind": "songs",
+      "artistId": "464296584",
+      "artistUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d2/db/88/d2db88db-eef9-20f9-35b8-71cba39b4f42/19UMGIM71312.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "20",
+          "name": "Alternative",
+          "url": "https://itunes.apple.com/us/genre/id20"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/season-of-the-witch-from-the-motion-picture-scary/1475249132?i=1475249155"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 81,
+      "artistName": "周杰伦",
+      "id": "1726904918",
+      "name": "等你下课 (feat. 杨瑞代)",
+      "releaseDate": "2018-01-18",
+      "kind": "music-videos",
+      "artistId": "300117743",
+      "artistUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/ef/f9/b9/eff9b99f-b34f-b550-11b0-29b89a380905/23UM1IM68560.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "国语流行"
+        }
+      ],
+      "url": "https://music.apple.com/cn/music-video/%E7%AD%89%E4%BD%A0%E4%B8%8B%E8%AF%BE-feat-%E6%9D%A8%E7%91%9E%E4%BB%A3/1726904918"
+    }
+  ]
+}

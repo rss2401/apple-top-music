@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 44,
+      "id": "pl.9ee336a0f59d41e18dec4f2342a5f1dc",
+      "name": "Halloween 2026 🎃 La playlist de ta soirée Halloween !",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/SG-MQ-US-032-Image000001/v4/be/3d/23/be3d23ad-5212-d2cb-6dc2-a716179db3e7/image/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/halloween-2026-la-playlist-de-ta-soir%C3%A9e-halloween/pl.9ee336a0f59d41e18dec4f2342a5f1dc"
+    }
+  ]
+}

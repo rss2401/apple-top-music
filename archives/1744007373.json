@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 11,
+      "artistName": "Creedence Clearwater Revival",
+      "id": "1744007373",
+      "name": "Bad Moon Rising",
+      "releaseDate": "1969-04-01",
+      "kind": "songs",
+      "artistId": "2083606",
+      "artistUrl": "https://music.apple.com/us/artist/creedence-clearwater-revival/2083606",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/eb/78/bbeb7856-e31a-6f80-40ae-42170f4822db/24UMGIM50330.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/us/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/bad-moon-rising/1744006969?i=1744007373"
+    }
+  ]
+}

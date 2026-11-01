@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 50,
+      "id": "pl.70fcbfbe44c54f9c95367da7a22dcda9",
+      "name": "The Crate (Halloween Edition)",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/f0/be/6cf0be4b-0270-b903-16f3-00d17e12f81c/1fa066f0-6afe-4822-82ab-453cf8550a21.png/100x100SC.DN02.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/the-crate-halloween-edition/pl.70fcbfbe44c54f9c95367da7a22dcda9"
+    }
+  ]
+}

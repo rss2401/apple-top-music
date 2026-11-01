@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 46,
+      "artistName": "LVCRFT",
+      "id": "1578038663",
+      "name": "Skeleton Sam",
+      "releaseDate": "2019-10-01",
+      "kind": "songs",
+      "artistId": "1480434133",
+      "artistUrl": "https://music.apple.com/us/artist/lvcrft/1480434133",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5f/ff/c7/5fffc7fc-28cf-1816-2ff4-62b0b07715fc/7018.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "7",
+          "name": "Electronic",
+          "url": "https://itunes.apple.com/us/genre/id7"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/us/genre/id14"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/skeleton-sam/1578038661?i=1578038663"
+    }
+  ]
+}

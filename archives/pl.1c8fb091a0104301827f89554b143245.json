@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 93,
+      "id": "pl.1c8fb091a0104301827f89554b143245",
+      "name": "Setlist: Niall Horans Tour",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/7d/21/01/7d2101d6-6b46-230d-d451-9ce1ab317b0a/file_cropped.png/100x100SC.FPSL03.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/setlist-niall-horans-tour/pl.1c8fb091a0104301827f89554b143245"
+    }
+  ]
+}

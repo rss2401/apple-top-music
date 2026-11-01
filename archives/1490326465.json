@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 92,
+      "artistName": "Ray Parker Jr.",
+      "id": "1490326465",
+      "name": "Greatest Hits",
+      "releaseDate": "1993-10-12",
+      "kind": "albums",
+      "artistId": "3867130",
+      "artistUrl": "https://music.apple.com/us/artist/ray-parker-jr/3867130",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/d1/1d/f0d11daf-9585-0b16-496b-97324ce91bf9/886448098706.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "15",
+          "name": "R&B/Soul",
+          "url": "https://itunes.apple.com/us/genre/id15"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/greatest-hits/1490326465"
+    }
+  ]
+}

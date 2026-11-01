@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 48,
+      "artistName": "Screamin' Jay Hawkins",
+      "id": "192698767",
+      "name": "I Put a Spell On You",
+      "releaseDate": "1953-01-01",
+      "kind": "songs",
+      "artistId": "903417",
+      "artistUrl": "https://music.apple.com/us/artist/screamin-jay-hawkins/903417",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/20/e5/b5/mzi.taiavvuz.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "15",
+          "name": "R&B/Soul",
+          "url": "https://itunes.apple.com/us/genre/id15"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "16",
+          "name": "Soundtrack",
+          "url": "https://itunes.apple.com/us/genre/id16"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/i-put-a-spell-on-you/192698593?i=192698767"
+    }
+  ]
+}

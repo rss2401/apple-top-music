@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202610",
@@ -7,6 +7,35 @@
       "mediaType": "music",
       "feed": "top-albums",
       "rank": 16,
+      "artistName": "Heuss L'enfoiré",
+      "id": "6807753175",
+      "name": "APRÈS LA SAISIE",
+      "releaseDate": "2026-10-16",
+      "kind": "albums",
+      "artistId": "1318608647",
+      "artistUrl": "https://music.apple.com/fr/artist/heuss-lenfoir%C3%A9/1318608647",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/c2/51/c2c2518a-ee52-e73f-46a3-1c15e323ee31/cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/apr%C3%A8s-la-saisie/6807753175"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 43,
       "artistName": "Heuss L'enfoiré",
       "id": "6807753175",
       "name": "APRÈS LA SAISIE",

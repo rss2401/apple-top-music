@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 94,
+      "artistName": "Philipayne",
+      "id": "6828438577",
+      "name": "BLACK OPPS",
+      "releaseDate": "2026-10-31",
+      "kind": "albums",
+      "artistId": "1641213769",
+      "artistUrl": "https://music.apple.com/fr/artist/philipayne/1641213769",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/be/9a/54be9a08-459d-a001-ada9-7cf78eb3bdd9/1200220392865.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/black-opps/6828438577"
+    }
+  ]
+}

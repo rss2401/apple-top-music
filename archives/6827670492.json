@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 58,
+      "artistName": "Ayra Starr",
+      "id": "6827670492",
+      "name": "Ms. Paper (feat. Theodora)",
+      "releaseDate": "2026-10-28",
+      "kind": "music-videos",
+      "artistId": "1536429348",
+      "artistUrl": "https://music.apple.com/fr/artist/ayra-starr/1536429348",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/75/ca/cc/75cacc6e-089d-fce0-1317-94efc377e187/26UM1IM08109.crop.jpg/100x75mv.jpg",
+      "genres": [
+        {
+          "name": "Afrobeats"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/ms-paper-feat-theodora/6827670492"
+    }
+  ]
+}

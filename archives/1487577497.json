@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 49,
+      "artistName": "Camila Cabello",
+      "id": "1487577497",
+      "name": "My Oh My (feat. DaBaby)",
+      "releaseDate": "2019-12-06",
+      "kind": "songs",
+      "artistId": "935727853",
+      "artistUrl": "https://music.apple.com/us/artist/camila-cabello/935727853",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/d5/7e/c5d57e36-4270-8730-d009-5e82a71016f7/886448121220.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/us/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/my-oh-my-feat-dababy/1487577356?i=1487577497"
+    }
+  ]
+}

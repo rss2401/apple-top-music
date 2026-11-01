@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202610",
@@ -13,6 +13,19 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/b0/ae/09/b0ae09c7-1415-ed98-ecfc-9051f946323b/ae4d8ced-66eb-4c71-bb97-6b9e210a659d.png/100x100SC.DN02.jpg?l=de-DE",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/dinner-party-essentials/pl.6a236667fbc046a49b48ea9cf4e8b639"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 98,
+      "id": "pl.6a236667fbc046a49b48ea9cf4e8b639",
+      "name": "Dîner entre amis : les indispensables",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d1/80/2e/d1802e2f-8c03-e870-0c44-511bd6730f12/3fe9a0e6-f827-47cf-8e76-f361932063fa.png/100x100SC.DN02.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/d%C3%AEner-entre-amis-les-indispensables/pl.6a236667fbc046a49b48ea9cf4e8b639"
     }
   ]
 }

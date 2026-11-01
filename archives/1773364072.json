@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 79,
+      "artistName": "China Anne McClain",
+      "id": "1773364072",
+      "name": "Calling All the Monsters",
+      "releaseDate": "2011-01-01",
+      "kind": "songs",
+      "artistId": "473768129",
+      "artistUrl": "https://music.apple.com/us/artist/china-anne-mcclain/473768129",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/bf/b2/38bfb28a-b51e-3323-6a98-06997c16c939/24UM1IM10878.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/us/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/calling-all-the-monsters/1773363889?i=1773364072"
+    }
+  ]
+}

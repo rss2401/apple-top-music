@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 39,
+      "artistName": "Rob Zombie",
+      "id": "1443136903",
+      "name": "Dragula",
+      "releaseDate": "1998-08-24",
+      "kind": "songs",
+      "artistId": "110374",
+      "artistUrl": "https://music.apple.com/us/artist/rob-zombie/110374",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/5a/8a/5a5a8ac3-c7d9-5cc2-b855-8df12d010368/16UMGIM24177.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/us/genre/id21"
+        },
+        {
+          "genreId": "1153",
+          "name": "Metal",
+          "url": "https://itunes.apple.com/us/genre/id1153"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/dragula/1443136595?i=1443136903"
+    }
+  ]
+}

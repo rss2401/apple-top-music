@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 67,
+      "artistName": "Migos, KAROL G, Snoop Dogg & Rock Mafia",
+      "id": "1478935971",
+      "name": "My Family (From \"The Addams Family\" Original Motion Picture Soundtrack)",
+      "releaseDate": "2019-09-13",
+      "kind": "songs",
+      "artistId": "569925101",
+      "artistUrl": "https://music.apple.com/us/artist/migos/569925101",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/ea/c4/89eac4fe-5f1e-209e-e4a7-830052e1d2b3/190296878138.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "16",
+          "name": "Soundtrack",
+          "url": "https://itunes.apple.com/us/genre/id16"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/my-family-from-the-addams-family-original-motion/1478935963?i=1478935971"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 93,
+      "id": "pl.a71ead33852642fda12948267c86d197",
+      "name": "演出曲目单：A-Lin《歌迹 Journey》巡演",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/cd/87/37/cd8737c2-1485-c492-33bc-5f0b9a074b69/mzl.ajrzwnjk.jpg/100x100SC.FPSL03.jpg?l=zh-Hans",
+      "genres": [],
+      "url": "https://music.apple.com/cn/playlist/%E6%BC%94%E5%87%BA%E6%9B%B2%E7%9B%AE%E5%8D%95-a-lin-%E6%AD%8C%E8%BF%B9-journey-%E5%B7%A1%E6%BC%94/pl.a71ead33852642fda12948267c86d197"
+    }
+  ]
+}

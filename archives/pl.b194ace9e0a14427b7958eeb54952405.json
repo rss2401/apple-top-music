@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202610",
@@ -11,6 +11,19 @@
       "name": "Rap Chill",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/ff/de/5f/ffde5f9e-79af-98b4-f163-2679e9ab387f/93204937-8fab-4c05-9d23-d602d5e59dcb.png/100x100SC.DN02.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/rap-chill/pl.b194ace9e0a14427b7958eeb54952405"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 22,
+      "id": "pl.b194ace9e0a14427b7958eeb54952405",
+      "name": "Rap Chill",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f1/90/71/f1907196-1d69-87d9-215d-0e19059d0b54/92075aba-465c-4a51-a615-d7f587b77760.png/100x100SC.DN02.jpg?l=fr-FR",
       "genres": [],
       "url": "https://music.apple.com/fr/playlist/rap-chill/pl.b194ace9e0a14427b7958eeb54952405"
     }

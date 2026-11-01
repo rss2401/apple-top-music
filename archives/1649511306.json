@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202610",
@@ -7,6 +7,34 @@
       "mediaType": "music",
       "feed": "top-albums",
       "rank": 67,
+      "artistName": "Jul",
+      "id": "1649511306",
+      "name": "Dans ma paranoïa",
+      "releaseDate": "2014-02-24",
+      "kind": "albums",
+      "artistId": "250647018",
+      "artistUrl": "https://music.apple.com/fr/artist/jul/250647018",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/75/3f/8d753fa3-5ac8-0db6-1eec-42eea971b2da/cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/dans-ma-parano%C3%AFa/1649511306"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 63,
       "artistName": "Jul",
       "id": "1649511306",
       "name": "Dans ma paranoïa",

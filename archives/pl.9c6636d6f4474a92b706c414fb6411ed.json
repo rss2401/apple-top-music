@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 94,
+      "id": "pl.9c6636d6f4474a92b706c414fb6411ed",
+      "name": "2000s Dance Party Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/b3/66/93/b3669314-f293-46b9-f967-49902242eac4/a6e6a417-a04e-4c18-be62-04cc83ec6ad3.png/100x100SC.DN02.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/2000s-dance-party-essentials/pl.9c6636d6f4474a92b706c414fb6411ed"
+    }
+  ]
+}

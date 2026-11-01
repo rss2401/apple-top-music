@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 4,
   "results": [
     {
       "month": "202610",
@@ -24,6 +24,32 @@
       "name": "Hits français",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/34/68/45/34684526-396d-616f-3b57-4f08713110c4/5063d044-6f3d-42bf-9cf7-02648bdc836d.png/100x100SC.DN02.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/hits-fran%C3%A7ais/pl.4a51dbe8d63245ada8fcfdf59b046245"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 100,
+      "id": "pl.4a51dbe8d63245ada8fcfdf59b046245",
+      "name": "Hits français",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/7a/ee/b5/7aeeb56d-adc4-86ef-b263-933743395765/1643f97d-87f0-4506-9703-7b1dc597687d.png/100x100SC.DN02.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/hits-fran%C3%A7ais/pl.4a51dbe8d63245ada8fcfdf59b046245"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 4,
+      "id": "pl.4a51dbe8d63245ada8fcfdf59b046245",
+      "name": "Hits français",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/7a/ee/b5/7aeeb56d-adc4-86ef-b263-933743395765/1643f97d-87f0-4506-9703-7b1dc597687d.png/100x100SC.DN02.jpg?l=fr-FR",
       "genres": [],
       "url": "https://music.apple.com/fr/playlist/hits-fran%C3%A7ais/pl.4a51dbe8d63245ada8fcfdf59b046245"
     }

@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 85,
+      "artistName": "Saamou",
+      "id": "6817438793",
+      "name": "Shadow Killa",
+      "releaseDate": "2026-10-30",
+      "kind": "albums",
+      "artistId": "1737829059",
+      "artistUrl": "https://music.apple.com/fr/artist/saamou/1737829059",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/10/61/621061c4-5c37-66a2-702a-232db1ed565d/520fe9f1-1830-4f8b-b767-b576ef5b6e86.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/shadow-killa/6817438793"
+    }
+  ]
+}

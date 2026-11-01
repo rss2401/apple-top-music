@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 69,
+      "artistName": "JISOO",
+      "id": "6829068796",
+      "name": "ADDICTED",
+      "releaseDate": "2026-10-29",
+      "kind": "music-videos",
+      "artistId": "1548008317",
+      "artistUrl": "https://music.apple.com/fr/artist/jisoo/1548008317",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/83/98/7283984b-de93-c6a0-aab2-910180a4304b/USWBV2605655.sca1.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "K-pop"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/addicted/6829068796"
+    }
+  ]
+}

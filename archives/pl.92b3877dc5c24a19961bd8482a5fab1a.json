@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202610",
@@ -7,6 +7,19 @@
       "mediaType": "music",
       "feed": "top-playlists",
       "rank": 7,
+      "id": "pl.92b3877dc5c24a19961bd8482a5fab1a",
+      "name": "Sing : rap francophone",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/1e/e7/d9/1ee7d9dc-10a4-29eb-d623-e38e16910e71/9f7c90d6-66a4-4d4e-b5b0-110fbd50521d.png/100x25cc.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/sing-rap-francophone/pl.92b3877dc5c24a19961bd8482a5fab1a"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 10,
       "id": "pl.92b3877dc5c24a19961bd8482a5fab1a",
       "name": "Sing : rap francophone",
       "kind": "playlists",

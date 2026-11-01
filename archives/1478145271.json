@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 37,
+      "artistName": "John Carpenter, Cody Carpenter & Daniel Davies",
+      "id": "1478145271",
+      "name": "Halloween Theme",
+      "releaseDate": "2018-10-18",
+      "kind": "songs",
+      "artistId": "28057499",
+      "artistUrl": "https://music.apple.com/us/artist/john-carpenter/28057499",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/8e/b5/d78eb5d8-7324-ca30-13c7-e61c0b762557/57818.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "16",
+          "name": "Soundtrack",
+          "url": "https://itunes.apple.com/us/genre/id16"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/halloween-theme/1478145268?i=1478145271"
+    }
+  ]
+}

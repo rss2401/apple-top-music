@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 95,
+      "artistName": "Lil Wayne",
+      "id": "1440737099",
+      "name": "Tha Carter III",
+      "releaseDate": "2008-06-10",
+      "kind": "albums",
+      "artistId": "5869117",
+      "artistUrl": "https://music.apple.com/us/artist/lil-wayne/5869117",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/f8/21/6cf8210e-4c82-2b9a-8213-0d3ce0df5bdb/08UMGIM10308.rgb.jpg/100x99bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/tha-carter-iii/1440737099"
+    }
+  ]
+}

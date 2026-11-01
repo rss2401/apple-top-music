@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 51,
+      "artistName": "Donovan",
+      "id": "516667494",
+      "name": "Season of the Witch",
+      "releaseDate": "1966-08-26",
+      "kind": "songs",
+      "artistId": "396660",
+      "artistUrl": "https://music.apple.com/us/artist/donovan/396660",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/8e/35/59/8e3559a2-43bc-0a73-baff-b73afa7a49e3/dj.okghpnuk.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/us/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "10",
+          "name": "Singer/Songwriter",
+          "url": "https://itunes.apple.com/us/genre/id10"
+        },
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/us/genre/id14"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/season-of-the-witch/516667182?i=516667494"
+    }
+  ]
+}

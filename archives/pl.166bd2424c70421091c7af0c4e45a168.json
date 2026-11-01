@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 95,
+      "id": "pl.166bd2424c70421091c7af0c4e45a168",
+      "name": "PREGAME PARTY SONGS 2026",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/bYpsDC7087v-vkqK4KgSAg/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/pregame-party-songs-2026/pl.166bd2424c70421091c7af0c4e45a168"
+    }
+  ]
+}

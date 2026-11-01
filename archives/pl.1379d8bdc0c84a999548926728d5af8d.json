@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 97,
+      "id": "pl.1379d8bdc0c84a999548926728d5af8d",
+      "name": "Horror Score Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/27/4c/49/274c49f0-acd8-d04d-b96c-a000f1cb3b43/f1ec203d-22b8-4882-8d52-75754bedd810.png/100x100SC.DN02.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/horror-score-essentials/pl.1379d8bdc0c84a999548926728d5af8d"
+    }
+  ]
+}

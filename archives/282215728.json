@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 42,
+      "artistName": "Bow Wow Wow",
+      "id": "282215728",
+      "name": "I Want Candy",
+      "releaseDate": "1982-05-28",
+      "kind": "songs",
+      "artistId": "636669",
+      "artistUrl": "https://music.apple.com/us/artist/bow-wow-wow/636669",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/13/cb/dc/mzi.ezufbuqt.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/us/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "20",
+          "name": "Alternative",
+          "url": "https://itunes.apple.com/us/genre/id20"
+        },
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/us/genre/id14"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/i-want-candy/282215709?i=282215728"
+    }
+  ]
+}

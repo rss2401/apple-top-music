@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 10,
   "results": [
     {
       "month": "202607",
@@ -78,6 +78,58 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/b7/f4/d8/b7f4d8af-5297-75ae-436b-6b043778d74f/84d83830-26cc-4e00-80cf-26fc55b0571b.png/100x100SC.DN02.jpg?l=fr-FR",
       "genres": [],
       "url": "https://music.apple.com/fr/playlist/viral-hits/pl.3de89e62aa3340038e08fa325c3f3f01"
+    },
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 54,
+      "id": "pl.3de89e62aa3340038e08fa325c3f3f01",
+      "name": "网络热播",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/24/b2/4a/24b24a45-1a05-e8de-061f-f6432b666e77/d2f15d32-25ff-4037-941a-5fc616bb6b24.png/100x100SC.DN02.jpg?l=zh-Hans",
+      "genres": [],
+      "url": "https://music.apple.com/cn/playlist/%E7%BD%91%E7%BB%9C%E7%83%AD%E6%92%AD/pl.3de89e62aa3340038e08fa325c3f3f01"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 16,
+      "id": "pl.3de89e62aa3340038e08fa325c3f3f01",
+      "name": "Viral Hits",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/61/7d/30/617d3078-c58b-be54-191a-eadc02911aa1/b5c71b2a-7add-490e-b665-1eafec14fe11.png/100x100SC.DN02.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/viral-hits/pl.3de89e62aa3340038e08fa325c3f3f01"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 40,
+      "id": "pl.3de89e62aa3340038e08fa325c3f3f01",
+      "name": "Viral Hits",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/9a/5a/da/9a5ada82-29ba-e167-e352-676db50236e1/4df7e929-76ab-481c-bb3f-feb27fc81550.png/100x100SC.DN02.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/viral-hits/pl.3de89e62aa3340038e08fa325c3f3f01"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 87,
+      "id": "pl.3de89e62aa3340038e08fa325c3f3f01",
+      "name": "Viral Hits",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/28/52/e5/2852e50f-3c55-7d1f-449a-36467c106f17/2ad65f04-1ce7-473e-a18e-16495ea7db42.png/100x100SC.DN02.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/viral-hits/pl.3de89e62aa3340038e08fa325c3f3f01"
     }
   ]
 }
