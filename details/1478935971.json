@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 569925101,
+      "collectionId": 1478935963,
+      "trackId": 1478935971,
+      "artistName": "Migos, KAROL G, Snoop Dogg & Rock Mafia",
+      "collectionName": "My Family (From \"The Addams Family\" Original Motion Picture Soundtrack) - Single",
+      "trackName": "My Family (From \"The Addams Family\" Original Motion Picture Soundtrack)",
+      "collectionCensoredName": "My Family (From \"The Addams Family\" Original Motion Picture Soundtrack) - Single",
+      "trackCensoredName": "My Family (From \"The Addams Family\" Original Motion Picture Soundtrack)",
+      "artistViewUrl": "https://music.apple.com/us/artist/migos/569925101?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/my-family-from-the-addams-family-original-motion/1478935963?i=1478935971&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/my-family-from-the-addams-family-original-motion/1478935963?i=1478935971&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/a0/1a/89a01a91-cbb3-c3a2-1799-aacfc8ed9002/mzaf_9193468641244550980.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/ea/c4/89eac4fe-5f1e-209e-e4a7-830052e1d2b3/190296878138.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/ea/c4/89eac4fe-5f1e-209e-e4a7-830052e1d2b3/190296878138.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/ea/c4/89eac4fe-5f1e-209e-e4a7-830052e1d2b3/190296878138.jpg/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "trackPrice": 1.29,
+      "releaseDate": "2019-09-13T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 177353,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Soundtrack",
+      "isStreamable": true
+    }
+  ]
+}

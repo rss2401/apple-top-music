@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 5869117,
+      "collectionId": 1440737099,
+      "amgArtistId": 384397,
+      "artistName": "Lil Wayne",
+      "collectionName": "Tha Carter III",
+      "collectionCensoredName": "Tha Carter III",
+      "artistViewUrl": "https://music.apple.com/us/artist/lil-wayne/5869117?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/tha-carter-iii/1440737099?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/f8/21/6cf8210e-4c82-2b9a-8213-0d3ce0df5bdb/08UMGIM10308.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/f8/21/6cf8210e-4c82-2b9a-8213-0d3ce0df5bdb/08UMGIM10308.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 18,
+      "copyright": "℗ 2008 Cash Money Records Inc.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2008-06-10T07:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

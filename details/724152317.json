@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 529355,
+      "collectionId": 724152155,
+      "trackId": 724152317,
+      "artistName": "Classics IV",
+      "collectionName": "The Very Best of Classics IV",
+      "trackName": "Spooky",
+      "collectionCensoredName": "The Very Best of Classics IV",
+      "trackCensoredName": "Spooky",
+      "artistViewUrl": "https://music.apple.com/us/artist/classics-iv/529355?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/spooky/724152155?i=724152317&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/spooky/724152155?i=724152317&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/ca/7e/faca7e3d-c1ee-322f-a82f-69f9b2fc897d/mzaf_5322970062933186286.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/0a/dd/8f0add26-1d72-45e5-8a8d-7f035cb33ac2/00077779147250.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/0a/dd/8f0add26-1d72-45e5-8a8d-7f035cb33ac2/00077779147250.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/0a/dd/8f0add26-1d72-45e5-8a8d-7f035cb33ac2/00077779147250.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1975-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 10,
+      "trackNumber": 1,
+      "trackTimeMillis": 175867,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ]
+}

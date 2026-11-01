@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 605800394,
+      "collectionId": 1657869377,
+      "trackId": 1657869393,
+      "artistName": "SZA",
+      "collectionName": "SOS",
+      "trackName": "Kill Bill",
+      "collectionCensoredName": "SOS",
+      "trackCensoredName": "Kill Bill",
+      "artistViewUrl": "https://music.apple.com/us/artist/sza/605800394?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/2b/ea/452bead6-c7f5-82d4-f5f7-ec876014b4cc/mzaf_2905911853279084717.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2022-12-09T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 23,
+      "trackNumber": 2,
+      "trackTimeMillis": 153947,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    }
+  ]
+}

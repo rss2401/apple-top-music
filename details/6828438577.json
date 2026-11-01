@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1641213769,
+      "collectionId": 6828438577,
+      "artistName": "Philipayne",
+      "collectionName": "BLACK OPPS",
+      "collectionCensoredName": "BLACK OPPS",
+      "artistViewUrl": "https://music.apple.com/fr/artist/philipayne/1641213769?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/black-opps/6828438577?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/be/9a/54be9a08-459d-a001-ada9-7cf78eb3bdd9/1200220392865.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/be/9a/54be9a08-459d-a001-ada9-7cf78eb3bdd9/1200220392865.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 11,
+      "copyright": "℗ 2026 1X / B GROUP Production – Distribution exclusive AFRICORI / Warner Music Afrique",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-31T07:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

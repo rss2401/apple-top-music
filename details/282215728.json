@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 636669,
+      "collectionId": 282215709,
+      "trackId": 282215728,
+      "artistName": "Bow Wow Wow",
+      "collectionName": "Love, Peace & Harmony: The Best of Bow Wow Wow",
+      "trackName": "I Want Candy",
+      "collectionCensoredName": "Love, Peace & Harmony: The Best of Bow Wow Wow",
+      "trackCensoredName": "I Want Candy",
+      "artistViewUrl": "https://music.apple.com/us/artist/bow-wow-wow/636669?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/i-want-candy/282215709?i=282215728&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/i-want-candy/282215709?i=282215728&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/bb/16/aebb169d-328d-c18e-cb71-cd9262511859/mzaf_16294457237090049214.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music/13/cb/dc/mzi.ezufbuqt.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/13/cb/dc/mzi.ezufbuqt.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/13/cb/dc/mzi.ezufbuqt.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1982-05-28T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 15,
+      "trackNumber": 1,
+      "trackTimeMillis": 161884,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Rock",
+      "isStreamable": true
+    }
+  ]
+}

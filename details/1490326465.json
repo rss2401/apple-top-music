@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 3867130,
+      "collectionId": 1490326465,
+      "amgArtistId": 112461,
+      "artistName": "Ray Parker Jr.",
+      "collectionName": "Greatest Hits",
+      "collectionCensoredName": "Greatest Hits",
+      "artistViewUrl": "https://music.apple.com/us/artist/ray-parker-jr/3867130?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/greatest-hits/1490326465?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/d1/1d/f0d11daf-9585-0b16-496b-97324ce91bf9/886448098706.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/d1/1d/f0d11daf-9585-0b16-496b-97324ce91bf9/886448098706.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 14,
+      "copyright": "℗ This compilation (P) 2019 Arista Records LLC",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "1993-10-12T07:00:00Z",
+      "primaryGenreName": "R&B/Soul"
+    }
+  ]
+}

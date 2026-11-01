@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 473768129,
+      "collectionId": 1773363889,
+      "trackId": 1773364072,
+      "artistName": "China Anne McClain",
+      "collectionName": "Disney Halloween",
+      "trackName": "Calling All the Monsters",
+      "collectionCensoredName": "Disney Halloween",
+      "trackCensoredName": "Calling All the Monsters",
+      "collectionArtistId": 295712633,
+      "collectionArtistName": "Disney",
+      "artistViewUrl": "https://music.apple.com/us/artist/china-anne-mcclain/473768129?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/calling-all-the-monsters/1773363889?i=1773364072&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/calling-all-the-monsters/1773363889?i=1773364072&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/33/81/3d3381b4-ee63-eeea-b02b-5470e4fa685e/mzaf_10273637907080514980.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/bf/b2/38bfb28a-b51e-3323-6a98-06997c16c939/24UM1IM10878.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/bf/b2/38bfb28a-b51e-3323-6a98-06997c16c939/24UM1IM10878.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/bf/b2/38bfb28a-b51e-3323-6a98-06997c16c939/24UM1IM10878.rgb.jpg/100x100bb.jpg",
+      "releaseDate": "2011-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 78,
+      "trackNumber": 16,
+      "trackTimeMillis": 206676,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ]
+}

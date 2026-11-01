@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 464296584,
+      "collectionId": 1475249132,
+      "trackId": 1475249155,
+      "artistName": "Lana Del Rey",
+      "collectionName": "Season of the Witch (From the Motion Picture \"Scary Stories to Tell in the Dark\") - Single",
+      "trackName": "Season of the Witch (From the Motion Picture \"Scary Stories to Tell in the Dark\")",
+      "collectionCensoredName": "Season of the Witch (From the Motion Picture \"Scary Stories to Tell in the Dark\") - Single",
+      "trackCensoredName": "Season of the Witch (From the Motion Picture \"Scary Stories to Tell in the Dark\")",
+      "artistViewUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/season-of-the-witch-from-the-motion-picture-scary/1475249132?i=1475249155&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/season-of-the-witch-from-the-motion-picture-scary/1475249132?i=1475249155&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/c8/75/c5c8753f-6b29-7802-5c6f-980808b75b53/mzaf_7972898662245842660.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d2/db/88/d2db88db-eef9-20f9-35b8-71cba39b4f42/19UMGIM71312.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d2/db/88/d2db88db-eef9-20f9-35b8-71cba39b4f42/19UMGIM71312.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d2/db/88/d2db88db-eef9-20f9-35b8-71cba39b4f42/19UMGIM71312.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "trackPrice": 1.29,
+      "releaseDate": "2019-08-09T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 247148,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Alternative",
+      "isStreamable": true
+    }
+  ]
+}

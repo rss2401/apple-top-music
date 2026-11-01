@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 2083606,
+      "collectionId": 1744006969,
+      "trackId": 1744007373,
+      "artistName": "Creedence Clearwater Revival",
+      "collectionName": "The Best 00s Music Videos",
+      "trackName": "Bad Moon Rising",
+      "collectionCensoredName": "The Best 00s Music Videos",
+      "trackCensoredName": "Bad Moon Rising",
+      "collectionArtistId": 36270,
+      "collectionArtistName": "Various Artists",
+      "artistViewUrl": "https://music.apple.com/us/artist/creedence-clearwater-revival/2083606?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/bad-moon-rising/1744006969?i=1744007373&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/bad-moon-rising/1744006969?i=1744007373&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/96/97/c896979b-b1f2-2220-9840-53040646a425/mzaf_9667280243268968442.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/eb/78/bbeb7856-e31a-6f80-40ae-42170f4822db/24UMGIM50330.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/eb/78/bbeb7856-e31a-6f80-40ae-42170f4822db/24UMGIM50330.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/eb/78/bbeb7856-e31a-6f80-40ae-42170f4822db/24UMGIM50330.rgb.jpg/100x100bb.jpg",
+      "releaseDate": "1969-04-01T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 40,
+      "trackNumber": 27,
+      "trackTimeMillis": 141600,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Rock",
+      "isStreamable": true
+    }
+  ]
+}

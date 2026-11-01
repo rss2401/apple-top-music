@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 110374,
+      "collectionId": 1443136595,
+      "trackId": 1443136903,
+      "artistName": "Rob Zombie",
+      "collectionName": "Past, Present & Future",
+      "trackName": "Dragula",
+      "collectionCensoredName": "Past, Present & Future",
+      "trackCensoredName": "Dragula",
+      "artistViewUrl": "https://music.apple.com/us/artist/rob-zombie/110374?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/dragula/1443136595?i=1443136903&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/dragula/1443136595?i=1443136903&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/7a/17/9e7a17ea-1eb5-6d59-834c-627e898f8dfd/mzaf_15502291567665479711.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/5a/8a/5a5a8ac3-c7d9-5cc2-b855-8df12d010368/16UMGIM24177.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/5a/8a/5a5a8ac3-c7d9-5cc2-b855-8df12d010368/16UMGIM24177.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/5a/8a/5a5a8ac3-c7d9-5cc2-b855-8df12d010368/16UMGIM24177.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1998-08-24T12:00:00Z",
+      "collectionExplicitness": "cleaned",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 19,
+      "trackNumber": 9,
+      "trackTimeMillis": 222907,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Hard Rock",
+      "isStreamable": true
+    }
+  ]
+}

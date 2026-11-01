@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1548008317,
+      "trackId": 6829068796,
+      "artistName": "JISOO",
+      "trackName": "ADDICTED",
+      "trackCensoredName": "ADDICTED",
+      "artistViewUrl": "https://music.apple.com/fr/artist/jisoo/1548008317?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/addicted/6829068796?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/da/ea/ad/daeaadfc-b975-4e48-ec4c-537814a8dec1/mzvf_16955461415936090288.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/83/98/7283984b-de93-c6a0-aab2-910180a4304b/USWBV2605655.sca1.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/83/98/7283984b-de93-c6a0-aab2-910180a4304b/USWBV2605655.sca1.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/83/98/7283984b-de93-c6a0-aab2-910180a4304b/USWBV2605655.sca1.jpg/100x100bb.jpg",
+      "collectionPrice": 2.49,
+      "trackPrice": 2.49,
+      "releaseDate": "2026-10-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 180096,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "K-pop"
+    }
+  ]
+}

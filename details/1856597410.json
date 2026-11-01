@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1185191884,
+      "collectionId": 1856597410,
+      "artistName": "Meryl",
+      "collectionName": "La Dame",
+      "collectionCensoredName": "La Dame",
+      "artistViewUrl": "https://music.apple.com/fr/artist/meryl/1185191884?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/la-dame/1856597410?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/ea/08/8fea08e9-2f01-c650-a23d-8070c8266479/artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/ea/08/8fea08e9-2f01-c650-a23d-8070c8266479/artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 17,
+      "copyright": "℗ 2025 Maison Caviar",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-11-28T08:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

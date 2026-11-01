@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1641583283,
+      "collectionId": 6828008046,
+      "artistName": "Zed",
+      "collectionName": "NEPHILIM",
+      "collectionCensoredName": "NEPHILIM",
+      "artistViewUrl": "https://music.apple.com/fr/artist/zed/1641583283?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/nephilim/6828008046?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/a6/8e/d2a68e07-93b5-18d0-3694-685332052800/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/a6/8e/d2a68e07-93b5-18d0-3694-685332052800/cover.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 24,
+      "copyright": "℗ 2026 LDS PRODUCTION, under exclusive distribution to AllPoints, a division of Believe",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-11-27T08:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

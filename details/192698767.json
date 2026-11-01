@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 903417,
+      "collectionId": 192698593,
+      "trackId": 192698767,
+      "artistName": "Screamin' Jay Hawkins",
+      "collectionName": "Cow Fingers And Mosquito Pie",
+      "trackName": "I Put a Spell On You",
+      "collectionCensoredName": "Cow Fingers And Mosquito Pie",
+      "trackCensoredName": "I Put a Spell On You",
+      "artistViewUrl": "https://music.apple.com/us/artist/screamin-jay-hawkins/903417?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/i-put-a-spell-on-you/192698593?i=192698767&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/i-put-a-spell-on-you/192698593?i=192698767&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/2b/15/7f2b1527-5410-af6f-aece-a2121dd850a4/mzaf_18414303548297508305.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music/20/e5/b5/mzi.taiavvuz.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/20/e5/b5/mzi.taiavvuz.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/20/e5/b5/mzi.taiavvuz.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1953-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 19,
+      "trackNumber": 3,
+      "trackTimeMillis": 145867,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "R&B/Soul",
+      "isStreamable": true
+    }
+  ]
+}

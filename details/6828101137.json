@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 132793877,
+      "trackId": 6828101137,
+      "artistName": "Mylène Farmer",
+      "trackName": "Combien pour la nuit (feat. DJ Snake)",
+      "trackCensoredName": "Combien pour la nuit (feat. DJ Snake)",
+      "artistViewUrl": "https://music.apple.com/fr/artist/myl%C3%A8ne-farmer/132793877?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/combien-pour-la-nuit-feat-dj-snake/6828101137?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/f9/d2/41/f9d241b9-d6a2-8187-90a8-7949d11107e3/mzvf_5076989096494202573.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a5/b8/d6/a5b8d69e-9267-3e42-902d-17d5eef12457/1968749325750101.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a5/b8/d6/a5b8d69e-9267-3e42-902d-17d5eef12457/1968749325750101.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a5/b8/d6/a5b8d69e-9267-3e42-902d-17d5eef12457/1968749325750101.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2026-10-28T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 281942,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Pop française"
+    }
+  ]
+}

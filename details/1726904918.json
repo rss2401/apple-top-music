@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 300117743,
+      "trackId": 1726904918,
+      "artistName": "周杰伦",
+      "trackName": "等你下课 (feat. 杨瑞代)",
+      "trackCensoredName": "等你下课 (feat. 杨瑞代)",
+      "artistViewUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743?uo=4",
+      "trackViewUrl": "https://music.apple.com/cn/music-video/%E7%AD%89%E4%BD%A0%E4%B8%8B%E8%AF%BE-feat-%E6%9D%A8%E7%91%9E%E4%BB%A3/1726904918?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/ef/f9/b9/eff9b99f-b34f-b550-11b0-29b89a380905/23UM1IM68560.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/ef/f9/b9/eff9b99f-b34f-b550-11b0-29b89a380905/23UM1IM68560.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/ef/f9/b9/eff9b99f-b34f-b550-11b0-29b89a380905/23UM1IM68560.crop.jpg/100x100bb.jpg",
+      "releaseDate": "2018-01-18T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "country": "CHN",
+      "currency": "CNY",
+      "primaryGenreName": "国语流行"
+    }
+  ]
+}

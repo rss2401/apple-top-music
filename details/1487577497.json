@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 935727853,
+      "collectionId": 1487577356,
+      "trackId": 1487577497,
+      "artistName": "Camila Cabello",
+      "collectionName": "Romance",
+      "trackName": "My Oh My (feat. DaBaby)",
+      "collectionCensoredName": "Romance",
+      "trackCensoredName": "My Oh My (feat. DaBaby)",
+      "artistViewUrl": "https://music.apple.com/us/artist/camila-cabello/935727853?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/my-oh-my-feat-dababy/1487577356?i=1487577497&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/my-oh-my-feat-dababy/1487577356?i=1487577497&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/c2/28/e3c22828-281c-b3e6-3553-a1690784f677/mzaf_2558720137181385830.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/d5/7e/c5d57e36-4270-8730-d009-5e82a71016f7/886448121220.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/d5/7e/c5d57e36-4270-8730-d009-5e82a71016f7/886448121220.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/d5/7e/c5d57e36-4270-8730-d009-5e82a71016f7/886448121220.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2019-12-06T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 14,
+      "trackNumber": 4,
+      "trackTimeMillis": 171375,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ]
+}

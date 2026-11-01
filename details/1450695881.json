@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1065981054,
+      "collectionId": 1450695723,
+      "trackId": 1450695881,
+      "artistName": "Billie Eilish",
+      "collectionName": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "trackName": "bury a friend",
+      "collectionCensoredName": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "trackCensoredName": "bury a friend",
+      "artistViewUrl": "https://music.apple.com/us/artist/billie-eilish/1065981054?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/bury-a-friend/1450695723?i=1450695881&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/bury-a-friend/1450695723?i=1450695881&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/f8/14/34f81471-60c1-03fd-8612-4c69989b2b80/mzaf_6498312954680902777.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2019-01-29T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 14,
+      "trackNumber": 10,
+      "trackTimeMillis": 193149,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Alternative",
+      "isStreamable": true
+    }
+  ]
+}

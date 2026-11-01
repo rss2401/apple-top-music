@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1614546823,
+      "collectionId": 206201734,
+      "trackId": 206201760,
+      "artistName": "DJ Jazzy Jeff & The Fresh Prince",
+      "collectionName": "Greatest Hits",
+      "trackName": "A Nightmare on My Street",
+      "collectionCensoredName": "Greatest Hits",
+      "trackCensoredName": "A Nightmare on My Street",
+      "collectionArtistId": 628845,
+      "collectionArtistName": "Will Smith",
+      "collectionArtistViewUrl": "https://music.apple.com/us/artist/will-smith/628845?uo=4",
+      "artistViewUrl": "https://music.apple.com/us/artist/dj-jazzy-jeff-the-fresh-prince/1614546823?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/a-nightmare-on-my-street/206201734?i=206201760&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/a-nightmare-on-my-street/206201734?i=206201760&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/4a/65/e04a6588-cdd7-cbd7-f2e8-7ed57af5acaa/mzaf_3360706516268960418.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/86/2b/83862bab-beb9-5736-509e-74eb6f261e83/dj.qtjkodwa.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/86/2b/83862bab-beb9-5736-509e-74eb6f261e83/dj.qtjkodwa.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/86/2b/83862bab-beb9-5736-509e-74eb6f261e83/dj.qtjkodwa.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1988-03-29T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 15,
+      "trackNumber": 3,
+      "trackTimeMillis": 298640,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Hip-Hop/Rap",
+      "isStreamable": true
+    }
+  ]
+}
