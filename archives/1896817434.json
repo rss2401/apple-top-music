@@ -1,5 +1,5 @@
 {
-  "resultCount": 14,
+  "resultCount": 13,
   "results": [
     {
       "month": "202607",
@@ -237,7 +237,7 @@
       "country": "gb",
       "mediaType": "music",
       "feed": "top-music-videos",
-      "rank": 6,
+      "rank": 5,
       "artistName": "Shakira & Burna Boy",
       "id": "1896817434",
       "name": "Dai Dai",
@@ -255,31 +255,10 @@
     },
     {
       "month": "202611",
-      "country": "jp",
-      "mediaType": "music",
-      "feed": "top-music-videos",
-      "rank": 92,
-      "artistName": "シャキーラ & バーナ・ボーイ",
-      "id": "1896817434",
-      "name": "Dai Dai",
-      "releaseDate": "2026-05-23",
-      "kind": "music-videos",
-      "artistId": "889327",
-      "artistUrl": "https://music.apple.com/jp/artist/%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%BC%E3%83%A9/889327",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/99/33/b4/9933b445-a7c9-017d-efb5-a37464cd68c3/1968743286060101.jpg/100x56mv.jpg",
-      "genres": [
-        {
-          "name": "スペイン語ポップ"
-        }
-      ],
-      "url": "https://music.apple.com/jp/music-video/dai-dai/1896817434"
-    },
-    {
-      "month": "202611",
       "country": "us",
       "mediaType": "music",
       "feed": "top-music-videos",
-      "rank": 62,
+      "rank": 55,
       "artistName": "Shakira & Burna Boy",
       "id": "1896817434",
       "name": "Dai Dai",

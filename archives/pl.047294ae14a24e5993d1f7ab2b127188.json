@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 4,
   "results": [
     {
       "month": "202610",
@@ -13,6 +13,45 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/77/47/65/774765f4-1637-83be-c8c0-5e7d90dee202/U0MtTVMtV1ctUHVyZV9Nb3RpdmF0aW9uLUFEQU1fSUQ9MTI4NzEwMjE2NS5wbmc.png/100x100SC.DN02.jpg?l=de-DE",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/pure-motivation/pl.047294ae14a24e5993d1f7ab2b127188"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 79,
+      "id": "pl.047294ae14a24e5993d1f7ab2b127188",
+      "name": "Pure Motivation",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/77/47/65/774765f4-1637-83be-c8c0-5e7d90dee202/U0MtTVMtV1ctUHVyZV9Nb3RpdmF0aW9uLUFEQU1fSUQ9MTI4NzEwMjE2NS5wbmc.png/100x100SC.DN02.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/pure-motivation/pl.047294ae14a24e5993d1f7ab2b127188"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 85,
+      "id": "pl.047294ae14a24e5993d1f7ab2b127188",
+      "name": "Pour se motiver",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/77/47/65/774765f4-1637-83be-c8c0-5e7d90dee202/U0MtTVMtV1ctUHVyZV9Nb3RpdmF0aW9uLUFEQU1fSUQ9MTI4NzEwMjE2NS5wbmc.png/100x100SC.DN02.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/pour-se-motiver/pl.047294ae14a24e5993d1f7ab2b127188"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 87,
+      "id": "pl.047294ae14a24e5993d1f7ab2b127188",
+      "name": "Pure Motivation",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/77/47/65/774765f4-1637-83be-c8c0-5e7d90dee202/U0MtTVMtV1ctUHVyZV9Nb3RpdmF0aW9uLUFEQU1fSUQ9MTI4NzEwMjE2NS5wbmc.png/100x100SC.DN02.jpg?l=en-GB",
+      "genres": [],
+      "url": "https://music.apple.com/gb/playlist/pure-motivation/pl.047294ae14a24e5993d1f7ab2b127188"
     }
   ]
 }

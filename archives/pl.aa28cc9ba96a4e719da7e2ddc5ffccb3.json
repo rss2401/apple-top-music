@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 91,
+      "id": "pl.aa28cc9ba96a4e719da7e2ddc5ffccb3",
+      "name": "Entspannung weltweit",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/57/4f/75/574f7542-ab37-3976-c8b9-439786d0ad5b/b7a38818-629f-43a8-aa41-c87175b986cf.png/100x100SC.DN02.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/entspannung-weltweit/pl.aa28cc9ba96a4e719da7e2ddc5ffccb3"
+    }
+  ]
+}

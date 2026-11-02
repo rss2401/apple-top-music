@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 99,
+      "id": "pl.f057cba5b7cd417f8a003341ec5dca13",
+      "name": "Jamie Miller Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/c9/12/b9/c912b9c3-aaa0-0f2f-abb1-824065a2255d/file_cropped.png/100x100SC.FPESS05.jpg?l=en-GB",
+      "genres": [],
+      "url": "https://music.apple.com/gb/playlist/jamie-miller-essentials/pl.f057cba5b7cd417f8a003341ec5dca13"
+    }
+  ]
+}

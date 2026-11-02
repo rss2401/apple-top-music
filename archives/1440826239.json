@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202611",
@@ -39,6 +39,45 @@
         }
       ],
       "url": "https://music.apple.com/cn/album/beauty-behind-the-madness/1440826239"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 98,
+      "artistName": "The Weeknd",
+      "id": "1440826239",
+      "name": "Beauty Behind the Madness",
+      "releaseDate": "2015-08-28",
+      "kind": "albums",
+      "artistId": "479756766",
+      "artistUrl": "https://music.apple.com/us/artist/the-weeknd/479756766",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/cd/1a/40cd1a65-7948-eb96-74c6-1c4b3497456c/15UMGIM36513.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "15",
+          "name": "R&B/Soul",
+          "url": "https://itunes.apple.com/us/genre/id15"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "17",
+          "name": "Dance",
+          "url": "https://itunes.apple.com/us/genre/id17"
+        },
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/us/genre/id21"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/beauty-behind-the-madness/1440826239"
     }
   ]
 }

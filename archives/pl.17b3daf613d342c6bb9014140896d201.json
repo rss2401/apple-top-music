@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 47,
+      "id": "pl.17b3daf613d342c6bb9014140896d201",
+      "name": "Gen Hoshino Monthly｜November 2026",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/6XKTT0o2dyQpTrTeiR141Q/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/jp/playlist/gen-hoshino-monthly-november-2026/pl.17b3daf613d342c6bb9014140896d201"
+    }
+  ]
+}

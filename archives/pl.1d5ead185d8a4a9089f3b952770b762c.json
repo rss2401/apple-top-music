@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 7,
   "results": [
     {
       "month": "202607",
@@ -58,7 +58,7 @@
       "country": "de",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 94,
+      "rank": 65,
       "id": "pl.1d5ead185d8a4a9089f3b952770b762c",
       "name": "Lo-Fi Chill",
       "kind": "playlists",
@@ -68,10 +68,23 @@
     },
     {
       "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 99,
+      "id": "pl.1d5ead185d8a4a9089f3b952770b762c",
+      "name": "Lo-Fiチル",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/3e/2a/09/3e2a0903-d0b5-d43a-9d00-c94ea1767579/61088f1a-08a9-4717-9909-3838749b2d01.png/100x100SC.DN02.jpg?l=ja-JP",
+      "genres": [],
+      "url": "https://music.apple.com/jp/playlist/lo-fi%E3%83%81%E3%83%AB/pl.1d5ead185d8a4a9089f3b952770b762c"
+    },
+    {
+      "month": "202611",
       "country": "us",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 42,
+      "rank": 25,
       "id": "pl.1d5ead185d8a4a9089f3b952770b762c",
       "name": "Lo-Fi Chill",
       "kind": "playlists",

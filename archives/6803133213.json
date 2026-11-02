@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 97,
+      "artistName": "Against The Current",
+      "id": "6803133213",
+      "name": "Till Death & Back",
+      "releaseDate": "2026-10-30",
+      "kind": "albums",
+      "artistId": "545086911",
+      "artistUrl": "https://music.apple.com/de/artist/against-the-current/545086911",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/8e/d1/8a8ed107-96fd-1e52-0a99-7090f3de8536/193436483988_FINALTDAB.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/de/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/till-death-back/6803133213"
+    }
+  ]
+}

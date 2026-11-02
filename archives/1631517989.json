@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 89,
+      "artistName": "Benjamin Blümchen",
+      "id": "1631517989",
+      "name": "Schlafliedchen",
+      "releaseDate": "2023-06-23",
+      "kind": "songs",
+      "artistId": "215716521",
+      "artistUrl": "https://music.apple.com/de/artist/benjamin-bl%C3%BCmchen/215716521",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/c7/1b/1ec71bb0-9b5a-2d67-0de2-cd9319a1349c/5054197222290.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "4",
+          "name": "Musik für Kinder",
+          "url": "https://itunes.apple.com/de/genre/id4"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/schlafliedchen/1631517975?i=1631517989"
+    }
+  ]
+}

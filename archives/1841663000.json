@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 98,
+      "artistName": "Reema & ELIJAH PRESLY",
+      "id": "1841663000",
+      "name": "The Mask",
+      "releaseDate": "2025-09-05",
+      "kind": "music-videos",
+      "artistId": "1436416963",
+      "artistUrl": "https://music.apple.com/de/artist/reema/1436416963",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9c/8f/19/9c8f1975-1f83-6bac-7518-224a59207c53/cover.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Pop"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/the-mask/1841663000"
+    }
+  ]
+}
