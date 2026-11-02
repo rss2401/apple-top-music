@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 993038489,
+      "collectionId": 1417709876,
+      "trackId": 1417710815,
+      "artistName": "SleepTherapy",
+      "collectionName": "Brown Noise: Loops for Relaxation, Deep Sleep, Meditation, And Babies",
+      "trackName": "Brown Noise Loop",
+      "collectionCensoredName": "Brown Noise: Loops for Relaxation, Deep Sleep, Meditation, And Babies",
+      "trackCensoredName": "Brown Noise Loop",
+      "artistViewUrl": "https://music.apple.com/gb/artist/sleeptherapy/993038489?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/brown-noise-loop/1417709876?i=1417710815&uo=4",
+      "trackViewUrl": "https://music.apple.com/gb/album/brown-noise-loop/1417709876?i=1417710815&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/40/e2/1a40e2fc-8490-71b0-68ce-97ece9becfba/mzaf_13599025879404248101.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/21/1e/77/211e77f4-beed-c073-526c-c182bbed597f/859727751685_cover.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/21/1e/77/211e77f4-beed-c073-526c-c182bbed597f/859727751685_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/21/1e/77/211e77f4-beed-c073-526c-c182bbed597f/859727751685_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "trackPrice": 0.79,
+      "releaseDate": "2018-07-17T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 8,
+      "trackNumber": 8,
+      "trackTimeMillis": 594973,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "New Age",
+      "isStreamable": true
+    }
+  ]
+}

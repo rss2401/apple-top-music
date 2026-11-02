@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 215716521,
+      "collectionId": 1631517975,
+      "trackId": 1631517989,
+      "artistName": "Benjamin Blümchen",
+      "collectionName": "Gute-Nacht-Geschichten - Folge 33: Im Reisefieber",
+      "trackName": "Schlafliedchen",
+      "collectionCensoredName": "Gute-Nacht-Geschichten - Folge 33: Im Reisefieber",
+      "trackCensoredName": "Schlafliedchen",
+      "artistViewUrl": "https://music.apple.com/de/artist/benjamin-bl%C3%BCmchen/215716521?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/schlafliedchen/1631517975?i=1631517989&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/schlafliedchen/1631517975?i=1631517989&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/91/41/eb9141eb-483c-ea5b-46af-ef0c890606f4/mzaf_11753326183519820851.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/c7/1b/1ec71bb0-9b5a-2d67-0de2-cd9319a1349c/5054197222290.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/c7/1b/1ec71bb0-9b5a-2d67-0de2-cd9319a1349c/5054197222290.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/c7/1b/1ec71bb0-9b5a-2d67-0de2-cd9319a1349c/5054197222290.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2023-06-23T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 26,
+      "trackNumber": 1,
+      "trackTimeMillis": 53859,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder",
+      "isStreamable": true
+    }
+  ]
+}
