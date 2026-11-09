@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "de",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Mon, 2 Nov 2026 12:39:00 +0000",
+    "updated": "Mon, 9 Nov 2026 13:03:33 +0000",
     "results": [
       {
         "artistName": "Shakira & Burna Boy",
@@ -33,100 +33,36 @@
         "url": "https://music.apple.com/de/music-video/dai-dai/1896817434"
       },
       {
-        "artistName": "Tate McRae",
-        "id": "6825033954",
-        "name": "Housewife (Live from The Victoria's Secret Fashion Show 2026)",
-        "releaseDate": "2026-10-20",
+        "artistName": "Jack Harlow",
+        "id": "6829221600",
+        "name": "SWEET ACTION II",
+        "releaseDate": "2026-11-06",
         "kind": "music-videos",
-        "artistId": "1446365464",
-        "artistUrl": "https://music.apple.com/de/artist/tate-mcrae/1446365464",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/fb/f9/a0/fbf9a011-d4aa-e390-1ba2-00c2fe32b212/1968749092320101.jpg/100x56mv.jpg",
+        "artistId": "1047679432",
+        "artistUrl": "https://music.apple.com/de/artist/jack-harlow/1047679432",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/27/2e/7f/272e7fa6-715d-bb44-ce92-6396b4d9324b/USATV2611517.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-Hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/sweet-action-ii/6829221600"
+      },
+      {
+        "artistName": "Bibi Blocksberg & Vanessa Mai",
+        "id": "6828594302",
+        "name": "Nie wieder allein",
+        "releaseDate": "2026-11-06",
+        "kind": "music-videos",
+        "artistId": "41480004",
+        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ec/cd/90/eccd905a-4acf-13b2-9a14-c2b2807680d0/DEA622602085.sca1.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/housewife-live-from-the-victorias-secret-fashion-show-2026/6825033954"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828442748",
-        "name": "Your Song (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/cd/23/15/cd2315b7-9b36-d69a-71ad-cfcec4a44f37/26UM1IM28522.crop.jpg/100x57mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/your-song-apple-music-live/6828442748"
-      },
-      {
-        "artistName": "Tate McRae",
-        "id": "6823265158",
-        "name": "Housewife",
-        "releaseDate": "2026-10-15",
-        "kind": "music-videos",
-        "artistId": "1446365464",
-        "artistUrl": "https://music.apple.com/de/artist/tate-mcrae/1446365464",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/62/87/94/62879474-c631-1382-da11-1f174bc5cd05/1968748401600101.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/housewife/6823265158"
-      },
-      {
-        "artistName": "ZAH1DE",
-        "id": "6828370399",
-        "name": "Chayas & Cuzengs",
-        "releaseDate": "2026-10-29",
-        "kind": "music-videos",
-        "artistId": "1777844976",
-        "artistUrl": "https://music.apple.com/de/artist/zah1de/1777844976",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/27/80/58/278058d2-7f9c-0dbe-1c66-ea18e168183a/26UM1IM38139.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-Hop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/chayas-cuzengs/6828370399"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443081",
-        "name": "The Greatest Discovery (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c9/d2/75/c9d27508-d3a8-f5d8-fee4-359ed6828d7f/26UM1IM28521.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/the-greatest-discovery-apple-music-live/6828443081"
-      },
-      {
-        "artistName": "Shakira",
-        "id": "376383425",
-        "name": "Waka Waka (This Time for Africa) [English Version] [The Official 2010 FIFA World Cup (TM) Song] [feat. Freshlyground]",
-        "releaseDate": "2010-06-04",
-        "kind": "music-videos",
-        "artistId": "889327",
-        "artistUrl": "https://music.apple.com/de/artist/shakira/889327",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video/90/db/27/dj.svxjlvbh.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/waka-waka-this-time-for-africa-english-version-the/376383425"
+        "url": "https://music.apple.com/de/music-video/nie-wieder-allein/6828594302"
       },
       {
         "artistName": "Olivia Rodrigo",
@@ -145,6 +81,70 @@
         "url": "https://music.apple.com/de/music-video/you-seem-pretty-sad-for-a-girl-so-in-love/1889992132"
       },
       {
+        "artistName": "Tate McRae",
+        "id": "6823265158",
+        "name": "Housewife",
+        "releaseDate": "2026-10-15",
+        "kind": "music-videos",
+        "artistId": "1446365464",
+        "artistUrl": "https://music.apple.com/de/artist/tate-mcrae/1446365464",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/62/87/94/62879474-c631-1382-da11-1f174bc5cd05/1968748401600101.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/housewife/6823265158"
+      },
+      {
+        "artistName": "Tate McRae",
+        "id": "6825033954",
+        "name": "Housewife (Live from The Victoria's Secret Fashion Show 2026)",
+        "releaseDate": "2026-10-20",
+        "kind": "music-videos",
+        "artistId": "1446365464",
+        "artistUrl": "https://music.apple.com/de/artist/tate-mcrae/1446365464",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/fb/f9/a0/fbf9a011-d4aa-e390-1ba2-00c2fe32b212/1968749092320101.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/housewife-live-from-the-victorias-secret-fashion-show-2026/6825033954"
+      },
+      {
+        "artistName": "Shakira",
+        "id": "376383425",
+        "name": "Waka Waka (This Time for Africa) [English Version] [The Official 2010 FIFA World Cup (TM) Song] [feat. Freshlyground]",
+        "releaseDate": "2010-06-04",
+        "kind": "music-videos",
+        "artistId": "889327",
+        "artistUrl": "https://music.apple.com/de/artist/shakira/889327",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video/90/db/27/dj.svxjlvbh.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/waka-waka-this-time-for-africa-english-version-the/376383425"
+      },
+      {
+        "artistName": "Die Schule der magischen Tiere",
+        "id": "1840742648",
+        "name": "Ich bin ein Star",
+        "releaseDate": "2025-09-19",
+        "kind": "music-videos",
+        "artistId": "1328909127",
+        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/61/6b/a4/616ba491-b5b5-f66d-fc78-c7938d632e69/25UM1IM26628.crop.jpg/100x41mv.jpg",
+        "genres": [
+          {
+            "name": "Filmmusik"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/ich-bin-ein-star/1840742648"
+      },
+      {
         "artistName": "Hurra Kinderlieder",
         "id": "6819628395",
         "name": "Achtung! Gefährliches Tier",
@@ -161,6 +161,22 @@
         "url": "https://music.apple.com/de/music-video/achtung-gef%C3%A4hrliches-tier/6819628395"
       },
       {
+        "artistName": "Hurra Kinderlieder",
+        "id": "1485055591",
+        "name": "Hacki Backi",
+        "releaseDate": "2018-08-31",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/03/b1/4e/03b14eda-b448-1d0d-66e6-7fc4c3ea3d26/19UMGIM94482.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/hacki-backi/1485055591"
+      },
+      {
         "artistName": "Bibi und Tina & Hella Gabbert",
         "id": "6805129986",
         "name": "Im Galopp ins Abenteuer",
@@ -175,6 +191,70 @@
           }
         ],
         "url": "https://music.apple.com/de/music-video/im-galopp-ins-abenteuer/6805129986"
+      },
+      {
+        "artistName": "ZAH1DE",
+        "id": "6828370399",
+        "name": "Chayas & Cuzengs",
+        "releaseDate": "2026-10-29",
+        "kind": "music-videos",
+        "artistId": "1777844976",
+        "artistUrl": "https://music.apple.com/de/artist/zah1de/1777844976",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/27/80/58/278058d2-7f9c-0dbe-1c66-ea18e168183a/26UM1IM38139.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-Hop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/chayas-cuzengs/6828370399"
+      },
+      {
+        "artistName": "Hurra Kinderlieder",
+        "id": "6805428179",
+        "name": "Dein Freund die Ampel",
+        "releaseDate": "2026-09-11",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/22/14/b6/2214b6f3-bf50-ac06-33ea-52c1ed81c2ec/26UM1IM08383.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/dein-freund-die-ampel/6805428179"
+      },
+      {
+        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
+        "id": "6815162118",
+        "name": "Freiflug durch die Wolken (feat. NALA, Carmen Diego)",
+        "releaseDate": "2026-09-25",
+        "kind": "music-videos",
+        "artistId": "41480004",
+        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a2/60/cf/a260cfc5-e643-0f86-64ec-9707fc9537c6/DEA622601851.sca1.jpg/100x43mv.jpg",
+        "genres": [
+          {
+            "name": "Filmmusik"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/freiflug-durch-die-wolken-feat-nala-carmen-diego/6815162118"
+      },
+      {
+        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
+        "id": "6813170607",
+        "name": "Nachts im Museum (feat. NALA)",
+        "releaseDate": "2026-09-25",
+        "kind": "music-videos",
+        "artistId": "41480004",
+        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/31/5e/09/315e0963-716d-fe34-dead-b16fd95420f7/DEA622601848.sca1.jpg/100x43mv.jpg",
+        "genres": [
+          {
+            "name": "Filmmusik"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/nachts-im-museum-feat-nala/6813170607"
       },
       {
         "artistName": "Taylor Swift",
@@ -194,179 +274,19 @@
       },
       {
         "artistName": "Die Schule der magischen Tiere",
-        "id": "1840742648",
-        "name": "Ich bin ein Star",
-        "releaseDate": "2025-09-19",
+        "id": "1838955930",
+        "name": "Sei wie du bist",
+        "releaseDate": "2025-09-12",
         "kind": "music-videos",
         "artistId": "1328909127",
         "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/61/6b/a4/616ba491-b5b5-f66d-fc78-c7938d632e69/25UM1IM26628.crop.jpg/100x41mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8c/5e/e9/8c5ee940-0ae1-2650-0923-4df6ae96c5a5/25UM1IM26627.crop.jpg/100x41mv.jpg",
         "genres": [
           {
             "name": "Filmmusik"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/ich-bin-ein-star/1840742648"
-      },
-      {
-        "artistName": "Michael Jackson",
-        "id": "273048822",
-        "name": "Thriller",
-        "releaseDate": "1983-12-02",
-        "kind": "music-videos",
-        "artistId": "32940",
-        "artistUrl": "https://music.apple.com/de/artist/michael-jackson/32940",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/cd/bd/9d/cdbd9d6e-0de3-c7e9-ef53-2bfe64c42705/dj.uwxtpbco.jpg/100x72mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/thriller/273048822"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443082",
-        "name": "Border Song (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ff/8f/fc/ff8ffc92-b8d5-5eb9-5441-76c6e9bd83ca/26UM1IM28523.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/border-song-apple-music-live/6828443082"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443086",
-        "name": "Bennie And The Jets (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/36/4d/c4/364dc448-e3be-212f-9035-10ab727a1377/26UM1IM28520.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/bennie-and-the-jets-apple-music-live/6828443086"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443087",
-        "name": "I Guess That's Why They Call It The Blues (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/0f/c6/20/0fc62011-4139-e3b7-1791-4603ede8e5ff/26UM1IM28524.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/i-guess-thats-why-they-call-it-the-blues-apple-music-live/6828443087"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443096",
-        "name": "Rocket Man (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/72/1e/26/721e26fa-1f87-8108-fdc7-92e8c0d64a91/26UM1IM28485.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/rocket-man-apple-music-live/6828443096"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443397",
-        "name": "Don't Let The Sun Go Down On Me (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e3/89/0a/e3890a7b-5fc0-6a58-64d9-7c7293bd7258/26UM1IM28529.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/dont-let-the-sun-go-down-on-me-apple-music-live/6828443397"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443089",
-        "name": "Tiny Dancer (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/3b/11/e2/3b11e213-bc85-c10c-f64c-5df39f260256/26UM1IM28526.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/tiny-dancer-apple-music-live/6828443089"
-      },
-      {
-        "artistName": "Hurra Kinderlieder",
-        "id": "1485055591",
-        "name": "Hacki Backi",
-        "releaseDate": "2018-08-31",
-        "kind": "music-videos",
-        "artistId": "1432797144",
-        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/03/b1/4e/03b14eda-b448-1d0d-66e6-7fc4c3ea3d26/19UMGIM94482.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musik für Kinder"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/hacki-backi/1485055591"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443088",
-        "name": "Mona Lisas And Mad Hatters (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a6/d8/1f/a6d81f9d-97dd-aede-0ddb-bcf3f781421a/26UM1IM28525.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/mona-lisas-and-mad-hatters-apple-music-live/6828443088"
-      },
-      {
-        "artistName": "Hurra Kinderlieder",
-        "id": "6805428179",
-        "name": "Dein Freund die Ampel",
-        "releaseDate": "2026-09-11",
-        "kind": "music-videos",
-        "artistId": "1432797144",
-        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/22/14/b6/2214b6f3-bf50-ac06-33ea-52c1ed81c2ec/26UM1IM08383.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musik für Kinder"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/dein-freund-die-ampel/6805428179"
+        "url": "https://music.apple.com/de/music-video/sei-wie-du-bist/1838955930"
       },
       {
         "artistName": "Ariana Grande",
@@ -385,69 +305,52 @@
         "url": "https://music.apple.com/de/music-video/petal-in-the-pavement/1895421122"
       },
       {
-        "artistName": "Drake & Don Toliver",
-        "id": "6818210123",
-        "name": "Solar Eclipse",
-        "releaseDate": "2026-10-02",
+        "artistName": "Hurra Kinderlieder",
+        "id": "1590451850",
+        "name": "Bitte nicht die Bürste (Das Hacki Backi Zahnputz-Lied)",
+        "releaseDate": "2021-10-29",
         "kind": "music-videos",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/de/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f4/d3/ce/f4d3ced8-8095-a64e-3029-8de8fec09d3d/26UM1IM28173.crop.jpg/100x58mv.jpg",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/e0/59/09/e059099b-5daf-5cda-c2b2-11c7dc092f9c/21UM1IM14584.crop.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "Hip-Hop"
+            "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/solar-eclipse/6818210123"
+        "url": "https://music.apple.com/de/music-video/bitte-nicht-die-b%C3%BCrste-das-hacki-backi-zahnputz-lied/1590451850"
       },
       {
-        "artistName": "Die Schule der magischen Tiere",
-        "id": "1838955930",
-        "name": "Sei wie du bist",
-        "releaseDate": "2025-09-12",
+        "artistName": "Olivia Rodrigo",
+        "id": "6831325047",
+        "name": "take me home (4 christmas)",
+        "releaseDate": "2026-11-05",
         "kind": "music-videos",
-        "artistId": "1328909127",
-        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8c/5e/e9/8c5ee940-0ae1-2650-0923-4df6ae96c5a5/25UM1IM26627.crop.jpg/100x41mv.jpg",
-        "genres": [
-          {
-            "name": "Filmmusik"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/sei-wie-du-bist/1838955930"
-      },
-      {
-        "artistName": "LISA",
-        "id": "6804003004",
-        "name": "PRESS PLAY",
-        "releaseDate": "2026-10-23",
-        "kind": "music-videos",
-        "artistId": "1583908668",
-        "artistUrl": "https://music.apple.com/de/artist/lisa/1583908668",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/38/20/f3/3820f3e1-9860-9d4f-9b1f-e8f959254a15/1968747126960107.jpg/100x69mv.jpg",
+        "artistId": "979458609",
+        "artistUrl": "https://music.apple.com/de/artist/olivia-rodrigo/979458609",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/45/2e/e3/452ee35c-b5a6-fea6-d573-8b4117d5dbbd/26UM1IM42961.crop.jpg/100x75mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/press-play/6804003004"
+        "url": "https://music.apple.com/de/music-video/take-me-home-4-christmas/6831325047"
       },
       {
-        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
-        "id": "6813170607",
-        "name": "Nachts im Museum (feat. NALA)",
-        "releaseDate": "2026-09-25",
+        "artistName": "Die Schule der magischen Tiere",
+        "id": "1766768416",
+        "name": "Karamell",
+        "releaseDate": "2024-09-09",
         "kind": "music-videos",
-        "artistId": "41480004",
-        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/31/5e/09/315e0963-716d-fe34-dead-b16fd95420f7/DEA622601848.sca1.jpg/100x43mv.jpg",
+        "artistId": "1328909127",
+        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/0d/1f/9a/0d1f9a7d-572d-a187-4a1f-93fbf8330bf7/24UMGIM95783.crop.jpg/100x42mv.jpg",
         "genres": [
           {
-            "name": "Filmmusik"
+            "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/nachts-im-museum-feat-nala/6813170607"
+        "url": "https://music.apple.com/de/music-video/karamell/1766768416"
       },
       {
         "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
@@ -464,6 +367,22 @@
           }
         ],
         "url": "https://music.apple.com/de/music-video/hexentanz-feat-nala-fia/6813108805"
+      },
+      {
+        "artistName": "KATSEYE",
+        "id": "6825109328",
+        "name": "Animal (Live From The WILDWORLD Tour)",
+        "releaseDate": "2026-10-20",
+        "kind": "music-videos",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/cc/0e/c8/cc0ec82d-9e20-9afc-a109-4e0d918c96e4/26UM1IM33910.crop.jpg/100x32mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/animal-live-from-the-wildworld-tour/6825109328"
       },
       {
         "artistName": "Billie Eilish",
@@ -483,67 +402,19 @@
       },
       {
         "artistName": "Die Schule der magischen Tiere",
-        "id": "1766768416",
-        "name": "Karamell",
-        "releaseDate": "2024-09-09",
+        "id": "1841652721",
+        "name": "Ich renn nicht mehr weg",
+        "releaseDate": "2025-09-26",
         "kind": "music-videos",
         "artistId": "1328909127",
         "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/0d/1f/9a/0d1f9a7d-572d-a187-4a1f-93fbf8330bf7/24UMGIM95783.crop.jpg/100x42mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/2d/f4/95/2df49519-dfc2-cb2b-dd98-507c2fe24bfd/25UM1IM26629.crop.jpg/100x41mv.jpg",
         "genres": [
           {
-            "name": "Pop"
+            "name": "Filmmusik"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/karamell/1766768416"
-      },
-      {
-        "artistName": "KATSEYE",
-        "id": "6825109328",
-        "name": "Animal (Live From The WILDWORLD Tour)",
-        "releaseDate": "2026-10-20",
-        "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/cc/0e/c8/cc0ec82d-9e20-9afc-a109-4e0d918c96e4/26UM1IM33910.crop.jpg/100x32mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/animal-live-from-the-wildworld-tour/6825109328"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443388",
-        "name": "Sorry Seems To Be The Hardest Word (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/28/ea/ae/28eaae38-1fa6-c245-c596-cd3cab371ea8/26UM1IM28527.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/sorry-seems-to-be-the-hardest-word-apple-music-live/6828443388"
-      },
-      {
-        "artistName": "Hurra Kinderlieder",
-        "id": "1590451850",
-        "name": "Bitte nicht die Bürste (Das Hacki Backi Zahnputz-Lied)",
-        "releaseDate": "2021-10-29",
-        "kind": "music-videos",
-        "artistId": "1432797144",
-        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/e0/59/09/e059099b-5daf-5cda-c2b2-11c7dc092f9c/21UM1IM14584.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musik für Kinder"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/bitte-nicht-die-b%C3%BCrste-das-hacki-backi-zahnputz-lied/1590451850"
+        "url": "https://music.apple.com/de/music-video/ich-renn-nicht-mehr-weg/1841652721"
       },
       {
         "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
@@ -563,35 +434,83 @@
       },
       {
         "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
-        "id": "6815162118",
-        "name": "Freiflug durch die Wolken (feat. NALA, Carmen Diego)",
+        "id": "6813171059",
+        "name": "Ungewöhnlich (feat. NALA, Friedrich Mücke)",
         "releaseDate": "2026-09-25",
         "kind": "music-videos",
         "artistId": "41480004",
         "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a2/60/cf/a260cfc5-e643-0f86-64ec-9707fc9537c6/DEA622601851.sca1.jpg/100x43mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/c6/72/26c6726a-f2a0-bd96-c3c1-e516efd31ff8/DEA622601850.sca1.jpg/100x43mv.jpg",
         "genres": [
           {
             "name": "Filmmusik"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/freiflug-durch-die-wolken-feat-nala-carmen-diego/6815162118"
+        "url": "https://music.apple.com/de/music-video/ungew%C3%B6hnlich-feat-nala-friedrich-m%C3%BCcke/6813171059"
       },
       {
-        "artistName": "Bibi und Tina & Hella Gabbert",
-        "id": "6795678332",
-        "name": "Im Galopp ins Abenteuer",
-        "releaseDate": "2026-07-18",
+        "artistName": "Lina Larissa Strahl, Lisa-Marie Koroll, Phil Laude & Louis H.",
+        "id": "1437309086",
+        "name": "Mädchen gegen Jungs",
+        "releaseDate": "2016-01-15",
         "kind": "music-videos",
-        "artistId": "220152697",
-        "artistUrl": "https://music.apple.com/de/artist/bibi-und-tina/220152697",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d6/da/21/d6da219f-714b-6572-651b-2d86a0ee34fa/DEA622601464.sca1.jpg/100x56mv.jpg",
+        "artistId": "619854324",
+        "artistUrl": "https://music.apple.com/de/artist/lina-larissa-strahl/619854324",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/68/ad/f2/68adf245-d6a1-041f-5949-6c4f89f36f7f/DEB581800576.sca1.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/im-galopp-ins-abenteuer/6795678332"
+        "url": "https://music.apple.com/de/music-video/m%C3%A4dchen-gegen-jungs/1437309086"
+      },
+      {
+        "artistName": "P1Harmony",
+        "id": "6827384651",
+        "name": "'BLOW UP' Special Video (side A)",
+        "releaseDate": "2026-11-06",
+        "kind": "music-videos",
+        "artistId": "1536862708",
+        "artistUrl": "https://music.apple.com/de/artist/p1harmony/1536862708",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d0/49/07/d04907f2-cbe9-87f0-ac05-51cc90126699/8800388626814_KSA002653066.jpg/100x75mv.jpg",
+        "genres": [
+          {
+            "name": "K-Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/blow-up-special-video-side-a/6827384651"
+      },
+      {
+        "artistName": "Elton John",
+        "id": "6828442748",
+        "name": "Your Song (Apple Music Live)",
+        "releaseDate": "2026-10-30",
+        "kind": "music-videos",
+        "artistId": "54657",
+        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/cd/23/15/cd2315b7-9b36-d69a-71ad-cfcec4a44f37/26UM1IM28522.crop.jpg/100x57mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/your-song-apple-music-live/6828442748"
+      },
+      {
+        "artistName": "Die Schule der magischen Tiere",
+        "id": "1869593196",
+        "name": "Winterstein!",
+        "releaseDate": "2026-01-30",
+        "kind": "music-videos",
+        "artistId": "1328909127",
+        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8d/ac/cb/8daccbf1-e425-7ad0-4ca8-4cb190fa0fdd/25UM1IM49857.crop.jpg/100x41mv.jpg",
+        "genres": [
+          {
+            "name": "Filmmusik"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/winterstein/1869593196"
       },
       {
         "artistName": "Hurra Kinderlieder",
@@ -610,20 +529,37 @@
         "url": "https://music.apple.com/de/music-video/die-lustigen-monate/6783760072"
       },
       {
-        "artistName": "Elton John",
-        "id": "6828443396",
-        "name": "Take Me To The Pilot (Apple Music Live)",
-        "releaseDate": "2026-10-30",
+        "artistName": "KATSEYE",
+        "id": "6817987915",
+        "name": "Hootie Frutti",
+        "releaseDate": "2026-10-14",
         "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/da/a7/cd/daa7cd50-7b48-78e0-67b4-4028c7f70a3a/26UM1IM28528.crop.jpg/100x56mv.jpg",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ac/22/54/ac225409-4ece-b366-f5ee-de81fdb171a2/26UM1IM03933.crop.jpg/100x76mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/take-me-to-the-pilot-apple-music-live/6828443396"
+        "url": "https://music.apple.com/de/music-video/hootie-frutti/6817987915"
+      },
+      {
+        "artistName": "Drake & Don Toliver",
+        "id": "6818210123",
+        "name": "Solar Eclipse",
+        "releaseDate": "2026-10-02",
+        "kind": "music-videos",
+        "artistId": "271256",
+        "artistUrl": "https://music.apple.com/de/artist/drake/271256",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f4/d3/ce/f4d3ced8-8095-a64e-3029-8de8fec09d3d/26UM1IM28173.crop.jpg/100x58mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-Hop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/solar-eclipse/6818210123"
       },
       {
         "artistName": "ZAH1DE",
@@ -642,36 +578,180 @@
         "url": "https://music.apple.com/de/music-video/sweet-16/6785971104"
       },
       {
-        "artistName": "Die Schule der magischen Tiere",
-        "id": "1841652721",
-        "name": "Ich renn nicht mehr weg",
-        "releaseDate": "2025-09-26",
+        "artistName": "DIKKA & Wincent Weiss",
+        "id": "6831661983",
+        "name": "Wunschzettel",
+        "releaseDate": "2026-11-06",
         "kind": "music-videos",
-        "artistId": "1328909127",
-        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/2d/f4/95/2df49519-dfc2-cb2b-dd98-507c2fe24bfd/25UM1IM26629.crop.jpg/100x41mv.jpg",
+        "artistId": "1044990457",
+        "artistUrl": "https://music.apple.com/de/artist/dikka/1044990457",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/37/b3/b5/37b3b536-2ec0-1a86-3fdb-9385fa58f1f4/26UM1IM32706.crop.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "Filmmusik"
+            "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/ich-renn-nicht-mehr-weg/1841652721"
+        "url": "https://music.apple.com/de/music-video/wunschzettel/6831661983"
       },
       {
-        "artistName": "Horror Skunx",
-        "id": "6791510301",
-        "name": "It's me, It's Verity",
-        "releaseDate": "2026-07-17",
+        "artistName": "Hurra Kinderlieder",
+        "id": "1484981016",
+        "name": "Ich bin ein kleiner Pinguin",
+        "releaseDate": "2018-02-02",
         "kind": "music-videos",
-        "artistId": "1556081615",
-        "artistUrl": "https://music.apple.com/de/artist/horror-skunx/1556081615",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8d/54/e4/8d54e4fd-5b63-2d3f-9886-a6780b3df8c2/Job5601895a-d6d9-472c-b733-1986f56ab741-235658114-PreviewImage_preview_image_15000_video_sdr-Time1784218177332.png/100x56mv.jpg",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/80/36/13/80361346-5836-569d-7532-c98ad1ed4a9a/19UMGIM94463.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/ich-bin-ein-kleiner-pinguin/1484981016"
+      },
+      {
+        "artistName": "KATSEYE",
+        "id": "6794133272",
+        "name": "Animal",
+        "releaseDate": "2026-07-24",
+        "kind": "music-videos",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b3/21/13/b32113f6-6557-55ed-8999-77e18ad69764/26UMGIM90645.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/its-me-its-verity/6791510301"
+        "url": "https://music.apple.com/de/music-video/animal/6794133272"
+      },
+      {
+        "artistName": "Rammstein",
+        "id": "6831564935",
+        "name": "Engel (Live in Mexico City)",
+        "releaseDate": "2026-11-06",
+        "kind": "music-videos",
+        "artistId": "408932",
+        "artistUrl": "https://music.apple.com/de/artist/rammstein/408932",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6f/5a/5c/6f5a5ce3-7475-302a-4520-32d80058df25/26UM1IM16793.crop.jpg/100x50mv.jpg",
+        "genres": [
+          {
+            "name": "Rock"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/engel-live-in-mexico-city/6831564935"
+      },
+      {
+        "artistName": "Die Schule der magischen Tiere",
+        "id": "1769192781",
+        "name": "Halt, das ist unser Wald",
+        "releaseDate": "2024-09-20",
+        "kind": "music-videos",
+        "artistId": "1328909127",
+        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/83/a3/33/83a33368-b269-449a-3393-94c7872aa33e/24UM1IM01835.crop.jpg/100x42mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/halt-das-ist-unser-wald/1769192781"
+      },
+      {
+        "artistName": "Hurra Kinderlieder",
+        "id": "1896765808",
+        "name": "Im Meer",
+        "releaseDate": "2026-04-24",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e4/c0/8d/e4c08d79-89fe-f0b4-ecb3-8e289a604bc4/26UMGIM56866.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/im-meer/1896765808"
+      },
+      {
+        "artistName": "KATSEYE",
+        "id": "6802413320",
+        "name": "Hootie Frutti",
+        "releaseDate": "2026-08-17",
+        "kind": "music-videos",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/25/d9/04/25d90402-5268-8ed4-5212-3aaa4f63d67a/26UM1IM03933.crop.jpg/100x76mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/hootie-frutti/6802413320"
+      },
+      {
+        "artistName": "Bibi und Tina & Hella Gabbert",
+        "id": "6795678332",
+        "name": "Im Galopp ins Abenteuer",
+        "releaseDate": "2026-07-18",
+        "kind": "music-videos",
+        "artistId": "220152697",
+        "artistUrl": "https://music.apple.com/de/artist/bibi-und-tina/220152697",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d6/da/21/d6da219f-714b-6572-651b-2d86a0ee34fa/DEA622601464.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/im-galopp-ins-abenteuer/6795678332"
+      },
+      {
+        "artistName": "Bibi und Tina",
+        "id": "1523938775",
+        "name": "Splash (feat. Peter Plate, Ulf Leo Sommer, CELINA) [from Bibi & Tina - Die Serie]",
+        "releaseDate": "2020-04-17",
+        "kind": "music-videos",
+        "artistId": "220152697",
+        "artistUrl": "https://music.apple.com/de/artist/bibi-und-tina/220152697",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/de/f1/8d/def18d4e-f349-9f9d-1c1b-9507179311ef/DEB582000704.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Filmmusik"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/splash-feat-peter-plate-ulf-leo-sommer-celina-from/1523938775"
+      },
+      {
+        "artistName": "KATSEYE",
+        "id": "6817987913",
+        "name": "Animal",
+        "releaseDate": "2026-10-14",
+        "kind": "music-videos",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5b/14/af/5b14af40-31a4-7d67-b582-7d63813ca7dd/26UMGIM90645.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/animal/6817987913"
+      },
+      {
+        "artistName": "Imogen Heap",
+        "id": "1789643782",
+        "name": "The Happy Song",
+        "releaseDate": "2016-10-17",
+        "kind": "music-videos",
+        "artistId": "22873602",
+        "artistUrl": "https://music.apple.com/de/artist/imogen-heap/22873602",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/11/88/79/118879b9-9d94-3597-b369-d8db3ae6f600/ImogenHeap_TheHappySong_STILL.jpg/100x53mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/the-happy-song/1789643782"
       },
       {
         "artistName": "Helene Fischer",
@@ -688,6 +768,38 @@
           }
         ],
         "url": "https://music.apple.com/de/music-video/warum-live-von-der-360-stadiontour-2026/6823222098"
+      },
+      {
+        "artistName": "Zara Larsson",
+        "id": "1130027642",
+        "name": "Lush Life",
+        "releaseDate": "2016-07-05",
+        "kind": "music-videos",
+        "artistId": "570372593",
+        "artistUrl": "https://music.apple.com/de/artist/zara-larsson/570372593",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video50/v4/ea/6a/4e/ea6a4e2f-5619-3d3e-30d4-a4a87e2d873a/8864459908980101VIC.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/lush-life/1130027642"
+      },
+      {
+        "artistName": "Elton John",
+        "id": "6828443081",
+        "name": "The Greatest Discovery (Apple Music Live)",
+        "releaseDate": "2026-10-30",
+        "kind": "music-videos",
+        "artistId": "54657",
+        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c9/d2/75/c9d27508-d3a8-f5d8-fee4-359ed6828d7f/26UM1IM28521.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/the-greatest-discovery-apple-music-live/6828443081"
       },
       {
         "artistName": "Drake & Qendresa",
@@ -707,132 +819,84 @@
         "url": "https://music.apple.com/de/music-video/slap-the-city/6818209994"
       },
       {
-        "artistName": "Die Schule der magischen Tiere",
-        "id": "1869593196",
-        "name": "Winterstein!",
-        "releaseDate": "2026-01-30",
+        "artistName": "Die Schule der magischen Tiere & Daniel Zillmann",
+        "id": "1862147671",
+        "name": "Ein Affe wie ich",
+        "releaseDate": "2025-12-18",
         "kind": "music-videos",
         "artistId": "1328909127",
         "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8d/ac/cb/8daccbf1-e425-7ad0-4ca8-4cb190fa0fdd/25UM1IM49857.crop.jpg/100x41mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a1/d5/d6/a1d5d6b2-3c0e-090a-5ab8-299e6ae8f844/25UM1IM49853.crop.jpg/100x41mv.jpg",
         "genres": [
           {
             "name": "Filmmusik"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/winterstein/1869593196"
+        "url": "https://music.apple.com/de/music-video/ein-affe-wie-ich/1862147671"
       },
       {
-        "artistName": "Lina Larissa Strahl, Lisa-Marie Koroll, Phil Laude & Louis H.",
-        "id": "1437309086",
-        "name": "Mädchen gegen Jungs",
-        "releaseDate": "2016-01-15",
+        "artistName": "Rammstein",
+        "id": "6818520459",
+        "name": "Sonne (Live in Mexico City)",
+        "releaseDate": "2026-10-05",
         "kind": "music-videos",
-        "artistId": "619854324",
-        "artistUrl": "https://music.apple.com/de/artist/lina-larissa-strahl/619854324",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/68/ad/f2/68adf245-d6a1-041f-5949-6c4f89f36f7f/DEB581800576.sca1.jpg/100x56mv.jpg",
+        "artistId": "408932",
+        "artistUrl": "https://music.apple.com/de/artist/rammstein/408932",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/07/bd/fa/07bdfa6c-5809-e0cd-0203-225c706cd540/26UM1IM28408.crop.jpg/100x50mv.jpg",
+        "genres": [
+          {
+            "name": "Rock"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/sonne-live-in-mexico-city/6818520459"
+      },
+      {
+        "artistName": "DIKKA",
+        "id": "6823596558",
+        "name": "Lieber Dezember",
+        "releaseDate": "2026-10-16",
+        "kind": "music-videos",
+        "artistId": "1044990457",
+        "artistUrl": "https://music.apple.com/de/artist/dikka/1044990457",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/99/60/3e/99603e02-1a8d-2913-95bb-7afa02457a81/26UM1IM29900.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/m%C3%A4dchen-gegen-jungs/1437309086"
-      },
-      {
-        "artistName": "Hurra Kinderlieder",
-        "id": "1896765808",
-        "name": "Im Meer",
-        "releaseDate": "2026-04-24",
-        "kind": "music-videos",
-        "artistId": "1432797144",
-        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e4/c0/8d/e4c08d79-89fe-f0b4-ecb3-8e289a604bc4/26UMGIM56866.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musik für Kinder"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/im-meer/1896765808"
-      },
-      {
-        "artistName": "Bibi und Tina",
-        "id": "1523938775",
-        "name": "Splash (feat. Peter Plate, Ulf Leo Sommer, CELINA) [from Bibi & Tina - Die Serie]",
-        "releaseDate": "2020-04-17",
-        "kind": "music-videos",
-        "artistId": "220152697",
-        "artistUrl": "https://music.apple.com/de/artist/bibi-und-tina/220152697",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/de/f1/8d/def18d4e-f349-9f9d-1c1b-9507179311ef/DEB582000704.sca1.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Filmmusik"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/splash-feat-peter-plate-ulf-leo-sommer-celina-from/1523938775"
-      },
-      {
-        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
-        "id": "6813171059",
-        "name": "Ungewöhnlich (feat. NALA, Friedrich Mücke)",
-        "releaseDate": "2026-09-25",
-        "kind": "music-videos",
-        "artistId": "41480004",
-        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/c6/72/26c6726a-f2a0-bd96-c3c1-e516efd31ff8/DEA622601850.sca1.jpg/100x43mv.jpg",
-        "genres": [
-          {
-            "name": "Filmmusik"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/ungew%C3%B6hnlich-feat-nala-friedrich-m%C3%BCcke/6813171059"
+        "url": "https://music.apple.com/de/music-video/lieber-dezember/6823596558"
       },
       {
         "artistName": "KATSEYE",
-        "id": "6817987915",
-        "name": "Hootie Frutti",
-        "releaseDate": "2026-10-14",
+        "id": "1759627021",
+        "name": "Touch",
+        "releaseDate": "2024-07-26",
         "kind": "music-videos",
         "artistId": "1754284416",
         "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ac/22/54/ac225409-4ece-b366-f5ee-de81fdb171a2/26UM1IM03933.crop.jpg/100x76mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/4a/24/9d/4a249dde-e60d-d952-1fe5-473fcfa77429/24UMGIM77641.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/hootie-frutti/6817987915"
+        "url": "https://music.apple.com/de/music-video/touch/1759627021"
       },
       {
-        "artistName": "KATSEYE",
-        "id": "6794133272",
-        "name": "Animal",
-        "releaseDate": "2026-07-24",
+        "artistName": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
+        "id": "1824325143",
+        "name": "Golden (Lyric Video)",
+        "releaseDate": "2025-07-04",
         "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b3/21/13/b32113f6-6557-55ed-8999-77e18ad69764/26UMGIM90645.crop.jpg/100x56mv.jpg",
+        "artistId": "1478164763",
+        "artistUrl": "https://music.apple.com/de/artist/huntr-x/1478164763",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f5/14/9d/f5149d1b-a20b-a20d-633c-a2429c212e2e/25UMGIM87599.crop.jpg/100x42mv.jpg",
         "genres": [
           {
-            "name": "Pop"
+            "name": "K-Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/animal/6794133272"
-      },
-      {
-        "artistName": "Hurra Kinderlieder",
-        "id": "1484981016",
-        "name": "Ich bin ein kleiner Pinguin",
-        "releaseDate": "2018-02-02",
-        "kind": "music-videos",
-        "artistId": "1432797144",
-        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/80/36/13/80361346-5836-569d-7532-c98ad1ed4a9a/19UMGIM94463.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musik für Kinder"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/ich-bin-ein-kleiner-pinguin/1484981016"
+        "url": "https://music.apple.com/de/music-video/golden-lyric-video/1824325143"
       },
       {
         "artistName": "Bibi und Tina",
@@ -851,184 +915,68 @@
         "url": "https://music.apple.com/de/music-video/36-grad-feat-peter-plate-ulf-leo-sommer-katharina-harriet/1523938770"
       },
       {
-        "artistName": "Betsy & Мария Янковская",
-        "id": "1822269185",
-        "name": "Sigma Boy",
-        "releaseDate": "2025-06-23",
+        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
+        "id": "6813171954",
+        "name": "Ich hab ja noch mich (feat. NALA)",
+        "releaseDate": "2026-09-25",
         "kind": "music-videos",
-        "artistId": "1611240891",
-        "artistUrl": "https://music.apple.com/de/artist/betsy/1611240891",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a2/3c/39/a23c3988-d61b-a573-8632-786c758f36c7/Jobdb927639-7efa-413c-99a0-ea0847c4b474-195532959-PreviewImage_preview_image_21000_video_sdr-Time1750684433072.png/100x42mv.jpg",
+        "artistId": "41480004",
+        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/cf/98/29cf986e-58bc-885e-8fbd-17939e7680b2/DEA622601849.sca1.jpg/100x118mv.jpg",
         "genres": [
           {
-            "name": "Pop"
+            "name": "Filmmusik"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/sigma-boy/1822269185"
+        "url": "https://music.apple.com/de/music-video/ich-hab-ja-noch-mich-feat-nala/6813171954"
+      },
+      {
+        "artistName": "Rammstein",
+        "id": "6825274395",
+        "name": "Deutschland (Live in Mexico City)",
+        "releaseDate": "2026-10-23",
+        "kind": "music-videos",
+        "artistId": "408932",
+        "artistUrl": "https://music.apple.com/de/artist/rammstein/408932",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/7f/e4/3a/7fe43ac7-a70c-66cf-3fea-ea48825d41fd/26UM1IM16792.crop.jpg/100x50mv.jpg",
+        "genres": [
+          {
+            "name": "Rock"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/deutschland-live-in-mexico-city/6825274395"
       },
       {
         "artistName": "Hurra Kinderlieder",
-        "id": "1885811292",
-        "name": "Die fleißige Bande",
-        "releaseDate": "2026-03-27",
+        "id": "1485403722",
+        "name": "Der Pavianpopo",
+        "releaseDate": "2016-12-08",
         "kind": "music-videos",
         "artistId": "1432797144",
         "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fa/bb/95/fabb9527-bc84-b4e2-ed8d-de12e6cee723/26UMGIM24256.crop.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/29/cf/3b/29cf3ba3-d0b1-eb2e-0986-fbabb43ad975/19UMGIM93910.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/die-flei%C3%9Fige-bande/1885811292"
+        "url": "https://music.apple.com/de/music-video/der-pavianpopo/1485403722"
       },
       {
         "artistName": "KATSEYE",
-        "id": "6817987913",
-        "name": "Animal",
-        "releaseDate": "2026-10-14",
+        "id": "1806216168",
+        "name": "Debut",
+        "releaseDate": "2024-07-26",
         "kind": "music-videos",
         "artistId": "1754284416",
         "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5b/14/af/5b14af40-31a4-7d67-b582-7d63813ca7dd/26UMGIM90645.crop.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/32/80/72328036-9c40-74f9-fe6f-c2f746fc377b/24UMGIM69800.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/animal/6817987913"
-      },
-      {
-        "artistName": "Drake",
-        "id": "6818210116",
-        "name": "High Fives",
-        "releaseDate": "2026-05-18",
-        "kind": "music-videos",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/de/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/14/d4/d0/14d4d022-8634-5b94-df2e-207b11c2fb22/26UMGIM64090.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "R&B/Soul"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/high-fives/6818210116"
-      },
-      {
-        "artistName": "Die Schule der magischen Tiere & Esther Graf",
-        "id": "1838417504",
-        "name": "Mein Herz schreit yeah",
-        "releaseDate": "2025-09-08",
-        "kind": "music-videos",
-        "artistId": "1328909127",
-        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/bf/22/07/bf220754-f103-bc8d-542e-9f8d93c0e4b4/25UM1IM24445.crop.jpg/100x39mv.jpg",
-        "genres": [
-          {
-            "name": "Filmmusik"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/mein-herz-schreit-yeah/1838417504"
-      },
-      {
-        "artistName": "Bibi und Tina, Peter Plate & Ulf Leo Sommer",
-        "id": "1640150406",
-        "name": "Baby (feat. Katharina Hirschberg, Harriet Herbig-Matten)",
-        "releaseDate": "2022-08-19",
-        "kind": "music-videos",
-        "artistId": "220152697",
-        "artistUrl": "https://music.apple.com/de/artist/bibi-und-tina/220152697",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/bd/ef/8e/bdef8e66-82fc-3595-0e59-96062ab648d2/DEB582201192.sca1.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Filmmusik"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/baby-feat-katharina-hirschberg-harriet-herbig-matten/1640150406"
-      },
-      {
-        "artistName": "Olivia Rodrigo & Chappell Roan",
-        "id": "6822977928",
-        "name": "expectations",
-        "releaseDate": "2026-10-16",
-        "kind": "music-videos",
-        "artistId": "979458609",
-        "artistUrl": "https://music.apple.com/de/artist/olivia-rodrigo/979458609",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/75/54/bc/7554bc2a-b95d-7ee1-e7ca-1f59044c7988/26UM1IM19530.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/expectations/6822977928"
-      },
-      {
-        "artistName": "KATSEYE",
-        "id": "6828527686",
-        "name": "Unloveu (Live From the WILDWORLD Tour)",
-        "releaseDate": "2026-10-29",
-        "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/20/b3/ca/20b3cade-6535-7fc9-9341-7b6144e3ad88/26UM1IM40274.crop.jpg/100x57mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/unloveu-live-from-the-wildworld-tour/6828527686"
-      },
-      {
-        "artistName": "Die Schule der magischen Tiere",
-        "id": "1769192781",
-        "name": "Halt, das ist unser Wald",
-        "releaseDate": "2024-09-20",
-        "kind": "music-videos",
-        "artistId": "1328909127",
-        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/83/a3/33/83a33368-b269-449a-3393-94c7872aa33e/24UM1IM01835.crop.jpg/100x42mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/halt-das-ist-unser-wald/1769192781"
-      },
-      {
-        "artistName": "Drake",
-        "id": "6818210126",
-        "name": "Quebec",
-        "releaseDate": "2026-10-02",
-        "kind": "music-videos",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/de/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fd/8a/7a/fd8a7af2-0097-6fc2-36db-917eb5d126cb/26UM1IM28172.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-Hop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/quebec/6818210126"
-      },
-      {
-        "artistName": "ADÉLA",
-        "id": "6808781322",
-        "name": "Nicole Kidman",
-        "releaseDate": "2026-09-04",
-        "kind": "music-videos",
-        "artistId": "1765924916",
-        "artistUrl": "https://music.apple.com/de/artist/ad%C3%A9la/1765924916",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/3e/75/e0/3e75e09e-1afc-4b81-3547-f45afc9db3d3/26UM1IM12551.crop.jpg/100x60mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/nicole-kidman/6808781322"
+        "url": "https://music.apple.com/de/music-video/debut/1806216168"
       },
       {
         "artistName": "ZAH1DE & benno!",
@@ -1048,38 +996,6 @@
       },
       {
         "artistName": "Zara Larsson",
-        "id": "1130027642",
-        "name": "Lush Life",
-        "releaseDate": "2016-07-05",
-        "kind": "music-videos",
-        "artistId": "570372593",
-        "artistUrl": "https://music.apple.com/de/artist/zara-larsson/570372593",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video50/v4/ea/6a/4e/ea6a4e2f-5619-3d3e-30d4-a4a87e2d873a/8864459908980101VIC.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/lush-life/1130027642"
-      },
-      {
-        "artistName": "Die Schule der magischen Tiere & Daniel Zillmann",
-        "id": "1862147671",
-        "name": "Ein Affe wie ich",
-        "releaseDate": "2025-12-18",
-        "kind": "music-videos",
-        "artistId": "1328909127",
-        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a1/d5/d6/a1d5d6b2-3c0e-090a-5ab8-299e6ae8f844/25UM1IM49853.crop.jpg/100x41mv.jpg",
-        "genres": [
-          {
-            "name": "Filmmusik"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/ein-affe-wie-ich/1862147671"
-      },
-      {
-        "artistName": "Zara Larsson",
         "id": "6822572226",
         "name": "Blue Moon",
         "releaseDate": "2026-10-15",
@@ -1095,214 +1011,277 @@
         "url": "https://music.apple.com/de/music-video/blue-moon/6822572226"
       },
       {
-        "artistName": "ZAH1DE",
-        "id": "6788699920",
-        "name": "Queen Of Pop",
-        "releaseDate": "2026-07-08",
-        "kind": "music-videos",
-        "artistId": "1777844976",
-        "artistUrl": "https://music.apple.com/de/artist/zah1de/1777844976",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/22/87/e7/2287e7ad-5b07-8e2e-3753-ca0dcc9dd61d/26UMGIM63277.crop.jpg/100x74mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-Hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/queen-of-pop/6788699920"
-      },
-      {
         "artistName": "KATSEYE",
-        "id": "1806216168",
-        "name": "Debut",
-        "releaseDate": "2024-07-26",
+        "id": "1825138051",
+        "name": "Gabriela",
+        "releaseDate": "2025-07-01",
         "kind": "music-videos",
         "artistId": "1754284416",
         "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/32/80/72328036-9c40-74f9-fe6f-c2f746fc377b/24UMGIM69800.crop.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b3/74/e2/b374e2d4-24e0-57dd-564d-f19e782ec8a3/25UMGIM78137.crop.jpg/100x72mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/debut/1806216168"
+        "url": "https://music.apple.com/de/music-video/gabriela/1825138051"
       },
       {
-        "artistName": "KATSEYE",
-        "id": "6802413320",
-        "name": "Hootie Frutti",
-        "releaseDate": "2026-08-17",
+        "artistName": "Horror Skunx",
+        "id": "6791510301",
+        "name": "It's me, It's Verity",
+        "releaseDate": "2026-07-17",
         "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/25/d9/04/25d90402-5268-8ed4-5212-3aaa4f63d67a/26UM1IM03933.crop.jpg/100x76mv.jpg",
+        "artistId": "1556081615",
+        "artistUrl": "https://music.apple.com/de/artist/horror-skunx/1556081615",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8d/54/e4/8d54e4fd-5b63-2d3f-9886-a6780b3df8c2/Job5601895a-d6d9-472c-b733-1986f56ab741-235658114-PreviewImage_preview_image_15000_video_sdr-Time1784218177332.png/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/hootie-frutti/6802413320"
+        "url": "https://music.apple.com/de/music-video/its-me-its-verity/6791510301"
       },
       {
-        "artistName": "Imogen Heap",
-        "id": "1789643782",
-        "name": "The Happy Song",
-        "releaseDate": "2016-10-17",
+        "artistName": "Die Schule der magischen Tiere & Esther Graf",
+        "id": "1838417504",
+        "name": "Mein Herz schreit yeah",
+        "releaseDate": "2025-09-08",
         "kind": "music-videos",
-        "artistId": "22873602",
-        "artistUrl": "https://music.apple.com/de/artist/imogen-heap/22873602",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/11/88/79/118879b9-9d94-3597-b369-d8db3ae6f600/ImogenHeap_TheHappySong_STILL.jpg/100x53mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/the-happy-song/1789643782"
-      },
-      {
-        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
-        "id": "6813171954",
-        "name": "Ich hab ja noch mich (feat. NALA)",
-        "releaseDate": "2026-09-25",
-        "kind": "music-videos",
-        "artistId": "41480004",
-        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/cf/98/29cf986e-58bc-885e-8fbd-17939e7680b2/DEA622601849.sca1.jpg/100x118mv.jpg",
+        "artistId": "1328909127",
+        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/bf/22/07/bf220754-f103-bc8d-542e-9f8d93c0e4b4/25UM1IM24445.crop.jpg/100x39mv.jpg",
         "genres": [
           {
             "name": "Filmmusik"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/ich-hab-ja-noch-mich-feat-nala/6813171954"
+        "url": "https://music.apple.com/de/music-video/mein-herz-schreit-yeah/1838417504"
       },
       {
-        "artistName": "Drake",
-        "id": "6818210117",
-        "name": "I’m Spent",
-        "releaseDate": "2026-09-19",
+        "artistName": "Udo Lindenberg & Apache 207",
+        "id": "1667866281",
+        "name": "Komet",
+        "releaseDate": "2023-01-19",
         "kind": "music-videos",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/de/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f1/0d/69/f10d69a5-57d4-856e-9bfb-88ec624a5b05/26UM1IM20515.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "R&B/Soul"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/im-spent/6818210117"
-      },
-      {
-        "artistName": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
-        "id": "1824325143",
-        "name": "Golden (Lyric Video)",
-        "releaseDate": "2025-07-04",
-        "kind": "music-videos",
-        "artistId": "1478164763",
-        "artistUrl": "https://music.apple.com/de/artist/huntr-x/1478164763",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f5/14/9d/f5149d1b-a20b-a20d-633c-a2429c212e2e/25UMGIM87599.crop.jpg/100x42mv.jpg",
-        "genres": [
-          {
-            "name": "K-Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/golden-lyric-video/1824325143"
-      },
-      {
-        "artistName": "Taylor Swift",
-        "id": "6818017943",
-        "name": "Patient Zero (Expanded Video)",
-        "releaseDate": "2026-09-24",
-        "kind": "music-videos",
-        "artistId": "159260351",
-        "artistUrl": "https://music.apple.com/de/artist/taylor-swift/159260351",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e1/ef/ce/e1efced7-7023-bcaf-d157-0492240aa10c/26UM1IM28169.crop.jpg/100x56mv.jpg",
+        "artistId": "14961213",
+        "artistUrl": "https://music.apple.com/de/artist/udo-lindenberg/14961213",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/fd/8b/7c/fd8b7c6d-ada8-18b7-d4c7-8d1f7d1b92d9/DEA622202193.sca1.jpg/100x50mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/patient-zero-expanded-video/6818017943"
+        "url": "https://music.apple.com/de/music-video/komet/1667866281"
       },
       {
-        "artistName": "Bibi und Tina",
-        "id": "1523938773",
-        "name": "#Girls United (feat. Peter Plate, Ulf Leo Sommer, Katharina, Harriet, Kaya, CELINA) [from Bibi & Tina - Die Serie]",
-        "releaseDate": "2020-04-17",
+        "artistName": "Hurra Kinderlieder",
+        "id": "1830959339",
+        "name": "Pupsalarm",
+        "releaseDate": "2025-08-08",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9f/2a/b4/9f2ab464-5df9-361a-1f66-314eee51b8ee/25UMGIM95187.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/pupsalarm/1830959339"
+      },
+      {
+        "artistName": "Hurra Kinderlieder",
+        "id": "1703825133",
+        "name": "Katzenklo",
+        "releaseDate": "2023-08-25",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/81/72/63/81726301-d165-3d18-1041-1ee20a096c0f/23UMGIM86736.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/katzenklo/1703825133"
+      },
+      {
+        "artistName": "Ashe",
+        "id": "6798764394",
+        "name": "Stop The Wedding!",
+        "releaseDate": "2026-08-07",
+        "kind": "music-videos",
+        "artistId": "1234718215",
+        "artistUrl": "https://music.apple.com/de/artist/ashe/1234718215",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e5/42/f2/e542f28c-a50e-e66f-0890-79d87623806f/USATV2606777.sca1.jpg/100x75mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/stop-the-wedding/6798764394"
+      },
+      {
+        "artistName": "Hurra Kinderlieder",
+        "id": "1485056230",
+        "name": "Wasch uns",
+        "releaseDate": "2019-04-26",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/ae/82/f4/ae82f49d-8ab0-a840-5104-c2e78f538c39/19UMGIM94433.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/wasch-uns/1485056230"
+      },
+      {
+        "artistName": "Bibi und Tina, Peter Plate & Ulf Leo Sommer",
+        "id": "1640150406",
+        "name": "Baby (feat. Katharina Hirschberg, Harriet Herbig-Matten)",
+        "releaseDate": "2022-08-19",
         "kind": "music-videos",
         "artistId": "220152697",
         "artistUrl": "https://music.apple.com/de/artist/bibi-und-tina/220152697",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/c7/ca/50/c7ca505a-bb76-b0f3-20ab-b455ab998919/DEB582000702.sca1.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/bd/ef/8e/bdef8e66-82fc-3595-0e59-96062ab648d2/DEB582201192.sca1.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Filmmusik"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/girls-united-feat-peter-plate-ulf-leo-sommer-katharina/1523938773"
+        "url": "https://music.apple.com/de/music-video/baby-feat-katharina-hirschberg-harriet-herbig-matten/1640150406"
+      },
+      {
+        "artistName": "DJ Goja, Jason Derulo & Melody",
+        "id": "6784685970",
+        "name": "Mi Chico (Jason Derulo x Melody Version)",
+        "releaseDate": "2026-06-26",
+        "kind": "music-videos",
+        "artistId": "1165237812",
+        "artistUrl": "https://music.apple.com/de/artist/dj-goja/1165237812",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/bb/0d/4a/bb0d4a2c-1efa-9507-0cda-01de24b7c691/712132053594_cover.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Afro-Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/mi-chico-jason-derulo-x-melody-version/6784685970"
+      },
+      {
+        "artistName": "Sido, Die Lochis, Olli Schulz, Lukas Rieger, Lea, The BossHoss, Ulf Leo Sommer, Max Raabe, Eule, Anna Loos, Matthias Schweighöfer, Jonas Monar, Annett Louisan, Maite Kelly, Barbara Schöneberger, Johannes Oerding, Roland Kaiser & Peter Plate",
+        "id": "1438134996",
+        "name": "Mädchen gegen Jungs (All-Stars-Version)",
+        "releaseDate": "2018-10-05",
+        "kind": "music-videos",
+        "artistId": "42264594",
+        "artistUrl": "https://music.apple.com/de/artist/sido/42264594",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/94/53/9d/94539dc8-a758-9317-1db8-ef42527022f6/DEB581800632.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/m%C3%A4dchen-gegen-jungs-all-stars-version/1438134996"
+      },
+      {
+        "artistName": "Michael Jackson",
+        "id": "273048822",
+        "name": "Thriller",
+        "releaseDate": "1983-12-02",
+        "kind": "music-videos",
+        "artistId": "32940",
+        "artistUrl": "https://music.apple.com/de/artist/michael-jackson/32940",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/cd/bd/9d/cdbd9d6e-0de3-c7e9-ef53-2bfe64c42705/dj.uwxtpbco.jpg/100x72mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/thriller/273048822"
       },
       {
         "artistName": "Hurra Kinderlieder",
-        "id": "1893268811",
-        "name": "Wupdidu! Das Warzenschwein",
-        "releaseDate": "2026-04-24",
+        "id": "1714434546",
+        "name": "Weihnachtsessen",
+        "releaseDate": "2023-11-17",
         "kind": "music-videos",
         "artistId": "1432797144",
         "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/17/f3/c5/17f3c567-1363-ee82-89fa-50751328e803/26UMGIM24255.crop.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/e6/b2/4f/e6b24fe2-1a79-0c85-5b14-2146d1ae2888/23UM1IM33536.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/wupdidu-das-warzenschwein/1893268811"
+        "url": "https://music.apple.com/de/music-video/weihnachtsessen/1714434546"
       },
       {
-        "artistName": "Hurra Kinderlieder",
-        "id": "1485403722",
-        "name": "Der Pavianpopo",
-        "releaseDate": "2016-12-08",
+        "artistName": "LISA",
+        "id": "6804003004",
+        "name": "PRESS PLAY",
+        "releaseDate": "2026-10-23",
         "kind": "music-videos",
-        "artistId": "1432797144",
-        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/29/cf/3b/29cf3ba3-d0b1-eb2e-0986-fbabb43ad975/19UMGIM93910.crop.jpg/100x56mv.jpg",
+        "artistId": "1583908668",
+        "artistUrl": "https://music.apple.com/de/artist/lisa/1583908668",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/38/20/f3/3820f3e1-9860-9d4f-9b1f-e8f959254a15/1968747126960107.jpg/100x69mv.jpg",
         "genres": [
           {
-            "name": "Musik für Kinder"
+            "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/der-pavianpopo/1485403722"
+        "url": "https://music.apple.com/de/music-video/press-play/6804003004"
       },
       {
-        "artistName": "Drake",
-        "id": "6818210118",
-        "name": "Gen 5",
-        "releaseDate": "2026-05-15",
+        "artistName": "KATSEYE",
+        "id": "6828527686",
+        "name": "Unloveu (Live From the WILDWORLD Tour)",
+        "releaseDate": "2026-10-29",
         "kind": "music-videos",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/de/artist/drake/271256",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/04/36/d6/0436d6c7-012a-3dbc-7248-a17e7ca53313/26UMGIM64088.crop.jpg/100x72mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/20/b3/ca/20b3cade-6535-7fc9-9341-7b6144e3ad88/26UM1IM40274.crop.jpg/100x57mv.jpg",
         "genres": [
           {
-            "name": "R&B/Soul"
+            "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/gen-5/6818210118"
+        "url": "https://music.apple.com/de/music-video/unloveu-live-from-the-wildworld-tour/6828527686"
       },
       {
         "artistName": "Hurra Kinderlieder",
-        "id": "1874857226",
-        "name": "Wo ist der kleine Hase?",
-        "releaseDate": "2026-02-13",
+        "id": "1571162770",
+        "name": "Du schaffst das schon",
+        "releaseDate": "2021-06-18",
         "kind": "music-videos",
         "artistId": "1432797144",
         "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c6/e8/c0/c6e8c05a-d829-78c8-e9d3-f57a04f05860/26UMGIM12771.crop.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/aa/ce/7f/aace7f09-77b7-7ca4-7dff-2f1d80ee3d97/21UMGIM51311.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/wo-ist-der-kleine-hase/1874857226"
+        "url": "https://music.apple.com/de/music-video/du-schaffst-das-schon/1571162770"
+      },
+      {
+        "artistName": "Hurra Kinderlieder",
+        "id": "1885811292",
+        "name": "Die fleißige Bande",
+        "releaseDate": "2026-03-27",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fa/bb/95/fabb9527-bc84-b4e2-ed8d-de12e6cee723/26UMGIM24256.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/die-flei%C3%9Fige-bande/1885811292"
       },
       {
         "artistName": "Michael Jackson",
@@ -1322,67 +1301,19 @@
       },
       {
         "artistName": "Hurra Kinderlieder",
-        "id": "1703825133",
-        "name": "Katzenklo",
-        "releaseDate": "2023-08-25",
+        "id": "1893268811",
+        "name": "Wupdidu! Das Warzenschwein",
+        "releaseDate": "2026-04-24",
         "kind": "music-videos",
         "artistId": "1432797144",
         "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/81/72/63/81726301-d165-3d18-1041-1ee20a096c0f/23UMGIM86736.crop.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/17/f3/c5/17f3c567-1363-ee82-89fa-50751328e803/26UMGIM24255.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/katzenklo/1703825133"
-      },
-      {
-        "artistName": "Hurra Kinderlieder",
-        "id": "1689358796",
-        "name": "Kinder Mäuse Monster Party",
-        "releaseDate": "2023-05-26",
-        "kind": "music-videos",
-        "artistId": "1432797144",
-        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/68/bd/2e/68bd2ebe-eed3-cb5c-4bab-76cf877becda/23UMGIM56343.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musik für Kinder"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/kinder-m%C3%A4use-monster-party/1689358796"
-      },
-      {
-        "artistName": "Die Schule der magischen Tiere",
-        "id": "1773941380",
-        "name": "Am Himmel kratzen (Aus \"Die Schule der magischen Tiere 3\")",
-        "releaseDate": "2024-11-06",
-        "kind": "music-videos",
-        "artistId": "1328909127",
-        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/87/75/20/877520b7-9b82-b6ad-785c-552478d92e66/24UM1IM08037.crop.jpg/100x43mv.jpg",
-        "genres": [
-          {
-            "name": "Musik für Kinder"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/am-himmel-kratzen-aus-die-schule-der-magischen-tiere-3/1773941380"
-      },
-      {
-        "artistName": "Harry Styles",
-        "id": "6826449413",
-        "name": "Coming Up Roses",
-        "releaseDate": "2026-10-26",
-        "kind": "music-videos",
-        "artistId": "471260289",
-        "artistUrl": "https://music.apple.com/de/artist/harry-styles/471260289",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a2/af/c9/a2afc982-b21c-d5cd-760d-02be93ed7f2f/1968748877760101.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/coming-up-roses/6826449413"
+        "url": "https://music.apple.com/de/music-video/wupdidu-das-warzenschwein/1893268811"
       },
       {
         "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
@@ -1401,133 +1332,20 @@
         "url": "https://music.apple.com/de/music-video/alles-ist-so-sch%C3%B6n-feat-nala-philomena-amari/1859717855"
       },
       {
-        "artistName": "LISA",
-        "id": "6825840513",
-        "name": "Tarantino",
-        "releaseDate": "2026-10-23",
+        "artistName": "U.S.A. for Africa",
+        "id": "1854502148",
+        "name": "We Are The World  [Enhanced Version] [feat. Al Jarreau, Anita Pointer, B. Midler, Billy Joel, Bob Dylan, Bob Geldof, Bruce Springsteen, Cyndi Lauper, Dan Aykroyd, Daryl Hall, Diana Ross, Dionne Warwick, Harry Belafonte, Huey Lewis and the News, Jackie Jackson, James Ingram, Jeffrey Osborne, John Oates, June Pointer, Kenny Loggins, Kenny Rogers, Kim Carnes, La Toya Jackson, Lindsey Buckingham, Lionel Richie, Marlon Jackson, Michael Jackson, Paul Simon, Randy Jackson, Ray Charles, Ruth Pointer, Sheila E., Smokey Robinson, Steve Perry, Stevie Wonder, Tito Jackson, Tina Turner, Waylon Jennings & Willie Nelson]",
+        "releaseDate": "2025-11-21",
         "kind": "music-videos",
-        "artistId": "1583908668",
-        "artistUrl": "https://music.apple.com/de/artist/lisa/1583908668",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/4c/e6/00/4ce60034-10d0-347f-5614-c0bd53517349/1968748981610101.jpg/100x56mv.jpg",
+        "artistId": "41737861",
+        "artistUrl": "https://music.apple.com/de/artist/u-s-a-for-africa/41737861",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f1/62/63/f16263b4-87d5-d792-9c00-038539e5f736/dj.ykaadsxi.jpg/100x76mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/tarantino/6825840513"
-      },
-      {
-        "artistName": "Kerstin Ott & Maite Kelly",
-        "id": "6819716108",
-        "name": "Ich weiß, was du brauchst",
-        "releaseDate": "2026-10-09",
-        "kind": "music-videos",
-        "artistId": "1263284395",
-        "artistUrl": "https://music.apple.com/de/artist/kerstin-ott/1263284395",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/06/58/57065841-4748-8e7b-25b9-a58898ed6b7a/26UM1IM07202.crop.jpg/100x42mv.jpg",
-        "genres": [
-          {
-            "name": "Schlager"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/ich-wei%C3%9F-was-du-brauchst/6819716108"
-      },
-      {
-        "artistName": "ZAH1DE",
-        "id": "1846428649",
-        "name": "Uff Yaa",
-        "releaseDate": "2025-10-14",
-        "kind": "music-videos",
-        "artistId": "1777844976",
-        "artistUrl": "https://music.apple.com/de/artist/zah1de/1777844976",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/30/5d/58/305d58bc-11d8-7a49-3bea-bad1084839bc/25UM1IM51584.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-Hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/uff-yaa/1846428649"
-      },
-      {
-        "artistName": "KATSEYE",
-        "id": "1825138051",
-        "name": "Gabriela",
-        "releaseDate": "2025-07-01",
-        "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b3/74/e2/b374e2d4-24e0-57dd-564d-f19e782ec8a3/25UMGIM78137.crop.jpg/100x72mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/gabriela/1825138051"
-      },
-      {
-        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
-        "id": "1859717230",
-        "name": "Avanti! Avanti! Avanti! (feat. Sophie Rois)",
-        "releaseDate": "2025-12-12",
-        "kind": "music-videos",
-        "artistId": "41480004",
-        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c5/5b/ef/c55bef45-b2bd-db68-4891-9edd81ed0fe5/DEA622504357.sca1.jpg/100x43mv.jpg",
-        "genres": [
-          {
-            "name": "Filmmusik"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/avanti-avanti-avanti-feat-sophie-rois/1859717230"
-      },
-      {
-        "artistName": "Drake & Yebba",
-        "id": "6818210130",
-        "name": "Cold Shoulder",
-        "releaseDate": "2026-10-02",
-        "kind": "music-videos",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/de/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/dd/f5/d6/ddf5d6c1-3916-19a4-378e-41bd3058f778/26UM1IM28171.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-Hop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/cold-shoulder/6818210130"
-      },
-      {
-        "artistName": "Hurra Kinderlieder",
-        "id": "1617139901",
-        "name": "Haareschneiden",
-        "releaseDate": "2022-04-15",
-        "kind": "music-videos",
-        "artistId": "1432797144",
-        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/c4/89/fb/c489fb92-e542-9d5d-b1ad-88ceeaecffe6/22UMGIM34646.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musik für Kinder"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/haareschneiden/1617139901"
-      },
-      {
-        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
-        "id": "1859717271",
-        "name": "Grau (feat. Heike Makatsch) [Aus dem Film \"Bibi Blocksberg: Das große Hexentreffen\"]",
-        "releaseDate": "2025-12-12",
-        "kind": "music-videos",
-        "artistId": "41480004",
-        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ef/92/b8/ef92b8fc-3b45-ac44-b0c9-6bbc54e0757d/DEA622504359.sca1.jpg/100x43mv.jpg",
-        "genres": [
-          {
-            "name": "Filmmusik"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/grau-feat-heike-makatsch-aus-dem-film-bibi-blocksberg/1859717271"
+        "url": "https://music.apple.com/de/music-video/we-are-the-world-enhanced-version-feat-al-jarreau/1854502148"
       },
       {
         "artistName": "Phoebe Bridgers",
@@ -1547,6 +1365,86 @@
       },
       {
         "artistName": "Hurra Kinderlieder",
+        "id": "1485403863",
+        "name": "Die Maus ist allein zu Haus",
+        "releaseDate": "2018-02-16",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/ed/a1/f2/eda1f259-0214-77d9-7e3b-a030535f4684/19UMGIM94455.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/die-maus-ist-allein-zu-haus/1485403863"
+      },
+      {
+        "artistName": "Bibi und Tina",
+        "id": "1523938773",
+        "name": "#Girls United (feat. Peter Plate, Ulf Leo Sommer, Katharina, Harriet, Kaya, CELINA) [from Bibi & Tina - Die Serie]",
+        "releaseDate": "2020-04-17",
+        "kind": "music-videos",
+        "artistId": "220152697",
+        "artistUrl": "https://music.apple.com/de/artist/bibi-und-tina/220152697",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/c7/ca/50/c7ca505a-bb76-b0f3-20ab-b455ab998919/DEB582000702.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Filmmusik"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/girls-united-feat-peter-plate-ulf-leo-sommer-katharina/1523938773"
+      },
+      {
+        "artistName": "Bibb & Bubb",
+        "id": "1720129231",
+        "name": "Stopptanz",
+        "releaseDate": "2023-12-08",
+        "kind": "music-videos",
+        "artistId": "1715529884",
+        "artistUrl": "https://music.apple.com/de/artist/bibb-bubb/1715529884",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/6a/01/b1/6a01b16e-cce1-f351-8892-dde42b27e3df/23UM1IM63672.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/stopptanz/1720129231"
+      },
+      {
+        "artistName": "Hurra Kinderlieder",
+        "id": "1711274897",
+        "name": "Die singenden Plätzchen",
+        "releaseDate": "2023-10-27",
+        "kind": "music-videos",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/63/38/63/633863dc-31c6-cde3-8290-22cfdff46143/23UM1IM17444.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musik für Kinder"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/die-singenden-pl%C3%A4tzchen/1711274897"
+      },
+      {
+        "artistName": "Taylor Swift",
+        "id": "1845446611",
+        "name": "The Fate of Ophelia",
+        "releaseDate": "2025-10-03",
+        "kind": "music-videos",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/de/artist/taylor-swift/159260351",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fe/d9/a8/fed9a8ad-13fc-7408-a739-2d80d3714876/25UM1IM51274.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/the-fate-of-ophelia/1845446611"
+      },
+      {
+        "artistName": "Hurra Kinderlieder",
         "id": "1857669035",
         "name": "Super Weihnachtsmann",
         "releaseDate": "2025-12-05",
@@ -1562,69 +1460,165 @@
         "url": "https://music.apple.com/de/music-video/super-weihnachtsmann/1857669035"
       },
       {
-        "artistName": "KATSEYE",
-        "id": "1759627021",
-        "name": "Touch",
-        "releaseDate": "2024-07-26",
+        "artistName": "Hurra Kinderlieder",
+        "id": "1485402702",
+        "name": "Blubber-Pudding Stop!",
+        "releaseDate": "2019-07-04",
         "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/de/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/4a/24/9d/4a249dde-e60d-d952-1fe5-473fcfa77429/24UMGIM77641.crop.jpg/100x56mv.jpg",
+        "artistId": "1432797144",
+        "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/a2/cb/ba/a2cbbacd-e4ed-a7c0-0c49-c0ab5a09bf96/19UMGIM94430.crop.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "Pop"
+            "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/touch/1759627021"
+        "url": "https://music.apple.com/de/music-video/blubber-pudding-stop/1485402702"
       },
       {
-        "artistName": "Reema & ELIJAH PRESLY",
-        "id": "1841663000",
-        "name": "The Mask",
-        "releaseDate": "2025-09-05",
+        "artistName": "Deine Freunde",
+        "id": "1883055953",
+        "name": "Bestimmer",
+        "releaseDate": "2026-03-13",
         "kind": "music-videos",
-        "artistId": "1436416963",
-        "artistUrl": "https://music.apple.com/de/artist/reema/1436416963",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9c/8f/19/9c8f1975-1f83-6bac-7518-224a59207c53/cover.jpg/100x56mv.jpg",
+        "artistId": "520953076",
+        "artistUrl": "https://music.apple.com/de/artist/deine-freunde/520953076",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c7/df/10/c7df10bc-46d5-a981-8c60-32eace7710f6/26UMGIM25239.crop.jpg/100x51mv.jpg",
         "genres": [
           {
-            "name": "Pop"
+            "name": "Musik für Kinder"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/the-mask/1841663000"
+        "url": "https://music.apple.com/de/music-video/bestimmer/1883055953"
       },
       {
-        "artistName": "Sido & Montez",
-        "id": "6820571158",
-        "name": "PUZZLETEIL",
-        "releaseDate": "2026-10-08",
+        "artistName": "Die Schule der magischen Tiere & Annett Louisan",
+        "id": "1849753444",
+        "name": "Quantentheorie (Aus \"Die Schule der magischen Tiere 4\")",
+        "releaseDate": "2025-10-31",
         "kind": "music-videos",
-        "artistId": "42264594",
-        "artistUrl": "https://music.apple.com/de/artist/sido/42264594",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fe/3b/dd/fe3bdd2f-6371-0667-9e7e-05537730380f/26UM1IM25829.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-Hop"
-          }
-        ],
-        "url": "https://music.apple.com/de/music-video/puzzleteil/6820571158"
-      },
-      {
-        "artistName": "Post Malone & Swae Lee",
-        "id": "1468538206",
-        "name": "Sunflower (Spider-Man: Into the Spider-Verse)",
-        "releaseDate": "2018-10-18",
-        "kind": "music-videos",
-        "artistId": "966309175",
-        "artistUrl": "https://music.apple.com/de/artist/post-malone/966309175",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/41/5d/86/415d869b-1dca-cfaa-6c8e-634934223e9b/18UMGIM70286.crop.jpg/100x42mv.jpg",
+        "artistId": "1328909127",
+        "artistUrl": "https://music.apple.com/de/artist/die-schule-der-magischen-tiere/1328909127",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5a/33/ab/5a33abcd-3418-0176-7775-946858f6820e/25UM1IM49851.crop.jpg/100x41mv.jpg",
         "genres": [
           {
             "name": "Filmmusik"
           }
         ],
-        "url": "https://music.apple.com/de/music-video/sunflower-spider-man-into-the-spider-verse/1468538206"
+        "url": "https://music.apple.com/de/music-video/quantentheorie-aus-die-schule-der-magischen-tiere-4/1849753444"
+      },
+      {
+        "artistName": "Drake",
+        "id": "6818210126",
+        "name": "Quebec",
+        "releaseDate": "2026-10-02",
+        "kind": "music-videos",
+        "artistId": "271256",
+        "artistUrl": "https://music.apple.com/de/artist/drake/271256",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fd/8a/7a/fd8a7af2-0097-6fc2-36db-917eb5d126cb/26UM1IM28172.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-Hop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/quebec/6818210126"
+      },
+      {
+        "artistName": "Betsy & Мария Янковская",
+        "id": "1822269185",
+        "name": "Sigma Boy",
+        "releaseDate": "2025-06-23",
+        "kind": "music-videos",
+        "artistId": "1611240891",
+        "artistUrl": "https://music.apple.com/de/artist/betsy/1611240891",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a2/3c/39/a23c3988-d61b-a573-8632-786c758f36c7/Jobdb927639-7efa-413c-99a0-ea0847c4b474-195532959-PreviewImage_preview_image_21000_video_sdr-Time1750684433072.png/100x42mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/sigma-boy/1822269185"
+      },
+      {
+        "artistName": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer & Joshua Lange",
+        "id": "1859717230",
+        "name": "Avanti! Avanti! Avanti! (feat. Sophie Rois)",
+        "releaseDate": "2025-12-12",
+        "kind": "music-videos",
+        "artistId": "41480004",
+        "artistUrl": "https://music.apple.com/de/artist/bibi-blocksberg/41480004",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c5/5b/ef/c55bef45-b2bd-db68-4891-9edd81ed0fe5/DEA622504357.sca1.jpg/100x43mv.jpg",
+        "genres": [
+          {
+            "name": "Filmmusik"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/avanti-avanti-avanti-feat-sophie-rois/1859717230"
+      },
+      {
+        "artistName": "Kerstin Ott & Maite Kelly",
+        "id": "6819716108",
+        "name": "Ich weiß, was du brauchst",
+        "releaseDate": "2026-10-09",
+        "kind": "music-videos",
+        "artistId": "1263284395",
+        "artistUrl": "https://music.apple.com/de/artist/kerstin-ott/1263284395",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/06/58/57065841-4748-8e7b-25b9-a58898ed6b7a/26UM1IM07202.crop.jpg/100x42mv.jpg",
+        "genres": [
+          {
+            "name": "Schlager"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/ich-wei%C3%9F-was-du-brauchst/6819716108"
+      },
+      {
+        "artistName": "Taylor Swift",
+        "id": "6818017943",
+        "name": "Patient Zero (Expanded Video)",
+        "releaseDate": "2026-09-24",
+        "kind": "music-videos",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/de/artist/taylor-swift/159260351",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e1/ef/ce/e1efced7-7023-bcaf-d157-0492240aa10c/26UM1IM28169.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/patient-zero-expanded-video/6818017943"
+      },
+      {
+        "artistName": "Elton John",
+        "id": "6828443086",
+        "name": "Bennie And The Jets (Apple Music Live)",
+        "releaseDate": "2026-10-30",
+        "kind": "music-videos",
+        "artistId": "54657",
+        "artistUrl": "https://music.apple.com/de/artist/elton-john/54657",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/36/4d/c4/364dc448-e3be-212f-9035-10ab727a1377/26UM1IM28520.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/bennie-and-the-jets-apple-music-live/6828443086"
+      },
+      {
+        "artistName": "A2O & A2O LITE",
+        "id": "6823010734",
+        "name": "NEON",
+        "releaseDate": "2026-10-13",
+        "kind": "music-videos",
+        "artistId": "1794043761",
+        "artistUrl": "https://music.apple.com/de/artist/a2o/1794043761",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d7/54/59/d7545916-d807-5d2f-cd74-df48791092dc/Jobcbee5db0-8b5c-4ba1-b95a-69f25de302ee-248935753-PreviewImage_preview_image_218300_video_sdr-Time1792039285081.png/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "K-Pop"
+          }
+        ],
+        "url": "https://music.apple.com/de/music-video/neon/6823010734"
       }
     ]
   }
