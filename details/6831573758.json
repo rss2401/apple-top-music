@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1434427948,
+      "trackId": 6831573758,
+      "artistName": "Nemzzz",
+      "trackName": "LOCKED IN (feat. Nono La Grinta)",
+      "trackCensoredName": "LOCKED IN (feat. Nono La Grinta)",
+      "artistViewUrl": "https://music.apple.com/fr/artist/nemzzz/1434427948?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/locked-in-feat-nono-la-grinta/6831573758?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/f5/76/65/f5766576-9951-84fc-c18a-02c7a4851d1a/mzvf_16160520686282709640.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/6a/f4/986af414-3189-a665-08fc-8297e3b3f58c/GB1302603236.sca1.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/6a/f4/986af414-3189-a665-08fc-8297e3b3f58c/GB1302603236.sca1.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/6a/f4/986af414-3189-a665-08fc-8297e3b3f58c/GB1302603236.sca1.jpg/100x100bb.jpg",
+      "collectionPrice": 2.49,
+      "trackPrice": 2.49,
+      "releaseDate": "2026-11-06T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackTimeMillis": 145046,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-hop/Rap",
+      "contentAdvisoryRating": "Explicit"
+    }
+  ]
+}

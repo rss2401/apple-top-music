@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1088858068,
+      "collectionId": 6825256701,
+      "artistName": "许飞",
+      "collectionName": "每个春天我都会唱歌",
+      "collectionCensoredName": "每个春天我都会唱歌",
+      "artistViewUrl": "https://music.apple.com/cn/artist/%E8%AE%B8%E9%A3%9E/1088858068?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/%E6%AF%8F%E4%B8%AA%E6%98%A5%E5%A4%A9%E6%88%91%E9%83%BD%E4%BC%9A%E5%94%B1%E6%AD%8C/6825256701?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/74/e7/f774e7a6-0724-98e6-9b1f-5a5332994874/26UM1IM37160.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/74/e7/f774e7a6-0724-98e6-9b1f-5a5332994874/26UM1IM37160.rgb.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 9,
+      "copyright": "℗ 2026 Lishu Monaihehuai Music Studio, Lishu Town, Lishu County",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-10-28T07:00:00Z",
+      "primaryGenreName": "国语流行"
+    }
+  ]
+}

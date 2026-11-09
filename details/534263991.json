@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 525391544,
+      "collectionId": 534263991,
+      "artistName": "MagicMotion",
+      "collectionName": "Sleep Baby - White & Pink Noise",
+      "collectionCensoredName": "Sleep Baby - White & Pink Noise",
+      "artistViewUrl": "https://music.apple.com/gb/artist/magicmotion/525391544?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/sleep-baby-white-pink-noise/534263991?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/52/da/e2/52dae2cf-9aa9-3e31-886f-4e6faeac5ba4/dj.qafomjon.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/52/da/e2/52dae2cf-9aa9-3e31-886f-4e6faeac5ba4/dj.qafomjon.jpg/100x100bb.jpg",
+      "collectionPrice": 2.49,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 3,
+      "copyright": "℗ 2012 Marcel Lemans",
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2012-06-01T07:00:00Z",
+      "primaryGenreName": "Children’s Music"
+    }
+  ]
+}

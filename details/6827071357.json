@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1234379004,
+      "collectionId": 6827071357,
+      "amgArtistId": 3355727,
+      "artistName": "Rémy",
+      "collectionName": "Alchimie",
+      "collectionCensoredName": "Alchimie",
+      "artistViewUrl": "https://music.apple.com/fr/artist/r%C3%A9my/1234379004?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/alchimie/6827071357?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/38/99/6b38999b-6ce5-bbfd-9e22-afd690f278d9/a639eff1-974f-4792-9b82-266947365c6d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/38/99/6b38999b-6ce5-bbfd-9e22-afd690f278d9/a639eff1-974f-4792-9b82-266947365c6d.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 15,
+      "copyright": "℗ 2026 REBEL RECORDS",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-11-06T08:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1047679432,
+      "collectionId": 1878823462,
+      "trackId": 1878823481,
+      "artistName": "Jack Harlow",
+      "collectionName": "Monica",
+      "trackName": "Monica",
+      "collectionCensoredName": "Monica",
+      "trackCensoredName": "Monica",
+      "artistViewUrl": "https://music.apple.com/gb/artist/jack-harlow/1047679432?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/music-video/monica/1878823481?uo=4",
+      "trackViewUrl": "https://music.apple.com/gb/music-video/monica/1878823481?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/00/1c/37/001c375f-98e5-2a0f-33e6-bd3412698a8e/mzvf_4294691892636023230.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1b/3b/f5/1b3bf584-a056-5302-3caa-7521524213d0/USATV2600401.sca1.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1b/3b/f5/1b3bf584-a056-5302-3caa-7521524213d0/USATV2600401.sca1.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1b/3b/f5/1b3bf584-a056-5302-3caa-7521524213d0/USATV2600401.sca1.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "trackPrice": 1.89,
+      "releaseDate": "2026-03-13T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 10,
+      "trackNumber": 10,
+      "trackTimeMillis": 16128,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "R&B/Soul"
+    }
+  ]
+}

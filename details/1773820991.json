@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 320366644,
+      "collectionId": 1773820991,
+      "amgArtistId": 2714843,
+      "artistName": "Ninho & Niska",
+      "collectionName": "GOAT",
+      "collectionCensoredName": "GOAT",
+      "artistViewUrl": "https://music.apple.com/fr/artist/ninho/320366644?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/goat/1773820991?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 15,
+      "copyright": "Distribution exclusive Warner Music France / Universal Music France, ℗ 2024 Jefe Productions / Charo Inc",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-10-24T07:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

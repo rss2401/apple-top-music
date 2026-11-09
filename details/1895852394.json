@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 320366644,
+      "trackId": 1895852394,
+      "artistName": "Ninho",
+      "trackName": "+971",
+      "trackCensoredName": "+971",
+      "artistViewUrl": "https://music.apple.com/fr/artist/ninho/320366644?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/971/1895852394?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/da/23/cb/da23cb43-2705-5476-6771-af20e5d2e7ec/mzvf_11340615387825225576.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ad/15/04/ad15045c-6169-6e74-374b-da07553997de/FR1A92504606.sca1.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ad/15/04/ad15045c-6169-6e74-374b-da07553997de/FR1A92504606.sca1.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ad/15/04/ad15045c-6169-6e74-374b-da07553997de/FR1A92504606.sca1.jpg/100x100bb.jpg",
+      "collectionPrice": 2.49,
+      "trackPrice": 2.49,
+      "releaseDate": "2025-11-28T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackTimeMillis": 210859,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-hop/Rap",
+      "contentAdvisoryRating": "Explicit"
+    }
+  ]
+}

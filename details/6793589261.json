@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1048621179,
+      "collectionId": 6793589258,
+      "trackId": 6793589261,
+      "artistName": "PAPKE",
+      "collectionName": "GAUNA SPORT - Single",
+      "trackName": "GAUNA SPORT",
+      "collectionCensoredName": "GAUNA SPORT - Single",
+      "trackCensoredName": "GAUNA SPORT",
+      "artistViewUrl": "https://music.apple.com/de/artist/papke/1048621179?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/gauna-sport/6793589258?i=6793589261&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/gauna-sport/6793589258?i=6793589261&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/d0/a8/1cd0a81b-9a88-35b8-02c4-677d9e16fd21/mzaf_1402126279381564426.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/33/5e/c7335ea7-62de-b8fc-ddcf-4fc48fa789c1/cover.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/33/5e/c7335ea7-62de-b8fc-ddcf-4fc48fa789c1/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/33/5e/c7335ea7-62de-b8fc-ddcf-4fc48fa789c1/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-08-07T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 144618,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-Hop/Rap",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}

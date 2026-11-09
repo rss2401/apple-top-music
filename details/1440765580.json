@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 442122051,
+      "collectionId": 1440765580,
+      "amgArtistId": 2295304,
+      "artistName": "Frank Ocean",
+      "collectionName": "channel ORANGE",
+      "collectionCensoredName": "channel ORANGE",
+      "artistViewUrl": "https://music.apple.com/us/artist/frank-ocean/442122051?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/channel-orange/1440765580?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 17,
+      "copyright": "℗ 2012 The Island Def Jam Music Group",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2012-07-10T07:00:00Z",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

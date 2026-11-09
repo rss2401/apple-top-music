@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 993038489,
+      "collectionId": 1884132534,
+      "artistName": "SleepTherapy",
+      "collectionName": "Thunderstorms For Sleep",
+      "collectionCensoredName": "Thunderstorms For Sleep",
+      "artistViewUrl": "https://music.apple.com/us/artist/sleeptherapy/993038489?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/thunderstorms-for-sleep/1884132534?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/81/72/6f8172ee-774c-2a59-7583-f7c736676694/992014.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/81/72/6f8172ee-774c-2a59-7583-f7c736676694/992014.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 12,
+      "copyright": "℗ 2026 OTL Records",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-03-03T08:00:00Z",
+      "primaryGenreName": "Ambient"
+    }
+  ]
+}

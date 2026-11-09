@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1363899746,
+      "collectionId": 1677383058,
+      "amgArtistId": 1998385,
+      "artistName": "Maes",
+      "collectionName": "Réelle vie 2.0",
+      "collectionCensoredName": "Réelle vie 2.0",
+      "artistViewUrl": "https://music.apple.com/fr/artist/maes/1363899746?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/r%C3%A9elle-vie-2-0/1677383058?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/5f/e1/e45fe134-8b89-ce5e-86ff-bbbf02486376/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/5f/e1/e45fe134-8b89-ce5e-86ff-bbbf02486376/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 11,
+      "copyright": "℗ 2018 LDS PRODUCTION",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2018-03-02T08:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

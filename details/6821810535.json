@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 6818078909,
+      "collectionId": 6821810535,
+      "artistName": "(D)Juno",
+      "collectionName": "(D)",
+      "collectionCensoredName": "(D)",
+      "artistViewUrl": "https://music.apple.com/fr/artist/d-juno/6818078909?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/d/6821810535?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/44/e3/8544e3c1-1b7a-648b-4ae3-87c4781498e8/196874843222.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/44/e3/8544e3c1-1b7a-648b-4ae3-87c4781498e8/196874843222.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 9,
+      "copyright": "℗ 2026 Punisher Development, distributed by Sony Music France Entertainment SAS",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-11-06T08:00:00Z",
+      "primaryGenreName": "Afrobeat"
+    }
+  ]
+}

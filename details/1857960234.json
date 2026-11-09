@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 869303457,
+      "collectionId": 1857960234,
+      "amgArtistId": 3112594,
+      "artistName": "Josman",
+      "collectionName": "DOM PERIGNON CRYING (Bonus)",
+      "collectionCensoredName": "DOM PERIGNON CRYING (Bonus)",
+      "artistViewUrl": "https://music.apple.com/fr/artist/josman/869303457?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/dom-perignon-crying-bonus/1857960234?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/c3/6a/56c36a12-43a3-45a7-647a-c6a8de2e4f5c/196873899855.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/c3/6a/56c36a12-43a3-45a7-647a-c6a8de2e4f5c/196873899855.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 16,
+      "copyright": "℗ 2025 SIDELINE, distributed by Sony Music Entertainement France SAS",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-10-31T07:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

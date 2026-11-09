@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1715529884,
+      "trackId": 1720129231,
+      "artistName": "Bibb & Bubb",
+      "trackName": "Stopptanz",
+      "trackCensoredName": "Stopptanz",
+      "artistViewUrl": "https://music.apple.com/de/artist/bibb-bubb/1715529884?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/stopptanz/1720129231?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/c7/1c/92/c71c92a4-9121-9644-9064-a2174b938cc0/mzvf_8466189603200879709.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/6a/01/b1/6a01b16e-cce1-f351-8892-dde42b27e3df/23UM1IM63672.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/6a/01/b1/6a01b16e-cce1-f351-8892-dde42b27e3df/23UM1IM63672.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/6a/01/b1/6a01b16e-cce1-f351-8892-dde42b27e3df/23UM1IM63672.crop.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2023-12-08T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 203967,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder"
+    }
+  ]
+}

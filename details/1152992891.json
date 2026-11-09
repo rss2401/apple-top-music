@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1035655315,
+      "collectionId": 1152992449,
+      "trackId": 1152992891,
+      "artistName": "Lichterkinder",
+      "collectionName": "Laternen - und Herbstlieder",
+      "trackName": "Lichterkinder",
+      "collectionCensoredName": "Laternen - und Herbstlieder",
+      "trackCensoredName": "Lichterkinder",
+      "artistViewUrl": "https://music.apple.com/de/artist/lichterkinder/1035655315?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/lichterkinder/1152992449?i=1152992891&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/lichterkinder/1152992449?i=1152992891&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/de/dc/fadedcac-8a22-29d5-f9c2-f44947662f99/mzaf_5817369060069289548.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/61/bb/9a/61bb9a8e-84f5-6933-ff54-795154cf7119/cover.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/61/bb/9a/61bb9a8e-84f5-6933-ff54-795154cf7119/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/61/bb/9a/61bb9a8e-84f5-6933-ff54-795154cf7119/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2015-09-18T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 30,
+      "trackNumber": 1,
+      "trackTimeMillis": 241134,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder",
+      "isStreamable": true
+    }
+  ]
+}

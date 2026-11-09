@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1809370841,
+      "trackId": 1812406597,
+      "artistName": "Boîte noire & Ninho",
+      "trackName": "Boîte noire",
+      "trackCensoredName": "Boîte noire",
+      "artistViewUrl": "https://music.apple.com/fr/artist/bo%C3%AEte-noire/1809370841?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/bo%C3%AEte-noire/1812406597?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/48/87/2f/48872fa6-7ad2-ca72-971e-9a8ecf18012c/mzvf_4661726266219925676.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/65/37/0f/65370f50-74aa-2566-ca4c-1e94522e6022/1968731174920101.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/65/37/0f/65370f50-74aa-2566-ca4c-1e94522e6022/1968731174920101.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/65/37/0f/65370f50-74aa-2566-ca4c-1e94522e6022/1968731174920101.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2025-04-25T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackTimeMillis": 145088,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-hop/Rap",
+      "contentAdvisoryRating": "Explicit"
+    }
+  ]
+}

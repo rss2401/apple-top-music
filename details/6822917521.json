@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1192174117,
+      "collectionId": 6822917521,
+      "amgArtistId": 3379838,
+      "artistName": "SOB X RBE, Yhung T.O., Slimmy B & DaBoii",
+      "collectionName": "From The Land",
+      "collectionCensoredName": "From The Land",
+      "artistViewUrl": "https://music.apple.com/us/artist/sob-x-rbe/1192174117?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/from-the-land/6822917521?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/78/9f/ef789f06-3746-bc3e-7517-ed32d1045252/199316817423_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/78/9f/ef789f06-3746-bc3e-7517-ed32d1045252/199316817423_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 13,
+      "copyright": "℗ 2026 SOB x RBE / EMPIRE",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-11-06T08:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}
