@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 3,
   "results": [
     {
       "month": "202607",
@@ -24,6 +24,19 @@
       "name": "Türkischer Pop",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/87/cf/d9/87cfd96d-d426-bed5-0470-32d7601e26ca/3a188e8c-7663-4c8f-9a09-8e3e1dd5cd4e.png/100x100SC.DN02.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/t%C3%BCrkischer-pop/pl.59ef70f12c4f427db5fb5383acab5f29"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 100,
+      "id": "pl.59ef70f12c4f427db5fb5383acab5f29",
+      "name": "Türkischer Pop",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/74/42/7a/74427aec-c21e-c90b-236d-8bbd794dbb01/146cba68-580a-4f8e-ab81-9b50b33e67b3.png/100x100SC.DN02.jpg?l=de-DE",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/t%C3%BCrkischer-pop/pl.59ef70f12c4f427db5fb5383acab5f29"
     }

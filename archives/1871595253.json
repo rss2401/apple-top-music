@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "month": "202607",
@@ -56,6 +56,34 @@
         }
       ],
       "url": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 96,
+      "artistName": "sombr",
+      "id": "1871595253",
+      "name": "Homewrecker",
+      "releaseDate": "2026-02-05",
+      "kind": "songs",
+      "artistId": "1589842503",
+      "artistUrl": "https://music.apple.com/de/artist/sombr/1589842503",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/homewrecker/1871595252?i=1871595253"
     },
     {
       "month": "202611",

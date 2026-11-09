@@ -1,5 +1,5 @@
 {
-  "resultCount": 14,
+  "resultCount": 13,
   "results": [
     {
       "month": "202607",
@@ -123,11 +123,11 @@
       "country": "cn",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 48,
+      "rank": 78,
       "id": "pl.abe8ba42278f4ef490e3a9fc5ec8e8c5",
       "name": "Rap Life",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/79/36/36/79363647-d902-d1d4-1df4-c84028bbf617/2c9aefa3-36bd-4a31-bd4e-2a3c320a835b.png/100x100SC.DN02.jpg?l=zh-Hans",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/e6/06/ea/e606eae8-aa25-fc40-e9b5-f2d03a3500fb/490cbfb7-bf73-4ac6-a99e-df3bb518fc40.png/100x100SC.DN02.jpg?l=zh-Hans",
       "genres": [],
       "url": "https://music.apple.com/cn/playlist/rap-life/pl.abe8ba42278f4ef490e3a9fc5ec8e8c5"
     },
@@ -136,11 +136,11 @@
       "country": "de",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 48,
+      "rank": 51,
       "id": "pl.abe8ba42278f4ef490e3a9fc5ec8e8c5",
       "name": "Rap Life",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/79/36/36/79363647-d902-d1d4-1df4-c84028bbf617/2c9aefa3-36bd-4a31-bd4e-2a3c320a835b.png/100x100SC.DN02.jpg?l=de-DE",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/e6/06/ea/e606eae8-aa25-fc40-e9b5-f2d03a3500fb/490cbfb7-bf73-4ac6-a99e-df3bb518fc40.png/100x100SC.DN02.jpg?l=de-DE",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/rap-life/pl.abe8ba42278f4ef490e3a9fc5ec8e8c5"
     },
@@ -149,37 +149,24 @@
       "country": "fr",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 41,
+      "rank": 56,
       "id": "pl.abe8ba42278f4ef490e3a9fc5ec8e8c5",
       "name": "Rap Life",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/79/36/36/79363647-d902-d1d4-1df4-c84028bbf617/2c9aefa3-36bd-4a31-bd4e-2a3c320a835b.png/100x100SC.DN02.jpg?l=fr-FR",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/e6/06/ea/e606eae8-aa25-fc40-e9b5-f2d03a3500fb/490cbfb7-bf73-4ac6-a99e-df3bb518fc40.png/100x100SC.DN02.jpg?l=fr-FR",
       "genres": [],
       "url": "https://music.apple.com/fr/playlist/rap-life/pl.abe8ba42278f4ef490e3a9fc5ec8e8c5"
-    },
-    {
-      "month": "202611",
-      "country": "jp",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 91,
-      "id": "pl.abe8ba42278f4ef490e3a9fc5ec8e8c5",
-      "name": "ラップライフ",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/79/36/36/79363647-d902-d1d4-1df4-c84028bbf617/2c9aefa3-36bd-4a31-bd4e-2a3c320a835b.png/100x100SC.DN02.jpg?l=ja-JP",
-      "genres": [],
-      "url": "https://music.apple.com/jp/playlist/%E3%83%A9%E3%83%83%E3%83%97%E3%83%A9%E3%82%A4%E3%83%95/pl.abe8ba42278f4ef490e3a9fc5ec8e8c5"
     },
     {
       "month": "202611",
       "country": "us",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 5,
+      "rank": 9,
       "id": "pl.abe8ba42278f4ef490e3a9fc5ec8e8c5",
       "name": "Rap Life",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/79/36/36/79363647-d902-d1d4-1df4-c84028bbf617/2c9aefa3-36bd-4a31-bd4e-2a3c320a835b.png/100x100SC.DN02.jpg?l=en-US",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/e6/06/ea/e606eae8-aa25-fc40-e9b5-f2d03a3500fb/490cbfb7-bf73-4ac6-a99e-df3bb518fc40.png/100x100SC.DN02.jpg?l=en-US",
       "genres": [],
       "url": "https://music.apple.com/us/playlist/rap-life/pl.abe8ba42278f4ef490e3a9fc5ec8e8c5"
     }

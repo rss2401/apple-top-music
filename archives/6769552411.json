@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 7,
   "results": [
     {
       "month": "202607",
@@ -115,6 +115,34 @@
     },
     {
       "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 98,
+      "artistName": "SIENNA SPIRO",
+      "id": "6769552411",
+      "name": "Great Expectation",
+      "releaseDate": "2026-07-02",
+      "kind": "songs",
+      "artistId": "1745678083",
+      "artistUrl": "https://music.apple.com/de/artist/sienna-spiro/1745678083",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/great-expectation/6769552402?i=6769552411"
+    },
+    {
+      "month": "202611",
       "country": "gb",
       "mediaType": "music",
       "feed": "top-songs",
@@ -146,7 +174,7 @@
       "country": "us",
       "mediaType": "music",
       "feed": "top-songs",
-      "rank": 89,
+      "rank": 68,
       "artistName": "SIENNA SPIRO",
       "id": "6769552411",
       "name": "Great Expectation",

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 41,
+      "artistName": "Ninho",
+      "id": "6796655570",
+      "name": "Skywalker Haze - A COLORS SHOW",
+      "releaseDate": "2025-10-29",
+      "kind": "music-videos",
+      "artistId": "320366644",
+      "artistUrl": "https://music.apple.com/fr/artist/ninho/320366644",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c3/35/c8/c335c8d8-5aa7-9ae2-7182-43a100d57286/FR1A92504605.sca1.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Hip-hop/Rap"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/skywalker-haze-a-colors-show/6796655570"
+    }
+  ]
+}

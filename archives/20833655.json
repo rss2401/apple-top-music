@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 1,
   "results": [
     {
       "month": "202611",
@@ -38,44 +38,6 @@
         }
       ],
       "url": "https://music.apple.com/gb/album/psycho-killer/20833651?i=20833655"
-    },
-    {
-      "month": "202611",
-      "country": "us",
-      "mediaType": "music",
-      "feed": "top-songs",
-      "rank": 34,
-      "artistName": "Talking Heads",
-      "id": "20833655",
-      "name": "Psycho Killer",
-      "releaseDate": "1977-09-16",
-      "kind": "songs",
-      "artistId": "155546",
-      "artistUrl": "https://music.apple.com/us/artist/talking-heads/155546",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/100x99bb.jpg",
-      "genres": [
-        {
-          "genreId": "20",
-          "name": "Alternative",
-          "url": "https://itunes.apple.com/us/genre/id20"
-        },
-        {
-          "genreId": "34",
-          "name": "Music",
-          "url": "https://itunes.apple.com/us/genre/id34"
-        },
-        {
-          "genreId": "21",
-          "name": "Rock",
-          "url": "https://itunes.apple.com/us/genre/id21"
-        },
-        {
-          "genreId": "14",
-          "name": "Pop",
-          "url": "https://itunes.apple.com/us/genre/id14"
-        }
-      ],
-      "url": "https://music.apple.com/us/album/psycho-killer/20833651?i=20833655"
     }
   ]
 }

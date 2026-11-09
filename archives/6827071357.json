@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 39,
+      "artistName": "Rémy",
+      "id": "6827071357",
+      "name": "Alchimie",
+      "releaseDate": "2026-11-06",
+      "kind": "albums",
+      "artistId": "1234379004",
+      "artistUrl": "https://music.apple.com/fr/artist/r%C3%A9my/1234379004",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/38/99/6b38999b-6ce5-bbfd-9e22-afd690f278d9/a639eff1-974f-4792-9b82-266947365c6d.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/alchimie/6827071357"
+    }
+  ]
+}

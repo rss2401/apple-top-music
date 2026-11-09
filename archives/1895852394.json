@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 38,
+      "artistName": "Ninho",
+      "id": "1895852394",
+      "name": "+971",
+      "releaseDate": "2025-11-28",
+      "kind": "music-videos",
+      "artistId": "320366644",
+      "artistUrl": "https://music.apple.com/fr/artist/ninho/320366644",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ad/15/04/ad15045c-6169-6e74-374b-da07553997de/FR1A92504606.sca1.jpg/100x72mv.jpg",
+      "genres": [
+        {
+          "name": "Hip-hop/Rap"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/971/1895852394"
+    }
+  ]
+}

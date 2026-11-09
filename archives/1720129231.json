@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 87,
+      "artistName": "Bibb & Bubb",
+      "id": "1720129231",
+      "name": "Stopptanz",
+      "releaseDate": "2023-12-08",
+      "kind": "music-videos",
+      "artistId": "1715529884",
+      "artistUrl": "https://music.apple.com/de/artist/bibb-bubb/1715529884",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/6a/01/b1/6a01b16e-cce1-f351-8892-dde42b27e3df/23UM1IM63672.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik für Kinder"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/stopptanz/1720129231"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 35,
+      "artistName": "Nemzzz",
+      "id": "6831573758",
+      "name": "LOCKED IN (feat. Nono La Grinta)",
+      "releaseDate": "2026-11-06",
+      "kind": "music-videos",
+      "artistId": "1434427948",
+      "artistUrl": "https://music.apple.com/fr/artist/nemzzz/1434427948",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/6a/f4/986af414-3189-a665-08fc-8297e3b3f58c/GB1302603236.sca1.jpg/100x67mv.jpg",
+      "genres": [
+        {
+          "name": "Hip-hop/Rap"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/locked-in-feat-nono-la-grinta/6831573758"
+    }
+  ]
+}

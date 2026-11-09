@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 91,
+      "artistName": "MagicMotion",
+      "id": "534263991",
+      "name": "Sleep Baby - White & Pink Noise",
+      "releaseDate": "2012-06-01",
+      "kind": "albums",
+      "artistId": "525391544",
+      "artistUrl": "https://music.apple.com/gb/artist/magicmotion/525391544",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/52/da/e2/52dae2cf-9aa9-3e31-886f-4e6faeac5ba4/dj.qafomjon.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "4",
+          "name": "Children’s Music",
+          "url": "https://itunes.apple.com/gb/genre/id4"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/sleep-baby-white-pink-noise/534263991"
+    }
+  ]
+}

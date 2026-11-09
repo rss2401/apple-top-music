@@ -347,77 +347,77 @@
   {
     "Name": "cn_music_top-albums.json",
     "RelativePath": "rankings/202611/cn_music_top-albums.json",
-    "Length": 92339
+    "Length": 91856
   },
   {
     "Name": "cn_music_top-music-videos.json",
     "RelativePath": "rankings/202611/cn_music_top-music-videos.json",
-    "Length": 66913
+    "Length": 66956
   },
   {
     "Name": "cn_music_top-playlists.json",
     "RelativePath": "rankings/202611/cn_music_top-playlists.json",
-    "Length": 51174
+    "Length": 51741
   },
   {
     "Name": "cn_music_top-songs.json",
     "RelativePath": "rankings/202611/cn_music_top-songs.json",
-    "Length": 90124
+    "Length": 90422
   },
   {
     "Name": "de_music_top-albums.json",
     "RelativePath": "rankings/202611/de_music_top-albums.json",
-    "Length": 92318
+    "Length": 91712
   },
   {
     "Name": "de_music_top-music-videos.json",
     "RelativePath": "rankings/202611/de_music_top-music-videos.json",
-    "Length": 67180
+    "Length": 67855
   },
   {
     "Name": "de_music_top-playlists.json",
     "RelativePath": "rankings/202611/de_music_top-playlists.json",
-    "Length": 46486
+    "Length": 46548
   },
   {
     "Name": "de_music_top-songs.json",
     "RelativePath": "rankings/202611/de_music_top-songs.json",
-    "Length": 90903
+    "Length": 90189
   },
   {
     "Name": "fr_music_top-albums.json",
     "RelativePath": "rankings/202611/fr_music_top-albums.json",
-    "Length": 90774
+    "Length": 90065
   },
   {
     "Name": "fr_music_top-music-videos.json",
     "RelativePath": "rankings/202611/fr_music_top-music-videos.json",
-    "Length": 67290
+    "Length": 66858
   },
   {
     "Name": "fr_music_top-playlists.json",
     "RelativePath": "rankings/202611/fr_music_top-playlists.json",
-    "Length": 48489
+    "Length": 48601
   },
   {
     "Name": "fr_music_top-songs.json",
     "RelativePath": "rankings/202611/fr_music_top-songs.json",
-    "Length": 90539
+    "Length": 90970
   },
   {
     "Name": "gb_music_top-albums.json",
     "RelativePath": "rankings/202611/gb_music_top-albums.json",
-    "Length": 93136
+    "Length": 92694
   },
   {
     "Name": "gb_music_top-music-videos.json",
     "RelativePath": "rankings/202611/gb_music_top-music-videos.json",
-    "Length": 65340
+    "Length": 65363
   },
   {
     "Name": "gb_music_top-playlists.json",
     "RelativePath": "rankings/202611/gb_music_top-playlists.json",
-    "Length": 48451
+    "Length": 48570
   },
   {
     "Name": "gb_music_top-songs.json",
@@ -427,17 +427,17 @@
   {
     "Name": "jp_music_top-albums.json",
     "RelativePath": "rankings/202611/jp_music_top-albums.json",
-    "Length": 94869
+    "Length": 94231
   },
   {
     "Name": "jp_music_top-music-videos.json",
     "RelativePath": "rankings/202611/jp_music_top-music-videos.json",
-    "Length": 70591
+    "Length": 69710
   },
   {
     "Name": "jp_music_top-playlists.json",
     "RelativePath": "rankings/202611/jp_music_top-playlists.json",
-    "Length": 54354
+    "Length": 54025
   },
   {
     "Name": "jp_music_top-songs.json",
@@ -447,21 +447,21 @@
   {
     "Name": "us_music_top-albums.json",
     "RelativePath": "rankings/202611/us_music_top-albums.json",
-    "Length": 91915
+    "Length": 91769
   },
   {
     "Name": "us_music_top-music-videos.json",
     "RelativePath": "rankings/202611/us_music_top-music-videos.json",
-    "Length": 66458
+    "Length": 66545
   },
   {
     "Name": "us_music_top-playlists.json",
     "RelativePath": "rankings/202611/us_music_top-playlists.json",
-    "Length": 47918
+    "Length": 47972
   },
   {
     "Name": "us_music_top-songs.json",
     "RelativePath": "rankings/202611/us_music_top-songs.json",
-    "Length": 90245
+    "Length": 89423
   }
 ]

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 96,
+      "artistName": "SleepTherapy",
+      "id": "1884132534",
+      "name": "Thunderstorms For Sleep",
+      "releaseDate": "2026-03-03",
+      "kind": "albums",
+      "artistId": "993038489",
+      "artistUrl": "https://music.apple.com/us/artist/sleeptherapy/993038489",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/81/72/6f8172ee-774c-2a59-7583-f7c736676694/992014.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "7",
+          "name": "Electronic",
+          "url": "https://itunes.apple.com/us/genre/id7"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/thunderstorms-for-sleep/1884132534"
+    }
+  ]
+}

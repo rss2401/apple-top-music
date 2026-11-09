@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 98,
+      "artistName": "SOB X RBE, Yhung T.O., Slimmy B & DaBoii",
+      "id": "6822917521",
+      "name": "From The Land",
+      "releaseDate": "2026-11-06",
+      "kind": "albums",
+      "artistId": "1192174117",
+      "artistUrl": "https://music.apple.com/us/artist/sob-x-rbe/1192174117",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/78/9f/ef789f06-3746-bc3e-7517-ed32d1045252/199316817423_cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/from-the-land/6822917521"
+    }
+  ]
+}

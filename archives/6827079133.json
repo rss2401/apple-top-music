@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 43,
+      "artistName": "BatBat",
+      "id": "6827079133",
+      "name": "La cour des grands",
+      "releaseDate": "2026-11-06",
+      "kind": "albums",
+      "artistId": "1725897041",
+      "artistUrl": "https://music.apple.com/fr/artist/batbat/1725897041",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/12/e0/f012e08b-8cba-d555-6b75-1b8c651a6347/cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/la-cour-des-grands/6827079133"
+    }
+  ]
+}

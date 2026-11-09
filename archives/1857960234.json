@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 98,
+      "artistName": "Josman",
+      "id": "1857960234",
+      "name": "DOM PERIGNON CRYING (Bonus)",
+      "releaseDate": "2025-10-31",
+      "kind": "albums",
+      "artistId": "869303457",
+      "artistUrl": "https://music.apple.com/fr/artist/josman/869303457",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/c3/6a/56c36a12-43a3-45a7-647a-c6a8de2e4f5c/196873899855.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/dom-perignon-crying-bonus/1857960234"
+    }
+  ]
+}

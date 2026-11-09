@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 64,
+      "artistName": "(D)Juno",
+      "id": "6821810535",
+      "name": "(D)",
+      "releaseDate": "2026-11-06",
+      "kind": "albums",
+      "artistId": "6818078909",
+      "artistUrl": "https://music.apple.com/fr/artist/d-juno/6818078909",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/44/e3/8544e3c1-1b7a-648b-4ae3-87c4781498e8/196874843222.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/d/6821810535"
+    }
+  ]
+}
