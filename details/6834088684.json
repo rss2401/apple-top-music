@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1256531673,
+      "collectionId": 6834088684,
+      "amgArtistId": 3364647,
+      "artistName": "Tay-K",
+      "collectionName": "#MonstersUnderMyBed",
+      "collectionCensoredName": "#MonstersUnderMyBed",
+      "artistViewUrl": "https://music.apple.com/us/artist/tay-k/1256531673?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/monstersundermybed/6834088684?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/61/49/1a614972-4c41-8d8c-0bad-9f1be5c1d0ff/612891356908.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/61/49/1a614972-4c41-8d8c-0bad-9f1be5c1d0ff/612891356908.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 16,
+      "copyright": "℗ 2026 RR4L Worldwide / Create Music Group / broke",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

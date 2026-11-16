@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 152678183,
+      "collectionId": 559737443,
+      "trackId": 559737700,
+      "artistName": "JOLIN蔡依林",
+      "collectionName": "J女神 (影音典藏精選)",
+      "trackName": "天空",
+      "collectionCensoredName": "J女神 (影音典藏精选)",
+      "trackCensoredName": "天空",
+      "artistViewUrl": "https://music.apple.com/cn/artist/jolin%E8%94%A1%E4%BE%9D%E6%9E%97/152678183?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/music-video/%E5%A4%A9%E7%A9%BA/559737700?uo=4",
+      "trackViewUrl": "https://music.apple.com/cn/music-video/%E5%A4%A9%E7%A9%BA/559737700?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/39/54/d8/3954d812-e767-64b4-403d-f479df1138a6/dj.omcrjhdv.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/39/54/d8/3954d812-e767-64b4-403d-f479df1138a6/dj.omcrjhdv.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/39/54/d8/3954d812-e767-64b4-403d-f479df1138a6/dj.omcrjhdv.jpg/100x100bb.jpg",
+      "releaseDate": "2012-09-07T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 34,
+      "trackNumber": 32,
+      "country": "CHN",
+      "currency": "CNY",
+      "primaryGenreName": "世界音乐"
+    }
+  ]
+}

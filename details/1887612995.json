@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1520475076,
+      "collectionId": 1887612995,
+      "artistName": "Derrol & Deep Sleep Rain & Thunder",
+      "collectionName": "Rain Sounds for Sleep",
+      "collectionCensoredName": "Rain Sounds for Sleep",
+      "artistViewUrl": "https://music.apple.com/us/artist/derrol/1520475076?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/rain-sounds-for-sleep/1887612995?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/44/e7/0644e783-62bc-4453-8d0c-0fc836141d09/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/44/e7/0644e783-62bc-4453-8d0c-0fc836141d09/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 20,
+      "copyright": "℗ 2026 Derrol under exclusive license to Epic Nation Media, LLC",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-03-25T07:00:00Z",
+      "primaryGenreName": "Meditation"
+    }
+  ]
+}

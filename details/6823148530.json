@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 382356207,
+      "collectionId": 6823148530,
+      "artistName": "伍佰 & China Blue",
+      "collectionName": "Rock Star 1 演唱會精選實錄",
+      "collectionCensoredName": "Rock Star 1 演唱會精選實錄",
+      "artistViewUrl": "https://music.apple.com/cn/artist/%E4%BC%8D%E4%BD%B0-china-blue/382356207?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/rock-star-1-%E6%BC%94%E5%94%B1%E6%9C%83%E7%B2%BE%E9%81%B8%E5%AF%A6%E9%8C%84/6823148530?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/2a/41292a80-ce9f-d046-046f-f4e3757293f2/26UM1IM29817.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/2a/41292a80-ce9f-d046-046f-f4e3757293f2/26UM1IM29817.rgb.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 14,
+      "copyright": "℗ 2026 Moonlight Music Co., Ltd., under exclusive license to Universal Music Limited",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "primaryGenreName": "国语流行"
+    }
+  ]
+}

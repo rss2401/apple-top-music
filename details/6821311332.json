@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1862022916,
+      "collectionId": 6821311332,
+      "artistName": "LNGSHOT",
+      "collectionName": "S.W.I.S.H. - EP",
+      "collectionCensoredName": "S.W.I.S.H. - EP",
+      "artistViewUrl": "https://music.apple.com/cn/artist/lngshot/1862022916?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/s-w-i-s-h-ep/6821311332?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/a2/d5/fca2d553-68c7-1d81-2f96-924ead20cb42/FrontCoverImage_1.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/a2/d5/fca2d553-68c7-1d81-2f96-924ead20cb42/FrontCoverImage_1.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 5,
+      "copyright": "℗ MORE VISION,under license to Kakao Entertainment",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-11-10T08:00:00Z",
+      "primaryGenreName": "K-Pop"
+    }
+  ]
+}

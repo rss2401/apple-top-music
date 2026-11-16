@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1619544692,
+      "collectionId": 6823307414,
+      "artistName": "Montana 700",
+      "collectionName": "Reminiscing",
+      "collectionCensoredName": "Reminiscing",
+      "artistViewUrl": "https://music.apple.com/us/artist/montana-700/1619544692?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/reminiscing/6823307414?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/ec/31/29ec3143-b97f-a5b0-95f8-aeaa9730c10f/075679551665.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/ec/31/29ec3143-b97f-a5b0-95f8-aeaa9730c10f/075679551665.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 12,
+      "copyright": "A Remain Solid / 300 Entertainment release., ℗ 2026 300 Entertainment LLC",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 2084011,
+      "collectionId": 1650319526,
+      "amgArtistId": 6635,
+      "artistName": "Vince Guaraldi Trio",
+      "collectionName": "A Charlie Brown Christmas (Original 1965 TV Soundtrack) [2022 Mix]",
+      "collectionCensoredName": "A Charlie Brown Christmas (Original 1965 TV Soundtrack) [2022 Mix]",
+      "artistViewUrl": "https://music.apple.com/us/artist/vince-guaraldi-trio/2084011?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/a-charlie-brown-christmas-original-1965-tv/1650319526?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/09/b6/6909b604-c967-e6cf-6b9b-dba54e42a2f2/22CRGIM33543.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/09/b6/6909b604-c967-e6cf-6b9b-dba54e42a2f2/22CRGIM33543.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 11,
+      "copyright": "℗ 2022 Craft Recordings, A Concord Label Group Release.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "1965-12-09T08:00:00Z",
+      "primaryGenreName": "Christmas: Classic"
+    }
+  ]
+}

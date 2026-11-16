@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1276656483,
+      "collectionId": 6832737653,
+      "artistName": "Lil Baby",
+      "collectionName": "FRESH (Bonus Track)",
+      "collectionCensoredName": "FRESH (Bonus Track)",
+      "artistViewUrl": "https://music.apple.com/us/artist/lil-baby/1276656483?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/fresh-bonus-track/6832737653?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/20/5c/a8205c2f-43fa-fb84-8fba-ef55db2275fd/26UM1IM31430.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/20/5c/a8205c2f-43fa-fb84-8fba-ef55db2275fd/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 18,
+      "copyright": "Quality Control Music/Motown Records; ℗ 2026 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-11-10T08:00:00Z",
+      "primaryGenreName": "Hip-Hop"
+    }
+  ]
+}

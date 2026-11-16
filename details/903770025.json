@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 830073965,
+      "collectionId": 903770025,
+      "artistName": "BESTie",
+      "collectionName": "Hot Baby",
+      "collectionCensoredName": "Hot Baby",
+      "artistViewUrl": "https://music.apple.com/cn/artist/bestie/830073965?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/hot-baby/903770025?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4d/13/28/4d13284d-589d-1692-13c4-2c6a5aa59039/KM0002852-_-0728.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4d/13/28/4d13284d-589d-1692-13c4-2c6a5aa59039/KM0002852-_-0728.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 7,
+      "copyright": "℗ 와이앤비 엔터테인먼트(YNB ENTERTAINMENT),under license to Kakao M Corp.",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2014-07-28T07:00:00Z",
+      "primaryGenreName": "K-Pop"
+    }
+  ]
+}

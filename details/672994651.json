@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 387313548,
+      "collectionId": 672994651,
+      "amgArtistId": 1027312,
+      "artistName": "蔡健雅",
+      "collectionName": "說到愛",
+      "collectionCensoredName": "說到愛",
+      "artistViewUrl": "https://music.apple.com/cn/artist/%E8%94%A1%E5%81%A5%E9%9B%85/387313548?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/%E8%AA%AA%E5%88%B0%E6%84%9B/672994651?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/6d/51/5d6d5168-5b14-da04-d7d4-4ce6e34ac177/4000x4000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/6d/51/5d6d5168-5b14-da04-d7d4-4ce6e34ac177/4000x4000.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 10,
+      "copyright": "℗ 2011 Tian Ya Music Productions",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2011-11-18T08:00:00Z",
+      "primaryGenreName": "国语流行"
+    }
+  ]
+}

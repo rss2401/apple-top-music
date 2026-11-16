@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1281676587,
+      "collectionId": 6823287348,
+      "amgArtistId": 3424820,
+      "artistName": "Benny the Butcher, Black Soprano Family & Fuego Base",
+      "collectionName": "A Friend of Ours 2",
+      "collectionCensoredName": "A Friend of Ours 2",
+      "artistViewUrl": "https://music.apple.com/us/artist/benny-the-butcher/1281676587?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/a-friend-of-ours-2/6823287348?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/cb/a4adcb64-d3d8-4eec-33b0-85a64cef4e38/885288763201.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/cb/a4adcb64-d3d8-4eec-33b0-85a64cef4e38/885288763201.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 10,
+      "copyright": "℗ 2026 Perfect Time Music Group",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "primaryGenreName": "Hip-Hop"
+    }
+  ]
+}

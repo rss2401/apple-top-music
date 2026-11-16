@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1044990457,
+      "trackId": 1842883993,
+      "artistName": "DIKKA & Dikki",
+      "trackName": "Halbe Halbe",
+      "trackCensoredName": "Halbe Halbe",
+      "artistViewUrl": "https://music.apple.com/de/artist/dikka/1044990457?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/halbe-halbe/1842883993?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/56/ff/07/56ff075f-1dbd-7901-8eb7-94d43026be49/mzvf_4984730340006744540.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b6/b8/18/b6b81899-834f-0024-5694-4a343a9596a1/25UM1IM01898.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b6/b8/18/b6b81899-834f-0024-5694-4a343a9596a1/25UM1IM01898.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b6/b8/18/b6b81899-834f-0024-5694-4a343a9596a1/25UM1IM01898.crop.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2025-10-01T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 147179,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder"
+    }
+  ]
+}

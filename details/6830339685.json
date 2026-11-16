@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 890558420,
+      "collectionId": 6830339685,
+      "amgArtistId": 3051652,
+      "artistName": "Sam Feldt",
+      "collectionName": "Fitness: Gym, November 2026 (DJ Mix)",
+      "collectionCensoredName": "Fitness: Gym, November 2026 (DJ Mix)",
+      "artistViewUrl": "https://music.apple.com/de/artist/sam-feldt/890558420?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/fitness-gym-november-2026-dj-mix/6830339685?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/82/2a/3c822a71-60d6-d0e3-9142-d8bf098c805e/107530a0-6697-4c9c-ac6f-b605a37cc0ed.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/82/2a/3c822a71-60d6-d0e3-9142-d8bf098c805e/107530a0-6697-4c9c-ac6f-b605a37cc0ed.png/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 19,
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "primaryGenreName": "Dance"
+    }
+  ]
+}

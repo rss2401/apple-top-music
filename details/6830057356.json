@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1794043761,
+      "collectionId": 6830057356,
+      "artistName": "A2O & A2O SOUL",
+      "collectionName": "SUPERSTAR - EP",
+      "collectionCensoredName": "SUPERSTAR - EP",
+      "artistViewUrl": "https://music.apple.com/cn/artist/a2o/1794043761?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/superstar-ep/6830057356?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/18/ab/3b18ab34-7d32-d62c-a1d5-c15352e3d6ab/888272192056_Cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/18/ab/3b18ab34-7d32-d62c-a1d5-c15352e3d6ab/888272192056_Cover.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 5,
+      "copyright": "℗ 2026 A2O Entertainment",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-11-09T08:00:00Z",
+      "primaryGenreName": "K-Pop"
+    }
+  ]
+}

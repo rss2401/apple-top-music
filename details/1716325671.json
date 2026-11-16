@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1432797144,
+      "trackId": 1716325671,
+      "artistName": "Hurra Kinderlieder",
+      "trackName": "Nikomaus",
+      "trackCensoredName": "Nikomaus",
+      "artistViewUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/nikomaus/1716325671?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/b9/d6/03/b9d603fd-b3ec-4673-ad04-f49c8999d3a2/mzvf_14546757835298194916.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/3e/40/99/3e409966-d69e-e1ac-c17c-b79f87b78680/23UM1IM31408.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/3e/40/99/3e409966-d69e-e1ac-c17c-b79f87b78680/23UM1IM31408.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/3e/40/99/3e409966-d69e-e1ac-c17c-b79f87b78680/23UM1IM31408.crop.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2023-11-24T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 158473,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder"
+    }
+  ]
+}

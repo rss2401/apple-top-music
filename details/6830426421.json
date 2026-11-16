@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 689177365,
+      "collectionId": 6830426421,
+      "amgArtistId": 3106520,
+      "artistName": "Babyface Ray",
+      "collectionName": "Unfuckwitable 2",
+      "collectionCensoredName": "Unfuckwitable 2",
+      "artistViewUrl": "https://music.apple.com/us/artist/babyface-ray/689177365?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/unfuckwitable-2/6830426421?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/d6/87/54d687eb-97bc-9777-8928-db6000f590d6/199316789805_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/d6/87/54d687eb-97bc-9777-8928-db6000f590d6/199316789805_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 18,
+      "copyright": "℗ 2026 Wavy Gang / EMPIRE",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}
