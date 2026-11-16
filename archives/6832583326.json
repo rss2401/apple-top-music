@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 75,
+      "artistName": "THOME",
+      "id": "6832583326",
+      "name": "SAYLESS MIXTAPE VOL.1",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "1811532140",
+      "artistUrl": "https://music.apple.com/cn/artist/thome/1811532140",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/7a/a4/417aa464-31b2-12fb-7f60-8a29304ab1e9/cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "音乐",
+          "url": "https://itunes.apple.com/cn/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "嘻哈/说唱",
+          "url": "https://itunes.apple.com/cn/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/cn/album/sayless-mixtape-vol-1/6832583326"
+    }
+  ]
+}

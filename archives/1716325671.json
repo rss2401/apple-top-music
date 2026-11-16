@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 98,
+      "artistName": "Hurra Kinderlieder",
+      "id": "1716325671",
+      "name": "Nikomaus",
+      "releaseDate": "2023-11-24",
+      "kind": "music-videos",
+      "artistId": "1432797144",
+      "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/3e/40/99/3e409966-d69e-e1ac-c17c-b79f87b78680/23UM1IM31408.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik für Kinder"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/nikomaus/1716325671"
+    }
+  ]
+}

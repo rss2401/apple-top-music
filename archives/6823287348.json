@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 55,
+      "artistName": "Benny the Butcher, Black Soprano Family & Fuego Base",
+      "id": "6823287348",
+      "name": "A Friend of Ours 2",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "1281676587",
+      "artistUrl": "https://music.apple.com/us/artist/benny-the-butcher/1281676587",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/cb/a4adcb64-d3d8-4eec-33b0-85a64cef4e38/885288763201.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/a-friend-of-ours-2/6823287348"
+    }
+  ]
+}

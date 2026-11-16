@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 2,
+      "artistName": "Belly Gang Kushington",
+      "id": "6829222417",
+      "name": "GOOD DOPE SELL ITSELF",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "1662748050",
+      "artistUrl": "https://music.apple.com/us/artist/belly-gang-kushington/1662748050",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/d0/f1/acd0f101-210b-d83e-656b-6cbcfc7d5b2a/711641116417.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/good-dope-sell-itself/6829222417"
+    }
+  ]
+}

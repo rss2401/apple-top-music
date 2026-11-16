@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 28,
+      "artistName": "伍佰 & China Blue",
+      "id": "6823148530",
+      "name": "Rock Star 1 演唱会精选实录",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "382356207",
+      "artistUrl": "https://music.apple.com/cn/artist/%E4%BC%8D%E4%BD%B0-china-blue/382356207",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/29/2a/41292a80-ce9f-d046-046f-f4e3757293f2/26UM1IM29817.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "音乐",
+          "url": "https://itunes.apple.com/cn/genre/id34"
+        },
+        {
+          "genreId": "14",
+          "name": "国际流行",
+          "url": "https://itunes.apple.com/cn/genre/id14"
+        }
+      ],
+      "url": "https://music.apple.com/cn/album/rock-star-1-%E6%BC%94%E5%94%B1%E6%9C%83%E7%B2%BE%E9%81%B8%E5%AF%A6%E9%8C%84/6823148530"
+    }
+  ]
+}

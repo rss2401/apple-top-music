@@ -1,12 +1,12 @@
 {
-  "resultCount": 1,
+  "resultCount": 5,
   "results": [
     {
-      "month": "202610",
+      "month": "202611",
       "country": "de",
       "mediaType": "music",
       "feed": "top-albums",
-      "rank": 99,
+      "rank": 1,
       "artistName": "U2",
       "id": "6812412381",
       "name": "Carnaval De Luz",
@@ -15,7 +15,7 @@
       "artistId": "78500",
       "artistUrl": "https://music.apple.com/de/artist/u2/78500",
       "contentAdvisoryRating": "Explict",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/6b/ac/196bac72-8c20-98c9-7fb4-5c66619cc0c3/26UMGIM93067.rgb.jpg/100x100bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/100x100bb.jpg",
       "genres": [
         {
           "genreId": "21",
@@ -29,6 +29,122 @@
         }
       ],
       "url": "https://music.apple.com/de/album/carnaval-de-luz/6812412381"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 5,
+      "artistName": "U2",
+      "id": "6812412381",
+      "name": "Carnaval De Luz",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "78500",
+      "artistUrl": "https://music.apple.com/fr/artist/u2/78500",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/fr/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/carnaval-de-luz/6812412381"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 2,
+      "artistName": "U2",
+      "id": "6812412381",
+      "name": "Carnaval De Luz",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "78500",
+      "artistUrl": "https://music.apple.com/gb/artist/u2/78500",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/gb/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/carnaval-de-luz/6812412381"
+    },
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 32,
+      "artistName": "U2",
+      "id": "6812412381",
+      "name": "Carnaval De Luz",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "78500",
+      "artistUrl": "https://music.apple.com/jp/artist/u2/78500",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "ロック",
+          "url": "https://itunes.apple.com/jp/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/jp/album/carnaval-de-luz/6812412381"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 28,
+      "artistName": "U2",
+      "id": "6812412381",
+      "name": "Carnaval De Luz",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "78500",
+      "artistUrl": "https://music.apple.com/us/artist/u2/78500",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/us/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/carnaval-de-luz/6812412381"
     }
   ]
 }

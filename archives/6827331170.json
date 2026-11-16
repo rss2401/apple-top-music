@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 27,
+      "artistName": "Sleepy Hallow",
+      "id": "6827331170",
+      "name": "STILL SLEEP ??",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "1266711112",
+      "artistUrl": "https://music.apple.com/us/artist/sleepy-hallow/1266711112",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/bd/a7/edbda7a0-c48c-4fff-9cfe-4cef17984a9c/196874782088.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/still-sleep/6827331170"
+    }
+  ]
+}

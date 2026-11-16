@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 86,
+      "artistName": "Tay-K",
+      "id": "6834088684",
+      "name": "#MonstersUnderMyBed",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "1256531673",
+      "artistUrl": "https://music.apple.com/us/artist/tay-k/1256531673",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/61/49/1a614972-4c41-8d8c-0bad-9f1be5c1d0ff/612891356908.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "7",
+          "name": "Electronic",
+          "url": "https://itunes.apple.com/us/genre/id7"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/monstersundermybed/6834088684"
+    }
+  ]
+}

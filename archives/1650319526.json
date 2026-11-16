@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 82,
+      "artistName": "Vince Guaraldi Trio",
+      "id": "1650319526",
+      "name": "A Charlie Brown Christmas (Original 1965 TV Soundtrack) [2022 Mix]",
+      "releaseDate": "1965-12-09",
+      "kind": "albums",
+      "artistId": "2084011",
+      "artistUrl": "https://music.apple.com/us/artist/vince-guaraldi-trio/2084011",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/09/b6/6909b604-c967-e6cf-6b9b-dba54e42a2f2/22CRGIM33543.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "8",
+          "name": "Holiday",
+          "url": "https://itunes.apple.com/us/genre/id8"
+        },
+        {
+          "genreId": "16",
+          "name": "Soundtrack",
+          "url": "https://itunes.apple.com/us/genre/id16"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/a-charlie-brown-christmas-original-1965-tv/1650319526"
+    }
+  ]
+}

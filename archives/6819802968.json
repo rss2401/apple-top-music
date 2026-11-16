@@ -1,12 +1,12 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202611",
       "country": "de",
       "mediaType": "music",
       "feed": "top-songs",
-      "rank": 39,
+      "rank": 5,
       "artistName": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
       "id": "6819802968",
       "name": "Flower In A Hurricane [From GTAVI: Original Score]",
@@ -28,6 +28,34 @@
         }
       ],
       "url": "https://music.apple.com/de/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 53,
+      "artistName": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+      "id": "6819802968",
+      "name": "Flower In A Hurricane [From GTAVI: Original Score]",
+      "releaseDate": "2026-10-15",
+      "kind": "songs",
+      "artistId": "145072812",
+      "artistUrl": "https://music.apple.com/fr/artist/justice/145072812",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "20",
+          "name": "Alternative",
+          "url": "https://itunes.apple.com/fr/genre/id20"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
     }
   ]
 }

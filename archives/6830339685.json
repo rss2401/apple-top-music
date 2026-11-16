@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 90,
+      "artistName": "Sam Feldt",
+      "id": "6830339685",
+      "name": "Fitness: Gym, November 2026 (DJ Mix)",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "890558420",
+      "artistUrl": "https://music.apple.com/de/artist/sam-feldt/890558420",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/82/2a/3c822a71-60d6-d0e3-9142-d8bf098c805e/107530a0-6697-4c9c-ac6f-b605a37cc0ed.png/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "17",
+          "name": "Dance",
+          "url": "https://itunes.apple.com/de/genre/id17"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/fitness-gym-november-2026-dj-mix/6830339685"
+    }
+  ]
+}

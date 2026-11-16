@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 7,
+      "artistName": "Babyface Ray",
+      "id": "6830426421",
+      "name": "Unfuckwitable 2",
+      "releaseDate": "2026-11-13",
+      "kind": "albums",
+      "artistId": "689177365",
+      "artistUrl": "https://music.apple.com/us/artist/babyface-ray/689177365",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/d6/87/54d687eb-97bc-9777-8928-db6000f590d6/199316789805_cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/unfuckwitable-2/6830426421"
+    }
+  ]
+}

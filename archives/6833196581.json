@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 90,
+      "artistName": "EZ MIL & Eminem",
+      "id": "6833196581",
+      "name": "MADARA (feat. Neil Kaplan & Hideyoshi) [Lyric Video]",
+      "releaseDate": "2026-10-08",
+      "kind": "music-videos",
+      "artistId": "1424439211",
+      "artistUrl": "https://music.apple.com/gb/artist/ez-mil/1424439211",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8f/06/80/8f068051-02ac-0f9a-7766-94bcef8037ee/26UM1IM16988.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Hip-Hop"
+        }
+      ],
+      "url": "https://music.apple.com/gb/music-video/madara-feat-neil-kaplan-hideyoshi-lyric-video/6833196581"
+    }
+  ]
+}

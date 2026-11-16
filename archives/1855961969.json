@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 81,
+      "artistName": "DIKKA",
+      "id": "1855961969",
+      "name": "Feliz na wie geht's (feat. Santi)",
+      "releaseDate": "2025-11-28",
+      "kind": "music-videos",
+      "artistId": "1044990457",
+      "artistUrl": "https://music.apple.com/de/artist/dikka/1044990457",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c0/10/37/c010374c-aefd-dbc3-a8b6-3b1be5942ef5/25UM1IM96963.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik für Kinder"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/feliz-na-wie-gehts-feat-santi/1855961969"
+    }
+  ]
+}
