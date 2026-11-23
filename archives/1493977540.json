@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 90,
+      "artistName": "Hurra Kinderlieder",
+      "id": "1493977540",
+      "name": "Hurra wir schlafen",
+      "releaseDate": "2020-01-10",
+      "kind": "music-videos",
+      "artistId": "1432797144",
+      "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/ca/47/f0/ca47f022-2e07-a017-3799-69189cb9b931/19UM1IM14450.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik für Kinder"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/hurra-wir-schlafen/1493977540"
+    }
+  ]
+}

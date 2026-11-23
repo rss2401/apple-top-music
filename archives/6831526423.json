@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 80,
+      "artistName": "一条ゆう",
+      "id": "6831526423",
+      "name": "多摩川で、恋...したい♡",
+      "releaseDate": "2026-10-02",
+      "kind": "music-videos",
+      "artistId": "1617236801",
+      "artistUrl": "https://music.apple.com/jp/artist/%E4%B8%80%E6%9D%A1%E3%82%86%E3%81%86/1617236801",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/f4/49/98f4493c-5c96-5a22-02db-6341aedb3edb/4550796358831.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "J-Pop"
+        }
+      ],
+      "url": "https://music.apple.com/jp/music-video/%E5%A4%9A%E6%91%A9%E5%B7%9D%E3%81%A7-%E6%81%8B-%E3%81%97%E3%81%9F%E3%81%84/6831526423"
+    }
+  ]
+}

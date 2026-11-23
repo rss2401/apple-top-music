@@ -1,0 +1,31 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 97,
+      "artistName": "Various Artists",
+      "id": "1647061641",
+      "name": "Classic Christmas",
+      "releaseDate": "2022-09-30",
+      "kind": "albums",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/98/2f/73982f3a-7c79-ed56-8857-0adae57aea37/196589481887.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "8",
+          "name": "Holiday",
+          "url": "https://itunes.apple.com/us/genre/id8"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/classic-christmas/1647061641"
+    }
+  ]
+}

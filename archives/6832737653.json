@@ -1,12 +1,41 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 49,
+      "artistName": "Lil Baby",
+      "id": "6832737653",
+      "name": "FRESH (Bonus Track)",
+      "releaseDate": "2026-11-10",
+      "kind": "albums",
+      "artistId": "1276656483",
+      "artistUrl": "https://music.apple.com/gb/artist/lil-baby/1276656483",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/20/5c/a8205c2f-43fa-fb84-8fba-ef55db2275fd/26UM1IM31430.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/gb/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/fresh-bonus-track/6832737653"
+    },
     {
       "month": "202611",
       "country": "us",
       "mediaType": "music",
       "feed": "top-albums",
-      "rank": 3,
+      "rank": 2,
       "artistName": "Lil Baby",
       "id": "6832737653",
       "name": "FRESH (Bonus Track)",

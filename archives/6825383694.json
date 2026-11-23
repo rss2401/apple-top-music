@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 40,
+      "artistName": "Celo & Abdi",
+      "id": "6825383694",
+      "name": "Idéalïsta",
+      "releaseDate": "2027-01-29",
+      "kind": "albums",
+      "artistId": "469045122",
+      "artistUrl": "https://music.apple.com/de/artist/celo-abdi/469045122",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/15/27/0a1527ac-0f35-8dda-c89a-a1e1af19dc2f/26UM1IM27162.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/de/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/id%C3%A9al%C3%AFsta/6825383694"
+    }
+  ]
+}

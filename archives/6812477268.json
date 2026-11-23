@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 45,
+      "artistName": "Travis Scott",
+      "id": "6812477268",
+      "name": "RHYNO",
+      "releaseDate": "2026-09-17",
+      "kind": "songs",
+      "artistId": "549236696",
+      "artistUrl": "https://music.apple.com/de/artist/travis-scott/549236696",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/de/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/rhyno/6812476961?i=6812477268"
+    }
+  ]
+}

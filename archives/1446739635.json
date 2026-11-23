@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 92,
+      "artistName": "Hoobastank",
+      "id": "1446739635",
+      "name": "The Reason",
+      "releaseDate": "2004-01-01",
+      "kind": "music-videos",
+      "artistId": "415242",
+      "artistUrl": "https://music.apple.com/fr/artist/hoobastank/415242",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/3d/4a/e7/3d4ae798-1c2e-6a2a-d66f-55f225b1d803/dj.inoqkcal.jpg/100x43mv.jpg",
+      "genres": [
+        {
+          "name": "Rock"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/the-reason/1446739635"
+    }
+  ]
+}

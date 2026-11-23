@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 89,
+      "artistName": "Mariah Carey",
+      "id": "1439640318",
+      "name": "All I Want for Christmas Is You",
+      "releaseDate": "1994-11-01",
+      "kind": "songs",
+      "artistId": "91853",
+      "artistUrl": "https://music.apple.com/gb/artist/mariah-carey/91853",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/72/ad/2072ad2a-ca61-b326-374e-fd290159a984/886447389782.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/all-i-want-for-christmas-is-you/1439640317?i=1439640318"
+    }
+  ]
+}

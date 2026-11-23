@@ -1,16 +1,16 @@
 {
-  "resultCount": 3,
+  "resultCount": 5,
   "results": [
     {
       "month": "202611",
       "country": "de",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 30,
+      "rank": 8,
       "id": "pl.ea28d88865b84b13bf3dafaec5d7a44d",
       "name": "Weihnachten für Kinder",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/d2/59/74/d25974ac-60e8-5f08-a13b-abc848955472/U0MtTVMtV1ctQ2hpbGRyZW5zX0NocmlzdG1hcy1BREFNX0lEPTExNzcxMjQxMTQucG5n.png/100x25cc.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c8/34/11/c834113f-d82a-f830-db73-b173fb0a84da/8d593a4b-4d6c-419f-9b41-08d83014a3a9.png/100x100SC.DN02.jpg?l=de-DE",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/weihnachten-f%C3%BCr-kinder/pl.ea28d88865b84b13bf3dafaec5d7a44d"
     },
@@ -19,11 +19,11 @@
       "country": "fr",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 57,
+      "rank": 23,
       "id": "pl.ea28d88865b84b13bf3dafaec5d7a44d",
       "name": "Le Noël des enfants",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/d2/59/74/d25974ac-60e8-5f08-a13b-abc848955472/U0MtTVMtV1ctQ2hpbGRyZW5zX0NocmlzdG1hcy1BREFNX0lEPTExNzcxMjQxMTQucG5n.png/100x25cc.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c8/34/11/c834113f-d82a-f830-db73-b173fb0a84da/8d593a4b-4d6c-419f-9b41-08d83014a3a9.png/100x100SC.DN02.jpg?l=fr-FR",
       "genres": [],
       "url": "https://music.apple.com/fr/playlist/le-no%C3%ABl-des-enfants/pl.ea28d88865b84b13bf3dafaec5d7a44d"
     },
@@ -32,13 +32,39 @@
       "country": "gb",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 90,
+      "rank": 55,
       "id": "pl.ea28d88865b84b13bf3dafaec5d7a44d",
       "name": "Children’s Christmas",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/d2/59/74/d25974ac-60e8-5f08-a13b-abc848955472/U0MtTVMtV1ctQ2hpbGRyZW5zX0NocmlzdG1hcy1BREFNX0lEPTExNzcxMjQxMTQucG5n.png/100x25cc.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c8/34/11/c834113f-d82a-f830-db73-b173fb0a84da/8d593a4b-4d6c-419f-9b41-08d83014a3a9.png/100x100SC.DN02.jpg?l=en-GB",
       "genres": [],
       "url": "https://music.apple.com/gb/playlist/childrens-christmas/pl.ea28d88865b84b13bf3dafaec5d7a44d"
+    },
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 71,
+      "id": "pl.ea28d88865b84b13bf3dafaec5d7a44d",
+      "name": "家族で楽しむクリスマスソング",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c8/34/11/c834113f-d82a-f830-db73-b173fb0a84da/8d593a4b-4d6c-419f-9b41-08d83014a3a9.png/100x100SC.DN02.jpg?l=ja-JP",
+      "genres": [],
+      "url": "https://music.apple.com/jp/playlist/%E5%AE%B6%E6%97%8F%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%80%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BD%E3%83%B3%E3%82%B0/pl.ea28d88865b84b13bf3dafaec5d7a44d"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 49,
+      "id": "pl.ea28d88865b84b13bf3dafaec5d7a44d",
+      "name": "Children’s Christmas",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c8/34/11/c834113f-d82a-f830-db73-b173fb0a84da/8d593a4b-4d6c-419f-9b41-08d83014a3a9.png/100x100SC.DN02.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/childrens-christmas/pl.ea28d88865b84b13bf3dafaec5d7a44d"
     }
   ]
 }

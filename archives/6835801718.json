@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 95,
+      "artistName": "WENDY",
+      "id": "6835801718",
+      "name": "Gleam Hour - EP",
+      "releaseDate": "2026-11-23",
+      "kind": "albums",
+      "artistId": "840523045",
+      "artistUrl": "https://music.apple.com/cn/artist/wendy/840523045",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/b5/bf/e8b5bff3-aadb-d16c-c10c-e0c21f91f7f9/191953598246.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "15",
+          "name": "R&B/灵魂乐",
+          "url": "https://itunes.apple.com/cn/genre/id15"
+        },
+        {
+          "genreId": "34",
+          "name": "音乐",
+          "url": "https://itunes.apple.com/cn/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/cn/album/gleam-hour-ep/6835801718"
+    }
+  ]
+}

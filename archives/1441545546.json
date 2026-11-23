@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 99,
+      "artistName": "Helene Fischer",
+      "id": "1441545546",
+      "name": "Weihnachten",
+      "releaseDate": "2015-11-13",
+      "kind": "albums",
+      "artistId": "120785706",
+      "artistUrl": "https://music.apple.com/de/artist/helene-fischer/120785706",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/ef/0b/9bef0bb7-cc74-3344-062e-4d7d87a84bfb/18UMGIM75325.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "50000066",
+          "name": "Schlager",
+          "url": "https://itunes.apple.com/de/genre/id50000066"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "19",
+          "name": "Weltweit",
+          "url": "https://itunes.apple.com/de/genre/id19"
+        },
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/de/genre/id21"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/weihnachten/1441545546"
+    }
+  ]
+}

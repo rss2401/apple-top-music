@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 52,
+      "artistName": "Eric Clapton & J.J. Cale",
+      "id": "6800802919",
+      "name": "The Road To Escondido: Enhanced Edition",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "123853",
+      "artistUrl": "https://music.apple.com/de/artist/eric-clapton/123853",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/d5/a6/06d5a691-4b95-4f3a-2f49-13518eb8a465/885288040906.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/the-road-to-escondido-enhanced-edition/6800802919"
+    }
+  ]
+}

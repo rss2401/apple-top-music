@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 71,
+      "artistName": "Star Academy",
+      "id": "1853009372",
+      "name": "Voulez-Vous",
+      "releaseDate": "2025-11-14",
+      "kind": "music-videos",
+      "artistId": "15160985",
+      "artistUrl": "https://music.apple.com/fr/artist/star-academy/15160985",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1f/96/26/1f9626ae-76d2-22c7-cb65-84f11a546253/1968737773820101.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Pop française"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/voulez-vous/1853009372"
+    }
+  ]
+}

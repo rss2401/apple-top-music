@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 38,
+      "artistName": "OneRepublic",
+      "id": "1711473978",
+      "name": "Dear Santa",
+      "releaseDate": "2023-10-20",
+      "kind": "songs",
+      "artistId": "260414340",
+      "artistUrl": "https://music.apple.com/de/artist/onerepublic/260414340",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/a4/b3/a2a4b3b0-8df7-cab2-3a29-e9cec0c4324f/23UM1IM16982.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/dear-santa/1711473645?i=1711473978"
+    }
+  ]
+}

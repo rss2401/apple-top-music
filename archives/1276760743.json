@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 99,
+      "artistName": "Lauryn Hill",
+      "id": "1276760743",
+      "name": "The Miseducation of Lauryn Hill",
+      "releaseDate": "1998-08-19",
+      "kind": "albums",
+      "artistId": "21434",
+      "artistUrl": "https://music.apple.com/fr/artist/lauryn-hill/21434",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/fr/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        },
+        {
+          "genreId": "15",
+          "name": "R&B/Soul",
+          "url": "https://itunes.apple.com/fr/genre/id15"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/the-miseducation-of-lauryn-hill/1276760743"
+    }
+  ]
+}

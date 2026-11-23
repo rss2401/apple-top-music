@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 74,
+      "id": "pl.89549c3c9d7c4ee794f4cf6f732c2fa1",
+      "name": "セットリスト：BIGBANG ツアー",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/40/a7/5d/40a75d43-e22a-a83c-a3e6-b6f2028e700b/ami-identity-51326b76eee8ee25300f569b6b6b6929-2026-08-19T08-28-48.266Z_cropped.png/100x100SC.FPSL03.jpg?l=ja-JP",
+      "genres": [],
+      "url": "https://music.apple.com/jp/playlist/%E3%82%BB%E3%83%83%E3%83%88%E3%83%AA%E3%82%B9%E3%83%88-bigbang-%E3%83%84%E3%82%A2%E3%83%BC/pl.89549c3c9d7c4ee794f4cf6f732c2fa1"
+    }
+  ]
+}

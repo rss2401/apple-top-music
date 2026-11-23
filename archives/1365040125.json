@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 74,
+      "artistName": "Jona Lewie",
+      "id": "1365040125",
+      "name": "Stop the Cavalry",
+      "releaseDate": "1982-06-01",
+      "kind": "songs",
+      "artistId": "33762875",
+      "artistUrl": "https://music.apple.com/gb/artist/jona-lewie/33762875",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4b/0a/7b4b0a05-ee89-c460-d469-5405dc560318/18UMGIM14108.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/gb/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/stop-the-cavalry/1365039535?i=1365040125"
+    }
+  ]
+}

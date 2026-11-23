@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 1,
+      "artistName": "YFN Lucci",
+      "id": "6834596383",
+      "name": "everything i said i am. / everything she said she is.",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "957498371",
+      "artistUrl": "https://music.apple.com/us/artist/yfn-lucci/957498371",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/e2/4f/34e24f49-2675-8572-e1a9-4f982f2b2ca1/075679546210.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/everything-i-said-i-am-everything-she-said-she-is/6834596383"
+    }
+  ]
+}

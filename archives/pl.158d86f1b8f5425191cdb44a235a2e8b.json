@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 59,
+      "id": "pl.158d86f1b8f5425191cdb44a235a2e8b",
+      "name": "Thanksgiving Dinner",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/72/2f/7c/722f7cd4-6777-c0b2-d8fd-80d9c35ead4c/de08c8e2-4f3f-40ce-8c9e-c168eb8032a4.png/100x100SC.DN02.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/thanksgiving-dinner/pl.158d86f1b8f5425191cdb44a235a2e8b"
+    }
+  ]
+}

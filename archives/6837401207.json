@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 17,
+      "artistName": "Helene Fischer",
+      "id": "6837401207",
+      "name": "WAS HAST DU MIT MIR GEMACHT (Helene Fischer Show 25.12.2026)",
+      "releaseDate": "2026-11-20",
+      "kind": "music-videos",
+      "artistId": "120785706",
+      "artistUrl": "https://music.apple.com/de/artist/helene-fischer/120785706",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1c/33/9b/1c339b68-f571-4144-e825-9a5aebc84446/26UM1IM47862.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Schlager"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/was-hast-du-mit-mir-gemacht-helene-fischer-show-25-12-2026/6837401207"
+    }
+  ]
+}

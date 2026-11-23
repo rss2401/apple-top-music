@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 86,
+      "id": "pl.9d6778c5f68c4900b52bf9bda9cebf32",
+      "name": "Classical Christmas Hits",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6a/53/46/6a5346ca-2b65-874d-fb30-bf57f8f96966/18268f0d-3099-4b63-b7fd-145cdbf5e4f7.png/100x100SC.DN02.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/classical-christmas-hits/pl.9d6778c5f68c4900b52bf9bda9cebf32"
+    }
+  ]
+}

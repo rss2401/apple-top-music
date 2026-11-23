@@ -1,0 +1,61 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 90,
+      "artistName": "Olivia Rodrigo, Rachel Zegler & Flatland Cavalry",
+      "id": "1714727603",
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+      "releaseDate": "2023-11-17",
+      "kind": "albums",
+      "artistId": "979458609",
+      "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/5c/8e/175c8ec4-a8fd-6a14-5a1e-ea5917a1e687/23UM1IM46888.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "16",
+          "name": "Soundtrack",
+          "url": "https://itunes.apple.com/gb/genre/id16"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/the-hunger-games-the-ballad-of-songbirds-snakes/1714727603"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 99,
+      "artistName": "Olivia Rodrigo, Rachel Zegler & Flatland Cavalry",
+      "id": "1714727603",
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+      "releaseDate": "2023-11-17",
+      "kind": "albums",
+      "artistId": "979458609",
+      "artistUrl": "https://music.apple.com/us/artist/olivia-rodrigo/979458609",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/5c/8e/175c8ec4-a8fd-6a14-5a1e-ea5917a1e687/23UM1IM46888.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "16",
+          "name": "Soundtrack",
+          "url": "https://itunes.apple.com/us/genre/id16"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/the-hunger-games-the-ballad-of-songbirds-snakes/1714727603"
+    }
+  ]
+}

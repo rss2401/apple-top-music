@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 84,
+      "id": "pl.aa487f0db5594e04944d3fa380d50b3d",
+      "name": "Frank Sinatra Christmas Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/33/a8/0f/33a80f1a-54a9-a09e-a400-7d973f36c7ca/e796aaad-bb46-44b6-a0ce-71a2868bb0c6.png/100x100SC.FPESS05.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/frank-sinatra-christmas-essentials/pl.aa487f0db5594e04944d3fa380d50b3d"
+    }
+  ]
+}

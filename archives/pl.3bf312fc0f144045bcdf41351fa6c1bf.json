@@ -1,0 +1,31 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 46,
+      "id": "pl.3bf312fc0f144045bcdf41351fa6c1bf",
+      "name": "Weihnachtlicher Jazz",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/cc/ed/3d/cced3d2f-4e2b-eb8c-2097-ca291ba217e0/c4c7d290-c3d6-4bbc-b3b1-5cf6359bf792.png/100x100SC.DN02.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/weihnachtlicher-jazz/pl.3bf312fc0f144045bcdf41351fa6c1bf"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 57,
+      "id": "pl.3bf312fc0f144045bcdf41351fa6c1bf",
+      "name": "Jazz Christmas",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/cc/ed/3d/cced3d2f-4e2b-eb8c-2097-ca291ba217e0/c4c7d290-c3d6-4bbc-b3b1-5cf6359bf792.png/100x100SC.DN02.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/jazz-christmas/pl.3bf312fc0f144045bcdf41351fa6c1bf"
+    }
+  ]
+}

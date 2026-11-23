@@ -1,5 +1,5 @@
 {
-  "resultCount": 16,
+  "resultCount": 17,
   "results": [
     {
       "month": "202605",
@@ -430,7 +430,7 @@
       "country": "de",
       "mediaType": "music",
       "feed": "top-albums",
-      "rank": 55,
+      "rank": 72,
       "artistName": "Michael Jackson",
       "id": "269572838",
       "name": "Thriller",
@@ -455,10 +455,38 @@
     },
     {
       "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 61,
+      "artistName": "Michael Jackson",
+      "id": "269572838",
+      "name": "Thriller",
+      "releaseDate": "1982-11-29",
+      "kind": "albums",
+      "artistId": "32940",
+      "artistUrl": "https://music.apple.com/fr/artist/michael-jackson/32940",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/fr/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/thriller/269572838"
+    },
+    {
+      "month": "202611",
       "country": "gb",
       "mediaType": "music",
       "feed": "top-albums",
-      "rank": 62,
+      "rank": 64,
       "artistName": "Michael Jackson",
       "id": "269572838",
       "name": "Thriller",
@@ -486,7 +514,7 @@
       "country": "us",
       "mediaType": "music",
       "feed": "top-albums",
-      "rank": 98,
+      "rank": 94,
       "artistName": "Michael Jackson",
       "id": "269572838",
       "name": "Thriller",

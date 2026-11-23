@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 91,
+      "artistName": "柊マグネタイト",
+      "id": "1780713966",
+      "name": "テトリス",
+      "releaseDate": "2024-11-27",
+      "kind": "music-videos",
+      "artistId": "1536078851",
+      "artistUrl": "https://music.apple.com/jp/artist/%E6%9F%8A%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%BF%E3%82%A4%E3%83%88/1536078851",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e3/c1/27/e3c127ac-22ec-a689-3fc6-69579fada301/PA00168049_1_207464_jacket.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "J-Pop"
+        }
+      ],
+      "url": "https://music.apple.com/jp/music-video/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/1780713966"
+    }
+  ]
+}

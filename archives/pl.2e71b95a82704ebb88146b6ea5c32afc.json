@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 84,
+      "id": "pl.2e71b95a82704ebb88146b6ea5c32afc",
+      "name": "結婚式で聴きたいウエディングソング",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/z8AXURhwF-SrflAkABzJKA/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/jp/playlist/%E7%B5%90%E5%A9%9A%E5%BC%8F%E3%81%A7%E8%81%B4%E3%81%8D%E3%81%9F%E3%81%84%E3%82%A6%E3%82%A8%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BD%E3%83%B3%E3%82%B0/pl.2e71b95a82704ebb88146b6ea5c32afc"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
       "country": "fr",
       "mediaType": "music",
       "feed": "top-albums",
-      "rank": 19,
+      "rank": 79,
       "artistName": "H JeuneCrack",
       "id": "6828789899",
       "name": "3ème Mouvement",
@@ -14,6 +14,7 @@
       "kind": "albums",
       "artistId": "1475519645",
       "artistUrl": "https://music.apple.com/fr/artist/h-jeunecrack/1475519645",
+      "contentAdvisoryRating": "Explict",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/44/b2/9a44b264-4c9c-bcee-7492-61b332587602/26UM1IM41609.rgb.jpg/100x100bb.jpg",
       "genres": [
         {

@@ -1,0 +1,89 @@
+{
+  "resultCount": 4,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 2,
+      "artistName": "The Weeknd",
+      "id": "6837352006",
+      "name": "Hong Kong (feat. 王菲季候風)",
+      "releaseDate": "2026-11-20",
+      "kind": "music-videos",
+      "artistId": "479756766",
+      "artistUrl": "https://music.apple.com/de/artist/the-weeknd/479756766",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ff/30/9b/ff309b03-ff7e-0116-ed5e-4cb226c8bca0/26UM1IM42912.crop.jpg/100x67mv.jpg",
+      "genres": [
+        {
+          "name": "R&B/Soul"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/hong-kong-feat-%E7%8E%8B%E8%8F%B2%E5%AD%A3%E5%80%99%E9%A2%A8/6837352006"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 1,
+      "artistName": "The Weeknd",
+      "id": "6837352006",
+      "name": "Hong Kong (feat. 王菲季候風)",
+      "releaseDate": "2026-11-20",
+      "kind": "music-videos",
+      "artistId": "479756766",
+      "artistUrl": "https://music.apple.com/fr/artist/the-weeknd/479756766",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ff/30/9b/ff309b03-ff7e-0116-ed5e-4cb226c8bca0/26UM1IM42912.crop.jpg/100x67mv.jpg",
+      "genres": [
+        {
+          "name": "R&B/Soul"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/hong-kong-feat-%E7%8E%8B%E8%8F%B2%E5%AD%A3%E5%80%99%E9%A2%A8/6837352006"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 2,
+      "artistName": "The Weeknd",
+      "id": "6837352006",
+      "name": "Hong Kong (feat. 王菲季候風)",
+      "releaseDate": "2026-11-20",
+      "kind": "music-videos",
+      "artistId": "479756766",
+      "artistUrl": "https://music.apple.com/gb/artist/the-weeknd/479756766",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ff/30/9b/ff309b03-ff7e-0116-ed5e-4cb226c8bca0/26UM1IM42912.crop.jpg/100x67mv.jpg",
+      "genres": [
+        {
+          "name": "R&B/Soul"
+        }
+      ],
+      "url": "https://music.apple.com/gb/music-video/hong-kong-feat-%E7%8E%8B%E8%8F%B2%E5%AD%A3%E5%80%99%E9%A2%A8/6837352006"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 13,
+      "artistName": "The Weeknd",
+      "id": "6837352006",
+      "name": "Hong Kong (feat. 王菲季候風)",
+      "releaseDate": "2026-11-20",
+      "kind": "music-videos",
+      "artistId": "479756766",
+      "artistUrl": "https://music.apple.com/us/artist/the-weeknd/479756766",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ff/30/9b/ff309b03-ff7e-0116-ed5e-4cb226c8bca0/26UM1IM42912.crop.jpg/100x67mv.jpg",
+      "genres": [
+        {
+          "name": "R&B/Soul"
+        }
+      ],
+      "url": "https://music.apple.com/us/music-video/hong-kong-feat-%E7%8E%8B%E8%8F%B2%E5%AD%A3%E5%80%99%E9%A2%A8/6837352006"
+    }
+  ]
+}

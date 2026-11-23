@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 63,
+      "artistName": "SixTONES",
+      "id": "6832920650",
+      "name": "THE VIBES",
+      "releaseDate": "2024-01-10",
+      "kind": "albums",
+      "artistId": "1808322699",
+      "artistUrl": "https://music.apple.com/jp/artist/sixtones/1808322699",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/78/e0/9d78e0ae-9dd2-2d83-b6b3-0a94847d876c/4547366863451.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "27",
+          "name": "J-Pop",
+          "url": "https://itunes.apple.com/jp/genre/id27"
+        },
+        {
+          "genreId": "34",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/jp/album/the-vibes/6832920650"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 98,
+      "artistName": "Booter Bee",
+      "id": "6818081551",
+      "name": "The Buzz",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "1541936673",
+      "artistUrl": "https://music.apple.com/gb/artist/booter-bee/1541936673",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/83/79/70837947-8d31-1cc8-a7aa-b1f51ff45454/cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/gb/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/the-buzz/6818081551"
+    }
+  ]
+}

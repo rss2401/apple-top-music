@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 92,
+      "artistName": "Hurra Kinderlieder",
+      "id": "1693808951",
+      "name": "Raketen Planeten Lied",
+      "releaseDate": "2023-06-30",
+      "kind": "music-videos",
+      "artistId": "1432797144",
+      "artistUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/55/c2/e9/55c2e9aa-9558-d6ff-10e4-037d1841093d/23UMGIM70667.crop.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik für Kinder"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/raketen-planeten-lied/1693808951"
+    }
+  ]
+}

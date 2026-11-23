@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 49,
+      "artistName": "Taylor Swift",
+      "id": "1490369895",
+      "name": "Christmas Tree Farm",
+      "releaseDate": "2019-12-06",
+      "kind": "songs",
+      "artistId": "159260351",
+      "artistUrl": "https://music.apple.com/de/artist/taylor-swift/159260351",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/55/5a/ca555a0e-c360-26e6-437d-098b0089482a/19UM1IM09492.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/christmas-tree-farm/1490369893?i=1490369895"
+    }
+  ]
+}

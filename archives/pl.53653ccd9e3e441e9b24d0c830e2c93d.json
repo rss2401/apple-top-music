@@ -1,0 +1,44 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 58,
+      "id": "pl.53653ccd9e3e441e9b24d0c830e2c93d",
+      "name": "GTA VI Radio 🌴 Vice City Soundtrack & Trailer Songs",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/IwJf_tMf0SD6QGCrdvSjlA/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/gta-vi-radio-vice-city-soundtrack-trailer-songs/pl.53653ccd9e3e441e9b24d0c830e2c93d"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 80,
+      "id": "pl.53653ccd9e3e441e9b24d0c830e2c93d",
+      "name": "GTA VI Radio 🌴 Vice City Soundtrack & Trailer Songs",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/IwJf_tMf0SD6QGCrdvSjlA/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/gta-vi-radio-vice-city-soundtrack-trailer-songs/pl.53653ccd9e3e441e9b24d0c830e2c93d"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 80,
+      "id": "pl.53653ccd9e3e441e9b24d0c830e2c93d",
+      "name": "GTA VI Radio 🌴 Vice City Soundtrack & Trailer Songs",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/IwJf_tMf0SD6QGCrdvSjlA/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/gb/playlist/gta-vi-radio-vice-city-soundtrack-trailer-songs/pl.53653ccd9e3e441e9b24d0c830e2c93d"
+    }
+  ]
+}

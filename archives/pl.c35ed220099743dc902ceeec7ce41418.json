@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 72,
+      "id": "pl.c35ed220099743dc902ceeec7ce41418",
+      "name": "Steps Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/8c/80/3c/8c803c55-f9f6-d4bf-9664-989da9fe9c8f/b2c990f6-3bf9-4898-8ffd-b8930df132b6_ami-identity-8abfe15cdc2056eeb4908eb5ec7134de-2023-12-13T15-06-54.108Z_cropped.png/100x100SC.FPESS05.jpg?l=en-GB",
+      "genres": [],
+      "url": "https://music.apple.com/gb/playlist/steps-essentials/pl.c35ed220099743dc902ceeec7ce41418"
+    }
+  ]
+}

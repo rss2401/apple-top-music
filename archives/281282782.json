@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 62,
+      "artistName": "Wham!",
+      "id": "281282782",
+      "name": "Last Christmas",
+      "releaseDate": "1984-12-01",
+      "kind": "music-videos",
+      "artistId": "548421",
+      "artistUrl": "https://music.apple.com/de/artist/wham/548421",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/22/b5/d1/mzi.sgmipefw.jpg/100x55mv.jpg",
+      "genres": [
+        {
+          "name": "Pop"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/last-christmas/281282782"
+    }
+  ]
+}

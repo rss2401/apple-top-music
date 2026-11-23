@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 66,
+      "artistName": "藤井 風 & Zane Lowe",
+      "id": "1895784896",
+      "name": "Fujii Kaze: The Zane Lowe Interview",
+      "releaseDate": "2026-04-29",
+      "kind": "music-videos",
+      "artistId": "1486113150",
+      "artistUrl": "https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/51/9a/12/519a1292-f210-f243-2924-94b476b311ad/TN-MS-WW-Zane_FujiiKaze_20260416-AUC_Episode_B.png/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "ポップ"
+        }
+      ],
+      "url": "https://music.apple.com/jp/music-video/fujii-kaze-the-zane-lowe-interview/1895784896"
+    }
+  ]
+}

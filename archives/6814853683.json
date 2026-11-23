@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 68,
+      "artistName": "Ms. Rachel",
+      "id": "6814853683",
+      "name": "I'm So Happy",
+      "releaseDate": "2026-09-25",
+      "kind": "music-videos",
+      "artistId": "1733956832",
+      "artistUrl": "https://music.apple.com/us/artist/ms-rachel/1733956832",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9f/e7/34/9fe73404-57a2-3002-8042-e2176f94cc53/Jobee04a1bd-484b-4e9d-a69a-a613f9beb934-245023353-PreviewImage_preview_image_29000_video_sdr-Time1790089396313.png/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Children's Music"
+        }
+      ],
+      "url": "https://music.apple.com/us/music-video/im-so-happy/6814853683"
+    }
+  ]
+}

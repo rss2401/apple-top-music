@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 22,
+      "artistName": "Dalí",
+      "id": "6821004871",
+      "name": "Horse",
+      "releaseDate": "2026-11-19",
+      "kind": "albums",
+      "artistId": "1576953913",
+      "artistUrl": "https://music.apple.com/fr/artist/dal%C3%AD/1576953913",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/96/25/d1962540-87f5-9ec0-a194-7530b73adb0c/1200220281817.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/fr/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        },
+        {
+          "genreId": "20",
+          "name": "Alternative",
+          "url": "https://itunes.apple.com/fr/genre/id20"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/horse/6821004871"
+    }
+  ]
+}

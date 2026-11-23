@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 60,
+      "artistName": "Tiësto",
+      "id": "6831267756",
+      "name": "The Magic of Tomorrowland, China, 2026: Tiësto (DJ Mix)",
+      "releaseDate": "2026-10-18",
+      "kind": "albums",
+      "artistId": "4091218",
+      "artistUrl": "https://music.apple.com/de/artist/ti%C3%ABsto/4091218",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/36/f0/b236f0b9-ed5b-7d73-88a1-1d4b38580321/b9b5b96a-6c90-4190-8091-611d3a2e8f8a.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "17",
+          "name": "Dance",
+          "url": "https://itunes.apple.com/de/genre/id17"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "7",
+          "name": "Electronic",
+          "url": "https://itunes.apple.com/de/genre/id7"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/the-magic-of-tomorrowland-china-2026-ti%C3%ABsto-dj-mix/6831267756"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 63,
+      "artistName": "BexBlu & Paul Stephan",
+      "id": "6819750112",
+      "name": "ALWAYS MOVING",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "1596207826",
+      "artistUrl": "https://music.apple.com/gb/artist/bexblu/1596207826",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/47/a2/be47a2b1-2354-aff0-798c-30990b10745d/199316801460_cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/gb/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/always-moving/6819750112"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 99,
+      "artistName": "YFN Lucci & Rod Wave",
+      "id": "6834596541",
+      "name": "I just realized. (feat. Future)",
+      "releaseDate": "2026-11-19",
+      "kind": "songs",
+      "artistId": "957498371",
+      "artistUrl": "https://music.apple.com/us/artist/yfn-lucci/957498371",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/79/03/037903d0-d385-3dfb-e867-e10abf280f78/075679546210.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/us/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/i-just-realized-feat-future/6834596383?i=6834596541"
+    }
+  ]
+}

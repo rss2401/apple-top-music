@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 48,
+      "artistName": "Ava Max",
+      "id": "1535473482",
+      "name": "Christmas Without You",
+      "releaseDate": "2020-01-01",
+      "kind": "songs",
+      "artistId": "1265164818",
+      "artistUrl": "https://music.apple.com/de/artist/ava-max/1265164818",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/bc/35/14bc3529-1982-aaf1-ae1b-ed1238efc08a/075679799036.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/christmas-without-you/1535473478?i=1535473482"
+    }
+  ]
+}

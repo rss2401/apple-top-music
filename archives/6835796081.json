@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 56,
+      "artistName": "ENHYPEN",
+      "id": "6835796081",
+      "name": "I Want You",
+      "releaseDate": "2026-11-13",
+      "kind": "music-videos",
+      "artistId": "1541011620",
+      "artistUrl": "https://music.apple.com/jp/artist/enhypen/1541011620",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/cf/cd/dd/cfcdddcd-5cf3-cfe3-0976-8f4031c08cde/26UM1IM48139.crop.jpg/100x54mv.jpg",
+      "genres": [
+        {
+          "name": "K-Pop"
+        }
+      ],
+      "url": "https://music.apple.com/jp/music-video/i-want-you/6835796081"
+    }
+  ]
+}

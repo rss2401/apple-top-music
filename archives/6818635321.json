@@ -1,0 +1,73 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 24,
+      "artistName": "Trivium",
+      "id": "6818635321",
+      "name": "Crown In The Grave",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "47123955",
+      "artistUrl": "https://music.apple.com/de/artist/trivium/47123955",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b7/ce/43b7ce91-a19e-454e-208d-7ad7ceff459e/075679558688.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "1153",
+          "name": "Metal",
+          "url": "https://itunes.apple.com/de/genre/id1153"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/de/genre/id21"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/crown-in-the-grave/6818635321"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 43,
+      "artistName": "Trivium",
+      "id": "6818635321",
+      "name": "Crown In The Grave",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "47123955",
+      "artistUrl": "https://music.apple.com/gb/artist/trivium/47123955",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b7/ce/43b7ce91-a19e-454e-208d-7ad7ceff459e/075679558688.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "1153",
+          "name": "Metal",
+          "url": "https://itunes.apple.com/gb/genre/id1153"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        },
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/gb/genre/id21"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/crown-in-the-grave/6818635321"
+    }
+  ]
+}

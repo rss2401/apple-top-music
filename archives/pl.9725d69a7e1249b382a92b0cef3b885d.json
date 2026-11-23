@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 77,
+      "id": "pl.9725d69a7e1249b382a92b0cef3b885d",
+      "name": "Traditional Christmas Music",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/gXvsTNYwOLWAUEElZYUUIQ/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/traditional-christmas-music/pl.9725d69a7e1249b382a92b0cef3b885d"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 25,
+      "artistName": "Take That",
+      "id": "6814543019",
+      "name": "Dreamers",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "13653352",
+      "artistUrl": "https://music.apple.com/de/artist/take-that/13653352",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/11/22/291122a2-5136-40a9-f195-715fc0b5d87d/26UM1IM20740.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/dreamers/6814543019"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 16,
+      "artistName": "Take That",
+      "id": "6814543019",
+      "name": "Dreamers",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "13653352",
+      "artistUrl": "https://music.apple.com/gb/artist/take-that/13653352",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/11/22/291122a2-5136-40a9-f195-715fc0b5d87d/26UM1IM20740.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/gb/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/dreamers/6814543019"
+    }
+  ]
+}

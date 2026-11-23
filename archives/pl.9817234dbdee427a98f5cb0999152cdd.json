@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 80,
+      "id": "pl.9817234dbdee427a98f5cb0999152cdd",
+      "name": "Mariah Carey Christmas Essentials",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/35/16/1b/35161b84-3809-af92-9664-a19070b1ab47/a206dbcd-214d-4b7e-9a08-9035f49050e4.png/100x100SC.FPESS05.jpg?l=en-US",
+      "genres": [],
+      "url": "https://music.apple.com/us/playlist/mariah-carey-christmas-essentials/pl.9817234dbdee427a98f5cb0999152cdd"
+    }
+  ]
+}

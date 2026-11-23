@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 84,
+      "artistName": "Joy Denalane",
+      "id": "6814520214",
+      "name": "What Christmas Means to Me",
+      "releaseDate": "2026-11-20",
+      "kind": "songs",
+      "artistId": "17316752",
+      "artistUrl": "https://music.apple.com/de/artist/joy-denalane/17316752",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/38/aa/7c38aa70-3ddb-af49-b613-b748540e417f/1200220170944.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/what-christmas-means-to-me/6814519998?i=6814520214"
+    }
+  ]
+}

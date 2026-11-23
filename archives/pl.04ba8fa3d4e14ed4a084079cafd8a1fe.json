@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 89,
+      "id": "pl.04ba8fa3d4e14ed4a084079cafd8a1fe",
+      "name": "Dire Straits : les indispensables",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/76/64/64/7664643e-dd96-0ef0-32c7-b5fa9c8ff918/mzl.sbkpivez.jpg/100x100SC.FPESS05.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/dire-straits-les-indispensables/pl.04ba8fa3d4e14ed4a084079cafd8a1fe"
+    }
+  ]
+}

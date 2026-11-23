@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 61,
+      "artistName": "Shakin' Stevens",
+      "id": "1540828421",
+      "name": "Merry Christmas Everyone",
+      "releaseDate": "2020-11-26",
+      "kind": "music-videos",
+      "artistId": "13478930",
+      "artistUrl": "https://music.apple.com/gb/artist/shakin-stevens/13478930",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/d7/cd/6a/d7cd6a37-1100-7cfd-fcaa-f9b3e92edbc7/8864489070150101.jpg/100x71mv.jpg",
+      "genres": [
+        {
+          "name": "Pop"
+        }
+      ],
+      "url": "https://music.apple.com/gb/music-video/merry-christmas-everyone/1540828421"
+    }
+  ]
+}

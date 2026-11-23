@@ -1,0 +1,79 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 66,
+      "artistName": "Dean Martin",
+      "id": "1440830243",
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "releaseDate": "1959-11-16",
+      "kind": "songs",
+      "artistId": "266028",
+      "artistUrl": "https://music.apple.com/de/artist/dean-martin/266028",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/let-it-snow-let-it-snow-let-it-snow/1440830105?i=1440830243"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 54,
+      "artistName": "Dean Martin",
+      "id": "1440830243",
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "releaseDate": "1959-11-16",
+      "kind": "songs",
+      "artistId": "266028",
+      "artistUrl": "https://music.apple.com/gb/artist/dean-martin/266028",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/let-it-snow-let-it-snow-let-it-snow/1440830105?i=1440830243"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 83,
+      "artistName": "Dean Martin",
+      "id": "1440830243",
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "releaseDate": "1959-11-16",
+      "kind": "songs",
+      "artistId": "266028",
+      "artistUrl": "https://music.apple.com/us/artist/dean-martin/266028",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        },
+        {
+          "genreId": "8",
+          "name": "Holiday",
+          "url": "https://itunes.apple.com/us/genre/id8"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/let-it-snow-let-it-snow-let-it-snow/1440830105?i=1440830243"
+    }
+  ]
+}

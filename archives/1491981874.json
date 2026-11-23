@@ -1,0 +1,47 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 76,
+      "artistName": "Mariah Carey",
+      "id": "1491981874",
+      "name": "All I Want for Christmas Is You (Make My Wish Come True Edition)",
+      "releaseDate": "2019-12-19",
+      "kind": "music-videos",
+      "artistId": "91853",
+      "artistUrl": "https://music.apple.com/de/artist/mariah-carey/91853",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/c9/37/ad/c937adb4-bc5f-c126-e1aa-ea88c6942d31/8864481077500101.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik zum Fest"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/all-i-want-for-christmas-is-you-make-my-wish-come-true-edition/1491981874"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 70,
+      "artistName": "Mariah Carey",
+      "id": "1491981874",
+      "name": "All I Want for Christmas Is You (Make My Wish Come True Edition)",
+      "releaseDate": "2019-12-19",
+      "kind": "music-videos",
+      "artistId": "91853",
+      "artistUrl": "https://music.apple.com/gb/artist/mariah-carey/91853",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/c9/37/ad/c937adb4-bc5f-c126-e1aa-ea88c6942d31/8864481077500101.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Christmas"
+        }
+      ],
+      "url": "https://music.apple.com/gb/music-video/all-i-want-for-christmas-is-you-make-my-wish-come-true-edition/1491981874"
+    }
+  ]
+}

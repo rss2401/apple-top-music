@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 81,
+      "id": "pl.a1eb9263844441fabaf15fe1c6eeda0f",
+      "name": "はじめての 太田裕美",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/68/8c/f8/688cf8a9-fac7-8bfb-fa28-72d1a530d15f/mzl.fstwpibu.jpg/100x100SC.FPESS05.jpg?l=ja-JP",
+      "genres": [],
+      "url": "https://music.apple.com/jp/playlist/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE-%E5%A4%AA%E7%94%B0%E8%A3%95%E7%BE%8E/pl.a1eb9263844441fabaf15fe1c6eeda0f"
+    }
+  ]
+}

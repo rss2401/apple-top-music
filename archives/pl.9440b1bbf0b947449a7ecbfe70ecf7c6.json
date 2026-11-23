@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 80,
+      "id": "pl.9440b1bbf0b947449a7ecbfe70ecf7c6",
+      "name": "Best Christmas Songs 2026 🎄 Holiday Hits & Greatest Classics ✨",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/uRZiFNE-lLIg0slkhaMfJQ/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/best-christmas-songs-2026-holiday-hits-greatest-classics/pl.9440b1bbf0b947449a7ecbfe70ecf7c6"
+    }
+  ]
+}

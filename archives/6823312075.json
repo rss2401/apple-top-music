@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 24,
+      "artistName": "Olamide",
+      "id": "6823312075",
+      "name": "Time and Space",
+      "releaseDate": "2026-11-16",
+      "kind": "albums",
+      "artistId": "389401008",
+      "artistUrl": "https://music.apple.com/gb/artist/olamide/389401008",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/b6/c5/11b6c531-93fa-5a3c-0a7c-cb027b090b32/199316822236_cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/time-and-space/6823312075"
+    }
+  ]
+}

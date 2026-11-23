@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 99,
+      "artistName": "藤井 風",
+      "id": "1710724753",
+      "name": "花",
+      "releaseDate": "2023-10-13",
+      "kind": "songs",
+      "artistId": "1486113150",
+      "artistUrl": "https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/7c/f0/f47cf00a-68d0-74fa-82e1-b291addbb62a/23UM1IM12200.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "27",
+          "name": "J-Pop",
+          "url": "https://itunes.apple.com/jp/genre/id27"
+        },
+        {
+          "genreId": "34",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/jp/album/%E8%8A%B1/1710724726?i=1710724753"
+    }
+  ]
+}

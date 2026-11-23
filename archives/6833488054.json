@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 87,
+      "artistName": "CEDDO",
+      "id": "6833488054",
+      "name": "arm um mich",
+      "releaseDate": "2026-10-15",
+      "kind": "songs",
+      "artistId": "1473159575",
+      "artistUrl": "https://music.apple.com/de/artist/ceddo/1473159575",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d9/e1/4ed9e18b-2ab4-9d70-3994-20e6a19175a3/4761871.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/arm-um-mich/6833488052?i=6833488054"
+    }
+  ]
+}

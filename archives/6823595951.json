@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 22,
+      "artistName": "SDP & JazzDP",
+      "id": "6823595951",
+      "name": "JazzDP (feat. The Capital Dance Orchestra)",
+      "releaseDate": "2026-11-19",
+      "kind": "albums",
+      "artistId": "213354067",
+      "artistUrl": "https://music.apple.com/de/artist/sdp/213354067",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/26/ab/7826abff-b62c-3ed7-7919-4e78aef2381f/26UM1IM32798.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "11",
+          "name": "Jazz",
+          "url": "https://itunes.apple.com/de/genre/id11"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/jazzdp-feat-the-capital-dance-orchestra/6823595951"
+    }
+  ]
+}

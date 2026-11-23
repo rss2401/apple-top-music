@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 6,
   "results": [
     {
       "month": "202607",
@@ -45,7 +45,7 @@
       "country": "cn",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 85,
+      "rank": 71,
       "id": "pl.2a0b1ea7704842f4b956e959067b8389",
       "name": "我的情绪角落",
       "kind": "playlists",
@@ -55,10 +55,23 @@
     },
     {
       "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 77,
+      "id": "pl.2a0b1ea7704842f4b956e959067b8389",
+      "name": "Zeit für mich",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/0a/9a/e1/0a9ae10b-c36d-0ec8-e12b-a5453e457f2b/U0MtTVMtV1ctSW5fTXlfUm9vbS1BREFNX0lEPTExNDQ1NzA1MjkucG5n.png/100x100SC.DN02.jpg?l=de-DE",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/zeit-f%C3%BCr-mich/pl.2a0b1ea7704842f4b956e959067b8389"
+    },
+    {
+      "month": "202611",
       "country": "us",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 80,
+      "rank": 87,
       "id": "pl.2a0b1ea7704842f4b956e959067b8389",
       "name": "In My Room",
       "kind": "playlists",

@@ -1,25 +1,12 @@
 {
-  "resultCount": 2,
+  "resultCount": 1,
   "results": [
-    {
-      "month": "202611",
-      "country": "cn",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 57,
-      "id": "pl.9f8ca9ff4a094a0abbb7f46ac83a32d9",
-      "name": "Rap Life：2026 年度最佳",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/3d/19/15/3d191528-b023-c8c5-aa58-ffb85311c716/44a1519f-7ef9-4449-bb36-3bc6a176c9b8.png/100x100SC.DN02.jpg?l=zh-Hans",
-      "genres": [],
-      "url": "https://music.apple.com/cn/playlist/rap-life-2026-%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3/pl.9f8ca9ff4a094a0abbb7f46ac83a32d9"
-    },
     {
       "month": "202611",
       "country": "us",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 36,
+      "rank": 66,
       "id": "pl.9f8ca9ff4a094a0abbb7f46ac83a32d9",
       "name": "Rap Life: Best of 2026",
       "kind": "playlists",

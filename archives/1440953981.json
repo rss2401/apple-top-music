@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 80,
+      "artistName": "Paul McCartney",
+      "id": "1440953981",
+      "name": "Wonderful Christmastime (Edited Version)",
+      "releaseDate": "1980-05-16",
+      "kind": "songs",
+      "artistId": "12224",
+      "artistUrl": "https://music.apple.com/gb/artist/paul-mccartney/12224",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "21",
+          "name": "Rock",
+          "url": "https://itunes.apple.com/gb/genre/id21"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/wonderful-christmastime-edited-version/1440953750?i=1440953981"
+    }
+  ]
+}

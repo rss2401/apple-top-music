@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 55,
+      "artistName": "Rammstein",
+      "id": "6836733435",
+      "name": "Du hast (Live in Mexico City)",
+      "releaseDate": "2026-11-19",
+      "kind": "music-videos",
+      "artistId": "408932",
+      "artistUrl": "https://music.apple.com/de/artist/rammstein/408932",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/45/4b/fb/454bfb07-60a2-a641-2115-e7820ee3b1ea/26UM1IM16794.crop.jpg/100x50mv.jpg",
+      "genres": [
+        {
+          "name": "Rock"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/du-hast-live-in-mexico-city/6836733435"
+    }
+  ]
+}

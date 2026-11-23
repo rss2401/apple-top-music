@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 73,
+      "artistName": "Ninho & Tiakola",
+      "id": "1855892028",
+      "name": "LES DIAMANTS DE BOKASSA",
+      "releaseDate": "2026-01-09",
+      "kind": "songs",
+      "artistId": "320366644",
+      "artistUrl": "https://music.apple.com/fr/artist/ninho/320366644",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/12/a1/af12a18a-4baf-23a5-c627-3f14edfbd808/5026854277677.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "18",
+          "name": "Hip-hop/Rap",
+          "url": "https://itunes.apple.com/fr/genre/id18"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        },
+        {
+          "genreId": "19",
+          "name": "Musiques du monde",
+          "url": "https://itunes.apple.com/fr/genre/id19"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/les-diamants-de-bokassa/1855891555?i=1855892028"
+    }
+  ]
+}

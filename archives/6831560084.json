@@ -1,0 +1,58 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 35,
+      "artistName": "Rema",
+      "id": "6831560084",
+      "name": "E-Mortal Boy",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "1304716885",
+      "artistUrl": "https://music.apple.com/fr/artist/rema/1304716885",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/d1/4c/f1d14c12-278f-5613-f9e2-82ab14c4d837/ticket.autyeqvi.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "100051",
+          "name": "Afrobeats",
+          "url": "https://itunes.apple.com/fr/genre/id100051"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/e-mortal-boy/6831560084"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 21,
+      "artistName": "Rema",
+      "id": "6831560084",
+      "name": "E-Mortal Boy",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "1304716885",
+      "artistUrl": "https://music.apple.com/gb/artist/rema/1304716885",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/d1/4c/f1d14c12-278f-5613-f9e2-82ab14c4d837/ticket.autyeqvi.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/e-mortal-boy/6831560084"
+    }
+  ]
+}

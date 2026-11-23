@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 15,
+      "artistName": "Pomme",
+      "id": "6810186748",
+      "name": "la forteresse",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "498198638",
+      "artistUrl": "https://music.apple.com/fr/artist/pomme/498198638",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/f4/46/b3f446aa-0c37-5713-83fb-e4b22255af9b/cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "50000064",
+          "name": "Variété française",
+          "url": "https://itunes.apple.com/fr/genre/id50000064"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/la-forteresse/6810186748"
+    }
+  ]
+}

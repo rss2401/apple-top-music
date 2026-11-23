@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 85,
+      "artistName": "Blank & Jones",
+      "id": "6814937807",
+      "name": "#WhatWeDoAtNight5 (Expanded)",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "5353342",
+      "artistUrl": "https://music.apple.com/de/artist/blank-jones/5353342",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/7d/a5/097da5d1-dff7-a412-c555-61dd96631587/cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "17",
+          "name": "Dance",
+          "url": "https://itunes.apple.com/de/genre/id17"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/whatwedoatnight5-expanded/6814937807"
+    }
+  ]
+}

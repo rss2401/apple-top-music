@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 6,
   "results": [
     {
       "month": "202610",
@@ -23,20 +23,33 @@
       "id": "pl.6ea68024aeae49ca9e81eaac6ef929cf",
       "name": "Weihnachtshits",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/d1/4a/1e/d14a1e2b-d0c3-96f3-9c2f-6e50e32ea189/U0MtTVMtV1ctSG9saWRheV9Qb3BfSGl0cy1BREFNX0lEPTk3NjQ1MjI0NS5wbmc.png/100x25cc.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f0/ad/b1/f0adb14f-d581-6d95-62e6-0fd84a0c96b8/57a96970-255e-4ff3-be97-702d0a64dd05.png/100x100SC.DN02.jpg?l=de-DE",
       "genres": [],
       "url": "https://music.apple.com/de/playlist/weihnachtshits/pl.6ea68024aeae49ca9e81eaac6ef929cf"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 47,
+      "id": "pl.6ea68024aeae49ca9e81eaac6ef929cf",
+      "name": "Un Noël pop",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f0/ad/b1/f0adb14f-d581-6d95-62e6-0fd84a0c96b8/57a96970-255e-4ff3-be97-702d0a64dd05.png/100x100SC.DN02.jpg?l=fr-FR",
+      "genres": [],
+      "url": "https://music.apple.com/fr/playlist/un-no%C3%ABl-pop/pl.6ea68024aeae49ca9e81eaac6ef929cf"
     },
     {
       "month": "202611",
       "country": "gb",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 5,
+      "rank": 3,
       "id": "pl.6ea68024aeae49ca9e81eaac6ef929cf",
       "name": "Christmas Hits",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/d1/4a/1e/d14a1e2b-d0c3-96f3-9c2f-6e50e32ea189/U0MtTVMtV1ctSG9saWRheV9Qb3BfSGl0cy1BREFNX0lEPTk3NjQ1MjI0NS5wbmc.png/100x25cc.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f0/ad/b1/f0adb14f-d581-6d95-62e6-0fd84a0c96b8/57a96970-255e-4ff3-be97-702d0a64dd05.png/100x100SC.DN02.jpg?l=en-GB",
       "genres": [],
       "url": "https://music.apple.com/gb/playlist/christmas-hits/pl.6ea68024aeae49ca9e81eaac6ef929cf"
     },
@@ -45,11 +58,11 @@
       "country": "jp",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 42,
+      "rank": 26,
       "id": "pl.6ea68024aeae49ca9e81eaac6ef929cf",
       "name": "クリスマス・洋楽ポップ",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/d1/4a/1e/d14a1e2b-d0c3-96f3-9c2f-6e50e32ea189/U0MtTVMtV1ctSG9saWRheV9Qb3BfSGl0cy1BREFNX0lEPTk3NjQ1MjI0NS5wbmc.png/100x25cc.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f0/ad/b1/f0adb14f-d581-6d95-62e6-0fd84a0c96b8/57a96970-255e-4ff3-be97-702d0a64dd05.png/100x100SC.DN02.jpg?l=ja-JP",
       "genres": [],
       "url": "https://music.apple.com/jp/playlist/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9-%E6%B4%8B%E6%A5%BD%E3%83%9D%E3%83%83%E3%83%97/pl.6ea68024aeae49ca9e81eaac6ef929cf"
     },
@@ -58,11 +71,11 @@
       "country": "us",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 5,
+      "rank": 4,
       "id": "pl.6ea68024aeae49ca9e81eaac6ef929cf",
       "name": "Holiday Hits",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/d1/4a/1e/d14a1e2b-d0c3-96f3-9c2f-6e50e32ea189/U0MtTVMtV1ctSG9saWRheV9Qb3BfSGl0cy1BREFNX0lEPTk3NjQ1MjI0NS5wbmc.png/100x25cc.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f0/ad/b1/f0adb14f-d581-6d95-62e6-0fd84a0c96b8/57a96970-255e-4ff3-be97-702d0a64dd05.png/100x100SC.DN02.jpg?l=en-US",
       "genres": [],
       "url": "https://music.apple.com/us/playlist/holiday-hits/pl.6ea68024aeae49ca9e81eaac6ef929cf"
     }

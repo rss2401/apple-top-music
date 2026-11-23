@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 70,
+      "artistName": "Diana Krall",
+      "id": "1440806486",
+      "name": "The Look of Love",
+      "releaseDate": "2021-09-18",
+      "kind": "albums",
+      "artistId": "72783",
+      "artistUrl": "https://music.apple.com/de/artist/diana-krall/72783",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/0c/12/b10c12b7-c0c4-8c3f-9603-81c4f07991b1/06UMGIM15905.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "11",
+          "name": "Jazz",
+          "url": "https://itunes.apple.com/de/genre/id11"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/the-look-of-love/1440806486"
+    }
+  ]
+}

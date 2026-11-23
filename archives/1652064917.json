@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 95,
+      "artistName": "Louane",
+      "id": "1652064917",
+      "name": "Secret",
+      "releaseDate": "2022-11-02",
+      "kind": "music-videos",
+      "artistId": "603535478",
+      "artistUrl": "https://music.apple.com/fr/artist/louane/603535478",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/a5/0f/94/a50f945b-b65d-1005-5bc0-a012580ee529/22UM1IM22219.crop.jpg/100x73mv.jpg",
+      "genres": [
+        {
+          "name": "Pop française"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/secret/1652064917"
+    }
+  ]
+}

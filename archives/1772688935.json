@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 78,
+      "artistName": "Wincent Weiss",
+      "id": "1772688935",
+      "name": "Wincents Weisse Weihnachten",
+      "releaseDate": "2024-11-28",
+      "kind": "albums",
+      "artistId": "971154213",
+      "artistUrl": "https://music.apple.com/de/artist/wincent-weiss/971154213",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/81/23/1d812329-02c2-ef08-4303-e7300ef5b81b/24UMGIM93077.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/wincents-weisse-weihnachten/1772688935"
+    }
+  ]
+}

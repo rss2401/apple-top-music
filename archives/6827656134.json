@@ -1,0 +1,61 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 57,
+      "artistName": "Justice",
+      "id": "6827656134",
+      "name": "Grand Theft Auto VI: Original Score",
+      "releaseDate": "2026-12-11",
+      "kind": "albums",
+      "artistId": "145072812",
+      "artistUrl": "https://music.apple.com/de/artist/justice/145072812",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/6d/08/a06d082b-9322-3ede-f6aa-fe3e7b9b386f/5056556188568_cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "7",
+          "name": "Electronic",
+          "url": "https://itunes.apple.com/de/genre/id7"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/grand-theft-auto-vi-original-score/6827656134"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 49,
+      "artistName": "Justice",
+      "id": "6827656134",
+      "name": "Grand Theft Auto VI: Original Score",
+      "releaseDate": "2026-12-11",
+      "kind": "albums",
+      "artistId": "145072812",
+      "artistUrl": "https://music.apple.com/fr/artist/justice/145072812",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/6d/08/a06d082b-9322-3ede-f6aa-fe3e7b9b386f/5056556188568_cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "7",
+          "name": "Électronique",
+          "url": "https://itunes.apple.com/fr/genre/id7"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/grand-theft-auto-vi-original-score/6827656134"
+    }
+  ]
+}

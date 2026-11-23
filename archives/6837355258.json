@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 22,
+      "artistName": "Star Academy",
+      "id": "6837355258",
+      "name": "Dans un autre monde",
+      "releaseDate": "2026-11-20",
+      "kind": "music-videos",
+      "artistId": "15160985",
+      "artistUrl": "https://music.apple.com/fr/artist/star-academy/15160985",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/02/29/26022919-8b0d-9164-691d-cccd0893f757/1968749536620101.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Pop française"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/dans-un-autre-monde/6837355258"
+    }
+  ]
+}

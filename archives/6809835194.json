@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 90,
+      "artistName": "Camille Lellouche",
+      "id": "6809835194",
+      "name": "Minuit",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "1506619087",
+      "artistUrl": "https://music.apple.com/fr/artist/camille-lellouche/1506619087",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/02/28/0d022883-f903-9555-2471-6ef917509fbf/3596975173025_cover.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "50000064",
+          "name": "Variété française",
+          "url": "https://itunes.apple.com/fr/genre/id50000064"
+        },
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/minuit/6809835194"
+    }
+  ]
+}

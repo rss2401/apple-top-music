@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 43,
+      "artistName": "SixTONES",
+      "id": "6832916771",
+      "name": "一秒 / Rebellion",
+      "releaseDate": "2026-03-18",
+      "kind": "albums",
+      "artistId": "1808322699",
+      "artistUrl": "https://music.apple.com/jp/artist/sixtones/1808322699",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/31/f0/bf31f03d-deda-ba0d-552f-a5498c9ab98c/4547366863772.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "27",
+          "name": "J-Pop",
+          "url": "https://itunes.apple.com/jp/genre/id27"
+        },
+        {
+          "genreId": "34",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/jp/album/%E4%B8%80%E7%A7%92-rebellion/6832916771"
+    }
+  ]
+}

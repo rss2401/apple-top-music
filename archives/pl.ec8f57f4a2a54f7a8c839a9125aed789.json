@@ -1,12 +1,12 @@
 {
-  "resultCount": 3,
+  "resultCount": 2,
   "results": [
     {
       "month": "202611",
       "country": "de",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 34,
+      "rank": 36,
       "id": "pl.ec8f57f4a2a54f7a8c839a9125aed789",
       "name": "danceXL: Best-of 2026",
       "kind": "playlists",
@@ -19,26 +19,13 @@
       "country": "gb",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 24,
+      "rank": 39,
       "id": "pl.ec8f57f4a2a54f7a8c839a9125aed789",
       "name": "danceXL: Best of 2026",
       "kind": "playlists",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/46/17/66/461766f7-9198-8d0e-cb80-d582b2e1cf82/f1bbc0b3-32b6-40be-a37b-34bc3f6edaa3.png/100x100SC.DN02.jpg?l=en-GB",
       "genres": [],
       "url": "https://music.apple.com/gb/playlist/dancexl-best-of-2026/pl.ec8f57f4a2a54f7a8c839a9125aed789"
-    },
-    {
-      "month": "202611",
-      "country": "us",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 52,
-      "id": "pl.ec8f57f4a2a54f7a8c839a9125aed789",
-      "name": "danceXL: Best of 2026",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/46/17/66/461766f7-9198-8d0e-cb80-d582b2e1cf82/f1bbc0b3-32b6-40be-a37b-34bc3f6edaa3.png/100x100SC.DN02.jpg?l=en-US",
-      "genres": [],
-      "url": "https://music.apple.com/us/playlist/dancexl-best-of-2026/pl.ec8f57f4a2a54f7a8c839a9125aed789"
     }
   ]
 }

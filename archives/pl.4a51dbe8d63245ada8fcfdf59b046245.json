@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 3,
   "results": [
     {
       "month": "202610",
@@ -29,27 +29,14 @@
     },
     {
       "month": "202611",
-      "country": "de",
-      "mediaType": "music",
-      "feed": "top-playlists",
-      "rank": 77,
-      "id": "pl.4a51dbe8d63245ada8fcfdf59b046245",
-      "name": "Hits français",
-      "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/45/4a/14/454a1467-7b93-7183-2263-5d085f92a397/427234ac-8c9c-4df9-9b0d-f692bd37b0fd.png/100x100SC.DN02.jpg?l=de-DE",
-      "genres": [],
-      "url": "https://music.apple.com/de/playlist/hits-fran%C3%A7ais/pl.4a51dbe8d63245ada8fcfdf59b046245"
-    },
-    {
-      "month": "202611",
       "country": "fr",
       "mediaType": "music",
       "feed": "top-playlists",
-      "rank": 4,
+      "rank": 3,
       "id": "pl.4a51dbe8d63245ada8fcfdf59b046245",
       "name": "Hits français",
       "kind": "playlists",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/45/4a/14/454a1467-7b93-7183-2263-5d085f92a397/427234ac-8c9c-4df9-9b0d-f692bd37b0fd.png/100x100SC.DN02.jpg?l=fr-FR",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/4b/5e/c7/4b5ec77a-c4c0-fa16-36bd-75de13659132/18e689eb-ff30-4f38-8880-c762f66452e5.png/100x100SC.DN02.jpg?l=fr-FR",
       "genres": [],
       "url": "https://music.apple.com/fr/playlist/hits-fran%C3%A7ais/pl.4a51dbe8d63245ada8fcfdf59b046245"
     }

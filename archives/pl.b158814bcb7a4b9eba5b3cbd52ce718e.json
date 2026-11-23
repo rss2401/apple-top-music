@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-playlists",
+      "rank": 43,
+      "id": "pl.b158814bcb7a4b9eba5b3cbd52ce718e",
+      "name": "Rolf Zuckowski Weihnachten 2026 | Winter- & Weihnachtslieder für Kinder",
+      "kind": "playlists",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/hwVcCLIrc46_u8QnWutuPg/100x100bb.jpg",
+      "genres": [],
+      "url": "https://music.apple.com/de/playlist/rolf-zuckowski-weihnachten-2026-winter-weihnachtslieder/pl.b158814bcb7a4b9eba5b3cbd52ce718e"
+    }
+  ]
+}

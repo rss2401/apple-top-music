@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 27,
+      "artistName": "Woozle Goozle",
+      "id": "6835914155",
+      "name": "Heut' lassen wir es krachen!",
+      "releaseDate": "2023-03-10",
+      "kind": "music-videos",
+      "artistId": "1704653988",
+      "artistUrl": "https://music.apple.com/de/artist/woozle-goozle/1704653988",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/5e/fd/525efd11-084f-d412-67d3-1c6def9134b2/Job4b1ddffc-53f4-4f08-ae42-0d6f05406813-254306871-PreviewImage_preview_image_47000_video_sdr-Time1794926283233.png/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Musik für Kinder"
+        }
+      ],
+      "url": "https://music.apple.com/de/music-video/heut-lassen-wir-es-krachen/6835914155"
+    }
+  ]
+}

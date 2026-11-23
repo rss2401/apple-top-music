@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 89,
+      "artistName": "SixTONES",
+      "id": "6832915869",
+      "name": "Dance Forever / マイオンリー",
+      "releaseDate": "2026-09-09",
+      "kind": "albums",
+      "artistId": "1808322699",
+      "artistUrl": "https://music.apple.com/jp/artist/sixtones/1808322699",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/91/61/dc9161f5-b31a-12e9-23e8-95800772748c/4547366863765.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "27",
+          "name": "J-Pop",
+          "url": "https://itunes.apple.com/jp/genre/id27"
+        },
+        {
+          "genreId": "34",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/jp/album/dance-forever-%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC/6832915869"
+    }
+  ]
+}

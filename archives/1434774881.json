@@ -1,0 +1,51 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 57,
+      "artistName": "Brenda Lee",
+      "id": "1434774881",
+      "name": "Rockin' Around the Christmas Tree (Single Version)",
+      "releaseDate": "1991-08-27",
+      "kind": "songs",
+      "artistId": "99320",
+      "artistUrl": "https://music.apple.com/de/artist/brenda-lee/99320",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/6f/7b/4e6f7b88-da9c-bdde-8e9d-5bd3bf3c4653/06UMGIM05568.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/rockin-around-the-christmas-tree-single-version/1434774684?i=1434774881"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 65,
+      "artistName": "Brenda Lee",
+      "id": "1434774881",
+      "name": "Rockin' Around the Christmas Tree (Single Version)",
+      "releaseDate": "1991-08-27",
+      "kind": "songs",
+      "artistId": "99320",
+      "artistUrl": "https://music.apple.com/gb/artist/brenda-lee/99320",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/6f/7b/4e6f7b88-da9c-bdde-8e9d-5bd3bf3c4653/06UMGIM05568.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/rockin-around-the-christmas-tree-single-version/1434774684?i=1434774881"
+    }
+  ]
+}

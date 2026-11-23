@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 67,
+      "artistName": "Nat \"King\" Cole",
+      "id": "1435551062",
+      "name": "The Christmas Song (Merry Christmas to You)",
+      "releaseDate": "1955-11-15",
+      "kind": "songs",
+      "artistId": "42616562",
+      "artistUrl": "https://music.apple.com/us/artist/nat-king-cole/42616562",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "8",
+          "name": "Holiday",
+          "url": "https://itunes.apple.com/us/genre/id8"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062"
+    }
+  ]
+}

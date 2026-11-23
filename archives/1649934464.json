@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 80,
+      "artistName": "Emilio",
+      "id": "1649934464",
+      "name": "Wonderful Christmastime",
+      "releaseDate": "2022-10-28",
+      "kind": "songs",
+      "artistId": "1453596951",
+      "artistUrl": "https://music.apple.com/de/artist/emilio/1453596951",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/68/a3/d968a3ee-a5e7-3313-858d-372747080132/196589502285.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/de/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/wonderful-christmastime/1649934463?i=1649934464"
+    }
+  ]
+}

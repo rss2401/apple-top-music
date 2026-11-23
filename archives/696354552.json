@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 92,
+      "artistName": "Wizzard",
+      "id": "696354552",
+      "name": "I Wish It Could Be Christmas Everyday (2006 Remastered Version)",
+      "releaseDate": "1973-12-01",
+      "kind": "songs",
+      "artistId": "14663042",
+      "artistUrl": "https://music.apple.com/gb/artist/wizzard/14663042",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/7e/61/987e6121-c74f-c35f-1546-e8c18da108b7/094634413459.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/gb/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/i-wish-it-could-be-christmas-everyday-2006-remastered/696352088?i=696354552"
+    }
+  ]
+}

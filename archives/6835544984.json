@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 64,
+      "artistName": "Sfera Ebbasta",
+      "id": "6835544984",
+      "name": "PUROSANGUE",
+      "releaseDate": "2026-11-20",
+      "kind": "albums",
+      "artistId": "881651714",
+      "artistUrl": "https://music.apple.com/de/artist/sfera-ebbasta/881651714",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "18",
+          "name": "Hip-Hop/Rap",
+          "url": "https://itunes.apple.com/de/genre/id18"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/purosangue/6835544984"
+    }
+  ]
+}

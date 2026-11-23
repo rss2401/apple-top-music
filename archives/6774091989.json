@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 37,
+      "artistName": "Aya Nakamura",
+      "id": "6774091989",
+      "name": "Tchiki",
+      "releaseDate": "2026-05-30",
+      "kind": "songs",
+      "artistId": "1042004371",
+      "artistUrl": "https://music.apple.com/fr/artist/aya-nakamura/1042004371",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/55/81/8b558128-12e6-18bb-117a-13e46c59a0c5/1200214235055.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/fr/album/tchiki/6774090882?i=6774091989"
+    }
+  ]
+}

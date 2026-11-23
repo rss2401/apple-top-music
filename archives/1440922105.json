@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "music",
+      "feed": "top-albums",
+      "rank": 36,
+      "artistName": "Rolf Zuckowski und seine Freunde",
+      "id": "1440922105",
+      "name": "Dezemberträume",
+      "releaseDate": "1993-11-05",
+      "kind": "albums",
+      "artistId": "289622519",
+      "artistUrl": "https://music.apple.com/de/artist/rolf-zuckowski-und-seine-freunde/289622519",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/48/41/ea4841f2-73fc-0a13-ecce-5ac334b4162e/06UMGIM31200.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "34",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id34"
+        },
+        {
+          "genreId": "10",
+          "name": "Singer-Songwriter:innen",
+          "url": "https://itunes.apple.com/de/genre/id10"
+        },
+        {
+          "genreId": "4",
+          "name": "Musik für Kinder",
+          "url": "https://itunes.apple.com/de/genre/id4"
+        }
+      ],
+      "url": "https://music.apple.com/de/album/dezembertr%C3%A4ume/1440922105"
+    }
+  ]
+}

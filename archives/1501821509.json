@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "music",
+      "feed": "top-music-videos",
+      "rank": 96,
+      "artistName": "Roddy Ricch",
+      "id": "1501821509",
+      "name": "The Box",
+      "releaseDate": "2020-03-05",
+      "kind": "music-videos",
+      "artistId": "1212442072",
+      "artistUrl": "https://music.apple.com/fr/artist/roddy-ricch/1212442072",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/29/a7/0e/29a70ed2-c1d7-e725-6b47-e16eb7f4f438/USATV2000283.sca1.jpg/100x56mv.jpg",
+      "genres": [
+        {
+          "name": "Hip-hop/Rap"
+        }
+      ],
+      "url": "https://music.apple.com/fr/music-video/the-box/1501821509"
+    }
+  ]
+}
