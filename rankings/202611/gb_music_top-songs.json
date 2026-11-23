@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "gb",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Mon, 2 Nov 2026 12:38:28 +0000",
+    "updated": "Mon, 23 Nov 2026 14:57:02 +0000",
     "results": [
       {
         "artistName": "Jamie Miller",
@@ -40,6 +40,80 @@
         "url": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373"
       },
       {
+        "artistName": "Ashe",
+        "id": "6795697687",
+        "name": "Stop The Wedding!",
+        "releaseDate": "2026-08-07",
+        "kind": "songs",
+        "artistId": "1234718215",
+        "artistUrl": "https://music.apple.com/gb/artist/ashe/1234718215",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687"
+      },
+      {
+        "artistName": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+        "id": "6819802968",
+        "name": "Flower In A Hurricane [From GTAVI: Original Score]",
+        "releaseDate": "2026-10-15",
+        "kind": "songs",
+        "artistId": "145072812",
+        "artistUrl": "https://music.apple.com/gb/artist/justice/145072812",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+      },
+      {
+        "artistName": "Wham!",
+        "id": "202117984",
+        "name": "Last Christmas (Single Version)",
+        "releaseDate": "1984-12-01",
+        "kind": "songs",
+        "artistId": "548421",
+        "artistUrl": "https://music.apple.com/gb/artist/wham/548421",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/last-christmas-single-version/202117886?i=202117984"
+      },
+      {
         "artistName": "Tate McRae",
         "id": "6822497774",
         "name": "Housewife",
@@ -63,79 +137,32 @@
         "url": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774"
       },
       {
-        "artistName": "Michael Jackson",
-        "id": "269573303",
-        "name": "Thriller",
-        "releaseDate": "1982-11-29",
+        "artistName": "Shakin' Stevens",
+        "id": "347010852",
+        "name": "Merry Christmas Everyone",
+        "releaseDate": "1985-01-01",
         "kind": "songs",
-        "artistId": "32940",
-        "artistUrl": "https://music.apple.com/gb/artist/michael-jackson/32940",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+        "artistId": "13478930",
+        "artistUrl": "https://music.apple.com/gb/artist/shakin-stevens/13478930",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/1a/fc/7f/mzi.znxgldzx.jpg/100x100bb.jpg",
         "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
           {
             "genreId": "14",
             "name": "Pop",
             "url": "https://itunes.apple.com/gb/genre/id14"
           },
           {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
           }
         ],
-        "url": "https://music.apple.com/gb/album/thriller/269572838?i=269573303"
-      },
-      {
-        "artistName": "Ashe",
-        "id": "6805240960",
-        "name": "Stop The Wedding!",
-        "releaseDate": "2026-08-07",
-        "kind": "songs",
-        "artistId": "1234718215",
-        "artistUrl": "https://music.apple.com/gb/artist/ashe/1234718215",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960"
-      },
-      {
-        "artistName": "Sam Fender & Olivia Dean",
-        "id": "1820918468",
-        "name": "Rein Me In",
-        "releaseDate": "2025-10-17",
-        "kind": "songs",
-        "artistId": "1213989970",
-        "artistUrl": "https://music.apple.com/gb/artist/sam-fender/1213989970",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
+        "url": "https://music.apple.com/gb/album/merry-christmas-everyone/347010666?i=347010852"
       },
       {
         "artistName": "SIENNA SPIRO",
@@ -159,29 +186,6 @@
           }
         ],
         "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411"
-      },
-      {
-        "artistName": "Olivia Dean",
-        "id": "1817609509",
-        "name": "Man I Need",
-        "releaseDate": "2025-09-26",
-        "kind": "songs",
-        "artistId": "1487253329",
-        "artistUrl": "https://music.apple.com/gb/artist/olivia-dean/1487253329",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
       },
       {
         "artistName": "HUGEL, Imael Angel & Ultra Naté",
@@ -212,6 +216,84 @@
         "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199"
       },
       {
+        "artistName": "The Pogues",
+        "id": "52576042",
+        "name": "Fairytale of New York (feat. Kirsty MacColl)",
+        "releaseDate": "1987-11-23",
+        "kind": "songs",
+        "artistId": "14750200",
+        "artistUrl": "https://music.apple.com/gb/artist/the-pogues/14750200",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/8d/a1/148da1d9-e819-325e-f3ff-598e8c6448ac/s06.hbzohdue.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/fairytale-of-new-york-feat-kirsty-maccoll/52576005?i=52576042"
+      },
+      {
+        "artistName": "Sam Fender & Olivia Dean",
+        "id": "1820918468",
+        "name": "Rein Me In",
+        "releaseDate": "2025-10-17",
+        "kind": "songs",
+        "artistId": "1213989970",
+        "artistUrl": "https://music.apple.com/gb/artist/sam-fender/1213989970",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468"
+      },
+      {
+        "artistName": "Mariah Carey",
+        "id": "585972803",
+        "name": "All I Want for Christmas Is You",
+        "releaseDate": "1994-10-28",
+        "kind": "songs",
+        "artistId": "91853",
+        "artistUrl": "https://music.apple.com/gb/artist/mariah-carey/91853",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+      },
+      {
+        "artistName": "Kelly Clarkson",
+        "id": "1537216368",
+        "name": "Underneath the Tree",
+        "releaseDate": "2013-10-25",
+        "kind": "songs",
+        "artistId": "316265",
+        "artistUrl": "https://music.apple.com/gb/artist/kelly-clarkson/316265",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/underneath-the-tree/1537216364?i=1537216368"
+      },
+      {
         "artistName": "Ella Langley",
         "id": "1844932150",
         "name": "Choosin' Texas",
@@ -235,37 +317,14 @@
         "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150"
       },
       {
-        "artistName": "Ray Parker Jr.",
-        "id": "1484413134",
-        "name": "Ghostbusters",
-        "releaseDate": "1984-06-08",
+        "artistName": "Olivia Dean",
+        "id": "1817609509",
+        "name": "Man I Need",
+        "releaseDate": "2025-09-26",
         "kind": "songs",
-        "artistId": "3867130",
-        "artistUrl": "https://music.apple.com/gb/artist/ray-parker-jr/3867130",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/96/63/c596638c-a823-1a5e-dba0-6f1df67ab671/886447946862.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "16",
-            "name": "Soundtrack",
-            "url": "https://itunes.apple.com/gb/genre/id16"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/ghostbusters/1484413132?i=1484413134"
-      },
-      {
-        "artistName": "Jamie Miller & Antonio Cipriano",
-        "id": "6812888327",
-        "name": "Babydoll",
-        "releaseDate": "2026-09-18",
-        "kind": "songs",
-        "artistId": "381183610",
-        "artistUrl": "https://music.apple.com/gb/artist/jamie-miller/381183610",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/100x100bb.jpg",
+        "artistId": "1487253329",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-dean/1487253329",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -278,17 +337,17 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327"
+        "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509"
       },
       {
-        "artistName": "Olivia Rodrigo",
-        "id": "1889992115",
-        "name": "stupid song",
-        "releaseDate": "2026-06-12",
+        "artistName": "Elton John",
+        "id": "1484999360",
+        "name": "Step into Christmas",
+        "releaseDate": "1973-10-05",
         "kind": "songs",
-        "artistId": "979458609",
-        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+        "artistId": "54657",
+        "artistUrl": "https://music.apple.com/gb/artist/elton-john/54657",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/02/ee/dc02ee4a-ff56-75df-64d4-9afcf8c0885d/18UMGIM35649.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -301,31 +360,7 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115"
-      },
-      {
-        "artistName": "ADÉLA",
-        "id": "6792884088",
-        "name": "Nicole Kidman",
-        "releaseDate": "2026-09-04",
-        "kind": "songs",
-        "artistId": "1765924916",
-        "artistUrl": "https://music.apple.com/gb/artist/ad%C3%A9la/1765924916",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/nicole-kidman/6792883860?i=6792884088"
+        "url": "https://music.apple.com/gb/album/step-into-christmas/1484997755?i=1484999360"
       },
       {
         "artistName": "sombr",
@@ -351,6 +386,47 @@
         "url": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080"
       },
       {
+        "artistName": "Leona Lewis",
+        "id": "731437256",
+        "name": "One More Sleep",
+        "releaseDate": "2013-11-29",
+        "kind": "songs",
+        "artistId": "208651273",
+        "artistUrl": "https://music.apple.com/gb/artist/leona-lewis/208651273",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features6/v4/db/50/59/db5059dd-0c32-3894-de46-50b2707217ba/dj.arsktdnn.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/one-more-sleep/731437243?i=731437256"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1889992115",
+        "name": "stupid song",
+        "releaseDate": "2026-06-12",
+        "kind": "songs",
+        "artistId": "979458609",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115"
+      },
+      {
         "artistName": "Olivia Rodrigo",
         "id": "1889992123",
         "name": "the cure",
@@ -373,6 +449,29 @@
           }
         ],
         "url": "https://music.apple.com/gb/album/the-cure/1889992111?i=1889992123"
+      },
+      {
+        "artistName": "Dua Lipa",
+        "id": "6812477282",
+        "name": "Go Easy",
+        "releaseDate": "2026-11-20",
+        "kind": "songs",
+        "artistId": "1031397873",
+        "artistUrl": "https://music.apple.com/gb/artist/dua-lipa/1031397873",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/go-easy/6812476961?i=6812477282"
       },
       {
         "artistName": "STELLA LEFTY",
@@ -403,6 +502,107 @@
         "url": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093"
       },
       {
+        "artistName": "Andy Williams",
+        "id": "171434594",
+        "name": "It's the Most Wonderful Time of the Year",
+        "releaseDate": "1963-10-14",
+        "kind": "songs",
+        "artistId": "466691",
+        "artistUrl": "https://music.apple.com/gb/artist/andy-williams/466691",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594"
+      },
+      {
+        "artistName": "Ariana Grande",
+        "id": "1444319982",
+        "name": "Santa Tell Me",
+        "releaseDate": "2013-12-13",
+        "kind": "songs",
+        "artistId": "412778295",
+        "artistUrl": "https://music.apple.com/gb/artist/ariana-grande/412778295",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/santa-tell-me/1444319981?i=1444319982"
+      },
+      {
+        "artistName": "Michael Bublé",
+        "id": "669854831",
+        "name": "It's Beginning To Look a Lot Like Christmas",
+        "releaseDate": "2011-10-14",
+        "kind": "songs",
+        "artistId": "799597",
+        "artistUrl": "https://music.apple.com/gb/artist/michael-bubl%C3%A9/799597",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/its-beginning-to-look-a-lot-like-christmas/669854820?i=669854831"
+      },
+      {
+        "artistName": "Jamie Miller & Antonio Cipriano",
+        "id": "6812888327",
+        "name": "Babydoll",
+        "releaseDate": "2026-09-18",
+        "kind": "songs",
+        "artistId": "381183610",
+        "artistUrl": "https://music.apple.com/gb/artist/jamie-miller/381183610",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327"
+      },
+      {
+        "artistName": "ADÉLA",
+        "id": "6792884088",
+        "name": "Nicole Kidman",
+        "releaseDate": "2026-09-04",
+        "kind": "songs",
+        "artistId": "1765924916",
+        "artistUrl": "https://music.apple.com/gb/artist/ad%C3%A9la/1765924916",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/nicole-kidman/6792883860?i=6792884088"
+      },
+      {
         "artistName": "Zach Bryan & Lana Del Rey",
         "id": "6822944296",
         "name": "Lies (feat. Lana Del Rey)",
@@ -426,14 +626,14 @@
         "url": "https://music.apple.com/gb/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
       },
       {
-        "artistName": "Taylor Swift",
-        "id": "6814997425",
-        "name": "Patient Zero",
-        "releaseDate": "2026-09-24",
+        "artistName": "Chris Rea",
+        "id": "1309544023",
+        "name": "Driving Home for Christmas",
+        "releaseDate": "1986-01-01",
         "kind": "songs",
-        "artistId": "159260351",
-        "artistUrl": "https://music.apple.com/gb/artist/taylor-swift/159260351",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+        "artistId": "771239",
+        "artistUrl": "https://music.apple.com/gb/artist/chris-rea/771239",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ca/6d/f4/ca6df4b3-133c-5771-2fde-25cfd9a3efd5/190295711870.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -446,22 +646,22 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425"
+        "url": "https://music.apple.com/gb/album/driving-home-for-christmas/1309541739?i=1309544023"
       },
       {
-        "artistName": "The Citizens of Halloween",
-        "id": "1440662595",
-        "name": "This Is Halloween",
-        "releaseDate": "1993-01-01",
+        "artistName": "Band Aid",
+        "id": "1444400808",
+        "name": "Do They Know It's Christmas? (1984 Version)",
+        "releaseDate": "1984-12-03",
         "kind": "songs",
-        "artistId": "1656038206",
-        "artistUrl": "https://music.apple.com/gb/artist/the-citizens-of-halloween/1656038206",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/5c/37/265c3733-e0a5-5758-6de0-f6a9f2a1ad6d/06PNDIM00838.rgb.jpg/100x100bb.jpg",
+        "artistId": "725044408",
+        "artistUrl": "https://music.apple.com/gb/artist/band-aid/725044408",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/62/c6/9062c668-5b79-b786-a2d7-12d54d7c7ea5/06UMGIM39644.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "16",
-            "name": "Soundtrack",
-            "url": "https://itunes.apple.com/gb/genre/id16"
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
           },
           {
             "genreId": "34",
@@ -469,12 +669,63 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           },
           {
-            "genreId": "4",
-            "name": "Children’s Music",
-            "url": "https://itunes.apple.com/gb/genre/id4"
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/gb/album/this-is-halloween/1440662430?i=1440662595"
+        "url": "https://music.apple.com/gb/album/do-they-know-its-christmas-1984-version/1444400806?i=1444400808"
+      },
+      {
+        "artistName": "Ed Sheeran & Elton John",
+        "id": "1597450885",
+        "name": "Merry Christmas",
+        "releaseDate": "2021-12-03",
+        "kind": "songs",
+        "artistId": "183313439",
+        "artistUrl": "https://music.apple.com/gb/artist/ed-sheeran/183313439",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/merry-christmas/1597450880?i=1597450885"
+      },
+      {
+        "artistName": "Kingfishr",
+        "id": "6768830564",
+        "name": "The Sun Will Never Settle",
+        "releaseDate": "2026-05-26",
+        "kind": "songs",
+        "artistId": "1616516476",
+        "artistUrl": "https://music.apple.com/gb/artist/kingfishr/1616516476",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/the-sun-will-never-settle/6768830561?i=6768830564"
       },
       {
         "artistName": "Alex Warren",
@@ -500,6 +751,29 @@
         "url": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645"
       },
       {
+        "artistName": "Taylor Swift",
+        "id": "6814997425",
+        "name": "Patient Zero",
+        "releaseDate": "2026-09-24",
+        "kind": "songs",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/gb/artist/taylor-swift/159260351",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425"
+      },
+      {
         "artistName": "The Killers",
         "id": "1526194192",
         "name": "Mr. Brightside",
@@ -523,19 +797,20 @@
         "url": "https://music.apple.com/gb/album/mr-brightside/1526194184?i=1526194192"
       },
       {
-        "artistName": "Olivia Rodrigo & Chappell Roan",
-        "id": "6822390426",
-        "name": "expectations",
-        "releaseDate": "2026-10-16",
+        "artistName": "Noah Kahan",
+        "id": "6762757738",
+        "name": "Willing and Able",
+        "releaseDate": "2026-04-24",
         "kind": "songs",
-        "artistId": "979458609",
-        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/100x100bb.jpg",
+        "artistId": "328583953",
+        "artistUrl": "https://music.apple.com/gb/artist/noah-kahan/328583953",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
           },
           {
             "genreId": "34",
@@ -543,53 +818,7 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426"
-      },
-      {
-        "artistName": "JADE",
-        "id": "1754238414",
-        "name": "Angel Of My Dreams",
-        "releaseDate": "2024-07-19",
-        "kind": "songs",
-        "artistId": "1753030541",
-        "artistUrl": "https://music.apple.com/gb/artist/jade/1753030541",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/fe/26/44fe26c1-0e3e-2c48-3898-d22eddc8e054/196872245967.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/angel-of-my-dreams/1754238138?i=1754238414"
-      },
-      {
-        "artistName": "Rockwell",
-        "id": "1278579752",
-        "name": "Somebody's Watching Me",
-        "releaseDate": "1983-12-27",
-        "kind": "songs",
-        "artistId": "659335004",
-        "artistUrl": "https://music.apple.com/gb/artist/rockwell/659335004",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/8b/bf/658bbfc5-32db-8380-4dcf-52cb7e636c1e/886446713328.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/somebodys-watching-me/1278579748?i=1278579752"
+        "url": "https://music.apple.com/gb/album/willing-and-able/1894997820?i=6762757738"
       },
       {
         "artistName": "Dave & Tems",
@@ -615,14 +844,14 @@
         "url": "https://music.apple.com/gb/album/raindance/1847992481?i=1847992612"
       },
       {
-        "artistName": "White Noise",
-        "id": "370852475",
-        "name": "White Noise For Babies",
-        "releaseDate": "2010-06-01",
+        "artistName": "Justin Bieber",
+        "id": "1440667795",
+        "name": "Mistletoe",
+        "releaseDate": "2011-10-17",
         "kind": "songs",
-        "artistId": "1641566065",
-        "artistUrl": "https://music.apple.com/gb/artist/white-noise/1641566065",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/dc/26/f1dc26be-52e4-1841-6315-bed85e378814/mzi.tnqrjxwg.jpg/100x100bb.jpg",
+        "artistId": "320569549",
+        "artistUrl": "https://music.apple.com/gb/artist/justin-bieber/320569549",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/85/ba/7785ba39-53ec-6d33-cdc1-ee0ee86c49cf/11UMGIM34121.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "34",
@@ -630,12 +859,405 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           },
           {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
             "genreId": "21",
             "name": "Rock",
             "url": "https://itunes.apple.com/gb/genre/id21"
           }
         ],
-        "url": "https://music.apple.com/gb/album/white-noise-for-babies/370852463?i=370852475"
+        "url": "https://music.apple.com/gb/album/mistletoe/1440667793?i=1440667795"
+      },
+      {
+        "artistName": "Sia",
+        "id": "1440098017",
+        "name": "Snowman",
+        "releaseDate": "2017-11-09",
+        "kind": "songs",
+        "artistId": "28721078",
+        "artistUrl": "https://music.apple.com/gb/artist/sia/28721078",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/snowman/1440098012?i=1440098017"
+      },
+      {
+        "artistName": "Morgan Wallen",
+        "id": "6812477290",
+        "name": "Last Thing You Need",
+        "releaseDate": "2026-09-17",
+        "kind": "songs",
+        "artistId": "829142092",
+        "artistUrl": "https://music.apple.com/gb/artist/morgan-wallen/829142092",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/gb/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/last-thing-you-need/6812476961?i=6812477290"
+      },
+      {
+        "artistName": "sombr",
+        "id": "1871595253",
+        "name": "Homewrecker",
+        "releaseDate": "2026-02-05",
+        "kind": "songs",
+        "artistId": "1589842503",
+        "artistUrl": "https://music.apple.com/gb/artist/sombr/1589842503",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253"
+      },
+      {
+        "artistName": "Slade",
+        "id": "6781238591",
+        "name": "Merry Xmas Everybody",
+        "releaseDate": "1973-12-07",
+        "kind": "songs",
+        "artistId": "13132485",
+        "artistUrl": "https://music.apple.com/gb/artist/slade/13132485",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/14/3a/bc143ad5-9d57-bfaa-ec92-961bdb757984/4050538465952_Cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/merry-xmas-everybody/6781238588?i=6781238591"
+      },
+      {
+        "artistName": "Fontaines D.C.",
+        "id": "1737990264",
+        "name": "Starburster",
+        "releaseDate": "2024-04-17",
+        "kind": "songs",
+        "artistId": "1341828470",
+        "artistUrl": "https://music.apple.com/gb/artist/fontaines-d-c/1341828470",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/3a/76/4d3a7621-8b56-56a3-829f-545dde0b2b6a/191404143674.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/starburster/1737990072?i=1737990264"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "6829976181",
+        "name": "take me home (4 christmas)",
+        "releaseDate": "2026-11-05",
+        "kind": "songs",
+        "artistId": "979458609",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/a6/39/4fa63976-a53a-0084-ef73-b49bc2d8c29e/26UM1IM40331.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/take-me-home-4-christmas/6829976175?i=6829976181"
+      },
+      {
+        "artistName": "Olivia Dean",
+        "id": "1817609507",
+        "name": "So Easy (To Fall In Love)",
+        "releaseDate": "2026-09-26",
+        "kind": "songs",
+        "artistId": "1487253329",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-dean/1487253329",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+      },
+      {
+        "artistName": "Noah Kahan",
+        "id": "6762757958",
+        "name": "Orbiter",
+        "releaseDate": "2026-04-25",
+        "kind": "songs",
+        "artistId": "328583953",
+        "artistUrl": "https://music.apple.com/gb/artist/noah-kahan/328583953",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/orbiter/1894997820?i=6762757958"
+      },
+      {
+        "artistName": "Harry Styles",
+        "id": "1870984045",
+        "name": "Coming Up Roses",
+        "releaseDate": "2026-03-06",
+        "kind": "songs",
+        "artistId": "471260289",
+        "artistUrl": "https://music.apple.com/gb/artist/harry-styles/471260289",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/coming-up-roses/1870984032?i=1870984045"
+      },
+      {
+        "artistName": "Season 25",
+        "id": "6828537514",
+        "name": "Shotta's.",
+        "releaseDate": "2026-09-20",
+        "kind": "songs",
+        "artistId": "1693947044",
+        "artistUrl": "https://music.apple.com/gb/artist/season-25/1693947044",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/6a/24/de6a24ad-61f6-0e9b-9b55-4a1b837cd173/859747113777.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/gb/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/shottas/6828537513?i=6828537514"
+      },
+      {
+        "artistName": "RAYE",
+        "id": "1838737598",
+        "name": "WHERE IS MY HUSBAND!",
+        "releaseDate": "2025-09-19",
+        "kind": "songs",
+        "artistId": "261686",
+        "artistUrl": "https://music.apple.com/gb/artist/raye/261686",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598"
+      },
+      {
+        "artistName": "José Feliciano",
+        "id": "190859558",
+        "name": "Feliz Navidad",
+        "releaseDate": "1970-11-01",
+        "kind": "songs",
+        "artistId": "249044",
+        "artistUrl": "https://music.apple.com/gb/artist/jos%C3%A9-feliciano/249044",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/25/f8/7425f8f8-342b-9ea8-f351-fa04be92989a/828768491126.jpg/100x99bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/feliz-navidad/190859546?i=190859558"
+      },
+      {
+        "artistName": "Prospa, Sybil & Cloonee",
+        "id": "1884730735",
+        "name": "Free Your Mind",
+        "releaseDate": "2026-03-27",
+        "kind": "songs",
+        "artistId": "962366708",
+        "artistUrl": "https://music.apple.com/gb/artist/prospa/962366708",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/03/50/1e03508a-6c55-9da3-fd4c-2d181919d760/820200597014.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/free-your-mind/1884730177?i=1884730735"
+      },
+      {
+        "artistName": "The Ronettes",
+        "id": "336037282",
+        "name": "Sleigh Ride",
+        "releaseDate": "1963-11-22",
+        "kind": "songs",
+        "artistId": "16326351",
+        "artistUrl": "https://music.apple.com/gb/artist/the-ronettes/16326351",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/100x99bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/sleigh-ride/336036941?i=336037282"
+      },
+      {
+        "artistName": "The Goo Goo Dolls",
+        "id": "267537169",
+        "name": "Iris",
+        "releaseDate": "1998-03-31",
+        "kind": "songs",
+        "artistId": "147559",
+        "artistUrl": "https://music.apple.com/gb/artist/the-goo-goo-dolls/147559",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/iris/267536485?i=267537169"
+      },
+      {
+        "artistName": "Darlene Love",
+        "id": "336037344",
+        "name": "Christmas (Baby Please Come Home)",
+        "releaseDate": "1963-11-22",
+        "kind": "songs",
+        "artistId": "16326345",
+        "artistUrl": "https://music.apple.com/gb/artist/darlene-love/16326345",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/100x99bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/christmas-baby-please-come-home/336036941?i=336037344"
+      },
+      {
+        "artistName": "Dean Martin",
+        "id": "1440830243",
+        "name": "Let It Snow! Let It Snow! Let It Snow!",
+        "releaseDate": "1959-11-16",
+        "kind": "songs",
+        "artistId": "266028",
+        "artistUrl": "https://music.apple.com/gb/artist/dean-martin/266028",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/let-it-snow-let-it-snow-let-it-snow/1440830105?i=1440830243"
       },
       {
         "artistName": "Oasis",
@@ -671,380 +1293,6 @@
         "url": "https://music.apple.com/gb/album/wonderwall-remastered/1525933483?i=1525933490"
       },
       {
-        "artistName": "Bobby \"Boris\" Pickett",
-        "id": "82125202",
-        "name": "Monster Mash",
-        "releaseDate": "1962-10-09",
-        "kind": "songs",
-        "artistId": "1570669469",
-        "artistUrl": "https://music.apple.com/gb/artist/bobby-boris-pickett/1570669469",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8a/6f/bb8a6ff2-a5b6-395c-8a54-5d7954bd9e4b/dj.lnkhwpna.tif/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/monster-mash/82125264?i=82125202"
-      },
-      {
-        "artistName": "Fontaines D.C.",
-        "id": "6792085056",
-        "name": "Marianne",
-        "releaseDate": "2026-08-18",
-        "kind": "songs",
-        "artistId": "1341828470",
-        "artistUrl": "https://music.apple.com/gb/artist/fontaines-d-c/1341828470",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056"
-      },
-      {
-        "artistName": "Shakira & Burna Boy",
-        "id": "6768469976",
-        "name": "Dai Dai",
-        "releaseDate": "2026-05-14",
-        "kind": "songs",
-        "artistId": "889327",
-        "artistUrl": "https://music.apple.com/gb/artist/shakira/889327",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976"
-      },
-      {
-        "artistName": "The Goo Goo Dolls",
-        "id": "1109658204",
-        "name": "Iris",
-        "releaseDate": "1998-04-07",
-        "kind": "songs",
-        "artistId": "147559",
-        "artistUrl": "https://music.apple.com/gb/artist/the-goo-goo-dolls/147559",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/iris/1109658139?i=1109658204"
-      },
-      {
-        "artistName": "Wham!",
-        "id": "202117984",
-        "name": "Last Christmas (Single Version)",
-        "releaseDate": "1984-12-01",
-        "kind": "songs",
-        "artistId": "548421",
-        "artistUrl": "https://music.apple.com/gb/artist/wham/548421",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/last-christmas-single-version/202117886?i=202117984"
-      },
-      {
-        "artistName": "Stevie Wonder",
-        "id": "1440808985",
-        "name": "Superstition",
-        "releaseDate": "1972-10-24",
-        "kind": "songs",
-        "artistId": "46726",
-        "artistUrl": "https://music.apple.com/gb/artist/stevie-wonder/46726",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/62/61/61/626161c0-f4d7-e6ff-8586-768340ef278f/00602537002382.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/superstition/1440808973?i=1440808985"
-      },
-      {
-        "artistName": "Michael Jackson",
-        "id": "269573364",
-        "name": "Billie Jean",
-        "releaseDate": "1982-11-29",
-        "kind": "songs",
-        "artistId": "32940",
-        "artistUrl": "https://music.apple.com/gb/artist/michael-jackson/32940",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/billie-jean/269572838?i=269573364"
-      },
-      {
-        "artistName": "Olivia Dean",
-        "id": "1817609507",
-        "name": "So Easy (To Fall In Love)",
-        "releaseDate": "2026-09-26",
-        "kind": "songs",
-        "artistId": "1487253329",
-        "artistUrl": "https://music.apple.com/gb/artist/olivia-dean/1487253329",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
-      },
-      {
-        "artistName": "ADÉLA",
-        "id": "6792884101",
-        "name": "Ain't In LA",
-        "releaseDate": "2026-07-23",
-        "kind": "songs",
-        "artistId": "1765924916",
-        "artistUrl": "https://music.apple.com/gb/artist/ad%C3%A9la/1765924916",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/aint-in-la/6792883860?i=6792884101"
-      },
-      {
-        "artistName": "The Weeknd",
-        "id": "1488408568",
-        "name": "Blinding Lights",
-        "releaseDate": "2019-11-29",
-        "kind": "songs",
-        "artistId": "479756766",
-        "artistUrl": "https://music.apple.com/gb/artist/the-weeknd/479756766",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/blinding-lights/1488408555?i=1488408568"
-      },
-      {
-        "artistName": "Noah Kahan",
-        "id": "6762757958",
-        "name": "Orbiter",
-        "releaseDate": "2026-04-25",
-        "kind": "songs",
-        "artistId": "328583953",
-        "artistUrl": "https://music.apple.com/gb/artist/noah-kahan/328583953",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/orbiter/1894997820?i=6762757958"
-      },
-      {
-        "artistName": "sombr",
-        "id": "1871595253",
-        "name": "Homewrecker",
-        "releaseDate": "2026-02-05",
-        "kind": "songs",
-        "artistId": "1589842503",
-        "artistUrl": "https://music.apple.com/gb/artist/sombr/1589842503",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253"
-      },
-      {
-        "artistName": "Prospa, Cloonee & Sybil",
-        "id": "1884730735",
-        "name": "Free Your Mind",
-        "releaseDate": "2026-03-27",
-        "kind": "songs",
-        "artistId": "962366708",
-        "artistUrl": "https://music.apple.com/gb/artist/prospa/962366708",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/03/50/1e03508a-6c55-9da3-fd4c-2d181919d760/820200597014.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "17",
-            "name": "Dance",
-            "url": "https://itunes.apple.com/gb/genre/id17"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/free-your-mind/1884730177?i=1884730735"
-      },
-      {
-        "artistName": "Taylor Swift",
-        "id": "1833328840",
-        "name": "The Fate of Ophelia",
-        "releaseDate": "2025-10-03",
-        "kind": "songs",
-        "artistId": "159260351",
-        "artistUrl": "https://music.apple.com/gb/artist/taylor-swift/159260351",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/the-fate-of-ophelia/1833328839?i=1833328840"
-      },
-      {
-        "artistName": "Harry Styles",
-        "id": "1870984045",
-        "name": "Coming Up Roses",
-        "releaseDate": "2026-03-06",
-        "kind": "songs",
-        "artistId": "471260289",
-        "artistUrl": "https://music.apple.com/gb/artist/harry-styles/471260289",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/coming-up-roses/1870984032?i=1870984045"
-      },
-      {
-        "artistName": "RAYE",
-        "id": "1871085734",
-        "name": "WHERE IS MY HUSBAND!",
-        "releaseDate": "2025-09-19",
-        "kind": "songs",
-        "artistId": "261686",
-        "artistUrl": "https://music.apple.com/gb/artist/raye/261686",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/10/5005106d-bb8a-32db-1172-f18405cf4a46/820200038890.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/where-is-my-husband/1871085677?i=1871085734"
-      },
-      {
         "artistName": "Ed Sheeran",
         "id": "1193683175",
         "name": "Perfect",
@@ -1071,6 +1319,324 @@
           }
         ],
         "url": "https://music.apple.com/gb/album/perfect/1193682944?i=1193683175"
+      },
+      {
+        "artistName": "Olivia Rodrigo & Chappell Roan",
+        "id": "6822390426",
+        "name": "expectations",
+        "releaseDate": "2026-10-16",
+        "kind": "songs",
+        "artistId": "979458609",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426"
+      },
+      {
+        "artistName": "Fontaines D.C.",
+        "id": "6792085056",
+        "name": "Marianne",
+        "releaseDate": "2026-08-18",
+        "kind": "songs",
+        "artistId": "1341828470",
+        "artistUrl": "https://music.apple.com/gb/artist/fontaines-d-c/1341828470",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056"
+      },
+      {
+        "artistName": "Olivia Dean",
+        "id": "1814620247",
+        "name": "Nice To Each Other",
+        "releaseDate": "2025-05-30",
+        "kind": "songs",
+        "artistId": "1487253329",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-dean/1487253329",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/nice-to-each-other/1814620245?i=1814620247"
+      },
+      {
+        "artistName": "Lana Del Rey",
+        "id": "6812477319",
+        "name": "Crazy For You",
+        "releaseDate": "2026-11-20",
+        "kind": "songs",
+        "artistId": "464296584",
+        "artistUrl": "https://music.apple.com/gb/artist/lana-del-rey/464296584",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/crazy-for-you/6812476961?i=6812477319"
+      },
+      {
+        "artistName": "Shakira & Burna Boy",
+        "id": "6768469976",
+        "name": "Dai Dai",
+        "releaseDate": "2026-05-14",
+        "kind": "songs",
+        "artistId": "889327",
+        "artistUrl": "https://music.apple.com/gb/artist/shakira/889327",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976"
+      },
+      {
+        "artistName": "Ariana Grande",
+        "id": "6763656876",
+        "name": "hate that i made you love me",
+        "releaseDate": "2026-05-28",
+        "kind": "songs",
+        "artistId": "412778295",
+        "artistUrl": "https://music.apple.com/gb/artist/ariana-grande/412778295",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876"
+      },
+      {
+        "artistName": "Alex Warren",
+        "id": "1879983789",
+        "name": "FEVER DREAM",
+        "releaseDate": "2026-06-05",
+        "kind": "songs",
+        "artistId": "1572671688",
+        "artistUrl": "https://music.apple.com/gb/artist/alex-warren/1572671688",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789"
+      },
+      {
+        "artistName": "SIENNA SPIRO",
+        "id": "1841769602",
+        "name": "Die On This Hill",
+        "releaseDate": "2025-10-10",
+        "kind": "songs",
+        "artistId": "1745678083",
+        "artistUrl": "https://music.apple.com/gb/artist/sienna-spiro/1745678083",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/53/d1/f053d15c-e4b0-7577-dc4d-2ab7d192e1b9/25UM1IM42518.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/die-on-this-hill/1841769601?i=1841769602"
+      },
+      {
+        "artistName": "Brenda Lee",
+        "id": "1434774881",
+        "name": "Rockin' Around the Christmas Tree (Single Version)",
+        "releaseDate": "1991-08-27",
+        "kind": "songs",
+        "artistId": "99320",
+        "artistUrl": "https://music.apple.com/gb/artist/brenda-lee/99320",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/6f/7b/4e6f7b88-da9c-bdde-8e9d-5bd3bf3c4653/06UMGIM05568.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/rockin-around-the-christmas-tree-single-version/1434774684?i=1434774881"
+      },
+      {
+        "artistName": "Taylor Swift",
+        "id": "1833328840",
+        "name": "The Fate of Ophelia",
+        "releaseDate": "2025-10-03",
+        "kind": "songs",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/gb/artist/taylor-swift/159260351",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/the-fate-of-ophelia/1833328839?i=1833328840"
+      },
+      {
+        "artistName": "White Noise",
+        "id": "370852475",
+        "name": "White Noise For Babies",
+        "releaseDate": "2010-06-01",
+        "kind": "songs",
+        "artistId": "1641566065",
+        "artistUrl": "https://music.apple.com/gb/artist/white-noise/1641566065",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/dc/26/f1dc26be-52e4-1841-6315-bed85e378814/mzi.tnqrjxwg.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/white-noise-for-babies/370852463?i=370852475"
+      },
+      {
+        "artistName": "Noah Kahan",
+        "id": "1632285403",
+        "name": "Stick Season",
+        "releaseDate": "2022-07-08",
+        "kind": "songs",
+        "artistId": "328583953",
+        "artistUrl": "https://music.apple.com/gb/artist/noah-kahan/328583953",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8d/25/8e/8d258e09-7395-998f-23ed-82b0433b0518/22UMGIM71396.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/stick-season/1632285378?i=1632285403"
+      },
+      {
+        "artistName": "Harry Styles",
+        "id": "1226021297",
+        "name": "Sign of the Times",
+        "releaseDate": "2017-04-07",
+        "kind": "songs",
+        "artistId": "471260289",
+        "artistUrl": "https://music.apple.com/gb/artist/harry-styles/471260289",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/sign-of-the-times/1226021294?i=1226021297"
+      },
+      {
+        "artistName": "ADÉLA",
+        "id": "6792884101",
+        "name": "Ain't In LA",
+        "releaseDate": "2026-07-23",
+        "kind": "songs",
+        "artistId": "1765924916",
+        "artistUrl": "https://music.apple.com/gb/artist/ad%C3%A9la/1765924916",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/aint-in-la/6792883860?i=6792884101"
       },
       {
         "artistName": "Fleetwood Mac",
@@ -1106,38 +1672,14 @@
         "url": "https://music.apple.com/gb/album/dreams/202271826?i=202272624"
       },
       {
-        "artistName": "Radiohead",
-        "id": "1097862231",
-        "name": "Creep",
-        "releaseDate": "1992-09-21",
-        "kind": "songs",
-        "artistId": "657515",
-        "artistUrl": "https://music.apple.com/gb/artist/radiohead/657515",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/a4/ec/78a4ec7b-c6d6-c9c8-441b-660486e56a89/634904077969.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/creep/1097862062?i=1097862231"
-      },
-      {
         "artistName": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
-        "id": "1824324836",
+        "id": "1820264150",
         "name": "Golden",
         "releaseDate": "2025-06-19",
         "kind": "songs",
         "artistId": "1478164763",
         "artistUrl": "https://music.apple.com/gb/artist/huntr-x/1478164763",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/a4/1a/d4a41ad2-9737-89ef-6357-26c848177461/25UMGIM90866.rgb.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "51",
@@ -1155,40 +1697,17 @@
             "url": "https://itunes.apple.com/gb/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/gb/album/golden/1824324832?i=1824324836"
+        "url": "https://music.apple.com/gb/album/golden/1820264137?i=1820264150"
       },
       {
-        "artistName": "Rihanna",
-        "id": "1441154571",
-        "name": "Disturbia",
-        "releaseDate": "2008-06-02",
+        "artistName": "Benson Boone",
+        "id": "1724488124",
+        "name": "Beautiful Things",
+        "releaseDate": "2024-01-18",
         "kind": "songs",
-        "artistId": "63346553",
-        "artistUrl": "https://music.apple.com/gb/artist/rihanna/63346553",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/disturbia/1441154435?i=1441154571"
-      },
-      {
-        "artistName": "Olivia Dean",
-        "id": "1814620247",
-        "name": "Nice To Each Other",
-        "releaseDate": "2025-05-30",
-        "kind": "songs",
-        "artistId": "1487253329",
-        "artistUrl": "https://music.apple.com/gb/artist/olivia-dean/1487253329",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/03/27/800327cf-1563-c72e-d20e-0281ae33defa/25UMGIM60342.rgb.jpg/100x100bb.jpg",
+        "artistId": "1587414058",
+        "artistUrl": "https://music.apple.com/gb/artist/benson-boone/1587414058",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -1201,132 +1720,17 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/nice-to-each-other/1814620245?i=1814620247"
+        "url": "https://music.apple.com/gb/album/beautiful-things/1724488123?i=1724488124"
       },
       {
-        "artistName": "SIENNA SPIRO",
-        "id": "1853669029",
-        "name": "Die On This Hill (At KOKO)",
-        "releaseDate": "2025-11-20",
+        "artistName": "Jona Lewie",
+        "id": "1365040125",
+        "name": "Stop the Cavalry",
+        "releaseDate": "1982-06-01",
         "kind": "songs",
-        "artistId": "1745678083",
-        "artistUrl": "https://music.apple.com/gb/artist/sienna-spiro/1745678083",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/e7/a8/7fe7a836-159e-7ce6-1343-effd6d4fabf5/25UM1IM75282.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/die-on-this-hill-at-koko/1853669009?i=1853669029"
-      },
-      {
-        "artistName": "ACHIOTE",
-        "id": "6773297051",
-        "name": "Forestis (Rain)",
-        "releaseDate": "2026-06-01",
-        "kind": "songs",
-        "artistId": "1818351454",
-        "artistUrl": "https://music.apple.com/gb/artist/achiote/1818351454",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/98/c7/b198c732-cf09-6047-777e-e47ef489c616/5059449339474.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "7",
-            "name": "Electronic",
-            "url": "https://itunes.apple.com/gb/genre/id7"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/forestis-rain/6773297049?i=6773297051"
-      },
-      {
-        "artistName": "Ariana Grande",
-        "id": "6763656876",
-        "name": "hate that i made you love me",
-        "releaseDate": "2026-05-28",
-        "kind": "songs",
-        "artistId": "412778295",
-        "artistUrl": "https://music.apple.com/gb/artist/ariana-grande/412778295",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876"
-      },
-      {
-        "artistName": "Andrew Gold",
-        "id": "1482699500",
-        "name": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
-        "releaseDate": "1996-08-20",
-        "kind": "songs",
-        "artistId": "4651217",
-        "artistUrl": "https://music.apple.com/gb/artist/andrew-gold/4651217",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/95/d2489595-3875-f847-52fa-cf76ed4603e9/19CRGIM15015.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "4",
-            "name": "Children’s Music",
-            "url": "https://itunes.apple.com/gb/genre/id4"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500"
-      },
-      {
-        "artistName": "Harry Styles",
-        "id": "1226021297",
-        "name": "Sign of the Times",
-        "releaseDate": "2017-04-07",
-        "kind": "songs",
-        "artistId": "471260289",
-        "artistUrl": "https://music.apple.com/gb/artist/harry-styles/471260289",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/sign-of-the-times/1226021294?i=1226021297"
-      },
-      {
-        "artistName": "The Cranberries",
-        "id": "1440735264",
-        "name": "Zombie",
-        "releaseDate": "1994-09-13",
-        "kind": "songs",
-        "artistId": "122615",
-        "artistUrl": "https://music.apple.com/gb/artist/the-cranberries/122615",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/c8/85/b6c885de-fde6-d40d-c95a-d89ede4270ae/06UMGIM09433.rgb.jpg/100x99bb.jpg",
+        "artistId": "33762875",
+        "artistUrl": "https://music.apple.com/gb/artist/jona-lewie/33762875",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4b/0a/7b4b0a05-ee89-c460-d469-5405dc560318/18UMGIM14108.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "21",
@@ -1339,17 +1743,17 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/zombie/1440735255?i=1440735264"
+        "url": "https://music.apple.com/gb/album/stop-the-cavalry/1365039535?i=1365040125"
       },
       {
         "artistName": "Dua Lipa",
-        "id": "6772180432",
+        "id": "1228739609",
         "name": "New Rules",
         "releaseDate": "2017-07-07",
         "kind": "songs",
         "artistId": "1031397873",
         "artistUrl": "https://music.apple.com/gb/artist/dua-lipa/1031397873",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/8c/8a/488c8a86-5769-8db7-7b22-d8748b2ef0fc/1200214104207.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -1362,209 +1766,7 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/new-rules/6772178540?i=6772180432"
-      },
-      {
-        "artistName": "Drake",
-        "id": "6769568596",
-        "name": "Janice STFU",
-        "releaseDate": "2026-05-15",
-        "kind": "songs",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/gb/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "18",
-            "name": "Hip-Hop/Rap",
-            "url": "https://itunes.apple.com/gb/genre/id18"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/janice-stfu/6769568449?i=6769568596"
-      },
-      {
-        "artistName": "ARCO",
-        "id": "6779171474",
-        "name": "Astragal (Nature)",
-        "releaseDate": "2026-06-29",
-        "kind": "songs",
-        "artistId": "1736756669",
-        "artistUrl": "https://music.apple.com/gb/artist/arco/1736756669",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/9d/42/7d9d4267-0ac9-2df0-5182-654992f74962/5059449364193.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "7",
-            "name": "Electronic",
-            "url": "https://itunes.apple.com/gb/genre/id7"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/astragal-nature/6779171467?i=6779171474"
-      },
-      {
-        "artistName": "Oasis",
-        "id": "1525933492",
-        "name": "Don't Look Back in Anger (Remastered)",
-        "releaseDate": "1995-10-02",
-        "kind": "songs",
-        "artistId": "512633",
-        "artistUrl": "https://music.apple.com/gb/artist/oasis/512633",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/dont-look-back-in-anger-remastered/1525933483?i=1525933492"
-      },
-      {
-        "artistName": "Ariana Grande",
-        "id": "1440843823",
-        "name": "Into You",
-        "releaseDate": "2016-05-06",
-        "kind": "songs",
-        "artistId": "412778295",
-        "artistUrl": "https://music.apple.com/gb/artist/ariana-grande/412778295",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/45/65/094565e7-28ca-72af-59c4-88c48feb89e8/16UMGIM12432.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/into-you/1440843376?i=1440843823"
-      },
-      {
-        "artistName": "ANOTR",
-        "id": "1870514330",
-        "name": "Talk To You (feat. 54 Ultra)",
-        "releaseDate": "2026-03-06",
-        "kind": "songs",
-        "artistId": "1037517622",
-        "artistUrl": "https://music.apple.com/gb/artist/anotr/1037517622",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "17",
-            "name": "Dance",
-            "url": "https://itunes.apple.com/gb/genre/id17"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330"
-      },
-      {
-        "artistName": "Nelly Furtado",
-        "id": "1442463828",
-        "name": "Maneater",
-        "releaseDate": "2006-05-26",
-        "kind": "songs",
-        "artistId": "1260160",
-        "artistUrl": "https://music.apple.com/gb/artist/nelly-furtado/1260160",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/f2/be/20f2be1f-716d-a2df-913e-1aff99c08619/06UMGIM31170.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          },
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
-          },
-          {
-            "genreId": "17",
-            "name": "Dance",
-            "url": "https://itunes.apple.com/gb/genre/id17"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/maneater/1442463545?i=1442463828"
-      },
-      {
-        "artistName": "Michael Jackson",
-        "id": "159294551",
-        "name": "Smooth Criminal",
-        "releaseDate": "1987-08-31",
-        "kind": "songs",
-        "artistId": "32940",
-        "artistUrl": "https://music.apple.com/gb/artist/michael-jackson/32940",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/9d/38/3d9d3811-71f0-3a0e-1ada-3004e56ff852/827969428726.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          },
-          {
-            "genreId": "17",
-            "name": "Dance",
-            "url": "https://itunes.apple.com/gb/genre/id17"
-          },
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/smooth-criminal/159292399?i=159294551"
+        "url": "https://music.apple.com/gb/album/new-rules/1228739599?i=1228739609"
       },
       {
         "artistName": "Ed Sheeran",
@@ -1595,129 +1797,28 @@
         "url": "https://music.apple.com/gb/album/castle-on-the-hill/1193682944?i=1193683109"
       },
       {
-        "artistName": "Alex Warren",
-        "id": "1879983789",
-        "name": "FEVER DREAM",
-        "releaseDate": "2026-06-05",
+        "artistName": "Bella Kay",
+        "id": "1867034427",
+        "name": "iloveitiloveitiloveit",
+        "releaseDate": "2026-06-17",
         "kind": "songs",
-        "artistId": "1572671688",
-        "artistUrl": "https://music.apple.com/gb/artist/alex-warren/1572671688",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/100x100bb.jpg",
+        "artistId": "1706434165",
+        "artistUrl": "https://music.apple.com/gb/artist/bella-kay/1706434165",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/12/71/ab12714b-1572-c7b0-27ff-2dfa3c860e6f/075679590756.jpg/100x100bb.jpg",
         "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789"
-      },
-      {
-        "artistName": "Benson Boone",
-        "id": "1724488124",
-        "name": "Beautiful Things",
-        "releaseDate": "2024-01-18",
-        "kind": "songs",
-        "artistId": "1587414058",
-        "artistUrl": "https://music.apple.com/gb/artist/benson-boone/1587414058",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/beautiful-things/1724488123?i=1724488124"
-      },
-      {
-        "artistName": "Evanescence",
-        "id": "1440666111",
-        "name": "Bring Me to Life",
-        "releaseDate": "2003-03-04",
-        "kind": "songs",
-        "artistId": "42102393",
-        "artistUrl": "https://music.apple.com/gb/artist/evanescence/42102393",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          },
           {
             "genreId": "20",
             "name": "Alternative",
             "url": "https://itunes.apple.com/gb/genre/id20"
           },
           {
-            "genreId": "1153",
-            "name": "Metal",
-            "url": "https://itunes.apple.com/gb/genre/id1153"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/bring-me-to-life/1440665838?i=1440666111"
-      },
-      {
-        "artistName": "Fleetwood Mac",
-        "id": "986496178",
-        "name": "The Chain (2002 Remastered)",
-        "releaseDate": "1977-02-04",
-        "kind": "songs",
-        "artistId": "158038",
-        "artistUrl": "https://music.apple.com/gb/artist/fleetwood-mac/158038",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6d/33/a8/6d33a866-6a9c-41c2-041e-b88963e53c50/603497890293.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
             "genreId": "34",
             "name": "Music",
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/the-chain-2002-remastered/986496155?i=986496178"
-      },
-      {
-        "artistName": "Zara Larsson",
-        "id": "1201169649",
-        "name": "Lush Life",
-        "releaseDate": "2015-06-05",
-        "kind": "songs",
-        "artistId": "570372593",
-        "artistUrl": "https://music.apple.com/gb/artist/zara-larsson/570372593",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/ab/54/95ab547a-3877-7798-57a4-528a52a2e331/886446200385.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/lush-life/1201169550?i=1201169649"
+        "url": "https://music.apple.com/gb/album/iloveitiloveitiloveit/1867034426?i=1867034427"
       },
       {
         "artistName": "Harry Styles",
@@ -1743,19 +1844,19 @@
         "url": "https://music.apple.com/gb/album/american-girls/1870984032?i=1870984036"
       },
       {
-        "artistName": "Drake & Majid Jordan",
-        "id": "1440873033",
-        "name": "Hold On, We're Going Home",
-        "releaseDate": "2013-08-07",
+        "artistName": "ANOTR",
+        "id": "1870514330",
+        "name": "Talk To You (feat. 54 Ultra)",
+        "releaseDate": "2026-03-06",
         "kind": "songs",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/gb/artist/drake/271256",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/df/2c/14df2ca7-0056-3c7f-724d-75ee42345728/13UAAIM79861.rgb.jpg/100x100bb.jpg",
+        "artistId": "1037517622",
+        "artistUrl": "https://music.apple.com/gb/artist/anotr/1037517622",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "18",
-            "name": "Hip-Hop/Rap",
-            "url": "https://itunes.apple.com/gb/genre/id18"
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
           },
           {
             "genreId": "34",
@@ -1763,23 +1864,22 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/hold-on-were-going-home/1440872495?i=1440873033"
+        "url": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330"
       },
       {
-        "artistName": "Season 25",
-        "id": "6815156545",
-        "name": "Shotta's.",
-        "releaseDate": "2026-09-20",
+        "artistName": "Paul McCartney",
+        "id": "1440953981",
+        "name": "Wonderful Christmastime (Edited Version)",
+        "releaseDate": "1980-05-16",
         "kind": "songs",
-        "artistId": "1693947044",
-        "artistUrl": "https://music.apple.com/gb/artist/season-25/1693947044",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/59/4f/98594fb8-6653-218b-242f-5598c367f89b/859747113777_cover.jpg/100x100bb.jpg",
+        "artistId": "12224",
+        "artistUrl": "https://music.apple.com/gb/artist/paul-mccartney/12224",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
           },
           {
             "genreId": "34",
@@ -1787,58 +1887,63 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/shottas/6815156539?i=6815156545"
+        "url": "https://music.apple.com/gb/album/wonderful-christmastime-edited-version/1440953750?i=1440953981"
       },
       {
-        "artistName": "Noah Kahan",
-        "id": "1632285403",
-        "name": "Stick Season",
-        "releaseDate": "2022-07-08",
+        "artistName": "Bobby Helms",
+        "id": "1358462132",
+        "name": "Jingle Bell Rock",
+        "releaseDate": "1957-12-02",
         "kind": "songs",
-        "artistId": "328583953",
-        "artistUrl": "https://music.apple.com/gb/artist/noah-kahan/328583953",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8d/25/8e/8d258e09-7395-998f-23ed-82b0433b0518/22UMGIM71396.rgb.jpg/100x100bb.jpg",
+        "artistId": "1579400",
+        "artistUrl": "https://music.apple.com/gb/artist/bobby-helms/1579400",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/jingle-bell-rock/1358462130?i=1358462132"
+      },
+      {
+        "artistName": "Bebe Rexha & Faithless",
+        "id": "1878015314",
+        "name": "New Religion",
+        "releaseDate": "2026-03-06",
+        "kind": "songs",
+        "artistId": "466059563",
+        "artistUrl": "https://music.apple.com/gb/artist/bebe-rexha/466059563",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
           },
           {
             "genreId": "34",
             "name": "Music",
             "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/stick-season/1632285378?i=1632285403"
-      },
-      {
-        "artistName": "yoneiu",
-        "id": "1847950017",
-        "name": "blissful sleep",
-        "releaseDate": "2025-11-05",
-        "kind": "songs",
-        "artistId": "1762229257",
-        "artistUrl": "https://music.apple.com/gb/artist/yoneiu/1762229257",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/5c/03/075c0315-dd8f-41c1-bb6d-56b4136062ca/5059449308210.png/100x100bb.jpg",
-        "genres": [
+          },
           {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
           }
         ],
-        "url": "https://music.apple.com/gb/album/blissful-sleep/1847950016?i=1847950017"
+        "url": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314"
       },
       {
-        "artistName": "Justin Bieber",
-        "id": "1440792862",
-        "name": "Beauty And A Beat (feat. Nicki Minaj)",
-        "releaseDate": "2012-06-15",
+        "artistName": "JADE",
+        "id": "1754238414",
+        "name": "Angel Of My Dreams",
+        "releaseDate": "2024-07-19",
         "kind": "songs",
-        "artistId": "320569549",
-        "artistUrl": "https://music.apple.com/gb/artist/justin-bieber/320569549",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f2/d8/d9/f2d8d926-fb3b-8849-780c-234625be77e0/14UMGIM26814.rgb.jpg/100x100bb.jpg",
+        "artistId": "1753030541",
+        "artistUrl": "https://music.apple.com/gb/artist/jade/1753030541",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/fe/26/44fe26c1-0e3e-2c48-3898-d22eddc8e054/196872245967.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -1851,35 +1956,7 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/beauty-and-a-beat-feat-nicki-minaj/1440792851?i=1440792862"
-      },
-      {
-        "artistName": "Ed Sheeran",
-        "id": "1193683174",
-        "name": "Shape of You",
-        "releaseDate": "2017-01-06",
-        "kind": "songs",
-        "artistId": "183313439",
-        "artistUrl": "https://music.apple.com/gb/artist/ed-sheeran/183313439",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/3c/81/183c8163-7541-7043-2f0c-e55c23b265f5/190295851286.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "10",
-            "name": "Singer/Songwriter",
-            "url": "https://itunes.apple.com/gb/genre/id10"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/shape-of-you/1193682944?i=1193683174"
+        "url": "https://music.apple.com/gb/album/angel-of-my-dreams/1754238138?i=1754238414"
       },
       {
         "artistName": "Coldplay",
@@ -1934,14 +2011,42 @@
         "url": "https://music.apple.com/gb/album/thats-so-true/1773473685?i=1773474483"
       },
       {
+        "artistName": "Michael Jackson",
+        "id": "269573364",
+        "name": "Billie Jean",
+        "releaseDate": "1982-11-29",
+        "kind": "songs",
+        "artistId": "32940",
+        "artistUrl": "https://music.apple.com/gb/artist/michael-jackson/32940",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/billie-jean/269572838?i=269573364"
+      },
+      {
         "artistName": "Zara Larsson",
-        "id": "1817499251",
-        "name": "Midnight Sun",
-        "releaseDate": "2025-06-13",
+        "id": "1201169649",
+        "name": "Lush Life",
+        "releaseDate": "2015-06-05",
         "kind": "songs",
         "artistId": "570372593",
         "artistUrl": "https://music.apple.com/gb/artist/zara-larsson/570372593",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/bf/26/edbf2691-87af-e09c-12f6-a6d862ad6047/886446200385.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -1954,35 +2059,7 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/midnight-sun/1817499239?i=1817499251"
-      },
-      {
-        "artistName": "Tame Impala",
-        "id": "1842444457",
-        "name": "Dracula",
-        "releaseDate": "2025-09-24",
-        "kind": "songs",
-        "artistId": "290242959",
-        "artistUrl": "https://music.apple.com/gb/artist/tame-impala/290242959",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/be/b4/36beb41f-c644-55cb-9fbb-bf0622a66653/196873644783.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "17",
-            "name": "Dance",
-            "url": "https://itunes.apple.com/gb/genre/id17"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/dracula/1842444456?i=1842444457"
+        "url": "https://music.apple.com/gb/album/lush-life/1201169550?i=1201169649"
       },
       {
         "artistName": "Arctic Monkeys",
@@ -2013,37 +2090,32 @@
         "url": "https://music.apple.com/gb/album/do-i-wanna-know/663097964?i=663097965"
       },
       {
-        "artistName": "The Rolling Stones",
-        "id": "1440765582",
-        "name": "Paint It Black",
-        "releaseDate": "1966-04-15",
+        "artistName": "Mariah Carey",
+        "id": "1439640318",
+        "name": "All I Want for Christmas Is You",
+        "releaseDate": "1994-11-01",
         "kind": "songs",
-        "artistId": "1249595",
-        "artistUrl": "https://music.apple.com/gb/artist/the-rolling-stones/1249595",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/29/b7/81/29b781e5-3773-c87e-c6a8-82581e53d270/13ABKIM00053.rgb.jpg/100x100bb.jpg",
+        "artistId": "91853",
+        "artistUrl": "https://music.apple.com/gb/artist/mariah-carey/91853",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/72/ad/2072ad2a-ca61-b326-374e-fd290159a984/886447389782.jpg/100x100bb.jpg",
         "genres": [
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          },
           {
             "genreId": "34",
             "name": "Music",
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/paint-it-black/1440764786?i=1440765582"
+        "url": "https://music.apple.com/gb/album/all-i-want-for-christmas-is-you/1439640317?i=1439640318"
       },
       {
-        "artistName": "P!nk",
-        "id": "576949282",
-        "name": "Just Give Me a Reason (feat. Nate Ruess)",
-        "releaseDate": "2012-09-14",
+        "artistName": "Ariana Grande",
+        "id": "1545270163",
+        "name": "Into You",
+        "releaseDate": "2016-05-06",
         "kind": "songs",
-        "artistId": "4488522",
-        "artistUrl": "https://music.apple.com/gb/artist/p-nk/4488522",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/de/d4/f4/ded4f4be-a037-557e-e2ac-866455e6b268/886443736474.jpg/100x90bb.jpg",
+        "artistId": "412778295",
+        "artistUrl": "https://music.apple.com/gb/artist/ariana-grande/412778295",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/70/0f/3f700f55-1c91-c890-8cb7-b8886f87b7f6/16UMGIM30042.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -2056,53 +2128,7 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/just-give-me-a-reason-feat-nate-ruess/576949278?i=576949282"
-      },
-      {
-        "artistName": "Lewis Capaldi",
-        "id": "1452619054",
-        "name": "Someone You Loved",
-        "releaseDate": "2018-11-08",
-        "kind": "songs",
-        "artistId": "1213405916",
-        "artistUrl": "https://music.apple.com/gb/artist/lewis-capaldi/1213405916",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/d7/8f/92d78fb1-df3d-049e-c81d-7022808b151f/19UMGIM02973.rgb.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/someone-you-loved/1452618876?i=1452619054"
-      },
-      {
-        "artistName": "sombr",
-        "id": "1828036635",
-        "name": "12 to 12",
-        "releaseDate": "2025-07-24",
-        "kind": "songs",
-        "artistId": "1589842503",
-        "artistUrl": "https://music.apple.com/gb/artist/sombr/1589842503",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/12-to-12/1828036634?i=1828036635"
+        "url": "https://music.apple.com/gb/album/into-you/1545270092?i=1545270163"
       },
       {
         "artistName": "Teddy Swims",
@@ -2128,227 +2154,14 @@
         "url": "https://music.apple.com/gb/album/lose-control/1691699589?i=1691699836"
       },
       {
-        "artistName": "Bobby \"Boris\" Pickett & The Crypt-Kickers",
-        "id": "958090471",
-        "name": "Monster Mash",
-        "releaseDate": "2013-05-31",
+        "artistName": "Wizzard",
+        "id": "696354552",
+        "name": "I Wish It Could Be Christmas Everyday (2006 Remastered Version)",
+        "releaseDate": "1973-12-01",
         "kind": "songs",
-        "artistId": "25092709",
-        "artistUrl": "https://music.apple.com/gb/artist/bobby-boris-pickett-the-crypt-kickers/25092709",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/96/bf/6f/96bf6fea-fa5d-5958-51d5-5c9c8b6a480c/cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/monster-mash/958090469?i=958090471"
-      },
-      {
-        "artistName": "Bella Kay",
-        "id": "1867034427",
-        "name": "iloveitiloveitiloveit",
-        "releaseDate": "2026-06-17",
-        "kind": "songs",
-        "artistId": "1706434165",
-        "artistUrl": "https://music.apple.com/gb/artist/bella-kay/1706434165",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/12/71/ab12714b-1572-c7b0-27ff-2dfa3c860e6f/075679590756.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/iloveitiloveitiloveit/1867034426?i=1867034427"
-      },
-      {
-        "artistName": "Alyssa Grace",
-        "id": "6786948188",
-        "name": "bloodstream",
-        "releaseDate": "2026-07-10",
-        "kind": "songs",
-        "artistId": "1876970625",
-        "artistUrl": "https://music.apple.com/gb/artist/alyssa-grace/1876970625",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/56/ab/4256ab71-f0a4-e6e9-08e3-9e52274fa5be/054391212313.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/bloodstream/6786948186?i=6786948188"
-      },
-      {
-        "artistName": "Talking Heads",
-        "id": "20833655",
-        "name": "Psycho Killer",
-        "releaseDate": "1977-09-16",
-        "kind": "songs",
-        "artistId": "155546",
-        "artistUrl": "https://music.apple.com/gb/artist/talking-heads/155546",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d17/h21/s06.xwrnkppg.jpg/100x99bb.jpg",
-        "genres": [
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          },
-          {
-            "genreId": "14",
-            "name": "Pop",
-            "url": "https://itunes.apple.com/gb/genre/id14"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/psycho-killer/20833651?i=20833655"
-      },
-      {
-        "artistName": "AC/DC",
-        "id": "574044008",
-        "name": "Highway to Hell",
-        "releaseDate": "1979-07-27",
-        "kind": "songs",
-        "artistId": "5040714",
-        "artistUrl": "https://music.apple.com/gb/artist/ac-dc/5040714",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/c8/ef/b9c8ef42-bbc9-64df-11f8-717571f6730f/886443673458.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
-          },
-          {
-            "genreId": "19",
-            "name": "Worldwide",
-            "url": "https://itunes.apple.com/gb/genre/id19"
-          },
-          {
-            "genreId": "1153",
-            "name": "Metal",
-            "url": "https://itunes.apple.com/gb/genre/id1153"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/highway-to-hell/574043989?i=574044008"
-      },
-      {
-        "artistName": "Still Scapes",
-        "id": "6786652632",
-        "name": "Ombre",
-        "releaseDate": "2026-07-15",
-        "kind": "songs",
-        "artistId": "1712002672",
-        "artistUrl": "https://music.apple.com/gb/artist/still-scapes/1712002672",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/1f/46/451f46ce-c4ff-bf2b-2d6e-daf8514f9747/5059449388045.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/ombre/6786652631?i=6786652632"
-      },
-      {
-        "artistName": "Amethyst Skies",
-        "id": "1887373402",
-        "name": "Floating Into Deep Sleep (Sleep)",
-        "releaseDate": "2026-06-03",
-        "kind": "songs",
-        "artistId": "1830552418",
-        "artistUrl": "https://music.apple.com/gb/artist/amethyst-skies/1830552418",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/ee/5c/a2ee5c2f-6f40-dbed-f745-27dc78a19bef/5059449281568.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/floating-into-deep-sleep-sleep/1887373398?i=1887373402"
-      },
-      {
-        "artistName": "Stratus Waves",
-        "id": "6775689878",
-        "name": "Lihe (Spa)",
-        "releaseDate": "2026-06-05",
-        "kind": "songs",
-        "artistId": "1609667077",
-        "artistUrl": "https://music.apple.com/gb/artist/stratus-waves/1609667077",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/89/c9/e889c9c5-f60f-f486-8442-c149bd56430c/5059449352077.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/lihe-spa/6775689874?i=6775689878"
-      },
-      {
-        "artistName": "Ancient Future Technologies",
-        "id": "6779171400",
-        "name": "Tuel (Sleep)",
-        "releaseDate": "2026-07-20",
-        "kind": "songs",
-        "artistId": "1680786624",
-        "artistUrl": "https://music.apple.com/gb/artist/ancient-future-technologies/1680786624",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/a5/29/81a529e7-4883-e2fd-cb52-3391f9bd697b/5059449364209.png/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "7",
-            "name": "Electronic",
-            "url": "https://itunes.apple.com/gb/genre/id7"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/tuel-sleep/6779171399?i=6779171400"
-      },
-      {
-        "artistName": "Michael Jackson",
-        "id": "269573341",
-        "name": "Beat It",
-        "releaseDate": "1982-11-29",
-        "kind": "songs",
-        "artistId": "32940",
-        "artistUrl": "https://music.apple.com/gb/artist/michael-jackson/32940",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/100x100bb.jpg",
+        "artistId": "14663042",
+        "artistUrl": "https://music.apple.com/gb/artist/wizzard/14663042",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/7e/61/987e6121-c74f-c35f-1546-e8c18da108b7/094634413459.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
@@ -2359,30 +2172,24 @@
             "genreId": "34",
             "name": "Music",
             "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
           }
         ],
-        "url": "https://music.apple.com/gb/album/beat-it/269572838?i=269573341"
+        "url": "https://music.apple.com/gb/album/i-wish-it-could-be-christmas-everyday-2006-remastered/696352088?i=696354552"
       },
       {
-        "artistName": "Drake & Don Toliver",
-        "id": "6818209989",
-        "name": "Solar Eclipse",
-        "releaseDate": "2026-10-02",
+        "artistName": "Drake & Majid Jordan",
+        "id": "1440873033",
+        "name": "Hold On, We're Going Home",
+        "releaseDate": "2013-08-07",
         "kind": "songs",
         "artistId": "271256",
         "artistUrl": "https://music.apple.com/gb/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/df/2c/14df2ca7-0056-3c7f-724d-75ee42345728/13UAAIM79861.rgb.jpg/100x100bb.jpg",
         "genres": [
           {
-            "genreId": "15",
-            "name": "R&B/Soul",
-            "url": "https://itunes.apple.com/gb/genre/id15"
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
           },
           {
             "genreId": "34",
@@ -2390,23 +2197,166 @@
             "url": "https://itunes.apple.com/gb/genre/id34"
           }
         ],
-        "url": "https://music.apple.com/gb/album/solar-eclipse/6818209777?i=6818209989"
+        "url": "https://music.apple.com/gb/album/hold-on-were-going-home/1440872495?i=1440873033"
       },
       {
-        "artistName": "Eurythmics",
-        "id": "207057617",
-        "name": "Sweet Dreams (Are Made of This)",
-        "releaseDate": "1983-01-04",
+        "artistName": "Fleetwood Mac",
+        "id": "651880159",
+        "name": "The Chain",
+        "releaseDate": "1977-02-04",
         "kind": "songs",
-        "artistId": "395777",
-        "artistUrl": "https://music.apple.com/gb/artist/eurythmics/395777",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ad/d3/3d/add33dea-0a4d-9509-643b-939ba6735733/dj.vpugapfp.jpg/100x91bb.jpg",
+        "artistId": "158038",
+        "artistUrl": "https://music.apple.com/gb/artist/fleetwood-mac/158038",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/eb/dc/2aebdc18-c2c0-0fdd-fb85-07538a925700/603497925766.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/the-chain/651879763?i=651880159"
+      },
+      {
+        "artistName": "Ed Sheeran",
+        "id": "1193683174",
+        "name": "Shape of You",
+        "releaseDate": "2017-01-06",
+        "kind": "songs",
+        "artistId": "183313439",
+        "artistUrl": "https://music.apple.com/gb/artist/ed-sheeran/183313439",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/3c/81/183c8163-7541-7043-2f0c-e55c23b265f5/190295851286.jpg/100x100bb.jpg",
         "genres": [
           {
             "genreId": "14",
             "name": "Pop",
             "url": "https://itunes.apple.com/gb/genre/id14"
           },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/gb/genre/id10"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/shape-of-you/1193682944?i=1193683174"
+      },
+      {
+        "artistName": "sombr",
+        "id": "1828036635",
+        "name": "12 to 12",
+        "releaseDate": "2025-07-24",
+        "kind": "songs",
+        "artistId": "1589842503",
+        "artistUrl": "https://music.apple.com/gb/artist/sombr/1589842503",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/12-to-12/1828036634?i=1828036635"
+      },
+      {
+        "artistName": "Billie Eilish",
+        "id": "1440899467",
+        "name": "ocean eyes",
+        "releaseDate": "2016-05-18",
+        "kind": "songs",
+        "artistId": "1065981054",
+        "artistUrl": "https://music.apple.com/gb/artist/billie-eilish/1065981054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/ocean-eyes/1440898929?i=1440899467"
+      },
+      {
+        "artistName": "Noah Kahan & The Hunger Games",
+        "id": "6814871229",
+        "name": "Draw You Out",
+        "releaseDate": "2026-10-02",
+        "kind": "songs",
+        "artistId": "328583953",
+        "artistUrl": "https://music.apple.com/gb/artist/noah-kahan/328583953",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/a0/db/dea0db01-b9a7-173e-ccb2-c07c31f634bb/26UM1IM10359.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/draw-you-out/6814870921?i=6814871229"
+      },
+      {
+        "artistName": "Taylor Swift",
+        "id": "6775527443",
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "releaseDate": "2026-06-05",
+        "kind": "songs",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/gb/artist/taylor-swift/159260351",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/gb/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443"
+      },
+      {
+        "artistName": "Oasis",
+        "id": "1525933492",
+        "name": "Don't Look Back in Anger (Remastered)",
+        "releaseDate": "1995-10-02",
+        "kind": "songs",
+        "artistId": "512633",
+        "artistUrl": "https://music.apple.com/gb/artist/oasis/512633",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/100x100bb.jpg",
+        "genres": [
           {
             "genreId": "34",
             "name": "Music",
@@ -2421,65 +2371,14 @@
             "genreId": "21",
             "name": "Rock",
             "url": "https://itunes.apple.com/gb/genre/id21"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/sweet-dreams-are-made-of-this/207056852?i=207057617"
-      },
-      {
-        "artistName": "SleepTherapy",
-        "id": "1417710815",
-        "name": "Brown Noise Loop",
-        "releaseDate": "2018-07-17",
-        "kind": "songs",
-        "artistId": "993038489",
-        "artistUrl": "https://music.apple.com/gb/artist/sleeptherapy/993038489",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/21/1e/77/211e77f4-beed-c073-526c-c182bbed597f/859727751685_cover.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          }
-        ],
-        "url": "https://music.apple.com/gb/album/brown-noise-loop/1417709876?i=1417710815"
-      },
-      {
-        "artistName": "Duran Duran",
-        "id": "693610779",
-        "name": "Hungry Like the Wolf",
-        "releaseDate": "1982-05-10",
-        "kind": "songs",
-        "artistId": "487384",
-        "artistUrl": "https://music.apple.com/gb/artist/duran-duran/487384",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/28/ba/4c28ba7a-8e8d-cf8c-3081-c7a9faf67520/5099996563359.jpg/100x100bb.jpg",
-        "genres": [
-          {
-            "genreId": "34",
-            "name": "Music",
-            "url": "https://itunes.apple.com/gb/genre/id34"
-          },
-          {
-            "genreId": "20",
-            "name": "Alternative",
-            "url": "https://itunes.apple.com/gb/genre/id20"
-          },
-          {
-            "genreId": "17",
-            "name": "Dance",
-            "url": "https://itunes.apple.com/gb/genre/id17"
           },
           {
             "genreId": "14",
             "name": "Pop",
             "url": "https://itunes.apple.com/gb/genre/id14"
-          },
-          {
-            "genreId": "21",
-            "name": "Rock",
-            "url": "https://itunes.apple.com/gb/genre/id21"
           }
         ],
-        "url": "https://music.apple.com/gb/album/hungry-like-the-wolf/693610443?i=693610779"
+        "url": "https://music.apple.com/gb/album/dont-look-back-in-anger-remastered/1525933483?i=1525933492"
       }
     ]
   }

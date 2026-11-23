@@ -14,23 +14,23 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "fr",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Mon, 16 Nov 2026 12:56:36 +0000",
+    "updated": "Mon, 23 Nov 2026 14:58:33 +0000",
     "results": [
       {
-        "artistName": "Shakira & Burna Boy",
-        "id": "1896817434",
-        "name": "Dai Dai",
-        "releaseDate": "2026-05-23",
+        "artistName": "The Weeknd",
+        "id": "6837352006",
+        "name": "Hong Kong (feat. 王菲季候風)",
+        "releaseDate": "2026-11-20",
         "kind": "music-videos",
-        "artistId": "889327",
-        "artistUrl": "https://music.apple.com/fr/artist/shakira/889327",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/99/33/b4/9933b445-a7c9-017d-efb5-a37464cd68c3/1968743286060101.jpg/100x56mv.jpg",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/fr/artist/the-weeknd/479756766",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ff/30/9b/ff309b03-ff7e-0116-ed5e-4cb226c8bca0/26UM1IM42912.crop.jpg/100x67mv.jpg",
         "genres": [
           {
-            "name": "Pop en espagnol"
+            "name": "R&B/Soul"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/dai-dai/1896817434"
+        "url": "https://music.apple.com/fr/music-video/hong-kong-feat-%E7%8E%8B%E8%8F%B2%E5%AD%A3%E5%80%99%E9%A2%A8/6837352006"
       },
       {
         "artistName": "SCH",
@@ -48,6 +48,22 @@
           }
         ],
         "url": "https://music.apple.com/fr/music-video/morpheus/1445284008"
+      },
+      {
+        "artistName": "Shakira & Burna Boy",
+        "id": "1896817434",
+        "name": "Dai Dai",
+        "releaseDate": "2026-05-23",
+        "kind": "music-videos",
+        "artistId": "889327",
+        "artistUrl": "https://music.apple.com/fr/artist/shakira/889327",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/99/33/b4/9933b445-a7c9-017d-efb5-a37464cd68c3/1968743286060101.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop en espagnol"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/dai-dai/1896817434"
       },
       {
         "artistName": "Shakira",
@@ -82,22 +98,6 @@
         "url": "https://music.apple.com/fr/music-video/4/6817840336"
       },
       {
-        "artistName": "Tate McRae",
-        "id": "6825033954",
-        "name": "Housewife (Live from The Victoria's Secret Fashion Show 2026)",
-        "releaseDate": "2026-10-20",
-        "kind": "music-videos",
-        "artistId": "1446365464",
-        "artistUrl": "https://music.apple.com/fr/artist/tate-mcrae/1446365464",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/fb/f9/a0/fbf9a011-d4aa-e390-1ba2-00c2fe32b212/1968749092320101.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/housewife-live-from-the-victorias-secret-fashion-show-2026/6825033954"
-      },
-      {
         "artistName": "Ariana Grande",
         "id": "1895421122",
         "name": "petal in the pavement",
@@ -130,36 +130,20 @@
         "url": "https://music.apple.com/fr/music-video/you-seem-pretty-sad-for-a-girl-so-in-love/1889992132"
       },
       {
-        "artistName": "ENHYPEN",
-        "id": "6834439777",
-        "name": "I Want You",
-        "releaseDate": "2026-11-13",
+        "artistName": "Tate McRae",
+        "id": "6825033954",
+        "name": "Housewife (Live from The Victoria's Secret Fashion Show 2026)",
+        "releaseDate": "2026-10-20",
         "kind": "music-videos",
-        "artistId": "1541011620",
-        "artistUrl": "https://music.apple.com/fr/artist/enhypen/1541011620",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/76/82/5b/76825bea-1433-228b-6fe3-c2519577977b/Job51e5a375-22ec-4919-92cd-11b2b9557c91-253613825-PreviewImage_preview_image_211933_video_sdr-Time1794582248464.png/100x54mv.jpg",
+        "artistId": "1446365464",
+        "artistUrl": "https://music.apple.com/fr/artist/tate-mcrae/1446365464",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/fb/f9/a0/fbf9a011-d4aa-e390-1ba2-00c2fe32b212/1968749092320101.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "K-pop"
+            "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/i-want-you/6834439777"
-      },
-      {
-        "artistName": "Billie Eilish",
-        "id": "1739659279",
-        "name": "HIT ME HARD AND SOFT",
-        "releaseDate": "2024-04-10",
-        "kind": "music-videos",
-        "artistId": "1065981054",
-        "artistUrl": "https://music.apple.com/fr/artist/billie-eilish/1065981054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/df/d9/b4/dfd9b420-8931-1f56-9e74-6c3a9eeacaf5/dj.wlrpsjut.jpg/100x178mv.jpg",
-        "genres": [
-          {
-            "name": "Alternative"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/hit-me-hard-and-soft/1739659279"
+        "url": "https://music.apple.com/fr/music-video/housewife-live-from-the-victorias-secret-fashion-show-2026/6825033954"
       },
       {
         "artistName": "Maes",
@@ -179,54 +163,20 @@
         "url": "https://music.apple.com/fr/music-video/street/1549831679"
       },
       {
-        "artistName": "Olivia Dean",
-        "id": "6831736567",
-        "name": "Artist of the Year 2026: Olivia Dean",
-        "releaseDate": "2026-11-09",
+        "artistName": "Billie Eilish",
+        "id": "1739659279",
+        "name": "HIT ME HARD AND SOFT",
+        "releaseDate": "2024-04-10",
         "kind": "music-videos",
-        "artistId": "1487253329",
-        "artistUrl": "https://music.apple.com/fr/artist/olivia-dean/1487253329",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/37/e0/49/37e0499d-e8ac-00db-b91c-fd095d60463f/TN-MS-WW-AOTY_OliviaDean_20261006-00_00_26_05.png/100x56mv.jpg",
+        "artistId": "1065981054",
+        "artistUrl": "https://music.apple.com/fr/artist/billie-eilish/1065981054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/df/d9/b4/dfd9b420-8931-1f56-9e74-6c3a9eeacaf5/dj.wlrpsjut.jpg/100x178mv.jpg",
         "genres": [
           {
             "name": "Alternative"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/artist-of-the-year-2026-olivia-dean/6831736567"
-      },
-      {
-        "artistName": "SDM & Sandra Gomes",
-        "id": "6833268605",
-        "name": "Numbers avec SDM",
-        "releaseDate": "2026-11-11",
-        "kind": "music-videos",
-        "artistId": "455690468",
-        "artistUrl": "https://music.apple.com/fr/artist/sdm/455690468",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2d/05/84/2d058419-f19c-33fb-2e49-0bdf8fc22867/Numbers_SDM_THUMBNAIL.png/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/numbers-avec-sdm/6833268605"
-      },
-      {
-        "artistName": "Drake & Qendresa",
-        "id": "6818209994",
-        "name": "Slap The City",
-        "releaseDate": "2026-05-15",
-        "kind": "music-videos",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/fr/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/13/39/fe/1339fed8-0d66-8aea-9e03-66680022de29/26UMGIM64084.crop.jpg/100x73mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/slap-the-city/6818209994"
+        "url": "https://music.apple.com/fr/music-video/hit-me-hard-and-soft/1739659279"
       },
       {
         "artistName": "Drake & Don Toliver",
@@ -246,6 +196,23 @@
         "url": "https://music.apple.com/fr/music-video/solar-eclipse/6818210123"
       },
       {
+        "artistName": "Drake & Qendresa",
+        "id": "6818209994",
+        "name": "Slap The City",
+        "releaseDate": "2026-05-15",
+        "kind": "music-videos",
+        "artistId": "271256",
+        "artistUrl": "https://music.apple.com/fr/artist/drake/271256",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/13/39/fe/1339fed8-0d66-8aea-9e03-66680022de29/26UMGIM64084.crop.jpg/100x73mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/slap-the-city/6818209994"
+      },
+      {
         "artistName": "Maes",
         "id": "1549831868",
         "name": "Distant (feat. Ninho)",
@@ -263,71 +230,20 @@
         "url": "https://music.apple.com/fr/music-video/distant-feat-ninho/1549831868"
       },
       {
-        "artistName": "Ronisia",
-        "id": "6818568931",
-        "name": "Cuenta (feat. Meryl & Shay)",
-        "releaseDate": "2026-10-02",
+        "artistName": "Michael Jackson",
+        "id": "273048822",
+        "name": "Thriller",
+        "releaseDate": "1983-12-02",
         "kind": "music-videos",
-        "artistId": "1465303089",
-        "artistUrl": "https://music.apple.com/fr/artist/ronisia/1465303089",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ce/f8/16/cef81693-f6e9-faad-3334-5a5cf50f64f8/1968748425910101.jpg/100x75mv.jpg",
+        "artistId": "32940",
+        "artistUrl": "https://music.apple.com/fr/artist/michael-jackson/32940",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/cd/bd/9d/cdbd9d6e-0de3-c7e9-ef53-2bfe64c42705/dj.uwxtpbco.jpg/100x72mv.jpg",
         "genres": [
           {
-            "name": "Afro pop"
+            "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/cuenta-feat-meryl-shay/6818568931"
-      },
-      {
-        "artistName": "Maes",
-        "id": "1549831872",
-        "name": "Dragovic",
-        "releaseDate": "2021-01-22",
-        "kind": "music-videos",
-        "artistId": "1363899746",
-        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/08/84/22/088422cb-6028-4e37-f952-622e2be31224/20UMGIM31555.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/dragovic/1549831872"
-      },
-      {
-        "artistName": "Aya Nakamura & La Rvfleuze",
-        "id": "1896447178",
-        "name": "Sexy Nana",
-        "releaseDate": "2026-05-07",
-        "kind": "music-videos",
-        "artistId": "1042004371",
-        "artistUrl": "https://music.apple.com/fr/artist/aya-nakamura/1042004371",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a9/de/c0/a9dec007-3531-cb23-27dc-d73415b0da7d/FR1A92601418.sca1.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/sexy-nana/1896447178"
-      },
-      {
-        "artistName": "Maes",
-        "id": "1549831870",
-        "name": "Blanche (feat. Booba)",
-        "releaseDate": "2021-01-22",
-        "kind": "music-videos",
-        "artistId": "1363899746",
-        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/ca/da/cc/cadacc06-85a1-f95e-86d2-54f230fad5c8/20UMGIM16654.crop.jpg/100x41mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/blanche-feat-booba/1549831870"
+        "url": "https://music.apple.com/fr/music-video/thriller/273048822"
       },
       {
         "artistName": "Tate McRae",
@@ -346,20 +262,20 @@
         "url": "https://music.apple.com/fr/music-video/housewife/6823265158"
       },
       {
-        "artistName": "A2O & A2O LITE",
-        "id": "6823010734",
-        "name": "NEON",
-        "releaseDate": "2026-10-13",
+        "artistName": "Aya Nakamura & La Rvfleuze",
+        "id": "1896447178",
+        "name": "Sexy Nana",
+        "releaseDate": "2026-05-07",
         "kind": "music-videos",
-        "artistId": "1794043761",
-        "artistUrl": "https://music.apple.com/fr/artist/a2o/1794043761",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d7/54/59/d7545916-d807-5d2f-cd74-df48791092dc/Jobcbee5db0-8b5c-4ba1-b95a-69f25de302ee-248935753-PreviewImage_preview_image_218300_video_sdr-Time1792039285081.png/100x56mv.jpg",
+        "artistId": "1042004371",
+        "artistUrl": "https://music.apple.com/fr/artist/aya-nakamura/1042004371",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a9/de/c0/a9dec007-3531-cb23-27dc-d73415b0da7d/FR1A92601418.sca1.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "K-pop"
+            "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/neon/6823010734"
+        "url": "https://music.apple.com/fr/music-video/sexy-nana/1896447178"
       },
       {
         "artistName": "SDM",
@@ -379,103 +295,21 @@
         "url": "https://music.apple.com/fr/music-video/ragnar/1661144093"
       },
       {
-        "artistName": "Kore & Werenoi",
-        "id": "1567489299",
-        "name": "Tucibi",
-        "releaseDate": "2021-05-14",
+        "artistName": "Maes",
+        "id": "1549831872",
+        "name": "Dragovic",
+        "releaseDate": "2021-01-22",
         "kind": "music-videos",
-        "artistId": "19394415",
-        "artistUrl": "https://music.apple.com/fr/artist/kore/19394415",
+        "artistId": "1363899746",
+        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/35/d4/92/35d49206-6a7f-9257-c9a1-9fb97113dcd3/8864492439450101.jpg/100x42mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/08/84/22/088422cb-6028-4e37-f952-622e2be31224/20UMGIM31555.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/tucibi/1567489299"
-      },
-      {
-        "artistName": "HeyKids Comptine Pour Bébé",
-        "id": "1589932892",
-        "name": "La famille tortue",
-        "releaseDate": "2020-06-30",
-        "kind": "music-videos",
-        "artistId": "1502382056",
-        "artistUrl": "https://music.apple.com/fr/artist/heykids-comptine-pour-b%C3%A9b%C3%A9/1502382056",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/54/66/ca/5466ca80-f524-f93c-40a2-fe89ab2a98c3/8720205895882_US23A1540453.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musique pour enfants"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/la-famille-tortue/1589932892"
-      },
-      {
-        "artistName": "LISA",
-        "id": "6804003004",
-        "name": "PRESS PLAY",
-        "releaseDate": "2026-10-23",
-        "kind": "music-videos",
-        "artistId": "1583908668",
-        "artistUrl": "https://music.apple.com/fr/artist/lisa/1583908668",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/38/20/f3/3820f3e1-9860-9d4f-9b1f-e8f959254a15/1968747126960107.jpg/100x69mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/press-play/6804003004"
-      },
-      {
-        "artistName": "Jack Harlow",
-        "id": "6829221600",
-        "name": "SWEET ACTION II",
-        "releaseDate": "2026-11-06",
-        "kind": "music-videos",
-        "artistId": "1047679432",
-        "artistUrl": "https://music.apple.com/fr/artist/jack-harlow/1047679432",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/27/2e/7f/272e7fa6-715d-bb44-ce92-6396b4d9324b/USATV2611517.sca1.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/sweet-action-ii/6829221600"
-      },
-      {
-        "artistName": "Tommy Lee Sparta & Trippie Redd",
-        "id": "1846180565",
-        "name": "Murderer",
-        "releaseDate": "2025-10-14",
-        "kind": "music-videos",
-        "artistId": "564794863",
-        "artistUrl": "https://music.apple.com/fr/artist/tommy-lee-sparta/564794863",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8d/09/94/8d099467-73c7-6e8b-cfe3-33f1202920c4/Job573a7dd5-15d9-477a-bccb-36473d6d7d1a-206033477-PreviewImage_preview_image_10000_video_sdr-Time1760471130857.png/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Modern Dancehall"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/murderer/1846180565"
-      },
-      {
-        "artistName": "SDM",
-        "id": "1661144103",
-        "name": "Cette année-là",
-        "releaseDate": "2022-11-30",
-        "kind": "music-videos",
-        "artistId": "455690468",
-        "artistUrl": "https://music.apple.com/fr/artist/sdm/455690468",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/86/c6/be/86c6be70-73c4-99cf-1749-c007c0955afe/22UM1IM39905.crop.jpg/100x70mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/cette-ann%C3%A9e-l%C3%A0/1661144103"
+        "url": "https://music.apple.com/fr/music-video/dragovic/1549831872"
       },
       {
         "artistName": "Drake",
@@ -495,38 +329,21 @@
         "url": "https://music.apple.com/fr/music-video/high-fives/6818210116"
       },
       {
-        "artistName": "Maes",
-        "id": "1549831878",
-        "name": "Prioritaire (Lyric Video)",
-        "releaseDate": "2021-01-22",
-        "kind": "music-videos",
-        "artistId": "1363899746",
-        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/57/4a/b9/574ab9df-bb0d-7944-4961-cfde198a07cf/20UMGIM61078.crop.jpg/100x39mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/prioritaire-lyric-video/1549831878"
-      },
-      {
         "artistName": "SDM",
-        "id": "1661144110",
-        "name": "Redescends (feat. Tiakola)",
+        "id": "1661144103",
+        "name": "Cette année-là",
         "releaseDate": "2022-11-30",
         "kind": "music-videos",
         "artistId": "455690468",
         "artistUrl": "https://music.apple.com/fr/artist/sdm/455690468",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/06/d1/22/06d122d2-3d0c-de52-65a6-204239f29866/22UMGIM77749.crop.jpg/100x75mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/86/c6/be/86c6be70-73c4-99cf-1749-c007c0955afe/22UM1IM39905.crop.jpg/100x70mv.jpg",
         "genres": [
           {
             "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/redescends-feat-tiakola/1661144110"
+        "url": "https://music.apple.com/fr/music-video/cette-ann%C3%A9e-l%C3%A0/1661144103"
       },
       {
         "artistName": "Maes",
@@ -546,55 +363,20 @@
         "url": "https://music.apple.com/fr/music-video/dybala-feat-jul/1549831873"
       },
       {
-        "artistName": "Ninho & La Rvfleuze",
-        "id": "6823407177",
-        "name": "BRACELET",
-        "releaseDate": "2026-10-07",
+        "artistName": "Star Academy",
+        "id": "6837355258",
+        "name": "Dans un autre monde",
+        "releaseDate": "2026-11-20",
         "kind": "music-videos",
-        "artistId": "320366644",
-        "artistUrl": "https://music.apple.com/fr/artist/ninho/320366644",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a2/d9/b0/a2d9b0d0-2228-31bd-8fa4-77ae5cc3bfaa/FR1A92603337.sca1.jpg/100x56mv.jpg",
+        "artistId": "15160985",
+        "artistUrl": "https://music.apple.com/fr/artist/star-academy/15160985",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/02/29/26022919-8b0d-9164-691d-cccd0893f757/1968749536620101.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "Hip-hop/Rap"
+            "name": "Pop française"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/bracelet/6823407177"
-      },
-      {
-        "artistName": "IDK, Eminem & J Dilla",
-        "id": "6834296340",
-        "name": "WELCOME",
-        "releaseDate": "2026-11-13",
-        "kind": "music-videos",
-        "artistId": "703549373",
-        "artistUrl": "https://music.apple.com/fr/artist/idk/703549373",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/68/59/32/68593251-9aa8-b83b-a7d9-61a07b13e426/26UM1IM31022.crop.jpg/100x77mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/welcome/6834296340"
-      },
-      {
-        "artistName": "Drake & Yebba",
-        "id": "6818210130",
-        "name": "Cold Shoulder",
-        "releaseDate": "2026-10-02",
-        "kind": "music-videos",
-        "artistId": "271256",
-        "artistUrl": "https://music.apple.com/fr/artist/drake/271256",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/dd/f5/d6/ddf5d6c1-3916-19a4-378e-41bd3058f778/26UM1IM28171.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/cold-shoulder/6818210130"
+        "url": "https://music.apple.com/fr/music-video/dans-un-autre-monde/6837355258"
       },
       {
         "artistName": "Drake",
@@ -614,85 +396,21 @@
         "url": "https://music.apple.com/fr/music-video/im-spent/6818210117"
       },
       {
-        "artistName": "Elton John",
-        "id": "6828442748",
-        "name": "Your Song (Apple Music Live)",
-        "releaseDate": "2026-10-30",
+        "artistName": "Ronisia",
+        "id": "6818568931",
+        "name": "Cuenta (feat. Meryl & Shay)",
+        "releaseDate": "2026-10-02",
         "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/cd/23/15/cd2315b7-9b36-d69a-71ad-cfcec4a44f37/26UM1IM28522.crop.jpg/100x57mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/your-song-apple-music-live/6828442748"
-      },
-      {
-        "artistName": "Betsy & Мария Янковская",
-        "id": "1822269185",
-        "name": "Sigma Boy",
-        "releaseDate": "2025-06-23",
-        "kind": "music-videos",
-        "artistId": "1611240891",
-        "artistUrl": "https://music.apple.com/fr/artist/betsy/1611240891",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a2/3c/39/a23c3988-d61b-a573-8632-786c758f36c7/Jobdb927639-7efa-413c-99a0-ea0847c4b474-195532959-PreviewImage_preview_image_21000_video_sdr-Time1750684433072.png/100x42mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/sigma-boy/1822269185"
-      },
-      {
-        "artistName": "Lagui",
-        "id": "6820562672",
-        "name": "Dégun",
-        "releaseDate": "2026-10-07",
-        "kind": "music-videos",
-        "artistId": "1850450570",
-        "artistUrl": "https://music.apple.com/fr/artist/lagui/1850450570",
+        "artistId": "1465303089",
+        "artistUrl": "https://music.apple.com/fr/artist/ronisia/1465303089",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/47/1e/78/471e78a8-d1b1-de45-8c17-d0cfe67555e4/3618117464881_1_01.jpg/100x68mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ce/f8/16/cef81693-f6e9-faad-3334-5a5cf50f64f8/1968748425910101.jpg/100x75mv.jpg",
         "genres": [
           {
-            "name": "Hip-hop/Rap"
+            "name": "Afro pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/d%C3%A9gun/6820562672"
-      },
-      {
-        "artistName": "Adèle Castillon",
-        "id": "6820928443",
-        "name": "C'est tout moi",
-        "releaseDate": "2026-10-09",
-        "kind": "music-videos",
-        "artistId": "1237131130",
-        "artistUrl": "https://music.apple.com/fr/artist/ad%C3%A8le-castillon/1237131130",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/90/11/67/901167f3-ac4a-70ef-b703-43331573a1cd/1968748674020101.jpg/100x65mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/cest-tout-moi/6820928443"
-      },
-      {
-        "artistName": "GIMS",
-        "id": "1841935785",
-        "name": "PARISIENNE (feat. La Mano 1.9)",
-        "releaseDate": "2025-09-25",
-        "kind": "music-videos",
-        "artistId": "458659054",
-        "artistUrl": "https://music.apple.com/fr/artist/gims/458659054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/eb/b0/65/ebb065a9-295e-4877-cc98-13b3ce442345/dj.riapvxkr.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/parisienne-feat-la-mano-1-9/1841935785"
+        "url": "https://music.apple.com/fr/music-video/cuenta-feat-meryl-shay/6818568931"
       },
       {
         "artistName": "Drake",
@@ -712,21 +430,72 @@
         "url": "https://music.apple.com/fr/music-video/gen-5/6818210118"
       },
       {
-        "artistName": "Maes & Zkr",
-        "id": "1617793255",
-        "name": "Kalenji",
-        "releaseDate": "2022-04-15",
+        "artistName": "Tommy Lee Sparta & Trippie Redd",
+        "id": "1846180565",
+        "name": "Murderer",
+        "releaseDate": "2025-10-14",
         "kind": "music-videos",
-        "artistId": "1363899746",
-        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
+        "artistId": "564794863",
+        "artistUrl": "https://music.apple.com/fr/artist/tommy-lee-sparta/564794863",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/d2/ed/e8/d2ede824-d9d0-b830-2cbe-8b31abf38073/21UM1IM57733.crop.jpg/100x42mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8d/09/94/8d099467-73c7-6e8b-cfe3-33f1202920c4/Job573a7dd5-15d9-477a-bccb-36473d6d7d1a-206033477-PreviewImage_preview_image_10000_video_sdr-Time1760471130857.png/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Modern Dancehall"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/murderer/1846180565"
+      },
+      {
+        "artistName": "Lagui",
+        "id": "6820562672",
+        "name": "Dégun",
+        "releaseDate": "2026-10-07",
+        "kind": "music-videos",
+        "artistId": "1850450570",
+        "artistUrl": "https://music.apple.com/fr/artist/lagui/1850450570",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/47/1e/78/471e78a8-d1b1-de45-8c17-d0cfe67555e4/3618117464881_1_01.jpg/100x68mv.jpg",
         "genres": [
           {
             "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/kalenji/1617793255"
+        "url": "https://music.apple.com/fr/music-video/d%C3%A9gun/6820562672"
+      },
+      {
+        "artistName": "Kore & Werenoi",
+        "id": "1567489299",
+        "name": "Tucibi",
+        "releaseDate": "2021-05-14",
+        "kind": "music-videos",
+        "artistId": "19394415",
+        "artistUrl": "https://music.apple.com/fr/artist/kore/19394415",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/35/d4/92/35d49206-6a7f-9257-c9a1-9fb97113dcd3/8864492439450101.jpg/100x42mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/tucibi/1567489299"
+      },
+      {
+        "artistName": "Maes",
+        "id": "1549831870",
+        "name": "Blanche (feat. Booba)",
+        "releaseDate": "2021-01-22",
+        "kind": "music-videos",
+        "artistId": "1363899746",
+        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/ca/da/cc/cadacc06-85a1-f95e-86d2-54f230fad5c8/20UMGIM16654.crop.jpg/100x41mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/blanche-feat-booba/1549831870"
       },
       {
         "artistName": "Drake",
@@ -746,20 +515,54 @@
         "url": "https://music.apple.com/fr/music-video/quebec/6818210126"
       },
       {
-        "artistName": "Yunchan Lim",
-        "id": "6831706966",
-        "name": "Goldberg Variations, BWV 988: Var. 21. Canone alla Settima (Live at Carnegie Hall, New York, 2025)",
-        "releaseDate": "2026-02-06",
+        "artistName": "SDM",
+        "id": "1661144110",
+        "name": "Redescends (feat. Tiakola)",
+        "releaseDate": "2022-11-30",
         "kind": "music-videos",
-        "artistId": "1582635190",
-        "artistUrl": "https://music.apple.com/fr/artist/yunchan-lim/1582635190",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e1/00/ad/e100ad51-baec-5efd-6ff8-703eacf6c6b7/26UM1IM42825.crop.jpg/100x56mv.jpg",
+        "artistId": "455690468",
+        "artistUrl": "https://music.apple.com/fr/artist/sdm/455690468",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/06/d1/22/06d122d2-3d0c-de52-65a6-204239f29866/22UMGIM77749.crop.jpg/100x75mv.jpg",
         "genres": [
           {
-            "name": "Musique classique"
+            "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/goldberg-variations-bwv-988-var-21-canone-alla-settima/6831706966"
+        "url": "https://music.apple.com/fr/music-video/redescends-feat-tiakola/1661144110"
+      },
+      {
+        "artistName": "HeyKids Comptine Pour Bébé",
+        "id": "1589932892",
+        "name": "La famille tortue",
+        "releaseDate": "2020-06-30",
+        "kind": "music-videos",
+        "artistId": "1502382056",
+        "artistUrl": "https://music.apple.com/fr/artist/heykids-comptine-pour-b%C3%A9b%C3%A9/1502382056",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/54/66/ca/5466ca80-f524-f93c-40a2-fe89ab2a98c3/8720205895882_US23A1540453.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musique pour enfants"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/la-famille-tortue/1589932892"
+      },
+      {
+        "artistName": "Ninho & La Rvfleuze",
+        "id": "6823407177",
+        "name": "BRACELET",
+        "releaseDate": "2026-10-07",
+        "kind": "music-videos",
+        "artistId": "320366644",
+        "artistUrl": "https://music.apple.com/fr/artist/ninho/320366644",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a2/d9/b0/a2d9b0d0-2228-31bd-8fa4-77ae5cc3bfaa/FR1A92603337.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/bracelet/6823407177"
       },
       {
         "artistName": "Drake",
@@ -779,6 +582,72 @@
         "url": "https://music.apple.com/fr/music-video/white-bone/6818210120"
       },
       {
+        "artistName": "Drake & Yebba",
+        "id": "6818210130",
+        "name": "Cold Shoulder",
+        "releaseDate": "2026-10-02",
+        "kind": "music-videos",
+        "artistId": "271256",
+        "artistUrl": "https://music.apple.com/fr/artist/drake/271256",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/dd/f5/d6/ddf5d6c1-3916-19a4-378e-41bd3058f778/26UM1IM28171.crop.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/cold-shoulder/6818210130"
+      },
+      {
+        "artistName": "Jack Harlow",
+        "id": "6829221600",
+        "name": "SWEET ACTION II",
+        "releaseDate": "2026-11-06",
+        "kind": "music-videos",
+        "artistId": "1047679432",
+        "artistUrl": "https://music.apple.com/fr/artist/jack-harlow/1047679432",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/27/2e/7f/272e7fa6-715d-bb44-ce92-6396b4d9324b/USATV2611517.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/sweet-action-ii/6829221600"
+      },
+      {
+        "artistName": "Maes",
+        "id": "1549831878",
+        "name": "Prioritaire (Lyric Video)",
+        "releaseDate": "2021-01-22",
+        "kind": "music-videos",
+        "artistId": "1363899746",
+        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/57/4a/b9/574ab9df-bb0d-7944-4961-cfde198a07cf/20UMGIM61078.crop.jpg/100x39mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/prioritaire-lyric-video/1549831878"
+      },
+      {
+        "artistName": "U.S.A. for Africa",
+        "id": "1854502148",
+        "name": "We Are The World  [Enhanced Version] [feat. Al Jarreau, Anita Pointer, B. Midler, Billy Joel, Bob Dylan, Bob Geldof, Bruce Springsteen, Cyndi Lauper, Dan Aykroyd, Daryl Hall, Diana Ross, Dionne Warwick, Harry Belafonte, Huey Lewis and the News, Jackie Jackson, James Ingram, Jeffrey Osborne, John Oates, June Pointer, Kenny Loggins, Kenny Rogers, Kim Carnes, La Toya Jackson, Lindsey Buckingham, Lionel Richie, Marlon Jackson, Michael Jackson, Paul Simon, Randy Jackson, Ray Charles, Ruth Pointer, Sheila E., Smokey Robinson, Steve Perry, Stevie Wonder, Tito Jackson, Tina Turner, Waylon Jennings & Willie Nelson]",
+        "releaseDate": "2025-11-21",
+        "kind": "music-videos",
+        "artistId": "41737861",
+        "artistUrl": "https://music.apple.com/fr/artist/u-s-a-for-africa/41737861",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f1/62/63/f16263b4-87d5-d792-9c00-038539e5f736/dj.ykaadsxi.jpg/100x76mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/we-are-the-world-enhanced-version-feat-al-jarreau/1854502148"
+      },
+      {
         "artistName": "Maes",
         "id": "1617793249",
         "name": "Tmax 560",
@@ -794,120 +663,6 @@
           }
         ],
         "url": "https://music.apple.com/fr/music-video/tmax-560/1617793249"
-      },
-      {
-        "artistName": "Israel Kamakawiwo'ole",
-        "id": "1586753023",
-        "name": "Over the Rainbow",
-        "releaseDate": "2021-09-20",
-        "kind": "music-videos",
-        "artistId": "4218340",
-        "artistUrl": "https://music.apple.com/fr/artist/israel-kamakawiwoole/4218340",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/c1/99/e4/c199e403-8449-81c3-03b6-2823128493f8/761268591326_USMAC2100027.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musiques du monde"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/over-the-rainbow/1586753023"
-      },
-      {
-        "artistName": "Lagui",
-        "id": "6783386635",
-        "name": "Mandat de dépôt (feat. Jul)",
-        "releaseDate": "2026-06-18",
-        "kind": "music-videos",
-        "artistId": "1850450570",
-        "artistUrl": "https://music.apple.com/fr/artist/lagui/1850450570",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b5/dc/7f/b5dc7f98-2aaf-c073-4b26-dbbe830d8521/3618113150856_1_01.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/mandat-de-d%C3%A9p%C3%B4t-feat-jul/6783386635"
-      },
-      {
-        "artistName": "KATSEYE",
-        "id": "6817987915",
-        "name": "Hootie Frutti",
-        "releaseDate": "2026-10-14",
-        "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ac/22/54/ac225409-4ece-b366-f5ee-de81fdb171a2/26UM1IM03933.crop.jpg/100x76mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/hootie-frutti/6817987915"
-      },
-      {
-        "artistName": "Michael Jackson",
-        "id": "273048822",
-        "name": "Thriller",
-        "releaseDate": "1983-12-02",
-        "kind": "music-videos",
-        "artistId": "32940",
-        "artistUrl": "https://music.apple.com/fr/artist/michael-jackson/32940",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/cd/bd/9d/cdbd9d6e-0de3-c7e9-ef53-2bfe64c42705/dj.uwxtpbco.jpg/100x72mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/thriller/273048822"
-      },
-      {
-        "artistName": "Tiakola",
-        "id": "6780438465",
-        "name": "Mélo Décalé",
-        "releaseDate": "2026-06-12",
-        "kind": "music-videos",
-        "artistId": "1334731593",
-        "artistUrl": "https://music.apple.com/fr/artist/tiakola/1334731593",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2e/0c/51/2e0c5179-813e-61a8-f728-7cc3518704af/FR1A92602118.sca1.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/m%C3%A9lo-d%C3%A9cal%C3%A9/6780438465"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443081",
-        "name": "The Greatest Discovery (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c9/d2/75/c9d27508-d3a8-f5d8-fee4-359ed6828d7f/26UM1IM28521.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/the-greatest-discovery-apple-music-live/6828443081"
-      },
-      {
-        "artistName": "Zaho",
-        "id": "6834400533",
-        "name": "Ma chérie (feat. Amadou & Mariam)",
-        "releaseDate": "2026-11-13",
-        "kind": "music-videos",
-        "artistId": "202804894",
-        "artistUrl": "https://music.apple.com/fr/artist/zaho/202804894",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/63/94/c7/6394c72b-6254-ec20-c845-7bd27821416b/1968749836380101.jpg/100x75mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/ma-ch%C3%A9rie-feat-amadou-mariam/6834400533"
       },
       {
         "artistName": "Drake",
@@ -927,199 +682,151 @@
         "url": "https://music.apple.com/fr/music-video/classic/6818210132"
       },
       {
-        "artistName": "KATSEYE",
-        "id": "1806216168",
-        "name": "Debut",
-        "releaseDate": "2024-07-26",
+        "artistName": "Maes & Zkr",
+        "id": "1617793255",
+        "name": "Kalenji",
+        "releaseDate": "2022-04-15",
         "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/32/80/72328036-9c40-74f9-fe6f-c2f746fc377b/24UMGIM69800.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/debut/1806216168"
-      },
-      {
-        "artistName": "Tiakola & Jorja Smith",
-        "id": "6816239734",
-        "name": "Jet Lag",
-        "releaseDate": "2026-09-25",
-        "kind": "music-videos",
-        "artistId": "1334731593",
-        "artistUrl": "https://music.apple.com/fr/artist/tiakola/1334731593",
+        "artistId": "1363899746",
+        "artistUrl": "https://music.apple.com/fr/artist/maes/1363899746",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/61/2f/0a/612f0a8f-1247-9aa2-1b1d-8e202544b427/FR1A92603286.sca1.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/d2/ed/e8/d2ede824-d9d0-b830-2cbe-8b31abf38073/21UM1IM57733.crop.jpg/100x42mv.jpg",
         "genres": [
           {
             "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/jet-lag/6816239734"
+        "url": "https://music.apple.com/fr/music-video/kalenji/1617793255"
       },
       {
-        "artistName": "Elton John",
-        "id": "6828443086",
-        "name": "Bennie And The Jets (Apple Music Live)",
-        "releaseDate": "2026-10-30",
+        "artistName": "SDM & Sandra Gomes",
+        "id": "6833268605",
+        "name": "Numbers avec SDM",
+        "releaseDate": "2026-11-11",
         "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/36/4d/c4/364dc448-e3be-212f-9035-10ab727a1377/26UM1IM28520.crop.jpg/100x56mv.jpg",
+        "artistId": "455690468",
+        "artistUrl": "https://music.apple.com/fr/artist/sdm/455690468",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2d/05/84/2d058419-f19c-33fb-2e49-0bdf8fc22867/Numbers_SDM_THUMBNAIL.png/100x56mv.jpg",
         "genres": [
           {
-            "name": "Pop"
+            "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/bennie-and-the-jets-apple-music-live/6828443086"
+        "url": "https://music.apple.com/fr/music-video/numbers-avec-sdm/6833268605"
       },
       {
         "artistName": "HeyKids Comptine Pour Bébé",
-        "id": "1589933086",
-        "name": "Fais dodo bébé",
-        "releaseDate": "2021-07-20",
+        "id": "1589933098",
+        "name": "Le camion de pompier",
+        "releaseDate": "2021-10-29",
         "kind": "music-videos",
         "artistId": "1502382056",
         "artistUrl": "https://music.apple.com/fr/artist/heykids-comptine-pour-b%C3%A9b%C3%A9/1502382056",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/1d/6a/67/1d6a673f-7b3b-2e5e-58c4-5b2ad06d9400/8720205895882_US23A1540449.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/9a/1a/3d/9a1a3da2-c670-0889-90f5-3d0013cad20c/8720205895882_US23A1540454.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Musique pour enfants"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/fais-dodo-be-be/1589933086"
+        "url": "https://music.apple.com/fr/music-video/le-camion-de-pompier/1589933098"
       },
       {
-        "artistName": "TVSLYM & Ninho",
-        "id": "6783909400",
-        "name": "L.T.P",
-        "releaseDate": "2026-06-26",
+        "artistName": "The Weeknd & Giorgio Moroder",
+        "id": "1845219891",
+        "name": "Big Sleep",
+        "releaseDate": "2025-10-10",
         "kind": "music-videos",
-        "artistId": "1646862103",
-        "artistUrl": "https://music.apple.com/fr/artist/tvslym/1646862103",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1e/e3/61/1ee36159-d470-5e7b-1657-551ffec0b2c9/3618113240595_1_01.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/l-t-p/6783909400"
-      },
-      {
-        "artistName": "KATSEYE",
-        "id": "6828527686",
-        "name": "Unloveu (Live From the WILDWORLD Tour)",
-        "releaseDate": "2026-10-29",
-        "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/20/b3/ca/20b3cade-6535-7fc9-9341-7b6144e3ad88/26UM1IM40274.crop.jpg/100x57mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/unloveu-live-from-the-wildworld-tour/6828527686"
-      },
-      {
-        "artistName": "KATSEYE",
-        "id": "6817987913",
-        "name": "Animal",
-        "releaseDate": "2026-10-14",
-        "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5b/14/af/5b14af40-31a4-7d67-b582-7d63813ca7dd/26UMGIM90645.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/animal/6817987913"
-      },
-      {
-        "artistName": "ROSÉ & Bruno Mars",
-        "id": "1774570775",
-        "name": "APT.",
-        "releaseDate": "2024-10-18",
-        "kind": "music-videos",
-        "artistId": "1406242696",
-        "artistUrl": "https://music.apple.com/fr/artist/ros%C3%A9/1406242696",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/16/75/b1/1675b15b-501a-3b70-b599-45976fdc1975/USATV2404158.sca1.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/apt/1774570775"
-      },
-      {
-        "artistName": "ADÉLA",
-        "id": "6808781322",
-        "name": "Nicole Kidman",
-        "releaseDate": "2026-09-04",
-        "kind": "music-videos",
-        "artistId": "1765924916",
-        "artistUrl": "https://music.apple.com/fr/artist/ad%C3%A9la/1765924916",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/3e/75/e0/3e75e09e-1afc-4b81-3547-f45afc9db3d3/26UM1IM12551.crop.jpg/100x60mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/nicole-kidman/6808781322"
-      },
-      {
-        "artistName": "KATSEYE",
-        "id": "1825138051",
-        "name": "Gabriela",
-        "releaseDate": "2025-07-01",
-        "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b3/74/e2/b374e2d4-24e0-57dd-564d-f19e782ec8a3/25UMGIM78137.crop.jpg/100x72mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/gabriela/1825138051"
-      },
-      {
-        "artistName": "Taylor Swift",
-        "id": "6816241368",
-        "name": "Patient Zero",
-        "releaseDate": "2026-09-28",
-        "kind": "music-videos",
-        "artistId": "159260351",
-        "artistUrl": "https://music.apple.com/fr/artist/taylor-swift/159260351",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/02/21/39/022139aa-083d-21c1-f0b9-cb7dc630dc98/26UM1IM22083.crop.jpg/100x52mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/patient-zero/6816241368"
-      },
-      {
-        "artistName": "Tems",
-        "id": "1718984027",
-        "name": "Me & U (Acoustic Version)",
-        "releaseDate": "2023-11-30",
-        "kind": "music-videos",
-        "artistId": "1413909060",
-        "artistUrl": "https://music.apple.com/fr/artist/tems/1413909060",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/49/ff/2a/49ff2a55-2b0a-9683-4258-031379ec30a1/1968716851220101.jpg/100x56mv.jpg",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/fr/artist/the-weeknd/479756766",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d3/d7/7d/d3d77d00-0f42-5917-1ce4-8d4ff3919c6a/25UM1IM02586.crop.jpg/100x42mv.jpg",
         "genres": [
           {
             "name": "R&B/Soul"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/me-u-acoustic-version/1718984027"
+        "url": "https://music.apple.com/fr/music-video/big-sleep/1845219891"
+      },
+      {
+        "artistName": "GIMS",
+        "id": "1841935785",
+        "name": "PARISIENNE (feat. La Mano 1.9)",
+        "releaseDate": "2025-09-25",
+        "kind": "music-videos",
+        "artistId": "458659054",
+        "artistUrl": "https://music.apple.com/fr/artist/gims/458659054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/eb/b0/65/ebb065a9-295e-4877-cc98-13b3ce442345/dj.riapvxkr.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/parisienne-feat-la-mano-1-9/1841935785"
+      },
+      {
+        "artistName": "Lagui",
+        "id": "6783386635",
+        "name": "Mandat de dépôt (feat. Jul)",
+        "releaseDate": "2026-06-18",
+        "kind": "music-videos",
+        "artistId": "1850450570",
+        "artistUrl": "https://music.apple.com/fr/artist/lagui/1850450570",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b5/dc/7f/b5dc7f98-2aaf-c073-4b26-dbbe830d8521/3618113150856_1_01.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/mandat-de-d%C3%A9p%C3%B4t-feat-jul/6783386635"
+      },
+      {
+        "artistName": "Betsy & Мария Янковская",
+        "id": "1822269185",
+        "name": "Sigma Boy",
+        "releaseDate": "2025-06-23",
+        "kind": "music-videos",
+        "artistId": "1611240891",
+        "artistUrl": "https://music.apple.com/fr/artist/betsy/1611240891",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a2/3c/39/a23c3988-d61b-a573-8632-786c758f36c7/Jobdb927639-7efa-413c-99a0-ea0847c4b474-195532959-PreviewImage_preview_image_21000_video_sdr-Time1750684433072.png/100x42mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/sigma-boy/1822269185"
+      },
+      {
+        "artistName": "Madonna",
+        "id": "1892545389",
+        "name": "CONFESSIONS II",
+        "releaseDate": "2026-04-17",
+        "kind": "music-videos",
+        "artistId": "20044",
+        "artistUrl": "https://music.apple.com/fr/artist/madonna/20044",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/80/a4/5b/80a45b31-82f3-55c0-55c1-4f8e77794c07/USWBV2603088.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/confessions-ii/1892545389"
+      },
+      {
+        "artistName": "A2O & A2O LITE",
+        "id": "6823010734",
+        "name": "NEON",
+        "releaseDate": "2026-10-13",
+        "kind": "music-videos",
+        "artistId": "1794043761",
+        "artistUrl": "https://music.apple.com/fr/artist/a2o/1794043761",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d7/54/59/d7545916-d807-5d2f-cd74-df48791092dc/Jobcbee5db0-8b5c-4ba1-b95a-69f25de302ee-248935753-PreviewImage_preview_image_218300_video_sdr-Time1792039285081.png/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "K-pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/neon/6823010734"
       },
       {
         "artistName": "Jul, SCH & Naps",
@@ -1139,37 +846,85 @@
         "url": "https://music.apple.com/fr/music-video/bande-organis%C3%A9e/1528535195"
       },
       {
-        "artistName": "Olivia Rodrigo",
-        "id": "1582275119",
-        "name": "drivers license",
-        "releaseDate": "2021-06-02",
+        "artistName": "Tiakola & Jorja Smith",
+        "id": "6816239734",
+        "name": "Jet Lag",
+        "releaseDate": "2026-09-25",
         "kind": "music-videos",
-        "artistId": "979458609",
-        "artistUrl": "https://music.apple.com/fr/artist/olivia-rodrigo/979458609",
+        "artistId": "1334731593",
+        "artistUrl": "https://music.apple.com/fr/artist/tiakola/1334731593",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/47/ff/65/47ff65b6-82bf-6a0a-4ecd-942ad4b45e17/20UM1IM17122.crop.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/61/2f/0a/612f0a8f-1247-9aa2-1b1d-8e202544b427/FR1A92603286.sca1.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "Pop"
+            "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/drivers-license/1582275119"
+        "url": "https://music.apple.com/fr/music-video/jet-lag/6816239734"
       },
       {
-        "artistName": "Madonna",
-        "id": "1892545389",
-        "name": "CONFESSIONS II",
-        "releaseDate": "2026-04-17",
+        "artistName": "Bad Bunny",
+        "id": "1875787678",
+        "name": "Super Bowl LX Halftime Show",
+        "releaseDate": "2026-02-08",
         "kind": "music-videos",
-        "artistId": "20044",
-        "artistUrl": "https://music.apple.com/fr/artist/madonna/20044",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/80/a4/5b/80a45b31-82f3-55c0-55c1-4f8e77794c07/USWBV2603088.sca1.jpg/100x56mv.jpg",
+        "artistId": "1126808565",
+        "artistUrl": "https://music.apple.com/fr/artist/bad-bunny/1126808565",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/67/3b/cb/673bcbc9-f0a5-68a4-7975-828653ad409e/8721465676747_NL8RL2610980.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musique latine"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/super-bowl-lx-halftime-show/1875787678"
+      },
+      {
+        "artistName": "ENHYPEN",
+        "id": "6834439777",
+        "name": "I Want You",
+        "releaseDate": "2026-11-13",
+        "kind": "music-videos",
+        "artistId": "1541011620",
+        "artistUrl": "https://music.apple.com/fr/artist/enhypen/1541011620",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/76/82/5b/76825bea-1433-228b-6fe3-c2519577977b/Job51e5a375-22ec-4919-92cd-11b2b9557c91-253613825-PreviewImage_preview_image_211933_video_sdr-Time1794582248464.png/100x54mv.jpg",
+        "genres": [
+          {
+            "name": "K-pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/i-want-you/6834439777"
+      },
+      {
+        "artistName": "LISA",
+        "id": "6804003004",
+        "name": "PRESS PLAY",
+        "releaseDate": "2026-10-23",
+        "kind": "music-videos",
+        "artistId": "1583908668",
+        "artistUrl": "https://music.apple.com/fr/artist/lisa/1583908668",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/38/20/f3/3820f3e1-9860-9d4f-9b1f-e8f959254a15/1968747126960107.jpg/100x69mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/confessions-ii/1892545389"
+        "url": "https://music.apple.com/fr/music-video/press-play/6804003004"
+      },
+      {
+        "artistName": "GIMS",
+        "id": "1051405666",
+        "name": "Sapés comme jamais (feat. Niska)",
+        "releaseDate": "2015-10-19",
+        "kind": "music-videos",
+        "artistId": "458659054",
+        "artistUrl": "https://music.apple.com/fr/artist/gims/458659054",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video1/v4/d5/42/3a/d5423a77-c3e1-4dc0-7186-d93f12bf1c4f/8864455053130101VIC.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/sap%C3%A9s-comme-jamais-feat-niska/1051405666"
       },
       {
         "artistName": "The Weeknd",
@@ -1189,116 +944,53 @@
         "url": "https://music.apple.com/fr/music-video/cry-for-me/1795692827"
       },
       {
-        "artistName": "HeyKids Comptine Pour Bébé",
-        "id": "1589933098",
-        "name": "Le camion de pompier",
-        "releaseDate": "2021-10-29",
+        "artistName": "Tove Lo & Stromae",
+        "id": "6785673845",
+        "name": "des fleurs x stromae",
+        "releaseDate": "2026-07-02",
         "kind": "music-videos",
-        "artistId": "1502382056",
-        "artistUrl": "https://music.apple.com/fr/artist/heykids-comptine-pour-b%C3%A9b%C3%A9/1502382056",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/9a/1a/3d/9a1a3da2-c670-0889-90f5-3d0013cad20c/8720205895882_US23A1540454.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musique pour enfants"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/le-camion-de-pompier/1589933098"
-      },
-      {
-        "artistName": "Bad Bunny",
-        "id": "1875787678",
-        "name": "Super Bowl LX Halftime Show",
-        "releaseDate": "2026-02-08",
-        "kind": "music-videos",
-        "artistId": "1126808565",
-        "artistUrl": "https://music.apple.com/fr/artist/bad-bunny/1126808565",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/67/3b/cb/673bcbc9-f0a5-68a4-7975-828653ad409e/8721465676747_NL8RL2610980.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musique latine"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/super-bowl-lx-halftime-show/1875787678"
-      },
-      {
-        "artistName": "U.S.A. for Africa",
-        "id": "1854502148",
-        "name": "We Are The World  [Enhanced Version] [feat. Al Jarreau, Anita Pointer, B. Midler, Billy Joel, Bob Dylan, Bob Geldof, Bruce Springsteen, Cyndi Lauper, Dan Aykroyd, Daryl Hall, Diana Ross, Dionne Warwick, Harry Belafonte, Huey Lewis and the News, Jackie Jackson, James Ingram, Jeffrey Osborne, John Oates, June Pointer, Kenny Loggins, Kenny Rogers, Kim Carnes, La Toya Jackson, Lindsey Buckingham, Lionel Richie, Marlon Jackson, Michael Jackson, Paul Simon, Randy Jackson, Ray Charles, Ruth Pointer, Sheila E., Smokey Robinson, Steve Perry, Stevie Wonder, Tito Jackson, Tina Turner, Waylon Jennings & Willie Nelson]",
-        "releaseDate": "2025-11-21",
-        "kind": "music-videos",
-        "artistId": "41737861",
-        "artistUrl": "https://music.apple.com/fr/artist/u-s-a-for-africa/41737861",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f1/62/63/f16263b4-87d5-d792-9c00-038539e5f736/dj.ykaadsxi.jpg/100x76mv.jpg",
+        "artistId": "570136838",
+        "artistUrl": "https://music.apple.com/fr/artist/tove-lo/570136838",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f2/27/7b/f2277b5a-eb78-c1bf-d6ce-0a4bf9cc5081/Job2f6492be-d092-49c1-abb2-649ac1ffbd8a-233718164-PreviewImage_preview_image_29700_video_sdr-Time1782780929470.png/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/we-are-the-world-enhanced-version-feat-al-jarreau/1854502148"
+        "url": "https://music.apple.com/fr/music-video/des-fleurs-x-stromae/6785673845"
       },
       {
-        "artistName": "Soprano",
-        "id": "1468931296",
-        "name": "Le Coach (feat. Vincenzo)",
-        "releaseDate": "2019-06-07",
+        "artistName": "Tiakola",
+        "id": "6780438465",
+        "name": "Mélo Décalé",
+        "releaseDate": "2026-06-12",
         "kind": "music-videos",
-        "artistId": "62797922",
-        "artistUrl": "https://music.apple.com/fr/artist/soprano/62797922",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/02/83/54/0283542e-bf84-2134-039e-6e47d0abbcc7/FRA041900260.sca1.jpg/100x56mv.jpg",
+        "artistId": "1334731593",
+        "artistUrl": "https://music.apple.com/fr/artist/tiakola/1334731593",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2e/0c/51/2e0c5179-813e-61a8-f728-7cc3518704af/FR1A92602118.sca1.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/le-coach-feat-vincenzo/1468931296"
+        "url": "https://music.apple.com/fr/music-video/m%C3%A9lo-d%C3%A9cal%C3%A9/6780438465"
       },
       {
-        "artistName": "KATSEYE",
-        "id": "1759627021",
-        "name": "Touch",
-        "releaseDate": "2024-07-26",
+        "artistName": "ROSÉ & Bruno Mars",
+        "id": "1774570775",
+        "name": "APT.",
+        "releaseDate": "2024-10-18",
         "kind": "music-videos",
-        "artistId": "1754284416",
-        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/4a/24/9d/4a249dde-e60d-d952-1fe5-473fcfa77429/24UMGIM77641.crop.jpg/100x56mv.jpg",
+        "artistId": "1406242696",
+        "artistUrl": "https://music.apple.com/fr/artist/ros%C3%A9/1406242696",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/16/75/b1/1675b15b-501a-3b70-b599-45976fdc1975/USATV2404158.sca1.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/touch/1759627021"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443096",
-        "name": "Rocket Man (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/72/1e/26/721e26fa-1f87-8108-fdc7-92e8c0d64a91/26UM1IM28485.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/rocket-man-apple-music-live/6828443096"
-      },
-      {
-        "artistName": "Elton John",
-        "id": "6828443089",
-        "name": "Tiny Dancer (Apple Music Live)",
-        "releaseDate": "2026-10-30",
-        "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/3b/11/e2/3b11e213-bc85-c10c-f64c-5df39f260256/26UM1IM28526.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/tiny-dancer-apple-music-live/6828443089"
+        "url": "https://music.apple.com/fr/music-video/apt/1774570775"
       },
       {
         "artistName": "Kore & Ninho",
@@ -1318,52 +1010,201 @@
         "url": "https://music.apple.com/fr/music-video/mon-poto/1558039825"
       },
       {
-        "artistName": "Elton John",
-        "id": "6828443082",
-        "name": "Border Song (Apple Music Live)",
-        "releaseDate": "2026-10-30",
+        "artistName": "Soprano",
+        "id": "1468931296",
+        "name": "Le Coach (feat. Vincenzo)",
+        "releaseDate": "2019-06-07",
         "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ff/8f/fc/ff8ffc92-b8d5-5eb9-5441-76c6e9bd83ca/26UM1IM28523.crop.jpg/100x56mv.jpg",
+        "artistId": "62797922",
+        "artistUrl": "https://music.apple.com/fr/artist/soprano/62797922",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/02/83/54/0283542e-bf84-2134-039e-6e47d0abbcc7/FRA041900260.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/le-coach-feat-vincenzo/1468931296"
+      },
+      {
+        "artistName": "Djadja & Dinaz",
+        "id": "1564083592",
+        "name": "Essayez (Live Spleen)",
+        "releaseDate": "2021-04-21",
+        "kind": "music-videos",
+        "artistId": "1087921238",
+        "artistUrl": "https://music.apple.com/fr/artist/djadja-dinaz/1087921238",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/24/94/b0/2494b0fe-63b2-131c-d788-7f3db18fc621/3616555148806_1_01.jpg/100x42mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/essayez-live-spleen/1564083592"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1582275119",
+        "name": "drivers license",
+        "releaseDate": "2021-06-02",
+        "kind": "music-videos",
+        "artistId": "979458609",
+        "artistUrl": "https://music.apple.com/fr/artist/olivia-rodrigo/979458609",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/47/ff/65/47ff65b6-82bf-6a0a-4ecd-942ad4b45e17/20UM1IM17122.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/border-song-apple-music-live/6828443082"
+        "url": "https://music.apple.com/fr/music-video/drivers-license/1582275119"
+      },
+      {
+        "artistName": "Adèle Castillon",
+        "id": "6820928443",
+        "name": "C'est tout moi",
+        "releaseDate": "2026-10-09",
+        "kind": "music-videos",
+        "artistId": "1237131130",
+        "artistUrl": "https://music.apple.com/fr/artist/ad%C3%A8le-castillon/1237131130",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/90/11/67/901167f3-ac4a-70ef-b703-43331573a1cd/1968748674020101.jpg/100x65mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/cest-tout-moi/6820928443"
       },
       {
         "artistName": "KATSEYE",
-        "id": "6825109328",
-        "name": "Animal (Live From The WILDWORLD Tour)",
-        "releaseDate": "2026-10-20",
+        "id": "1806216168",
+        "name": "Debut",
+        "releaseDate": "2024-07-26",
         "kind": "music-videos",
         "artistId": "1754284416",
         "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/cc/0e/c8/cc0ec82d-9e20-9afc-a109-4e0d918c96e4/26UM1IM33910.crop.jpg/100x32mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/32/80/72328036-9c40-74f9-fe6f-c2f746fc377b/24UMGIM69800.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/animal-live-from-the-wildworld-tour/6825109328"
+        "url": "https://music.apple.com/fr/music-video/debut/1806216168"
       },
       {
-        "artistName": "Tove Lo & Stromae",
-        "id": "6785673845",
-        "name": "des fleurs x stromae",
-        "releaseDate": "2026-07-02",
+        "artistName": "Heuss L'enfoiré",
+        "id": "1491502522",
+        "name": "Moulaga (feat. JUL)",
+        "releaseDate": "2019-12-13",
         "kind": "music-videos",
-        "artistId": "570136838",
-        "artistUrl": "https://music.apple.com/fr/artist/tove-lo/570136838",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f2/27/7b/f2277b5a-eb78-c1bf-d6ce-0a4bf9cc5081/Job2f6492be-d092-49c1-abb2-649ac1ffbd8a-233718164-PreviewImage_preview_image_29700_video_sdr-Time1782780929470.png/100x56mv.jpg",
+        "artistId": "1318608647",
+        "artistUrl": "https://music.apple.com/fr/artist/heuss-lenfoir%C3%A9/1318608647",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/90/ee/b8/90eeb8dc-b53b-6f25-1aaa-8caff613fbed/3616402926694_1_01.jpg/100x54mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/moulaga-feat-jul/1491502522"
+      },
+      {
+        "artistName": "KATSEYE",
+        "id": "1759627021",
+        "name": "Touch",
+        "releaseDate": "2024-07-26",
+        "kind": "music-videos",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/4a/24/9d/4a249dde-e60d-d952-1fe5-473fcfa77429/24UMGIM77641.crop.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/des-fleurs-x-stromae/6785673845"
+        "url": "https://music.apple.com/fr/music-video/touch/1759627021"
+      },
+      {
+        "artistName": "Future",
+        "id": "6833107493",
+        "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "releaseDate": "2026-11-10",
+        "kind": "music-videos",
+        "artistId": "128050210",
+        "artistUrl": "https://music.apple.com/fr/artist/future/128050210",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/51/e7/ea/51e7ea09-ae74-96ab-d218-0009739c02a6/1968749730040101.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/ya-hit-feat-drake-travis-scott-loe-shimmy/6833107493"
+      },
+      {
+        "artistName": "HeyKids Comptine Pour Bébé",
+        "id": "1589933086",
+        "name": "Fais dodo bébé",
+        "releaseDate": "2021-07-20",
+        "kind": "music-videos",
+        "artistId": "1502382056",
+        "artistUrl": "https://music.apple.com/fr/artist/heykids-comptine-pour-b%C3%A9b%C3%A9/1502382056",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/1d/6a/67/1d6a673f-7b3b-2e5e-58c4-5b2ad06d9400/8720205895882_US23A1540449.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Musique pour enfants"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/fais-dodo-be-be/1589933086"
+      },
+      {
+        "artistName": "Miley Cyrus",
+        "id": "6807197484",
+        "name": "MILEY",
+        "releaseDate": "2026-09-03",
+        "kind": "music-videos",
+        "artistId": "137057909",
+        "artistUrl": "https://music.apple.com/fr/artist/miley-cyrus/137057909",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/01/49/70/0149704b-e19c-06a5-4e2d-0c1db1687d3c/USATV2608043.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/miley/6807197484"
+      },
+      {
+        "artistName": "Star Academy",
+        "id": "1853009372",
+        "name": "Voulez-Vous",
+        "releaseDate": "2025-11-14",
+        "kind": "music-videos",
+        "artistId": "15160985",
+        "artistUrl": "https://music.apple.com/fr/artist/star-academy/15160985",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1f/96/26/1f9626ae-76d2-22c7-cb65-84f11a546253/1968737773820101.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop française"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/voulez-vous/1853009372"
+      },
+      {
+        "artistName": "Tiakola",
+        "id": "6818569540",
+        "name": "cœur De Pirate",
+        "releaseDate": "2026-09-25",
+        "kind": "music-videos",
+        "artistId": "1334731593",
+        "artistUrl": "https://music.apple.com/fr/artist/tiakola/1334731593",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a3/55/a9/a355a9a2-62db-6e86-d541-0365ca69e026/FR1A92603279.sca1.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/c%C5%93ur-de-pirate/6818569540"
       },
       {
         "artistName": "Doja Cat",
@@ -1383,119 +1224,52 @@
         "url": "https://music.apple.com/fr/music-video/say-so/1500333920"
       },
       {
-        "artistName": "GENER8ION & Yung Lean",
-        "id": "1896464997",
-        "name": "STORM II",
-        "releaseDate": "2026-04-25",
+        "artistName": "Taylor Swift",
+        "id": "6816241368",
+        "name": "Patient Zero",
+        "releaseDate": "2026-09-28",
         "kind": "music-videos",
-        "artistId": "931499504",
-        "artistUrl": "https://music.apple.com/fr/artist/gener8ion/931499504",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c9/b1/af/c9b1afab-7cb2-e687-ed5a-b565ceab7b8f/Job6d1e7136-caaf-4786-965a-d69a489492e4-227532556-PreviewImage_preview_image_61600_video_sdr-Time1778185903615.png/100x55mv.jpg",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/fr/artist/taylor-swift/159260351",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/02/21/39/022139aa-083d-21c1-f0b9-cb7dc630dc98/26UM1IM22083.crop.jpg/100x52mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/storm-ii/1896464997"
+        "url": "https://music.apple.com/fr/music-video/patient-zero/6816241368"
       },
       {
-        "artistName": "The Warning",
-        "id": "6820681007",
-        "name": "Bite My Tongue (Live From The Studio)",
-        "releaseDate": "2026-11-13",
+        "artistName": "Lady Gaga",
+        "id": "1896549225",
+        "name": "Abracadabra (Apple Music Live)",
+        "releaseDate": "2026-05-14",
         "kind": "music-videos",
-        "artistId": "260719953",
-        "artistUrl": "https://music.apple.com/fr/artist/the-warning/260719953",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/4c/eb/73/4ceb73f6-de49-75a9-57e6-5bb9bd48bec0/26UM1IM28101.crop.jpg/100x56mv.jpg",
+        "artistId": "277293880",
+        "artistUrl": "https://music.apple.com/fr/artist/lady-gaga/277293880",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1c/d0/49/1cd04972-2626-f743-d85d-da46876723fb/26UMGIM55529.crop.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "Rock"
+            "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/bite-my-tongue-live-from-the-studio/6820681007"
+        "url": "https://music.apple.com/fr/music-video/abracadabra-apple-music-live/1896549225"
       },
       {
-        "artistName": "SDM",
-        "id": "1605597348",
-        "name": "La vie de rêve (Clip Officiel)",
-        "releaseDate": "2022-01-21",
+        "artistName": "KAROL G & Nicki Minaj",
+        "id": "1486943565",
+        "name": "Tusa",
+        "releaseDate": "2019-11-07",
         "kind": "music-videos",
-        "artistId": "455690468",
-        "artistUrl": "https://music.apple.com/fr/artist/sdm/455690468",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/1a/ec/3e/1aec3efb-481f-0343-ea84-de403299694e/21UMGIM10460.crop.jpg/100x56mv.jpg",
+        "artistId": "290814601",
+        "artistUrl": "https://music.apple.com/fr/artist/karol-g/290814601",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/44/3f/0a/443f0aaa-81c3-3ad6-b901-d70e009bae88/19UMGIM93547.crop.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "Hip-hop/Rap"
+            "name": "Musique latine"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/la-vie-de-r%C3%AAve-clip-officiel/1605597348"
-      },
-      {
-        "artistName": "SDM",
-        "id": "1605597357",
-        "name": "Yakalelo (Clip Officiel)",
-        "releaseDate": "2022-01-21",
-        "kind": "music-videos",
-        "artistId": "455690468",
-        "artistUrl": "https://music.apple.com/fr/artist/sdm/455690468",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/7c/c1/31/7cc131fd-3afa-5da1-b07c-56df7c29f06c/20UMGIM55024.crop.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/yakalelo-clip-officiel/1605597357"
-      },
-      {
-        "artistName": "GIMS",
-        "id": "1051405666",
-        "name": "Sapés comme jamais (feat. Niska)",
-        "releaseDate": "2015-10-19",
-        "kind": "music-videos",
-        "artistId": "458659054",
-        "artistUrl": "https://music.apple.com/fr/artist/gims/458659054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video1/v4/d5/42/3a/d5423a77-c3e1-4dc0-7186-d93f12bf1c4f/8864455053130101VIC.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Hip-hop/Rap"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/sap%C3%A9s-comme-jamais-feat-niska/1051405666"
-      },
-      {
-        "artistName": "LUIZA & Bleu Soleil",
-        "id": "1817589252",
-        "name": "Soleil Bleu",
-        "releaseDate": "2025-05-21",
-        "kind": "music-videos",
-        "artistId": "1536211246",
-        "artistUrl": "https://music.apple.com/fr/artist/luiza/1536211246",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1e/78/f4/1e78f4fd-4884-f7de-d135-e453355d5869/dj.kggfutgb.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop française"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/soleil-bleu/1817589252"
-      },
-      {
-        "artistName": "HeyKids Comptine Pour Bébé",
-        "id": "1589932887",
-        "name": "Mon petit lapin",
-        "releaseDate": "2020-05-28",
-        "kind": "music-videos",
-        "artistId": "1502382056",
-        "artistUrl": "https://music.apple.com/fr/artist/heykids-comptine-pour-b%C3%A9b%C3%A9/1502382056",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/91/e6/f6/91e6f672-6a7a-e0a9-59d5-ce58c001778c/8720205895882_US23A1540457.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Musique pour enfants"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/mon-petit-lapin/1589932887"
+        "url": "https://music.apple.com/fr/music-video/tusa/1486943565"
       },
       {
         "artistName": "BTS",
@@ -1514,100 +1288,217 @@
         "url": "https://music.apple.com/fr/music-video/armyrang/1868862608"
       },
       {
-        "artistName": "Elton John",
-        "id": "6828443087",
-        "name": "I Guess That's Why They Call It The Blues (Apple Music Live)",
-        "releaseDate": "2026-10-30",
+        "artistName": "Luis Fonsi",
+        "id": "1444879986",
+        "name": "Despacito (feat. Daddy Yankee)",
+        "releaseDate": "2017-01-13",
         "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/0f/c6/20/0fc62011-4139-e3b7-1791-4603ede8e5ff/26UM1IM28524.crop.jpg/100x56mv.jpg",
+        "artistId": "102834",
+        "artistUrl": "https://music.apple.com/fr/artist/luis-fonsi/102834",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video51/v4/16/48/46/164846c8-157f-251b-8b8a-5dfc678497a8/16UMGIM84713_1_1.jpg/100x56mv.jpg",
         "genres": [
           {
-            "name": "Pop"
+            "name": "Pop en espagnol"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/i-guess-thats-why-they-call-it-the-blues-apple-music-live/6828443087"
-      },
-      {
-        "artistName": "Mauvais Djo, Armageddon & Anderson",
-        "id": "6812338375",
-        "name": "Bandela",
-        "releaseDate": "2026-08-28",
-        "kind": "music-videos",
-        "artistId": "1590123413",
-        "artistUrl": "https://music.apple.com/fr/artist/mauvais-djo/1590123413",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/2b/35/f32b354e-d39f-12bf-b4b2-a0e924f15657/26UM1IM11300.crop.jpg/100x74mv.jpg",
-        "genres": [
-          {
-            "name": "Afrobeat"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/bandela/6812338375"
-      },
-      {
-        "artistName": "TeddyBear",
-        "id": "6781694439",
-        "name": "Chaussures Roses",
-        "releaseDate": "2026-06-11",
-        "kind": "music-videos",
-        "artistId": "1880631993",
-        "artistUrl": "https://music.apple.com/fr/artist/teddybear/1880631993",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/3f/0a/85/3f0a85cf-e971-cf0a-249b-527adcd7ebb3/3618112695389_1_01.jpg/100x56mv.jpg",
-        "genres": [
-          {
-            "name": "Pop"
-          }
-        ],
-        "url": "https://music.apple.com/fr/music-video/chaussures-roses/6781694439"
+        "url": "https://music.apple.com/fr/music-video/despacito-feat-daddy-yankee/1444879986"
       },
       {
         "artistName": "KATSEYE",
-        "id": "6794133272",
-        "name": "Animal",
-        "releaseDate": "2026-07-24",
+        "id": "6817987915",
+        "name": "Hootie Frutti",
+        "releaseDate": "2026-10-14",
         "kind": "music-videos",
         "artistId": "1754284416",
         "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b3/21/13/b32113f6-6557-55ed-8999-77e18ad69764/26UMGIM90645.crop.jpg/100x56mv.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ac/22/54/ac225409-4ece-b366-f5ee-de81fdb171a2/26UM1IM03933.crop.jpg/100x76mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/animal/6794133272"
+        "url": "https://music.apple.com/fr/music-video/hootie-frutti/6817987915"
       },
       {
-        "artistName": "Elton John",
-        "id": "6828443088",
-        "name": "Mona Lisas And Mad Hatters (Apple Music Live)",
-        "releaseDate": "2026-10-30",
+        "artistName": "Olivia Rodrigo",
+        "id": "6831325047",
+        "name": "take me home (4 christmas)",
+        "releaseDate": "2026-11-05",
         "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a6/d8/1f/a6d81f9d-97dd-aede-0ddb-bcf3f781421a/26UM1IM28525.crop.jpg/100x56mv.jpg",
+        "artistId": "979458609",
+        "artistUrl": "https://music.apple.com/fr/artist/olivia-rodrigo/979458609",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/45/2e/e3/452ee35c-b5a6-fea6-d573-8b4117d5dbbd/26UM1IM42961.crop.jpg/100x75mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/mona-lisas-and-mad-hatters-apple-music-live/6828443088"
+        "url": "https://music.apple.com/fr/music-video/take-me-home-4-christmas/6831325047"
       },
       {
-        "artistName": "The Weeknd",
-        "id": "1795692881",
-        "name": "Open Hearts",
+        "artistName": "Shakira",
+        "id": "808966041",
+        "name": "Can't Remember to Forget You (feat. Rihanna)",
+        "releaseDate": "2014-01-30",
+        "kind": "music-videos",
+        "artistId": "889327",
+        "artistUrl": "https://music.apple.com/fr/artist/shakira/889327",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video18/v4/d2/6d/b5/d26db535-20be-1b17-2ded-7632dcb1f941/dj.vzgbqzav.jpg/100x48mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/cant-remember-to-forget-you-feat-rihanna/808966041"
+      },
+      {
+        "artistName": "Lady Gaga",
+        "id": "1792667184",
+        "name": "Abracadabra",
         "releaseDate": "2025-02-02",
         "kind": "music-videos",
-        "artistId": "479756766",
-        "artistUrl": "https://music.apple.com/fr/artist/the-weeknd/479756766",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/30/3b/13/303b13a6-bc0b-8996-12f1-b6c1bb889b92/25UMGIM09024.crop.jpg/100x56mv.jpg",
+        "artistId": "277293880",
+        "artistUrl": "https://music.apple.com/fr/artist/lady-gaga/277293880",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e9/b5/e0/e9b5e0a9-8c2d-9c55-af39-63aefd21d94c/dj.fdyxknjl.jpg/100x52mv.jpg",
         "genres": [
           {
-            "name": "R&B/Soul"
+            "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/open-hearts/1795692881"
+        "url": "https://music.apple.com/fr/music-video/abracadabra/1792667184"
+      },
+      {
+        "artistName": "GGB & Léna Situations",
+        "id": "6788823279",
+        "name": "All My Life (feat. Adèle Castillon, Jain & Eva)",
+        "releaseDate": "2026-07-08",
+        "kind": "music-videos",
+        "artistId": "6789191458",
+        "artistUrl": "https://music.apple.com/fr/artist/ggb/6789191458",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1c/ed/a2/1ceda208-cb10-a61c-f36d-9f7bc4a20d66/708.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/all-my-life-feat-ad%C3%A8le-castillon-jain-eva/6788823279"
+      },
+      {
+        "artistName": "GENER8ION & Yung Lean",
+        "id": "1896464997",
+        "name": "STORM II",
+        "releaseDate": "2026-04-25",
+        "kind": "music-videos",
+        "artistId": "931499504",
+        "artistUrl": "https://music.apple.com/fr/artist/gener8ion/931499504",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c9/b1/af/c9b1afab-7cb2-e687-ed5a-b565ceab7b8f/Job6d1e7136-caaf-4786-965a-d69a489492e4-227532556-PreviewImage_preview_image_61600_video_sdr-Time1778185903615.png/100x55mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/storm-ii/1896464997"
+      },
+      {
+        "artistName": "SCH & SDM",
+        "id": "6826103570",
+        "name": "Professionnels",
+        "releaseDate": "2026-10-22",
+        "kind": "music-videos",
+        "artistId": "252981331",
+        "artistUrl": "https://music.apple.com/fr/artist/sch/252981331",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/aa/3b/9e/aa3b9efe-5811-03ba-9344-0c0998868f9c/FR1A92602640.sca1.jpg/100x69mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/professionnels/6826103570"
+      },
+      {
+        "artistName": "LUIZA & Bleu Soleil",
+        "id": "1817589252",
+        "name": "Soleil Bleu",
+        "releaseDate": "2025-05-21",
+        "kind": "music-videos",
+        "artistId": "1536211246",
+        "artistUrl": "https://music.apple.com/fr/artist/luiza/1536211246",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1e/78/f4/1e78f4fd-4884-f7de-d135-e453355d5869/dj.kggfutgb.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop française"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/soleil-bleu/1817589252"
+      },
+      {
+        "artistName": "Jul",
+        "id": "1812421851",
+        "name": "Phénoménal",
+        "releaseDate": "2025-04-25",
+        "kind": "music-videos",
+        "artistId": "250647018",
+        "artistUrl": "https://music.apple.com/fr/artist/jul/250647018",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/63/eb/5d/63eb5d30-bc96-9665-919b-7a1cfa979d19/3617395587305_1_01.jpg/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Hip-hop/Rap"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/ph%C3%A9nom%C3%A9nal/1812421851"
+      },
+      {
+        "artistName": "KATSEYE",
+        "id": "6828527686",
+        "name": "Unloveu (Live From the WILDWORLD Tour)",
+        "releaseDate": "2026-10-29",
+        "kind": "music-videos",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/20/b3/ca/20b3cade-6535-7fc9-9341-7b6144e3ad88/26UM1IM40274.crop.jpg/100x57mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/unloveu-live-from-the-wildworld-tour/6828527686"
+      },
+      {
+        "artistName": "Angèle",
+        "id": "1459875562",
+        "name": "Balance ton quoi",
+        "releaseDate": "2019-04-15",
+        "kind": "music-videos",
+        "artistId": "1373339414",
+        "artistUrl": "https://music.apple.com/fr/artist/ang%C3%A8le/1373339414",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/1d/1f/1d/1d1f1d4d-8a01-6817-ba75-b208cc16d47d/00602577822766_00001.crop.jpg/100x50mv.jpg",
+        "genres": [
+          {
+            "name": "Pop française"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/balance-ton-quoi/1459875562"
+      },
+      {
+        "artistName": "Michael Jackson",
+        "id": "277088477",
+        "name": "Thriller (Edit)",
+        "releaseDate": "1983-12-02",
+        "kind": "music-videos",
+        "artistId": "32940",
+        "artistUrl": "https://music.apple.com/fr/artist/michael-jackson/32940",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/ad/a9/67/ada96736-a7d6-cc20-4640-a390e08300f6/dj.bsmfwdgt.jpg/100x75mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/thriller-edit/277088477"
       },
       {
         "artistName": "Olivia Rodrigo",
@@ -1627,36 +1518,150 @@
         "url": "https://music.apple.com/fr/music-video/deja-vu/1582275120"
       },
       {
-        "artistName": "Elton John",
-        "id": "6828443397",
-        "name": "Don't Let The Sun Go Down On Me (Apple Music Live)",
-        "releaseDate": "2026-10-30",
+        "artistName": "Hoobastank",
+        "id": "1446739635",
+        "name": "The Reason",
+        "releaseDate": "2004-01-01",
         "kind": "music-videos",
-        "artistId": "54657",
-        "artistUrl": "https://music.apple.com/fr/artist/elton-john/54657",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e3/89/0a/e3890a7b-5fc0-6a58-64d9-7c7293bd7258/26UM1IM28529.crop.jpg/100x56mv.jpg",
+        "artistId": "415242",
+        "artistUrl": "https://music.apple.com/fr/artist/hoobastank/415242",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/3d/4a/e7/3d4ae798-1c2e-6a2a-d66f-55f225b1d803/dj.inoqkcal.jpg/100x43mv.jpg",
+        "genres": [
+          {
+            "name": "Rock"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/the-reason/1446739635"
+      },
+      {
+        "artistName": "LE SSERAFIM, ILLIT & KATSEYE",
+        "id": "6778364150",
+        "name": "ICONIC BY MISTAKE",
+        "releaseDate": "2026-06-10",
+        "kind": "music-videos",
+        "artistId": "1616740364",
+        "artistUrl": "https://music.apple.com/fr/artist/le-sserafim/1616740364",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/af/f6/0a/aff60ae1-2bae-0b91-ea14-81f90a418e52/Job8eacfd6f-db82-497e-bcc2-46309fc52559-231435162-PreviewImage_preview_image_38266_video_sdr-Time1781011201897.png/100x66mv.jpg",
         "genres": [
           {
             "name": "Pop"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/dont-let-the-sun-go-down-on-me-apple-music-live/6828443397"
+        "url": "https://music.apple.com/fr/music-video/iconic-by-mistake/6778364150"
       },
       {
-        "artistName": "GIMS",
-        "id": "1806054077",
-        "name": "CIEL",
-        "releaseDate": "2025-03-14",
+        "artistName": "Tove Lo",
+        "id": "1896289788",
+        "name": "ESTRUS",
+        "releaseDate": "2026-09-18",
         "kind": "music-videos",
-        "artistId": "458659054",
-        "artistUrl": "https://music.apple.com/fr/artist/gims/458659054",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/cb/03/56/cb03560d-323b-7c21-6715-538183ce1341/3617393526900_1_01.jpg/100x66mv.jpg",
+        "artistId": "570136838",
+        "artistUrl": "https://music.apple.com/fr/artist/tove-lo/570136838",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8d/a5/b0/8da5b018-2341-458f-3b21-c12147f316a1/Job756408ae-c33e-4098-bc61-a073adb08900-227208479-PreviewImage_preview_image_45000_video_sdr-Time1777966026768.png/100x56mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/estrus/1896289788"
+      },
+      {
+        "artistName": "Louane",
+        "id": "1652064917",
+        "name": "Secret",
+        "releaseDate": "2022-11-02",
+        "kind": "music-videos",
+        "artistId": "603535478",
+        "artistUrl": "https://music.apple.com/fr/artist/louane/603535478",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/a5/0f/94/a50f945b-b65d-1005-5bc0-a012580ee529/22UM1IM22219.crop.jpg/100x73mv.jpg",
+        "genres": [
+          {
+            "name": "Pop française"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/secret/1652064917"
+      },
+      {
+        "artistName": "Roddy Ricch",
+        "id": "1501821509",
+        "name": "The Box",
+        "releaseDate": "2020-03-05",
+        "kind": "music-videos",
+        "artistId": "1212442072",
+        "artistUrl": "https://music.apple.com/fr/artist/roddy-ricch/1212442072",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/29/a7/0e/29a70ed2-c1d7-e725-6b47-e16eb7f4f438/USATV2000283.sca1.jpg/100x56mv.jpg",
         "genres": [
           {
             "name": "Hip-hop/Rap"
           }
         ],
-        "url": "https://music.apple.com/fr/music-video/ciel/1806054077"
+        "url": "https://music.apple.com/fr/music-video/the-box/1501821509"
+      },
+      {
+        "artistName": "Tones And I",
+        "id": "1486595793",
+        "name": "Dance Monkey",
+        "releaseDate": "2019-11-05",
+        "kind": "music-videos",
+        "artistId": "1488123516",
+        "artistUrl": "https://music.apple.com/fr/artist/tones-and-i/1488123516",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/99/4a/0f/994a0f46-9bd1-d273-4749-51cb34421715/USATV1903631.sca1.jpg/100x42mv.jpg",
+        "genres": [
+          {
+            "name": "Alternative"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/dance-monkey/1486595793"
+      },
+      {
+        "artistName": "RAYE",
+        "id": "6823388004",
+        "name": "I Will Overcome (Live At Abbey Road)",
+        "releaseDate": "2026-03-27",
+        "kind": "music-videos",
+        "artistId": "261686",
+        "artistUrl": "https://music.apple.com/fr/artist/raye/261686",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c6/12/c3/c612c3d5-b37a-1dc7-ec43-5f19886649d7/Jobb466bb87-32e4-46bc-86ba-04e3d6c96ad8-249093592-PreviewImage_preview_image_9000_video_sdr-Time1792115373199.png/100x75mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/i-will-overcome-live-at-abbey-road/6823388004"
+      },
+      {
+        "artistName": "KATSEYE",
+        "id": "1825138051",
+        "name": "Gabriela",
+        "releaseDate": "2025-07-01",
+        "kind": "music-videos",
+        "artistId": "1754284416",
+        "artistUrl": "https://music.apple.com/fr/artist/katseye/1754284416",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b3/74/e2/b374e2d4-24e0-57dd-564d-f19e782ec8a3/25UMGIM78137.crop.jpg/100x72mv.jpg",
+        "genres": [
+          {
+            "name": "Pop"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/gabriela/1825138051"
+      },
+      {
+        "artistName": "Vianney",
+        "id": "6805845421",
+        "name": "D'or et d'étain",
+        "releaseDate": "2026-08-28",
+        "kind": "music-videos",
+        "artistId": "871234256",
+        "artistUrl": "https://music.apple.com/fr/artist/vianney/871234256",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/6f/0d/95/6f0d953b-0a0c-9562-4fb8-182b269a3702/3618115724949_1_01.jpg/100x69mv.jpg",
+        "genres": [
+          {
+            "name": "Pop française"
+          }
+        ],
+        "url": "https://music.apple.com/fr/music-video/dor-et-d%C3%A9tain/6805845421"
       }
     ]
   }
