@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 957498371,
+      "collectionId": 6834596383,
+      "trackId": 6834596541,
+      "artistName": "YFN Lucci & Rod Wave",
+      "collectionName": "Disc 1",
+      "trackName": "I just realized. (feat. Future)",
+      "collectionCensoredName": "everything i said i am. / everything she said she is.",
+      "trackCensoredName": "I just realized. (feat. Future)",
+      "collectionArtistName": "YFN Lucci",
+      "artistViewUrl": "https://music.apple.com/us/artist/yfn-lucci/957498371?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/i-just-realized-feat-future/6834596383?i=6834596541&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/i-just-realized-feat-future/6834596383?i=6834596541&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/93/61/66936177-715e-462a-71d9-54237faa1f68/mzaf_11380581869422889088.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/79/03/037903d0-d385-3dfb-e867-e10abf280f78/075679546210.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/79/03/037903d0-d385-3dfb-e867-e10abf280f78/075679546210.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/79/03/037903d0-d385-3dfb-e867-e10abf280f78/075679546210.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "trackPrice": 0.69,
+      "releaseDate": "2026-11-19T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 2,
+      "discNumber": 1,
+      "trackCount": 14,
+      "trackNumber": 3,
+      "trackTimeMillis": 326137,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Hip-Hop/Rap",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}

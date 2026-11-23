@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 217005,
+      "collectionId": 1537659108,
+      "trackId": 1537659110,
+      "artistName": "Britney Spears",
+      "collectionName": "My Only Wish (This Year) - Single",
+      "trackName": "My Only Wish (This Year)",
+      "collectionCensoredName": "My Only Wish (This Year) - Single",
+      "trackCensoredName": "My Only Wish (This Year)",
+      "artistViewUrl": "https://music.apple.com/de/artist/britney-spears/217005?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/my-only-wish-this-year/1537659108?i=1537659110&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/my-only-wish-this-year/1537659108?i=1537659110&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/94/cc/1494ccd0-09e5-7c7a-5727-aaa2246e7a3a/mzaf_16843563437645741349.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c4/25/d8/c425d8ea-a2aa-6f19-f9d4-e19057957818/886448715719.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c4/25/d8/c425d8ea-a2aa-6f19-f9d4-e19057957818/886448715719.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c4/25/d8/c425d8ea-a2aa-6f19-f9d4-e19057957818/886448715719.jpg/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "trackPrice": 1.29,
+      "releaseDate": "2000-11-14T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 255400,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Weihnachten: Pop",
+      "isStreamable": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 42616562,
+      "collectionId": 1435551048,
+      "trackId": 1435551062,
+      "artistName": "Nat \"King\" Cole",
+      "collectionName": "The Christmas Song (Expanded Edition)",
+      "trackName": "The Christmas Song (Merry Christmas to You)",
+      "collectionCensoredName": "The Christmas Song (Expanded Edition)",
+      "trackCensoredName": "The Christmas Song (Merry Christmas to You)",
+      "artistViewUrl": "https://music.apple.com/us/artist/nat-king-cole/42616562?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/af/fc/89affc00-0602-fb41-755f-125a7fc0d034/mzaf_15282982712191027477.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1955-11-15T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 19,
+      "trackNumber": 1,
+      "trackTimeMillis": 192151,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Holiday",
+      "isStreamable": true
+    }
+  ]
+}

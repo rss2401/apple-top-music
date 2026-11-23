@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 80204262,
+      "collectionId": 1647061641,
+      "artistName": "Various Artists",
+      "collectionName": "Classic Christmas",
+      "collectionCensoredName": "Classic Christmas",
+      "collectionViewUrl": "https://music.apple.com/us/album/classic-christmas/1647061641?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/98/2f/73982f3a-7c79-ed56-8857-0adae57aea37/196589481887.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/98/2f/73982f3a-7c79-ed56-8857-0adae57aea37/196589481887.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 64,
+      "copyright": "℗ 2022 Sony Music Entertainment",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2022-09-30T07:00:00Z",
+      "primaryGenreName": "Holiday"
+    }
+  ]
+}

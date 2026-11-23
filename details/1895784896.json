@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1486113150,
+      "trackId": 1895784896,
+      "artistName": "藤井 風 & Zane Lowe",
+      "trackName": "Fujii Kaze: The Zane Lowe Interview",
+      "trackCensoredName": "Fujii Kaze: The Zane Lowe Interview",
+      "artistViewUrl": "https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/music-video/fujii-kaze-the-zane-lowe-interview/1895784896?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/51/9a/12/519a1292-f210-f243-2924-94b476b311ad/TN-MS-WW-Zane_FujiiKaze_20260416-AUC_Episode_B.png/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/51/9a/12/519a1292-f210-f243-2924-94b476b311ad/TN-MS-WW-Zane_FujiiKaze_20260416-AUC_Episode_B.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/51/9a/12/519a1292-f210-f243-2924-94b476b311ad/TN-MS-WW-Zane_FujiiKaze_20260416-AUC_Episode_B.png/100x100bb.jpg",
+      "releaseDate": "2026-04-29T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "ポップ",
+      "contentAdvisoryRating": "Explicit"
+    }
+  ]
+}

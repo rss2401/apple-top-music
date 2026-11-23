@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 33762875,
+      "collectionId": 1365039535,
+      "trackId": 1365040125,
+      "artistName": "Jona Lewie",
+      "collectionName": "Heart Skips Beat",
+      "trackName": "Stop the Cavalry",
+      "collectionCensoredName": "Heart Skips Beat",
+      "trackCensoredName": "Stop the Cavalry",
+      "artistViewUrl": "https://music.apple.com/gb/artist/jona-lewie/33762875?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/stop-the-cavalry/1365039535?i=1365040125&uo=4",
+      "trackViewUrl": "https://music.apple.com/gb/album/stop-the-cavalry/1365039535?i=1365040125&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/97/04/4897049e-3d1d-bdf7-dc0c-acad38a3b186/mzaf_9672178595835123748.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4b/0a/7b4b0a05-ee89-c460-d469-5405dc560318/18UMGIM14108.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4b/0a/7b4b0a05-ee89-c460-d469-5405dc560318/18UMGIM14108.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4b/0a/7b4b0a05-ee89-c460-d469-5405dc560318/18UMGIM14108.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "trackPrice": 0.99,
+      "releaseDate": "1982-06-01T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 20,
+      "trackNumber": 3,
+      "trackTimeMillis": 176360,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Rock",
+      "isStreamable": true
+    }
+  ]
+}

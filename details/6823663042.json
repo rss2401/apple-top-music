@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 13498146,
+      "collectionId": 6823663042,
+      "amgArtistId": 373508,
+      "artistName": "Rolf Zuckowski & Rolf Zuckowski und seine Freunde",
+      "collectionName": "Weihnachten und Winter mit Rolf Zuckowski",
+      "collectionCensoredName": "Weihnachten und Winter mit Rolf Zuckowski",
+      "artistViewUrl": "https://music.apple.com/de/artist/rolf-zuckowski/13498146?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/weihnachten-und-winter-mit-rolf-zuckowski/6823663042?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/b3/0e/5db30e9e-61e4-d77f-e1f9-f1979a10064a/26UM1IM35405.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/b3/0e/5db30e9e-61e4-d77f-e1f9-f1979a10064a/26UM1IM35405.rgb.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 40,
+      "copyright": "A uDiscover Music Release; ℗ 2026 UMG Recordings, Inc.",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-10-30T07:00:00Z",
+      "primaryGenreName": "Musik für Kinder"
+    }
+  ]
+}

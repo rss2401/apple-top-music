@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1473159575,
+      "collectionId": 6833488052,
+      "trackId": 6833488054,
+      "artistName": "CEDDO",
+      "collectionName": "arm um mich - Single",
+      "trackName": "arm um mich",
+      "collectionCensoredName": "arm um mich - Single",
+      "trackCensoredName": "arm um mich",
+      "artistViewUrl": "https://music.apple.com/de/artist/ceddo/1473159575?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/arm-um-mich/6833488052?i=6833488054&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/arm-um-mich/6833488052?i=6833488054&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/eb/fc/67ebfca2-f174-5f22-288f-5466cb160d42/mzaf_13272929457747572516.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d9/e1/4ed9e18b-2ab4-9d70-3994-20e6a19175a3/4761871.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d9/e1/4ed9e18b-2ab4-9d70-3994-20e6a19175a3/4761871.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d9/e1/4ed9e18b-2ab4-9d70-3994-20e6a19175a3/4761871.jpg/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2026-10-15T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 150154,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Pop",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}

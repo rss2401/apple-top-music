@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1725159717,
+      "collectionId": 6812476961,
+      "trackId": 6812477269,
+      "artistName": "CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.. & Etienne de Crécy",
+      "collectionName": "Grand Theft Auto VI: The Album",
+      "trackName": "Sexy Magic",
+      "collectionCensoredName": "Grand Theft Auto VI: The Album",
+      "trackCensoredName": "Sexy Magic",
+      "collectionArtistId": 36270,
+      "collectionArtistName": "Verschiedene Interpret:innen",
+      "artistViewUrl": "https://music.apple.com/de/artist/ca7riel-paco-amoroso/1725159717?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/sexy-magic/6812476961?i=6812477269&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/sexy-magic/6812476961?i=6812477269&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/29/c0/ed29c0e8-9033-732c-210c-f6af9821c690/mzaf_2682090079327170053.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-09-17T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 34,
+      "trackNumber": 5,
+      "trackTimeMillis": 195840,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ]
+}

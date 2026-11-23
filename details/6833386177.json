@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1435590896,
+      "collectionId": 6833386177,
+      "artistName": "希林娜依·高",
+      "collectionName": "No One Is Coming",
+      "collectionCensoredName": "No One Is Coming",
+      "artistViewUrl": "https://music.apple.com/cn/artist/%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D-%E9%AB%98/1435590896?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/no-one-is-coming/6833386177?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/7b/3e/f27b3e37-ef9f-51e1-9092-ffc333c676a8/196874988411.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/7b/3e/f27b3e37-ef9f-51e1-9092-ffc333c676a8/196874988411.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 10,
+      "copyright": "℗ \"(P)2026 Sony Music Entertainment China Holdings Limited \"",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "国语流行"
+    }
+  ]
+}

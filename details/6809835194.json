@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1506619087,
+      "collectionId": 6809835194,
+      "artistName": "Camille Lellouche",
+      "collectionName": "Minuit",
+      "collectionCensoredName": "Minuit",
+      "artistViewUrl": "https://music.apple.com/fr/artist/camille-lellouche/1506619087?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/minuit/6809835194?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/02/28/0d022883-f903-9555-2471-6ef917509fbf/3596975173025_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/02/28/0d022883-f903-9555-2471-6ef917509fbf/3596975173025_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 12,
+      "copyright": "℗ 2026 Madyv Prod under exclusive license to Belem Music / Turenne Music",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Variété française"
+    }
+  ]
+}

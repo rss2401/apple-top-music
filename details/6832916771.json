@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1808322699,
+      "collectionId": 6832916771,
+      "artistName": "SixTONES",
+      "collectionName": "一秒 / Rebellion",
+      "collectionCensoredName": "一秒 / Rebellion",
+      "artistViewUrl": "https://music.apple.com/jp/artist/sixtones/1808322699?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/%E4%B8%80%E7%A7%92-rebellion/6832916771?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/31/f0/bf31f03d-deda-ba0d-552f-a5498c9ab98c/4547366863772.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/31/f0/bf31f03d-deda-ba0d-552f-a5498c9ab98c/4547366863772.jpg/100x100bb.jpg",
+      "collectionPrice": 2139,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 11,
+      "copyright": "℗ 2026 Sony Music Labels Inc.",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2026-03-18T07:00:00Z",
+      "primaryGenreName": "J-Pop"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1237131130,
+      "collectionId": 6820122684,
+      "artistName": "Adèle Castillon",
+      "collectionName": "(Re)belle",
+      "collectionCensoredName": "(Re)belle",
+      "artistViewUrl": "https://music.apple.com/fr/artist/ad%C3%A8le-castillon/1237131130?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/re-belle/6820122684?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/60/7f/da607f40-ad90-e0bd-f402-ea42c659b18e/196874583470.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/60/7f/da607f40-ad90-e0bd-f402-ea42c659b18e/196874583470.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 12,
+      "copyright": "℗ 2026 Iconoclast Music, distributed by Sony Music Entertainment France SAS",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

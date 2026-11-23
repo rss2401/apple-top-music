@@ -1,0 +1,47 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 145072812,
+      "collectionId": 6827656134,
+      "amgArtistId": 224601,
+      "artistName": "Justice",
+      "collectionName": "Grand Theft Auto VI: Original Score",
+      "collectionCensoredName": "Grand Theft Auto VI: Original Score",
+      "artistViewUrl": "https://music.apple.com/de/artist/justice/145072812?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/grand-theft-auto-vi-original-score/6827656134?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/6d/08/a06d082b-9322-3ede-f6aa-fe3e7b9b386f/5056556188568_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/6d/08/a06d082b-9322-3ede-f6aa-fe3e7b9b386f/5056556188568_cover.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 50,
+      "copyright": "℗ 2026 Take-Two Interactive Software, Inc. under exclusive license to Ed Banger Records / Because Music. Grand Theft Auto VI, R*, and related logos are trademarks of Take-Two Interactive Software, Inc.",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-12-11T08:00:00Z",
+      "primaryGenreName": "Electronic"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 145072812,
+      "collectionId": 6827656134,
+      "amgArtistId": 224601,
+      "artistName": "Justice",
+      "collectionName": "Grand Theft Auto VI: Original Score",
+      "collectionCensoredName": "Grand Theft Auto VI: Original Score",
+      "artistViewUrl": "https://music.apple.com/fr/artist/justice/145072812?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/grand-theft-auto-vi-original-score/6827656134?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/6d/08/a06d082b-9322-3ede-f6aa-fe3e7b9b386f/5056556188568_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/6d/08/a06d082b-9322-3ede-f6aa-fe3e7b9b386f/5056556188568_cover.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 50,
+      "copyright": "℗ 2026 Take-Two Interactive Software, Inc. under exclusive license to Ed Banger Records / Because Music. Grand Theft Auto VI, R*, and related logos are trademarks of Take-Two Interactive Software, Inc.",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-12-11T08:00:00Z",
+      "primaryGenreName": "Électronique"
+    }
+  ]
+}

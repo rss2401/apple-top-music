@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 633585653,
+      "collectionId": 6821033923,
+      "artistName": "Bekar",
+      "collectionName": "Alba, l'heure bleue",
+      "collectionCensoredName": "Alba, l'heure bleue",
+      "artistViewUrl": "https://music.apple.com/fr/artist/bekar/633585653?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/alba-lheure-bleue/6821033923?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/74/ae/2874aef7-579a-27ee-ab11-acfce8a5b85d/3596975202091_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/74/ae/2874aef7-579a-27ee-ab11-acfce8a5b85d/3596975202091_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 29,
+      "copyright": "℗ 2026 Panenka Music / NFR Productions",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1617236801,
+      "trackId": 6831526423,
+      "artistName": "一条ゆう",
+      "trackName": "多摩川で、恋...したい♡",
+      "trackCensoredName": "多摩川で、恋...したい♡",
+      "artistViewUrl": "https://music.apple.com/jp/artist/%E4%B8%80%E6%9D%A1%E3%82%86%E3%81%86/1617236801?uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/music-video/%E5%A4%9A%E6%91%A9%E5%B7%9D%E3%81%A7-%E6%81%8B-%E3%81%97%E3%81%9F%E3%81%84/6831526423?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/f3/79/42/f37942b9-48b8-fc96-04a8-3ad61456f93d/mzvf_7419812812660777621.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/f4/49/98f4493c-5c96-5a22-02db-6341aedb3edb/4550796358831.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/f4/49/98f4493c-5c96-5a22-02db-6341aedb3edb/4550796358831.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/f4/49/98f4493c-5c96-5a22-02db-6341aedb3edb/4550796358831.jpg/100x100bb.jpg",
+      "collectionPrice": 407,
+      "trackPrice": 407,
+      "releaseDate": "2026-10-02T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 274176,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "J-Pop"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1265164818,
+      "collectionId": 1535473478,
+      "trackId": 1535473482,
+      "artistName": "Ava Max",
+      "collectionName": "Christmas Without You - Single",
+      "trackName": "Christmas Without You",
+      "collectionCensoredName": "Christmas Without You - Single",
+      "trackCensoredName": "Christmas Without You",
+      "artistViewUrl": "https://music.apple.com/de/artist/ava-max/1265164818?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/christmas-without-you/1535473478?i=1535473482&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/christmas-without-you/1535473478?i=1535473482&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/aa/22/74aa2205-17c4-0615-4593-c86031287ff4/mzaf_12787856134932805895.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/bc/35/14bc3529-1982-aaf1-ae1b-ed1238efc08a/075679799036.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/bc/35/14bc3529-1982-aaf1-ae1b-ed1238efc08a/075679799036.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/bc/35/14bc3529-1982-aaf1-ae1b-ed1238efc08a/075679799036.jpg/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "trackPrice": 1.29,
+      "releaseDate": "2020-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 169245,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik zum Fest",
+      "isStreamable": true
+    }
+  ]
+}

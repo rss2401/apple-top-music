@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 957498371,
+      "collectionId": 6834596383,
+      "amgArtistId": 3124887,
+      "artistName": "YFN Lucci",
+      "collectionName": "everything i said i am. / everything she said she is.",
+      "collectionCensoredName": "everything i said i am. / everything she said she is.",
+      "artistViewUrl": "https://music.apple.com/us/artist/yfn-lucci/957498371?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/everything-i-said-i-am-everything-she-said-she-is/6834596383?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/e2/4f/34e24f49-2675-8572-e1a9-4f982f2b2ca1/075679546210.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/e2/4f/34e24f49-2675-8572-e1a9-4f982f2b2ca1/075679546210.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 27,
+      "copyright": "℗ 2026 Already Legend/Think It's A Game Records",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

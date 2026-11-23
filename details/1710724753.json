@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1486113150,
+      "collectionId": 1710724726,
+      "trackId": 1710724753,
+      "artistName": "藤井 風",
+      "collectionName": "花 - Single",
+      "trackName": "花",
+      "collectionCensoredName": "花 - Single",
+      "trackCensoredName": "花",
+      "artistViewUrl": "https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/%E8%8A%B1/1710724726?i=1710724753&uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/album/%E8%8A%B1/1710724726?i=1710724753&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/b2/3e/3eb23e1e-e655-a2cc-2e04-b368acd84103/mzaf_849006887853903201.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/7c/f0/f47cf00a-68d0-74fa-82e1-b291addbb62a/23UM1IM12200.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/7c/f0/f47cf00a-68d0-74fa-82e1-b291addbb62a/23UM1IM12200.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/7c/f0/f47cf00a-68d0-74fa-82e1-b291addbb62a/23UM1IM12200.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 255,
+      "trackPrice": 255,
+      "releaseDate": "2023-10-13T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 246700,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "J-Pop",
+      "isStreamable": true
+    }
+  ]
+}

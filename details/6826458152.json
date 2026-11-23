@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 924551002,
+      "collectionId": 6826458152,
+      "amgArtistId": 3296478,
+      "artistName": "Conway the Machine",
+      "collectionName": "OTIS",
+      "collectionCensoredName": "OTIS",
+      "artistViewUrl": "https://music.apple.com/us/artist/conway-the-machine/924551002?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/otis/6826458152?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/e7/f5/c8e7f5e2-600b-3568-7c6a-b7d74ae09f32/8721639421845.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/e7/f5/c8e7f5e2-600b-3568-7c6a-b7d74ae09f32/8721639421845.png/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 11,
+      "copyright": "℗ 2026 Drumwork under License to Roc Nation Distribution",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

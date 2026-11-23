@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 15160985,
+      "trackId": 6837355258,
+      "artistName": "Star Academy",
+      "trackName": "Dans un autre monde",
+      "trackCensoredName": "Dans un autre monde",
+      "artistViewUrl": "https://music.apple.com/fr/artist/star-academy/15160985?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/dans-un-autre-monde/6837355258?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/32/3e/fd/323efdad-4cc6-2631-c8f1-d82938575772/mzvf_5677411184323867595.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/02/29/26022919-8b0d-9164-691d-cccd0893f757/1968749536620101.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/02/29/26022919-8b0d-9164-691d-cccd0893f757/1968749536620101.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/02/29/26022919-8b0d-9164-691d-cccd0893f757/1968749536620101.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 197568,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Pop française"
+    }
+  ]
+}

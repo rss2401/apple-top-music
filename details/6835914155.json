@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1704653988,
+      "trackId": 6835914155,
+      "artistName": "Woozle Goozle",
+      "trackName": "Heut' lassen wir es krachen!",
+      "trackCensoredName": "Heut' lassen wir es krachen!",
+      "artistViewUrl": "https://music.apple.com/de/artist/woozle-goozle/1704653988?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/heut-lassen-wir-es-krachen/6835914155?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/32/8e/6f/328e6f57-ede5-0a39-b8d0-2b586f930ad7/mzvf_12431538419823885068.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/5e/fd/525efd11-084f-d412-67d3-1c6def9134b2/Job4b1ddffc-53f4-4f08-ae42-0d6f05406813-254306871-PreviewImage_preview_image_47000_video_sdr-Time1794926283233.png/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/5e/fd/525efd11-084f-d412-67d3-1c6def9134b2/Job4b1ddffc-53f4-4f08-ae42-0d6f05406813-254306871-PreviewImage_preview_image_47000_video_sdr-Time1794926283233.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/5e/fd/525efd11-084f-d412-67d3-1c6def9134b2/Job4b1ddffc-53f4-4f08-ae42-0d6f05406813-254306871-PreviewImage_preview_image_47000_video_sdr-Time1794926283233.png/100x100bb.jpg",
+      "collectionPrice": 1.19,
+      "trackPrice": 1.19,
+      "releaseDate": "2023-03-10T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 184384,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 213354067,
+      "collectionId": 6823595951,
+      "amgArtistId": 394130,
+      "artistName": "SDP & JazzDP",
+      "collectionName": "JazzDP (feat. The Capital Dance Orchestra)",
+      "collectionCensoredName": "JazzDP (feat. The Capital Dance Orchestra)",
+      "artistViewUrl": "https://music.apple.com/de/artist/sdp/213354067?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/jazzdp-feat-the-capital-dance-orchestra/6823595951?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/26/ab/7826abff-b62c-3ed7-7919-4e78aef2381f/26UM1IM32798.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/26/ab/7826abff-b62c-3ed7-7919-4e78aef2381f/26UM1IM32798.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 23,
+      "copyright": "Distributed by Chapter ONE; ℗ 2026 Nur Musik Ist Schöner",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "primaryGenreName": "Jazz"
+    }
+  ]
+}

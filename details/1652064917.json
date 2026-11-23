@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 603535478,
+      "trackId": 1652064917,
+      "artistName": "Louane",
+      "trackName": "Secret",
+      "trackCensoredName": "Secret",
+      "artistViewUrl": "https://music.apple.com/fr/artist/louane/603535478?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/secret/1652064917?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video122/v4/87/6e/9f/876e9fea-3a87-9c48-d502-b6f3ceb47c33/mzvf_5792782400714027504.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/a5/0f/94/a50f945b-b65d-1005-5bc0-a012580ee529/22UM1IM22219.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/a5/0f/94/a50f945b-b65d-1005-5bc0-a012580ee529/22UM1IM22219.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/a5/0f/94/a50f945b-b65d-1005-5bc0-a012580ee529/22UM1IM22219.crop.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2022-11-02T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 190948,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Pop française"
+    }
+  ]
+}

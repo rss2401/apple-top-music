@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 72783,
+      "collectionId": 1440806486,
+      "amgArtistId": 141895,
+      "artistName": "Diana Krall",
+      "collectionName": "The Look of Love",
+      "collectionCensoredName": "The Look of Love",
+      "artistViewUrl": "https://music.apple.com/de/artist/diana-krall/72783?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/the-look-of-love/1440806486?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/0c/12/b10c12b7-c0c4-8c3f-9603-81c4f07991b1/06UMGIM15905.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/0c/12/b10c12b7-c0c4-8c3f-9603-81c4f07991b1/06UMGIM15905.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 10,
+      "copyright": "℗ 2011 The Verve Music Group, a Division of UMG Recordings, Inc.",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2021-09-18T07:00:00Z",
+      "primaryGenreName": "Jazz"
+    }
+  ]
+}

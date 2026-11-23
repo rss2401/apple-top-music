@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1733956832,
+      "trackId": 6814853683,
+      "artistName": "Ms. Rachel",
+      "trackName": "I'm So Happy",
+      "trackCensoredName": "I'm So Happy",
+      "artistViewUrl": "https://books.apple.com/us/author/ms-rachel/id1733956832?uo=4",
+      "trackViewUrl": "https://music.apple.com/us/music-video/im-so-happy/6814853683?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9f/e7/34/9fe73404-57a2-3002-8042-e2176f94cc53/Jobee04a1bd-484b-4e9d-a69a-a613f9beb934-245023353-PreviewImage_preview_image_29000_video_sdr-Time1790089396313.png/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9f/e7/34/9fe73404-57a2-3002-8042-e2176f94cc53/Jobee04a1bd-484b-4e9d-a69a-a613f9beb934-245023353-PreviewImage_preview_image_29000_video_sdr-Time1790089396313.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9f/e7/34/9fe73404-57a2-3002-8042-e2176f94cc53/Jobee04a1bd-484b-4e9d-a69a-a613f9beb934-245023353-PreviewImage_preview_image_29000_video_sdr-Time1790089396313.png/100x100bb.jpg",
+      "releaseDate": "2026-09-25T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Children's Music"
+    }
+  ]
+}

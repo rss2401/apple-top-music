@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 260414340,
+      "collectionId": 1711473645,
+      "trackId": 1711473978,
+      "artistName": "OneRepublic",
+      "collectionName": "Dear Santa - Single",
+      "trackName": "Dear Santa",
+      "collectionCensoredName": "Dear Santa - Single",
+      "trackCensoredName": "Dear Santa",
+      "artistViewUrl": "https://music.apple.com/de/artist/onerepublic/260414340?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/dear-santa/1711473645?i=1711473978&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/dear-santa/1711473645?i=1711473978&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/ce/05/81ce0536-1767-bdc7-5050-b747e62f4aad/mzaf_17205937119467109918.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/a4/b3/a2a4b3b0-8df7-cab2-3a29-e9cec0c4324f/23UM1IM16982.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/a4/b3/a2a4b3b0-8df7-cab2-3a29-e9cec0c4324f/23UM1IM16982.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/a4/b3/a2a4b3b0-8df7-cab2-3a29-e9cec0c4324f/23UM1IM16982.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 1.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2023-10-20T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 2,
+      "trackNumber": 1,
+      "trackTimeMillis": 169733,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik zum Fest",
+      "isStreamable": true
+    }
+  ]
+}

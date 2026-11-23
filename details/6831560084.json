@@ -1,0 +1,51 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1304716885,
+      "collectionId": 6831560084,
+      "amgArtistId": 922993,
+      "artistName": "Rema",
+      "collectionName": "E-Mortal Boy",
+      "collectionCensoredName": "E-Mortal Boy",
+      "artistViewUrl": "https://music.apple.com/fr/artist/rema/1304716885?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/e-mortal-boy/6831560084?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/d1/4c/f1d14c12-278f-5613-f9e2-82ab14c4d837/ticket.autyeqvi.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/d1/4c/f1d14c12-278f-5613-f9e2-82ab14c4d837/ticket.autyeqvi.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 7,
+      "copyright": "℗ 2026 Mavin Global Holdings Ltd / Jonzing World Entertainment, distributed by Interscope Records and UMG Commercial Services",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Afrobeats"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1304716885,
+      "collectionId": 6831560084,
+      "amgArtistId": 922993,
+      "artistName": "Rema",
+      "collectionName": "E-Mortal Boy",
+      "collectionCensoredName": "E-Mortal Boy",
+      "artistViewUrl": "https://music.apple.com/gb/artist/rema/1304716885?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/e-mortal-boy/6831560084?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/d1/4c/f1d14c12-278f-5613-f9e2-82ab14c4d837/ticket.autyeqvi.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/d1/4c/f1d14c12-278f-5613-f9e2-82ab14c4d837/ticket.autyeqvi.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 7,
+      "copyright": "℗ 2026 Mavin Global Holdings Ltd / Jonzing World Entertainment, distributed by Interscope Records and UMG Commercial Services",
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Afrobeats"
+    }
+  ]
+}

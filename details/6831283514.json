@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1093405,
+      "collectionId": 6831283514,
+      "amgArtistId": 202299,
+      "artistName": "Fatboy Slim",
+      "collectionName": "Everybody Loves A Mixtape, Vol. 15: The Rise & Fall of Disco (DJ Mix)",
+      "collectionCensoredName": "Everybody Loves A Mixtape, Vol. 15: The Rise & Fall of Disco (DJ Mix)",
+      "artistViewUrl": "https://music.apple.com/gb/artist/fatboy-slim/1093405?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/everybody-loves-a-mixtape-vol-15-the-rise-fall-of-disco-dj-mix/6831283514?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ef/91/8def919c-db2d-cfc8-11d1-2309a6213cc5/64cea66b-3f04-4515-a9ed-23aaf7f1efc7.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ef/91/8def919c-db2d-cfc8-11d1-2309a6213cc5/64cea66b-3f04-4515-a9ed-23aaf7f1efc7.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 15,
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Disco"
+    }
+  ]
+}

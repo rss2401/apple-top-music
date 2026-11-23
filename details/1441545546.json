@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 120785706,
+      "collectionId": 1441545546,
+      "amgArtistId": 919217,
+      "artistName": "Helene Fischer",
+      "collectionName": "Weihnachten",
+      "collectionCensoredName": "Weihnachten",
+      "artistViewUrl": "https://music.apple.com/de/artist/helene-fischer/120785706?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/weihnachten/1441545546?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/ef/0b/9bef0bb7-cc74-3344-062e-4d7d87a84bfb/18UMGIM75325.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/ef/0b/9bef0bb7-cc74-3344-062e-4d7d87a84bfb/18UMGIM75325.rgb.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 42,
+      "copyright": "A Polydor release; ℗ 2016 Universal Music GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2015-11-13T08:00:00Z",
+      "primaryGenreName": "Schlager"
+    }
+  ]
+}

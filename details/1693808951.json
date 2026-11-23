@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1432797144,
+      "trackId": 1693808951,
+      "artistName": "Hurra Kinderlieder",
+      "trackName": "Raketen Planeten Lied",
+      "trackCensoredName": "Raketen Planeten Lied",
+      "artistViewUrl": "https://music.apple.com/de/artist/hurra-kinderlieder/1432797144?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/raketen-planeten-lied/1693808951?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/73/7a/e7/737ae731-ea1e-3255-9275-d1939ebf3b76/mzvf_13276591893214998581.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/55/c2/e9/55c2e9aa-9558-d6ff-10e4-037d1841093d/23UMGIM70667.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/55/c2/e9/55c2e9aa-9558-d6ff-10e4-037d1841093d/23UMGIM70667.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/55/c2/e9/55c2e9aa-9558-d6ff-10e4-037d1841093d/23UMGIM70667.crop.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2023-06-30T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 157340,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder"
+    }
+  ]
+}

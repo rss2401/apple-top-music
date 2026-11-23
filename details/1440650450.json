@@ -1,0 +1,37 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 320569549,
+      "collectionId": 1440650036,
+      "trackId": 1440650450,
+      "artistName": "Justin Bieber",
+      "collectionName": "Under The Mistletoe",
+      "trackName": "Pray",
+      "collectionCensoredName": "Under The Mistletoe",
+      "trackCensoredName": "Pray",
+      "artistViewUrl": "https://music.apple.com/gb/artist/justin-bieber/320569549?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/music-video/pray/1440650450?uo=4",
+      "trackViewUrl": "https://music.apple.com/gb/music-video/pray/1440650450?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/27/f9/51/27f95161-9d97-0a59-9771-0c8691e254a0/mzvf_12655782692044967547.720w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/3e/ab/f2/3eabf28d-5185-6365-2313-b04d44355e09/10UMGIM30456.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/3e/ab/f2/3eabf28d-5185-6365-2313-b04d44355e09/10UMGIM30456.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/3e/ab/f2/3eabf28d-5185-6365-2313-b04d44355e09/10UMGIM30456.crop.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "trackPrice": 1.89,
+      "releaseDate": "2011-10-28T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 18,
+      "trackNumber": 18,
+      "trackTimeMillis": 213480,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

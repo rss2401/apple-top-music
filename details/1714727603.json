@@ -1,0 +1,49 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 979458609,
+      "collectionId": 1714727603,
+      "amgArtistId": 3257678,
+      "artistName": "Olivia Rodrigo, Rachel Zegler & Flatland Cavalry",
+      "collectionName": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+      "collectionCensoredName": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+      "artistViewUrl": "https://music.apple.com/us/artist/olivia-rodrigo/979458609?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/the-hunger-games-the-ballad-of-songbirds-snakes/1714727603?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/5c/8e/175c8ec4-a8fd-6a14-5a1e-ea5917a1e687/23UM1IM46888.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/5c/8e/175c8ec4-a8fd-6a14-5a1e-ea5917a1e687/23UM1IM46888.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 12.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 17,
+      "copyright": "℗ 2023 Lions Gate Entertainment Inc., under exclusive license to Geffen Records",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2023-11-17T08:00:00Z",
+      "primaryGenreName": "Soundtrack"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 979458609,
+      "collectionId": 1714727603,
+      "amgArtistId": 3257678,
+      "artistName": "Olivia Rodrigo, Rachel Zegler & Flatland Cavalry",
+      "collectionName": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+      "collectionCensoredName": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+      "artistViewUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/the-hunger-games-the-ballad-of-songbirds-snakes/1714727603?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/5c/8e/175c8ec4-a8fd-6a14-5a1e-ea5917a1e687/23UM1IM46888.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/5c/8e/175c8ec4-a8fd-6a14-5a1e-ea5917a1e687/23UM1IM46888.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 17,
+      "copyright": "℗ 2023 Lions Gate Entertainment Inc., under exclusive license to Geffen Records",
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2023-11-17T08:00:00Z",
+      "primaryGenreName": "Soundtrack"
+    }
+  ]
+}

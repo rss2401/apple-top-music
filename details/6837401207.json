@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 120785706,
+      "trackId": 6837401207,
+      "artistName": "Helene Fischer",
+      "trackName": "WAS HAST DU MIT MIR GEMACHT",
+      "trackCensoredName": "WAS HAST DU MIT MIR GEMACHT (Helene Fischer Show 25.12.2026)",
+      "artistViewUrl": "https://music.apple.com/de/artist/helene-fischer/120785706?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/was-hast-du-mit-mir-gemacht-helene-fischer-show-25-12-2026/6837401207?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/41/17/c7/4117c74f-9f0e-161e-d982-688b2068a1e6/mzvf_13694736911535788396.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1c/33/9b/1c339b68-f571-4144-e825-9a5aebc84446/26UM1IM47862.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1c/33/9b/1c339b68-f571-4144-e825-9a5aebc84446/26UM1IM47862.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1c/33/9b/1c339b68-f571-4144-e825-9a5aebc84446/26UM1IM47862.crop.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 154582,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Schlager"
+    }
+  ]
+}

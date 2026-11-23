@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 3296287,
+      "collectionId": 6781461206,
+      "trackId": 6781461599,
+      "artistName": "Queen",
+      "collectionName": "The Works (Deluxe Edition)",
+      "trackName": "Thank God It's Christmas",
+      "collectionCensoredName": "The Works (Deluxe Edition)",
+      "trackCensoredName": "Thank God It's Christmas",
+      "artistViewUrl": "https://music.apple.com/de/artist/queen/3296287?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/thank-god-its-christmas/6781461206?i=6781461599&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/thank-god-its-christmas/6781461206?i=6781461599&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/f5/ab/c9f5abb9-1699-4bd6-e4b6-aeeecdff91c1/mzaf_2346532812641543048.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/38/5c/34385cb8-81bf-5c7f-993d-103bcf4a7cfa/602527717661.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/38/5c/34385cb8-81bf-5c7f-993d-103bcf4a7cfa/602527717661.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/38/5c/34385cb8-81bf-5c7f-993d-103bcf4a7cfa/602527717661.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1984-02-27T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 2,
+      "discNumber": 2,
+      "trackCount": 6,
+      "trackNumber": 6,
+      "trackTimeMillis": 259442,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Rock",
+      "isStreamable": true
+    }
+  ]
+}

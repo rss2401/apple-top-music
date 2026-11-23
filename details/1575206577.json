@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1252679128,
+      "collectionId": 1575206577,
+      "artistName": "Laylow",
+      "collectionName": "L'Étrange Histoire de Mr.Anderson",
+      "collectionCensoredName": "L'Étrange Histoire de Mr.Anderson",
+      "artistViewUrl": "https://music.apple.com/fr/artist/laylow/1252679128?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/l%C3%A9trange-histoire-de-mr-anderson/1575206577?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/2b/97/822b9790-1fad-9fe3-caa4-c73fc29fe261/886449302024.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/2b/97/822b9790-1fad-9fe3-caa4-c73fc29fe261/886449302024.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 20,
+      "copyright": "℗ 2021 Digitalmundo",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-07-16T07:00:00Z",
+      "primaryGenreName": "Hip-hop/Rap"
+    }
+  ]
+}

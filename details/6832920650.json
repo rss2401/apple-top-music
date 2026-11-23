@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1808322699,
+      "collectionId": 6832920650,
+      "artistName": "SixTONES",
+      "collectionName": "THE VIBES",
+      "collectionCensoredName": "THE VIBES",
+      "artistViewUrl": "https://music.apple.com/jp/artist/sixtones/1808322699?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/the-vibes/6832920650?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/78/e0/9d78e0ae-9dd2-2d83-b6b3-0a94847d876c/4547366863451.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/78/e0/9d78e0ae-9dd2-2d83-b6b3-0a94847d876c/4547366863451.jpg/100x100bb.jpg",
+      "collectionPrice": 2852,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 20,
+      "copyright": "℗ 2023(1-2,4,7,9-12,14-17,19-20),2024(3,5-6,8,13,18) Sony Music Labels Inc.",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2024-01-10T08:00:00Z",
+      "primaryGenreName": "J-Pop"
+    }
+  ]
+}

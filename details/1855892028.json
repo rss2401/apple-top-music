@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 320366644,
+      "collectionId": 1855891555,
+      "trackId": 1855892028,
+      "artistName": "Ninho & Tiakola",
+      "collectionName": "M.I.L.S 4",
+      "trackName": "LES DIAMANTS DE BOKASSA",
+      "collectionCensoredName": "M.I.L.S 4",
+      "trackCensoredName": "LES DIAMANTS DE BOKASSA",
+      "collectionArtistName": "Ninho",
+      "artistViewUrl": "https://music.apple.com/fr/artist/ninho/320366644?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/les-diamants-de-bokassa/1855891555?i=1855892028&uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/album/les-diamants-de-bokassa/1855891555?i=1855892028&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/78/cc/af78cc77-53f5-184b-e87b-3be9549bd4b7/mzaf_18110989779283682820.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/12/a1/af12a18a-4baf-23a5-c627-3f14edfbd808/5026854277677.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/12/a1/af12a18a-4baf-23a5-c627-3f14edfbd808/5026854277677.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/12/a1/af12a18a-4baf-23a5-c627-3f14edfbd808/5026854277677.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-01-09T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 16,
+      "trackNumber": 12,
+      "trackTimeMillis": 152283,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-hop/Rap",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}

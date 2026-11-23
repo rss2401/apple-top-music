@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1808322699,
+      "collectionId": 6832916809,
+      "artistName": "SixTONES",
+      "collectionName": "NAVIGATOR",
+      "collectionCensoredName": "NAVIGATOR",
+      "artistViewUrl": "https://music.apple.com/jp/artist/sixtones/1808322699?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/navigator/6832916809?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/80/34/7f803466-33f2-0fff-803a-b3d6f1bb5555/4547366863321.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/80/34/7f803466-33f2-0fff-803a-b3d6f1bb5555/4547366863321.jpg/100x100bb.jpg",
+      "collectionPrice": 1731,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 7,
+      "copyright": "℗ 2020 Sony Music Labels Inc.",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2020-07-22T07:00:00Z",
+      "primaryGenreName": "J-Pop"
+    }
+  ]
+}

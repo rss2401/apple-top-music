@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 881651714,
+      "collectionId": 6835544984,
+      "amgArtistId": 3177265,
+      "artistName": "Sfera Ebbasta",
+      "collectionName": "PUROSANGUE",
+      "collectionCensoredName": "PUROSANGUE",
+      "artistViewUrl": "https://music.apple.com/de/artist/sfera-ebbasta/881651714?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/purosangue/6835544984?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/73/40/d5734058-f3c4-1cfb-3cc9-c7cc3271ac48/26UM1IM46734.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 11,
+      "copyright": "℗ 2026 Cupido Srl, under exclusive license to Universal Music Italia Srl",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Hip-Hop"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 840523045,
+      "collectionId": 6835801718,
+      "artistName": "WENDY",
+      "collectionName": "Gleam Hour - EP",
+      "collectionCensoredName": "Gleam Hour - EP",
+      "artistViewUrl": "https://music.apple.com/cn/artist/wendy/840523045?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/gleam-hour-ep/6835801718?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/b5/bf/e8b5bff3-aadb-d16c-c10c-e0c21f91f7f9/191953598246.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/b5/bf/e8b5bff3-aadb-d16c-c10c-e0c21f91f7f9/191953598246.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 6,
+      "copyright": "℗ 2026 ASND ENTERTAINMENT CO., LTD, under license to Dreamus",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-11-23T08:00:00Z",
+      "primaryGenreName": "R&B/灵魂乐"
+    }
+  ]
+}

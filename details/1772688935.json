@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 971154213,
+      "collectionId": 1772688935,
+      "amgArtistId": 3089910,
+      "artistName": "Wincent Weiss",
+      "collectionName": "Wincents Weisse Weihnachten",
+      "collectionCensoredName": "Wincents Weisse Weihnachten",
+      "artistViewUrl": "https://music.apple.com/de/artist/wincent-weiss/971154213?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/wincents-weisse-weihnachten/1772688935?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/81/23/1d812329-02c2-ef08-4303-e7300ef5b81b/24UMGIM93077.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/81/23/1d812329-02c2-ef08-4303-e7300ef5b81b/24UMGIM93077.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 20,
+      "copyright": "A Vertigo Berlin release; ℗ 2024 Wincent Weiss, under exclusive license to Universal Music GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2024-11-28T08:00:00Z",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 21434,
+      "collectionId": 1276760743,
+      "amgArtistId": 222973,
+      "artistName": "Lauryn Hill",
+      "collectionName": "The Miseducation of Lauryn Hill",
+      "collectionCensoredName": "The Miseducation of Lauryn Hill",
+      "artistViewUrl": "https://music.apple.com/fr/artist/lauryn-hill/21434?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/the-miseducation-of-lauryn-hill/1276760743?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 16,
+      "copyright": "℗ 1998 Ruffhouse Records LP",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "1998-08-19T07:00:00Z",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

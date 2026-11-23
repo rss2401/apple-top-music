@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 549236696,
+      "collectionId": 6812476961,
+      "trackId": 6812477268,
+      "artistName": "Travis Scott",
+      "collectionName": "Grand Theft Auto VI: The Album",
+      "trackName": "RHYNO",
+      "collectionCensoredName": "Grand Theft Auto VI: The Album",
+      "trackCensoredName": "RHYNO",
+      "collectionArtistId": 36270,
+      "collectionArtistName": "Verschiedene Interpret:innen",
+      "artistViewUrl": "https://music.apple.com/de/artist/travis-scott/549236696?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/rhyno/6812476961?i=6812477268&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/rhyno/6812476961?i=6812477268&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/ca/bd/63cabd0a-74cb-2070-9670-403fdaf7ff1b/mzaf_17284224267529918333.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-09-17T07:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 34,
+      "trackNumber": 4,
+      "trackTimeMillis": 180000,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-Hop/Rap",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}

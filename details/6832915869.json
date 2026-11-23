@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1808322699,
+      "collectionId": 6832915869,
+      "artistName": "SixTONES",
+      "collectionName": "Dance Forever / マイオンリー",
+      "collectionCensoredName": "Dance Forever / マイオンリー",
+      "artistViewUrl": "https://music.apple.com/jp/artist/sixtones/1808322699?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/dance-forever-%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC/6832915869?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/91/61/dc9161f5-b31a-12e9-23e8-95800772748c/4547366863765.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/91/61/dc9161f5-b31a-12e9-23e8-95800772748c/4547366863765.jpg/100x100bb.jpg",
+      "collectionPrice": 2037,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 8,
+      "copyright": "℗ 2026 Sony Music Labels Inc.",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2026-09-09T07:00:00Z",
+      "primaryGenreName": "J-Pop"
+    }
+  ]
+}

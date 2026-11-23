@@ -1,0 +1,51 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 47123955,
+      "collectionId": 6818635321,
+      "amgArtistId": 603606,
+      "artistName": "Trivium",
+      "collectionName": "Crown In The Grave",
+      "collectionCensoredName": "Crown In The Grave",
+      "artistViewUrl": "https://music.apple.com/de/artist/trivium/47123955?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/crown-in-the-grave/6818635321?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b7/ce/43b7ce91-a19e-454e-208d-7ad7ceff459e/075679558688.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b7/ce/43b7ce91-a19e-454e-208d-7ad7ceff459e/075679558688.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 12,
+      "copyright": "℗ 2026 Roadrunner Records, Inc.",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Metal"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 47123955,
+      "collectionId": 6818635321,
+      "amgArtistId": 603606,
+      "artistName": "Trivium",
+      "collectionName": "Crown In The Grave",
+      "collectionCensoredName": "Crown In The Grave",
+      "artistViewUrl": "https://music.apple.com/gb/artist/trivium/47123955?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/crown-in-the-grave/6818635321?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b7/ce/43b7ce91-a19e-454e-208d-7ad7ceff459e/075679558688.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b7/ce/43b7ce91-a19e-454e-208d-7ad7ceff459e/075679558688.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 12,
+      "copyright": "℗ 2026 Roadrunner Records, Inc.",
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Metal"
+    }
+  ]
+}

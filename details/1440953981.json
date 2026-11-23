@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 12224,
+      "collectionId": 1440953750,
+      "trackId": 1440953981,
+      "artistName": "Paul McCartney",
+      "collectionName": "McCartney II (Archive Collection)",
+      "trackName": "Wonderful Christmastime (Edited Version)",
+      "collectionCensoredName": "McCartney II (Archive Collection)",
+      "trackCensoredName": "Wonderful Christmastime (Edited Version)",
+      "artistViewUrl": "https://music.apple.com/gb/artist/paul-mccartney/12224?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/wonderful-christmastime-edited-version/1440953750?i=1440953981&uo=4",
+      "trackViewUrl": "https://music.apple.com/gb/album/wonderful-christmastime-edited-version/1440953750?i=1440953981&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/70/73/377073e1-a042-4479-8c6c-ad1a8feee126/mzaf_3021348988834532608.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "trackPrice": 0.99,
+      "releaseDate": "1980-05-16T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 27,
+      "trackNumber": 18,
+      "trackTimeMillis": 228680,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Rock",
+      "isStreamable": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 36270,
+      "collectionId": 6833420403,
+      "artistName": "Various Artists",
+      "collectionName": "Rapstar 2026 Roots Stage",
+      "collectionCensoredName": "Rapstar 2026 Roots Stage",
+      "collectionViewUrl": "https://music.apple.com/jp/album/rapstar-2026-roots-stage/6833420403?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/a1/35/21a13522-e63e-d4e5-f947-d8f7d8bf75db/4550796563334_cover.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/a1/35/21a13522-e63e-d4e5-f947-d8f7d8bf75db/4550796563334_cover.png/100x100bb.jpg",
+      "collectionPrice": 2444,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 12,
+      "copyright": "℗ 2026 Various Artists",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2026-11-22T08:00:00Z",
+      "primaryGenreName": "ヒップホップ／ラップ"
+    }
+  ]
+}

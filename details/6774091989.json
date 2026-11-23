@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1042004371,
+      "collectionId": 6774090882,
+      "trackId": 6774091989,
+      "artistName": "Aya Nakamura",
+      "collectionName": "Destinée Supremacy",
+      "trackName": "Tchiki",
+      "collectionCensoredName": "Destinée Supremacy",
+      "trackCensoredName": "Tchiki",
+      "artistViewUrl": "https://music.apple.com/fr/artist/aya-nakamura/1042004371?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/tchiki/6774090882?i=6774091989&uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/album/tchiki/6774090882?i=6774091989&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/36/a5/a236a5ce-5288-7ecb-2df5-0c17ff24d6a1/mzaf_13516392232701966398.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/55/81/8b558128-12e6-18bb-117a-13e46c59a0c5/1200214235055.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/55/81/8b558128-12e6-18bb-117a-13e46c59a0c5/1200214235055.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/55/81/8b558128-12e6-18bb-117a-13e46c59a0c5/1200214235055.jpg/100x100bb.jpg",
+      "collectionPrice": 12.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-05-30T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 26,
+      "trackNumber": 25,
+      "trackTimeMillis": 139291,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Afro pop",
+      "isStreamable": true
+    }
+  ]
+}

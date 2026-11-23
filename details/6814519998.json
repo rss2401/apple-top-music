@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 17316752,
+      "collectionId": 6814519998,
+      "amgArtistId": 560333,
+      "artistName": "Joy Denalane",
+      "collectionName": "A Joyful Christmas",
+      "collectionCensoredName": "A Joyful Christmas",
+      "artistViewUrl": "https://music.apple.com/de/artist/joy-denalane/17316752?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/a-joyful-christmas/6814519998?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/38/aa/7c38aa70-3ddb-af49-b613-b748540e417f/1200220170944.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/38/aa/7c38aa70-3ddb-af49-b613-b748540e417f/1200220170944.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 10,
+      "copyright": "Under exclusive license to Warner Records Germany, a division of Warner Music Group Germany Holding GmbH, ℗ 2026 Joy Denalane",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

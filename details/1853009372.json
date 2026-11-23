@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 15160985,
+      "trackId": 1853009372,
+      "artistName": "Star Academy",
+      "trackName": "Voulez-Vous",
+      "trackCensoredName": "Voulez-Vous",
+      "artistViewUrl": "https://music.apple.com/fr/artist/star-academy/15160985?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/voulez-vous/1853009372?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/69/ee/60/69ee6056-2b8f-b91c-3bec-930ca0f9bed2/mzvf_3233883711092990599.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1f/96/26/1f9626ae-76d2-22c7-cb65-84f11a546253/1968737773820101.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1f/96/26/1f9626ae-76d2-22c7-cb65-84f11a546253/1968737773820101.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1f/96/26/1f9626ae-76d2-22c7-cb65-84f11a546253/1968737773820101.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2025-11-14T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 173782,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Pop française"
+    }
+  ]
+}

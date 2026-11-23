@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 320366644,
+      "collectionId": 6830737440,
+      "trackId": 6830738484,
+      "artistName": "Ninho",
+      "collectionName": "M.I.L.S 4 (Deluxe Edition)",
+      "trackName": "CHAPITRE IV : LION",
+      "collectionCensoredName": "M.I.L.S 4 (Deluxe Edition)",
+      "trackCensoredName": "CHAPITRE IV : LION",
+      "artistViewUrl": "https://music.apple.com/fr/artist/ninho/320366644?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/chapitre-iv-lion/6830737440?i=6830738484&uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/album/chapitre-iv-lion/6830737440?i=6830738484&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/59/b5/d159b581-37a0-1d9c-e441-0da8c77633aa/mzaf_15125943640392435261.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/93/f1/4993f1e8-a25a-24d4-2aea-c96084ef38da/1200220348640.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/93/f1/4993f1e8-a25a-24d4-2aea-c96084ef38da/1200220348640.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/93/f1/4993f1e8-a25a-24d4-2aea-c96084ef38da/1200220348640.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-01-09T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 25,
+      "trackNumber": 25,
+      "trackTimeMillis": 198000,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-hop/Rap",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}

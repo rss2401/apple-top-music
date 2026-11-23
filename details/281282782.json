@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 548421,
+      "trackId": 281282782,
+      "artistName": "Wham!",
+      "trackName": "Last Christmas",
+      "trackCensoredName": "Last Christmas",
+      "artistViewUrl": "https://music.apple.com/de/artist/wham/548421?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/last-christmas/281282782?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/89/d4/fc/89d4fc84-f886-bb2e-4ddd-7de38c2d37d7/mzvf_9686678507094576388.640x352.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music/22/b5/d1/mzi.sgmipefw.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/22/b5/d1/mzi.sgmipefw.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/22/b5/d1/mzi.sgmipefw.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "1984-12-01T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 277760,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 17316752,
+      "collectionId": 6814519998,
+      "trackId": 6814520214,
+      "artistName": "Joy Denalane",
+      "collectionName": "A Joyful Christmas",
+      "trackName": "What Christmas Means to Me",
+      "collectionCensoredName": "A Joyful Christmas",
+      "trackCensoredName": "What Christmas Means to Me",
+      "artistViewUrl": "https://music.apple.com/de/artist/joy-denalane/17316752?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/what-christmas-means-to-me/6814519998?i=6814520214&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/what-christmas-means-to-me/6814519998?i=6814520214&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/99/eb/bd99ebcd-7c43-d0f6-66fb-42ce1a132559/mzaf_3385589989031395111.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/38/aa/7c38aa70-3ddb-af49-b613-b748540e417f/1200220170944.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/38/aa/7c38aa70-3ddb-af49-b613-b748540e417f/1200220170944.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/38/aa/7c38aa70-3ddb-af49-b613-b748540e417f/1200220170944.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2026-11-20T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 10,
+      "trackNumber": 2,
+      "trackTimeMillis": 176055,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ]
+}

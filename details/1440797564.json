@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 289622519,
+      "collectionId": 1440797256,
+      "trackId": 1440797564,
+      "artistName": "Rolf Zuckowski und seine Freunde",
+      "collectionName": "Winterkinder ...auf der Suche nach Weihnachten",
+      "trackName": "In der Weihnachtsbäckerei",
+      "collectionCensoredName": "Winterkinder ...auf der Suche nach Weihnachten",
+      "trackCensoredName": "In der Weihnachtsbäckerei",
+      "artistViewUrl": "https://music.apple.com/de/artist/rolf-zuckowski-und-seine-freunde/289622519?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/in-der-weihnachtsb%C3%A4ckerei/1440797256?i=1440797564&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/in-der-weihnachtsb%C3%A4ckerei/1440797256?i=1440797564&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/c2/11/2fc211ae-91bc-50c7-cbcd-de08a8dd10fd/mzaf_1131193072178196800.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/c3/d5/65c3d592-0a18-f3d8-3377-d5b43231a423/10UMGIM33127.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/c3/d5/65c3d592-0a18-f3d8-3377-d5b43231a423/10UMGIM33127.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/c3/d5/65c3d592-0a18-f3d8-3377-d5b43231a423/10UMGIM33127.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1987-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 5,
+      "trackTimeMillis": 172907,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Musik für Kinder",
+      "isStreamable": true
+    }
+  ]
+}

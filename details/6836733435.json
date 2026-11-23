@@ -1,0 +1,25 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 408932,
+      "trackId": 6836733435,
+      "artistName": "Rammstein",
+      "trackName": "Du hast",
+      "trackCensoredName": "Du hast (Live in Mexico City)",
+      "artistViewUrl": "https://music.apple.com/de/artist/rammstein/408932?uo=4",
+      "trackViewUrl": "https://music.apple.com/de/music-video/du-hast-live-in-mexico-city/6836733435?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/45/4b/fb/454bfb07-60a2-a641-2115-e7820ee3b1ea/26UM1IM16794.crop.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/45/4b/fb/454bfb07-60a2-a641-2115-e7820ee3b1ea/26UM1IM16794.crop.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/45/4b/fb/454bfb07-60a2-a641-2115-e7820ee3b1ea/26UM1IM16794.crop.jpg/100x100bb.jpg",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Rock"
+    }
+  ]
+}

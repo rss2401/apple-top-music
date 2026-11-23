@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 469045122,
+      "collectionId": 6825383694,
+      "artistName": "Celo & Abdi",
+      "collectionName": "Idéalïsta",
+      "collectionCensoredName": "Idéalïsta",
+      "artistViewUrl": "https://music.apple.com/de/artist/celo-abdi/469045122?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/id%C3%A9al%C3%AFsta/6825383694?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/15/27/0a1527ac-0f35-8dda-c89a-a1e1af19dc2f/26UM1IM27162.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/15/27/0a1527ac-0f35-8dda-c89a-a1e1af19dc2f/26UM1IM27162.rgb.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 15,
+      "copyright": "Distributed by URBAN; ℗ 2027 385idéal",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2027-01-29T08:00:00Z",
+      "primaryGenreName": "Hip-Hop"
+    }
+  ]
+}

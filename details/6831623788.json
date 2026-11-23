@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 250647018,
+      "collectionId": 6831623783,
+      "trackId": 6831623788,
+      "artistName": "Jul & J Balvin",
+      "collectionName": "Ma préférée - Single",
+      "trackName": "Ma préférée",
+      "collectionCensoredName": "Ma préférée - Single",
+      "trackCensoredName": "Ma préférée",
+      "artistViewUrl": "https://music.apple.com/fr/artist/jul/250647018?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/ma-pr%C3%A9f%C3%A9r%C3%A9e/6831623783?i=6831623788&uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/album/ma-pr%C3%A9f%C3%A9r%C3%A9e/6831623783?i=6831623788&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/d9/99/add99993-f5ac-3db9-0cb8-46a32710afa4/mzaf_12390497859265164611.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/48/37/7248379f-76a4-6183-2874-5e11e5f7ce84/cover.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/48/37/7248379f-76a4-6183-2874-5e11e5f7ce84/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/48/37/7248379f-76a4-6183-2874-5e11e5f7ce84/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2026-11-20T12:00:00Z",
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "explicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 123253,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-hop/Rap",
+      "contentAdvisoryRating": "Explicit",
+      "isStreamable": true
+    }
+  ]
+}

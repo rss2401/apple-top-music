@@ -1,0 +1,41 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 14663042,
+      "collectionId": 696352088,
+      "trackId": 696354552,
+      "artistName": "Wizzard",
+      "collectionName": "The Wizzard! Greatest Hits and More - The EMI Years",
+      "trackName": "I Wish It Could Be Christmas Everyday (2006 Remastered Version)",
+      "collectionCensoredName": "The Wizzard! Greatest Hits and More - The EMI Years",
+      "trackCensoredName": "I Wish It Could Be Christmas Everyday (2006 Remastered Version)",
+      "collectionArtistId": 661107,
+      "collectionArtistName": "Roy Wood",
+      "collectionArtistViewUrl": "https://music.apple.com/gb/artist/roy-wood/661107?uo=4",
+      "artistViewUrl": "https://music.apple.com/gb/artist/wizzard/14663042?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/i-wish-it-could-be-christmas-everyday-2006-remastered/696352088?i=696354552&uo=4",
+      "trackViewUrl": "https://music.apple.com/gb/album/i-wish-it-could-be-christmas-everyday-2006-remastered/696352088?i=696354552&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/99/d2/b999d2f2-4d8b-34d2-a648-69c0845f2082/mzaf_7278196600990212636.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/7e/61/987e6121-c74f-c35f-1546-e8c18da108b7/094634413459.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/7e/61/987e6121-c74f-c35f-1546-e8c18da108b7/094634413459.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/7e/61/987e6121-c74f-c35f-1546-e8c18da108b7/094634413459.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "trackPrice": 0.99,
+      "releaseDate": "1973-12-01T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 21,
+      "trackNumber": 20,
+      "trackTimeMillis": 289453,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ]
+}

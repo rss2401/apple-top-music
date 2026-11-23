@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 120785706,
+      "collectionId": 6824513570,
+      "trackId": 6824513842,
+      "artistName": "Helene Fischer",
+      "collectionName": "WIR",
+      "trackName": "WAS HAST DU MIT MIR GEMACHT",
+      "collectionCensoredName": "WIR",
+      "trackCensoredName": "WAS HAST DU MIT MIR GEMACHT",
+      "artistViewUrl": "https://music.apple.com/de/artist/helene-fischer/120785706?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/was-hast-du-mit-mir-gemacht/6824513570?i=6824513842&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/was-hast-du-mit-mir-gemacht/6824513570?i=6824513842&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/d8/a6/10d8a673-2caa-5f04-174b-763883ce7a97/mzaf_2650793103827232347.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/06/cb/a206cbe6-dc24-51d8-cee1-595e1404e0c6/26UM1IM36082.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/06/cb/a206cbe6-dc24-51d8-cee1-595e1404e0c6/26UM1IM36082.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/06/cb/a206cbe6-dc24-51d8-cee1-595e1404e0c6/26UM1IM36082.rgb.jpg/100x100bb.jpg",
+      "trackPrice": 1.29,
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 20,
+      "trackNumber": 7,
+      "trackTimeMillis": 154693,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Schlager",
+      "isStreamable": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 36270,
+      "collectionId": 1772920082,
+      "artistName": "Verschiedene Interpret:innen",
+      "collectionName": "Rock Christmas (The Very Best Of)",
+      "collectionCensoredName": "Rock Christmas (The Very Best Of)",
+      "collectionViewUrl": "https://music.apple.com/de/album/rock-christmas-the-very-best-of/1772920082?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/0b/3f/dc0b3fad-67e1-30f2-a415-607c920a50f1/24UMGIM90025.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/0b/3f/dc0b3fad-67e1-30f2-a415-607c920a50f1/24UMGIM90025.rgb.jpg/100x100bb.jpg",
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 47,
+      "copyright": "A Polystar release; This Compilation ℗ 2024 Universal Music GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2024-10-25T07:00:00Z",
+      "primaryGenreName": "Musik zum Fest"
+    }
+  ]
+}

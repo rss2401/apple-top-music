@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1541936673,
+      "collectionId": 6818081551,
+      "artistName": "Booter Bee",
+      "collectionName": "The Buzz",
+      "collectionCensoredName": "The Buzz",
+      "artistViewUrl": "https://music.apple.com/gb/artist/booter-bee/1541936673?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/the-buzz/6818081551?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/83/79/70837947-8d31-1cc8-a7aa-b1f51ff45454/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/83/79/70837947-8d31-1cc8-a7aa-b1f51ff45454/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 14,
+      "copyright": "℗ 2026 Zero Mileage under exclusive license to Believe Records",
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 289622519,
+      "collectionId": 1440922105,
+      "amgArtistId": 2304012,
+      "artistName": "Rolf Zuckowski und seine Freunde",
+      "collectionName": "Dezemberträume",
+      "collectionCensoredName": "Dezemberträume",
+      "artistViewUrl": "https://music.apple.com/de/artist/rolf-zuckowski-und-seine-freunde/289622519?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/dezembertr%C3%A4ume/1440922105?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/48/41/ea4841f2-73fc-0a13-ecce-5ac334b4162e/06UMGIM31200.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/48/41/ea4841f2-73fc-0a13-ecce-5ac334b4162e/06UMGIM31200.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 15,
+      "copyright": "℗ 1993 Musik für Dich / Universal Music GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "1993-11-05T08:00:00Z",
+      "primaryGenreName": "Musik zum Fest"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 415242,
+      "trackId": 1446739635,
+      "artistName": "Hoobastank",
+      "trackName": "The Reason",
+      "trackCensoredName": "The Reason",
+      "artistViewUrl": "https://music.apple.com/fr/artist/hoobastank/415242?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/the-reason/1446739635?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video114/v4/bb/6a/74/bb6a742a-edf7-c8db-a84e-15932a0d822b/mzvf_1135392124007055307.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/3d/4a/e7/3d4ae798-1c2e-6a2a-d66f-55f225b1d803/dj.inoqkcal.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/3d/4a/e7/3d4ae798-1c2e-6a2a-d66f-55f225b1d803/dj.inoqkcal.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/3d/4a/e7/3d4ae798-1c2e-6a2a-d66f-55f225b1d803/dj.inoqkcal.jpg/100x100bb.jpg",
+      "collectionPrice": 1.79,
+      "trackPrice": 1.79,
+      "releaseDate": "2004-01-01T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 248595,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Rock"
+    }
+  ]
+}

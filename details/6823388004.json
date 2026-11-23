@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 261686,
+      "trackId": 6823388004,
+      "artistName": "RAYE",
+      "trackName": "I Will Overcome",
+      "trackCensoredName": "I Will Overcome (Live At Abbey Road)",
+      "artistViewUrl": "https://music.apple.com/fr/artist/raye/261686?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/i-will-overcome-live-at-abbey-road/6823388004?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/bd/dc/fe/bddcfef4-5a55-4110-e79f-cbb5848bec7e/mzvf_17487704959053257518.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c6/12/c3/c612c3d5-b37a-1dc7-ec43-5f19886649d7/Jobb466bb87-32e4-46bc-86ba-04e3d6c96ad8-249093592-PreviewImage_preview_image_9000_video_sdr-Time1792115373199.png/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c6/12/c3/c612c3d5-b37a-1dc7-ec43-5f19886649d7/Jobb466bb87-32e4-46bc-86ba-04e3d6c96ad8-249093592-PreviewImage_preview_image_9000_video_sdr-Time1792115373199.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c6/12/c3/c612c3d5-b37a-1dc7-ec43-5f19886649d7/Jobb466bb87-32e4-46bc-86ba-04e3d6c96ad8-249093592-PreviewImage_preview_image_9000_video_sdr-Time1792115373199.png/100x100bb.jpg",
+      "collectionPrice": 2.49,
+      "trackPrice": 2.49,
+      "releaseDate": "2026-03-27T07:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 286827,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

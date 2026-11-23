@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "wrapperType": "collection",
@@ -13,11 +13,34 @@
       "collectionViewUrl": "https://music.apple.com/de/album/live-in-mexico-city/6813114279?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/f8/13/8cf8138c-ec87-c486-9920-cf3ca5fd1592/26UM1IM19631.rgb.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/f8/13/8cf8138c-ec87-c486-9920-cf3ca5fd1592/26UM1IM19631.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
       "collectionExplicitness": "explicit",
       "contentAdvisoryRating": "Explicit",
       "trackCount": 24,
       "copyright": "℗ 2026 Rammstein",
       "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Rock"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 408932,
+      "collectionId": 6813114279,
+      "artistName": "Rammstein",
+      "collectionName": "Live in Mexico City",
+      "collectionCensoredName": "Live in Mexico City",
+      "artistViewUrl": "https://music.apple.com/fr/artist/rammstein/408932?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/live-in-mexico-city/6813114279?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/f8/13/8cf8138c-ec87-c486-9920-cf3ca5fd1592/26UM1IM19631.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/f8/13/8cf8138c-ec87-c486-9920-cf3ca5fd1592/26UM1IM19631.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 24,
+      "copyright": "℗ 2026 Rammstein",
+      "country": "FRA",
       "currency": "EUR",
       "releaseDate": "2026-11-20T08:00:00Z",
       "primaryGenreName": "Rock"

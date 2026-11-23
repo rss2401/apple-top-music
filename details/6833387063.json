@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1454642552,
+      "collectionId": 6833387063,
+      "amgArtistId": 3516732,
+      "artistName": "TOMORROW X TOGETHER",
+      "collectionName": "PERFECT STORM - EP",
+      "collectionCensoredName": "PERFECT STORM - EP",
+      "artistViewUrl": "https://music.apple.com/jp/artist/tomorrow-x-together/1454642552?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/perfect-storm-ep/6833387063?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 1222,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 6,
+      "copyright": "A Republic Records release; ℗ 2026 BIGHIT MUSIC",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2026-11-16T08:00:00Z",
+      "primaryGenreName": "K-Pop"
+    }
+  ]
+}

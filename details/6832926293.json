@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1808322699,
+      "collectionId": 6832926293,
+      "artistName": "SixTONES",
+      "collectionName": "声",
+      "collectionCensoredName": "声",
+      "artistViewUrl": "https://music.apple.com/jp/artist/sixtones/1808322699?uo=4",
+      "collectionViewUrl": "https://music.apple.com/jp/album/%E5%A3%B0/6832926293?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/2b/80/772b80d8-3253-8342-4b60-575002c384e1/4547366863413.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/2b/80/772b80d8-3253-8342-4b60-575002c384e1/4547366863413.jpg/100x100bb.jpg",
+      "collectionPrice": 2852,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 21,
+      "copyright": "℗ 2022(3,5-6,12),2023(1-2,4,7-11,13-21) Sony Music Labels Inc.",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2023-01-04T08:00:00Z",
+      "primaryGenreName": "J-Pop"
+    }
+  ]
+}

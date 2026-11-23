@@ -1,0 +1,29 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1536078851,
+      "trackId": 1780713966,
+      "artistName": "柊マグネタイト",
+      "trackName": "テトリス",
+      "trackCensoredName": "テトリス",
+      "artistViewUrl": "https://music.apple.com/jp/artist/%E6%9F%8A%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%BF%E3%82%A4%E3%83%88/1536078851?uo=4",
+      "trackViewUrl": "https://music.apple.com/jp/music-video/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/1780713966?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/ed/46/d9/ed46d99e-e203-539f-3692-2cf58e5fe533/mzvf_17960522168353203693.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e3/c1/27/e3c127ac-22ec-a689-3fc6-69579fada301/PA00168049_1_207464_jacket.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e3/c1/27/e3c127ac-22ec-a689-3fc6-69579fada301/PA00168049_1_207464_jacket.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/e3/c1/27/e3c127ac-22ec-a689-3fc6-69579fada301/PA00168049_1_207464_jacket.jpg/100x100bb.jpg",
+      "collectionPrice": 407,
+      "trackPrice": 407,
+      "releaseDate": "2024-11-27T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackTimeMillis": 142656,
+      "country": "JPN",
+      "currency": "JPY",
+      "primaryGenreName": "J-Pop"
+    }
+  ]
+}

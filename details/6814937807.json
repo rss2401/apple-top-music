@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 5353342,
+      "collectionId": 6814937807,
+      "amgArtistId": 277370,
+      "artistName": "Blank & Jones",
+      "collectionName": "#WhatWeDoAtNight5 (Expanded)",
+      "collectionCensoredName": "#WhatWeDoAtNight5 (Expanded)",
+      "artistViewUrl": "https://music.apple.com/de/artist/blank-jones/5353342?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/whatwedoatnight5-expanded/6814937807?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/7d/a5/097da5d1-dff7-a412-c555-61dd96631587/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/7d/a5/097da5d1-dff7-a412-c555-61dd96631587/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 15,
+      "copyright": "℗ 2026 Soundcolours GmbH & Co. KG",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-20T08:00:00Z",
+      "primaryGenreName": "Dance"
+    }
+  ]
+}

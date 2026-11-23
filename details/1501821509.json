@@ -1,0 +1,30 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "music-video",
+      "artistId": 1212442072,
+      "trackId": 1501821509,
+      "artistName": "Roddy Ricch",
+      "trackName": "The Box",
+      "trackCensoredName": "The Box",
+      "artistViewUrl": "https://music.apple.com/fr/artist/roddy-ricch/1212442072?uo=4",
+      "trackViewUrl": "https://music.apple.com/fr/music-video/the-box/1501821509?uo=4",
+      "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video113/v4/06/03/e8/0603e866-8d69-14ec-cf2b-3896be2ec547/mzvf_4984760580958419342.1920w.h264lc.U.p.m4v",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/29/a7/0e/29a70ed2-c1d7-e725-6b47-e16eb7f4f438/USATV2000283.sca1.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/29/a7/0e/29a70ed2-c1d7-e725-6b47-e16eb7f4f438/USATV2000283.sca1.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/29/a7/0e/29a70ed2-c1d7-e725-6b47-e16eb7f4f438/USATV2000283.sca1.jpg/100x100bb.jpg",
+      "collectionPrice": 2.49,
+      "trackPrice": 2.49,
+      "releaseDate": "2020-03-05T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackTimeMillis": 213843,
+      "country": "FRA",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-hop/Rap",
+      "contentAdvisoryRating": "Explicit"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1576953913,
+      "collectionId": 6821004871,
+      "artistName": "Dalí",
+      "collectionName": "Horse",
+      "collectionCensoredName": "Horse",
+      "artistViewUrl": "https://music.apple.com/fr/artist/dal%C3%AD/1576953913?uo=4",
+      "collectionViewUrl": "https://music.apple.com/fr/album/horse/6821004871?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/96/25/d1962540-87f5-9ec0-a194-7530b73adb0c/1200220281817.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/96/25/d1962540-87f5-9ec0-a194-7530b73adb0c/1200220281817.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 12,
+      "copyright": "℗ 2026 ZABETH PARIS & 386LAB",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-11-19T08:00:00Z",
+      "primaryGenreName": "Pop"
+    }
+  ]
+}

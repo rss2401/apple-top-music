@@ -1,0 +1,36 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 42264594,
+      "collectionId": 6818133439,
+      "trackId": 6818133454,
+      "artistName": "Sido",
+      "collectionName": "FRIEDEN",
+      "trackName": "FLÜGEL",
+      "collectionCensoredName": "FRIEDEN",
+      "trackCensoredName": "FLÜGEL",
+      "artistViewUrl": "https://music.apple.com/de/artist/sido/42264594?uo=4",
+      "collectionViewUrl": "https://music.apple.com/de/album/fl%C3%BCgel/6818133439?i=6818133454&uo=4",
+      "trackViewUrl": "https://music.apple.com/de/album/fl%C3%BCgel/6818133439?i=6818133454&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/f4/05/8bf40587-246f-e577-bf9a-ef44f3dc4289/mzaf_15732954910790209185.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/e4/d9/d3e4d9c4-5a97-bf68-89e1-3e617a4b1d5e/26UM1IM27856.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/e4/d9/d3e4d9c4-5a97-bf68-89e1-3e617a4b1d5e/26UM1IM27856.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/e4/d9/d3e4d9c4-5a97-bf68-89e1-3e617a4b1d5e/26UM1IM27856.rgb.jpg/100x100bb.jpg",
+      "trackPrice": 1.29,
+      "collectionExplicitness": "explicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 14,
+      "trackNumber": 1,
+      "trackTimeMillis": 172859,
+      "country": "DEU",
+      "currency": "EUR",
+      "primaryGenreName": "Hip-Hop",
+      "isStreamable": true
+    }
+  ]
+}

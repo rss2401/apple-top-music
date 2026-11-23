@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 91853,
+      "collectionId": 1439640317,
+      "trackId": 1439640318,
+      "artistName": "Mariah Carey",
+      "collectionName": "Christmas Hits",
+      "trackName": "All I Want for Christmas Is You",
+      "collectionCensoredName": "Christmas Hits",
+      "trackCensoredName": "All I Want for Christmas Is You",
+      "collectionArtistId": 80204262,
+      "collectionArtistName": "Various Artists",
+      "artistViewUrl": "https://music.apple.com/gb/artist/mariah-carey/91853?uo=4",
+      "collectionViewUrl": "https://music.apple.com/gb/album/all-i-want-for-christmas-is-you/1439640317?i=1439640318&uo=4",
+      "trackViewUrl": "https://music.apple.com/gb/album/all-i-want-for-christmas-is-you/1439640317?i=1439640318&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/f7/bd/85f7bd5a-3fb7-0f96-63b4-3748ba0c6620/mzaf_9413092228872615739.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/72/ad/2072ad2a-ca61-b326-374e-fd290159a984/886447389782.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/72/ad/2072ad2a-ca61-b326-374e-fd290159a984/886447389782.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/72/ad/2072ad2a-ca61-b326-374e-fd290159a984/886447389782.jpg/100x100bb.jpg",
+      "releaseDate": "1994-11-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 64,
+      "trackNumber": 1,
+      "trackTimeMillis": 241507,
+      "country": "GBR",
+      "currency": "GBP",
+      "primaryGenreName": "Christmas: Pop",
+      "isStreamable": true
+    }
+  ]
+}
